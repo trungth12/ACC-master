@@ -1,0 +1,15 @@
+# Logfile created on 2016-08-30 10:35:01 +0700 by logger.rb/31641
+I, [2016-08-30T10:35:01.160840 #2196]  INFO -- : received: {"to":"hoangtienqt1801t@gmail.com","token":"VC39VTYJ","reason":"reset"} on /topic/hpumail
+I, [2016-08-30T10:35:01.207640 #2196]  INFO -- : sending email to hoangtienqt1801t@gmail.com with token VC39VTYJ with reason reset
+I, [2016-08-30T10:38:38.204021 #2196]  INFO -- : received: {"to":"hoangtienqt1801t@gmail.com","token":"TWFYEPAG","reason":"reset"} on /topic/hpumail
+I, [2016-08-30T10:38:38.204021 #2196]  INFO -- : sending email to hoangtienqt1801t@gmail.com with token TWFYEPAG with reason reset
+I, [2016-08-30T10:42:44.403654 #2196]  INFO -- : received: {"to":"meohapcodon@gmail.com","token":"7YK9HTJQ","reason":"reset"} on /topic/hpumail
+I, [2016-08-30T10:42:44.403654 #2196]  INFO -- : sending email to meohapcodon@gmail.com with token 7YK9HTJQ with reason reset
+I, [2016-08-30T10:59:33.756627 #2196]  INFO -- : received: {"to":"haihoang271296@gmail.com","token":"17be7257e7419962e222053cf1aca8ad","reason":"register"} on /topic/hpumail
+I, [2016-08-30T10:59:33.756627 #2196]  INFO -- : sending email to haihoang271296@gmail.com with token 17be7257e7419962e222053cf1aca8ad with reason register
+I, [2016-08-30T11:24:54.322497 #2196]  INFO -- : received: {"to":"meohapcodon@gmail.com","token":"09101996","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-30T11:24:54.322497 #2196]  INFO -- : sending email to meohapcodon@gmail.com with token 09101996 with reason resetpassword
+I, [2016-08-30T14:09:15.115417 #2196]  INFO -- : received: {"to":"anhnthpu@gmail.com","token":"YCZZ3CTK","reason":"reset"} on /topic/hpumail
+I, [2016-08-30T14:09:15.115417 #2196]  INFO -- : sending email to anhnthpu@gmail.com with token YCZZ3CTK with reason reset
+I, [2016-08-30T14:10:25.643141 #2196]  INFO -- : received: {"to":"anhnthpu@gmail.com","token":"toanhluongcau321","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-30T14:10:25.643141 #2196]  INFO -- : sending email to anhnthpu@gmail.com with token toanhluongcau321 with reason resetpassword

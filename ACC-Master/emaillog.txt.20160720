@@ -1,0 +1,5 @@
+# Logfile created on 2016-07-20 21:44:54 +0700 by logger.rb/31641
+I, [2016-07-20T21:44:54.016198 #1964]  INFO -- : received: {"to":"saobien.5893@gmail.com","token":"4YAK9KKK","reason":"reset"} on /topic/hpumail
+I, [2016-07-20T21:44:54.082202 #1964]  INFO -- : sending email to saobien.5893@gmail.com with token 4YAK9KKK with reason reset
+I, [2016-07-20T22:03:52.399310 #1964]  INFO -- : received: {"to":"saobien.5893@gmail.com","token":"lenhung","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-20T22:03:52.400310 #1964]  INFO -- : sending email to saobien.5893@gmail.com with token lenhung with reason resetpassword

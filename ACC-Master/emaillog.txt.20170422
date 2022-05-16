@@ -1,0 +1,5 @@
+# Logfile created on 2017-04-21 08:20:30 +0700 by logger.rb/31641
+I, [2017-04-21T08:20:30.353220 #2668]  INFO -- : received: {"to":"ngocmai41@gmail.com","token":"YJTNVKPN","reason":"reset"} on /topic/hpumail
+I, [2017-04-21T08:20:30.353220 #2668]  INFO -- : sending email to ngocmai41@gmail.com with token YJTNVKPN with reason reset
+I, [2017-04-21T14:21:52.129302 #2668]  INFO -- : received: {"to":"ngocmai41@gmail.com","token":"phongmai0808","reason":"resetpassword"} on /topic/hpumail
+I, [2017-04-21T14:21:52.129302 #2668]  INFO -- : sending email to ngocmai41@gmail.com with token phongmai0808 with reason resetpassword

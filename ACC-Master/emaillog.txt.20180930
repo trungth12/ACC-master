@@ -1,0 +1,11 @@
+# Logfile created on 2018-09-29 19:28:28 +0700 by logger.rb/31641
+I, [2018-09-29T19:28:28.100784 #1360]  INFO -- : received: {"to":"vietha15111@gmail.com","token":"PHJVP3VA","reason":"reset"} on /topic/hpumail
+I, [2018-09-29T19:28:28.116384 #1360]  INFO -- : sending email to vietha15111@gmail.com with token PHJVP3VA with reason reset
+I, [2018-09-29T19:30:15.023372 #1360]  INFO -- : received: {"to":"vietha15111@gmail.com","token":"MRATZJ6V","reason":"reset"} on /topic/hpumail
+I, [2018-09-29T19:30:15.023372 #1360]  INFO -- : sending email to vietha15111@gmail.com with token MRATZJ6V with reason reset
+I, [2018-09-29T20:42:04.421741 #1360]  INFO -- : received: {"to":"vietha15111@gmail.com","token":"HPC76Y2G","reason":"reset"} on /topic/hpumail
+I, [2018-09-29T20:42:04.421741 #1360]  INFO -- : sending email to vietha15111@gmail.com with token HPC76Y2G with reason reset
+I, [2018-09-29T20:56:17.368839 #1360]  INFO -- : received: {"to":"vietha15111@gmail.com","token":"476TNPNC","reason":"reset"} on /topic/hpumail
+I, [2018-09-29T20:56:17.368839 #1360]  INFO -- : sending email to vietha15111@gmail.com with token 476TNPNC with reason reset
+I, [2018-09-29T21:04:26.648098 #1360]  INFO -- : received: {"to":"vietha15111@gmail.com","token":"hapro321","reason":"resetpassword"} on /topic/hpumail
+I, [2018-09-29T21:04:26.648098 #1360]  INFO -- : sending email to vietha15111@gmail.com with token hapro321 with reason resetpassword

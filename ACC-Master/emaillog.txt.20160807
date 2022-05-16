@@ -1,0 +1,5 @@
+# Logfile created on 2016-08-07 07:22:28 +0700 by logger.rb/31641
+I, [2016-08-07T07:22:28.669292 #2928]  INFO -- : received: {"to":"thaotien2502@gmail.com","token":"GF6NNFTQ","reason":"reset"} on /topic/hpumail
+I, [2016-08-07T07:22:28.729296 #2928]  INFO -- : sending email to thaotien2502@gmail.com with token GF6NNFTQ with reason reset
+I, [2016-08-07T07:24:33.256418 #2928]  INFO -- : received: {"to":"thaotien2502@gmail.com","token":"25021996","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-07T07:24:33.257419 #2928]  INFO -- : sending email to thaotien2502@gmail.com with token 25021996 with reason resetpassword

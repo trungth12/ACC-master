@@ -1,0 +1,7 @@
+# Logfile created on 2017-06-29 16:39:47 +0700 by logger.rb/31641
+I, [2017-06-29T16:39:47.473250 #2712]  INFO -- : received: {"to":"minnitruong@gmail.com","token":"KVM63DJD","reason":"reset"} on /topic/hpumail
+I, [2017-06-29T16:39:47.504450 #2712]  INFO -- : sending email to minnitruong@gmail.com with token KVM63DJD with reason reset
+I, [2017-06-29T16:43:14.953614 #2712]  INFO -- : received: {"to":"phuong.nguyen81096@gmail.com","token":"A373RHEY","reason":"reset"} on /topic/hpumail
+I, [2017-06-29T16:43:14.953614 #2712]  INFO -- : sending email to phuong.nguyen81096@gmail.com with token A373RHEY with reason reset
+I, [2017-06-29T19:43:09.829374 #2712]  INFO -- : received: {"to":"carloskodonnell@my.smccd.edu","token":"7abfe5fc2d0dabebc859ed32dbd3bfdb","reason":"register"} on /topic/hpumail
+I, [2017-06-29T19:43:09.829374 #2712]  INFO -- : sending email to carloskodonnell@my.smccd.edu with token 7abfe5fc2d0dabebc859ed32dbd3bfdb with reason register

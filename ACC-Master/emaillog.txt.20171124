@@ -1,0 +1,9 @@
+# Logfile created on 2017-11-23 14:23:10 +0700 by logger.rb/31641
+I, [2017-11-23T14:23:10.850591 #960]  INFO -- : received: {"to":"phamtronganh15012003@gmail.com","token":"7d3211cc1b85ec715e29c1bab5e19ba2","reason":"register"} on /topic/hpumail
+I, [2017-11-23T14:23:10.912991 #960]  INFO -- : sending email to phamtronganh15012003@gmail.com with token 7d3211cc1b85ec715e29c1bab5e19ba2 with reason register
+I, [2017-11-23T14:26:37.550954 #960]  INFO -- : received: {"to":"nguyenngocmy8910@gmail.com","token":"FJGPDNVX","reason":"reset"} on /topic/hpumail
+I, [2017-11-23T14:26:37.550954 #960]  INFO -- : sending email to nguyenngocmy8910@gmail.com with token FJGPDNVX with reason reset
+I, [2017-11-23T14:31:43.483092 #960]  INFO -- : received: {"to":"nguyenngocmy8910@gmail.com","token":"0963524884","reason":"resetpassword"} on /topic/hpumail
+I, [2017-11-23T14:31:43.483092 #960]  INFO -- : sending email to nguyenngocmy8910@gmail.com with token 0963524884 with reason resetpassword
+I, [2017-11-23T15:18:54.654064 #960]  INFO -- : received: {"to":"khubo123@gmail.com","token":"8e9a43f75c91d49991e87cf409986d72","reason":"register"} on /topic/hpumail
+I, [2017-11-23T15:18:54.654064 #960]  INFO -- : sending email to khubo123@gmail.com with token 8e9a43f75c91d49991e87cf409986d72 with reason register

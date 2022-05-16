@@ -1,0 +1,3 @@
+# Logfile created on 2017-10-27 10:18:24 +0700 by logger.rb/31641
+I, [2017-10-27T10:18:24.977338 #1764]  INFO -- : received: {"to":"minhdc@hpu.edu.vn","token":"9MMZYCZD","reason":"reset"} on /topic/hpumail
+I, [2017-10-27T10:18:24.992938 #1764]  INFO -- : sending email to minhdc@hpu.edu.vn with token 9MMZYCZD with reason reset

@@ -1,0 +1,7 @@
+# Logfile created on 2019-08-05 10:02:20 +0700 by logger.rb/31641
+I, [2019-08-05T10:02:20.102919 #2020]  INFO -- : received: {"to":"ductran2409@gmail.com","token":"VRZVAMDC","reason":"reset"} on /topic/hpumail
+I, [2019-08-05T10:02:26.935731 #2020]  INFO -- : sending email to ductran2409@gmail.com with token VRZVAMDC with reason reset
+I, [2019-08-05T10:11:31.064687 #2020]  INFO -- : received: {"to":"ductran2409@gmail.com","token":"QG93M4W9","reason":"reset"} on /topic/hpumail
+I, [2019-08-05T10:11:31.064687 #2020]  INFO -- : sending email to ductran2409@gmail.com with token QG93M4W9 with reason reset
+I, [2019-08-05T14:20:56.092971 #2020]  INFO -- : received: {"to":"tranquanghp1@gmail.com","token":"W6DDF3VX","reason":"reset"} on /topic/hpumail
+I, [2019-08-05T14:20:56.092971 #2020]  INFO -- : sending email to tranquanghp1@gmail.com with token W6DDF3VX with reason reset

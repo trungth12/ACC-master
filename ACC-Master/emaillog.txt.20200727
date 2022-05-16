@@ -1,0 +1,3 @@
+# Logfile created on 2020-07-27 15:55:19 +0700 by logger.rb/31641
+I, [2020-07-27T15:55:19.077307 #1820]  INFO -- : received: {"to":"thphuc20696@gmail.com","token":"64f0844ff3e239551a4324cea3faf7c2","reason":"register"} on /topic/hpumail
+I, [2020-07-27T15:55:19.092907 #1820]  INFO -- : sending email to thphuc20696@gmail.com with token 64f0844ff3e239551a4324cea3faf7c2 with reason register

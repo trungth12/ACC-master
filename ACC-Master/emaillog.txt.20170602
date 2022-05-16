@@ -1,0 +1,13 @@
+# Logfile created on 2017-06-02 08:44:28 +0700 by logger.rb/31641
+I, [2017-06-02T08:44:28.450062 #2616]  INFO -- : received: {"to":"phamvanhungmt1901@gmail.com","token":"JK9FXYTP","reason":"reset"} on /topic/hpumail
+I, [2017-06-02T08:44:28.496862 #2616]  INFO -- : sending email to phamvanhungmt1901@gmail.com with token JK9FXYTP with reason reset
+I, [2017-06-02T08:47:27.039175 #2616]  INFO -- : received: {"to":"phamvanhungmt1901@gmail.com","token":"01687018987","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-02T08:47:27.039175 #2616]  INFO -- : sending email to phamvanhungmt1901@gmail.com with token 01687018987 with reason resetpassword
+I, [2017-06-02T08:52:16.778484 #2616]  INFO -- : received: {"to":"truongvanha997@gmail.com","token":"VH6VENH6","reason":"reset"} on /topic/hpumail
+I, [2017-06-02T08:52:16.778484 #2616]  INFO -- : sending email to truongvanha997@gmail.com with token VH6VENH6 with reason reset
+I, [2017-06-02T08:56:11.933297 #2616]  INFO -- : received: {"to":"truongvanha997@gmail.com","token":"anhha123","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-02T08:56:11.933297 #2616]  INFO -- : sending email to truongvanha997@gmail.com with token anhha123 with reason resetpassword
+I, [2017-06-02T09:10:37.282417 #2616]  INFO -- : received: {"to":"nguyenphanhangthu93@gmail.com","token":"53dea4e4f2e3959a7d1c12e2afd42a5e","reason":"register"} on /topic/hpumail
+I, [2017-06-02T09:10:37.282417 #2616]  INFO -- : sending email to nguyenphanhangthu93@gmail.com with token 53dea4e4f2e3959a7d1c12e2afd42a5e with reason register
+I, [2017-06-02T09:37:33.320456 #2616]  INFO -- : received: {"to":"duongminhthuy080996@gmail.com","token":"MP4PJR4X","reason":"reset"} on /topic/hpumail
+I, [2017-06-02T09:37:33.320456 #2616]  INFO -- : sending email to duongminhthuy080996@gmail.com with token MP4PJR4X with reason reset

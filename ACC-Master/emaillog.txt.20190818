@@ -1,0 +1,5 @@
+# Logfile created on 2019-08-18 19:46:06 +0700 by logger.rb/31641
+I, [2019-08-18T19:46:06.599639 #2012]  INFO -- : received: {"to":"tuanpa@hpu.edu.vn","token":"7KZH9N92","reason":"reset"} on /topic/hpumail
+I, [2019-08-18T19:46:06.864839 #2012]  INFO -- : sending email to tuanpa@hpu.edu.vn with token 7KZH9N92 with reason reset
+I, [2019-08-18T23:05:38.747067 #2012]  INFO -- : received: {"to":"huonghtt@hpu.edu.vn","token":"QHKWEXRC","reason":"reset"} on /topic/hpumail
+I, [2019-08-18T23:05:38.762667 #2012]  INFO -- : sending email to huonghtt@hpu.edu.vn with token QHKWEXRC with reason reset

@@ -1,0 +1,11 @@
+# Logfile created on 2016-01-23 00:54:38 +0700 by logger.rb/31641
+I, [2016-01-23T00:54:38.285553 #3008]  INFO -- : received: {"to":"vanvan2910@gmail.com","token":"van29101994","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-23T00:54:38.285553 #3008]  INFO -- : sending email to vanvan2910@gmail.com with token van29101994 with reason resetpassword
+I, [2016-01-23T09:16:44.810867 #4592]  INFO -- : received: {"to":"beoxinh0690@gmail.com","token":"4e3012a239c4dbd84bf3b20b8a1ff0c8","reason":"register"} on /topic/hpumail
+I, [2016-01-23T09:16:44.810867 #4592]  INFO -- : sending email to beoxinh0690@gmail.com with token 4e3012a239c4dbd84bf3b20b8a1ff0c8 with reason register
+I, [2016-01-23T09:17:03.889701 #4592]  INFO -- : received: {"to":"luonghaihp88@gmail.com","token":"496edc401639b563eb2ac7a59c68ed56","reason":"register"} on /topic/hpumail
+I, [2016-01-23T09:17:03.889701 #4592]  INFO -- : sending email to luonghaihp88@gmail.com with token 496edc401639b563eb2ac7a59c68ed56 with reason register
+I, [2016-01-23T09:17:54.074989 #4592]  INFO -- : received: {"to":"nguyenhoanglonghpu1@gmail.com","token":"106c277d3eecfee2af9a0bf427ff2a80","reason":"register"} on /topic/hpumail
+I, [2016-01-23T09:17:54.074989 #4592]  INFO -- : sending email to nguyenhoanglonghpu1@gmail.com with token 106c277d3eecfee2af9a0bf427ff2a80 with reason register
+I, [2016-01-23T09:21:31.944971 #4592]  INFO -- : received: {"to":"vuxinh93@gmail.com","token":"4dc3a8593c0bd582032f5b470853c0df","reason":"register"} on /topic/hpumail
+I, [2016-01-23T09:21:31.944971 #4592]  INFO -- : sending email to vuxinh93@gmail.com with token 4dc3a8593c0bd582032f5b470853c0df with reason register

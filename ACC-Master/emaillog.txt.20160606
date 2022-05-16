@@ -1,0 +1,7 @@
+# Logfile created on 2016-06-04 08:32:10 +0700 by logger.rb/31641
+I, [2016-06-04T08:32:10.921198 #4956]  INFO -- : received: {"to":"anhthevodka@gmail.com","token":"YPXE27FM","reason":"reset"} on /topic/hpumail
+I, [2016-06-04T08:32:10.930198 #4956]  INFO -- : sending email to anhthevodka@gmail.com with token YPXE27FM with reason reset
+I, [2016-06-04T08:33:31.204789 #4956]  INFO -- : received: {"to":"anhthevodka@gmail.com","token":"the18071992","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-04T08:33:31.205790 #4956]  INFO -- : sending email to anhthevodka@gmail.com with token the18071992 with reason resetpassword
+I, [2016-06-04T08:34:08.361915 #4956]  INFO -- : received: {"to":"tranthaotrang.0903@gmail.com","token":"the18071992","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-04T08:34:08.362915 #4956]  INFO -- : sending email to tranthaotrang.0903@gmail.com with token the18071992 with reason resetpassword

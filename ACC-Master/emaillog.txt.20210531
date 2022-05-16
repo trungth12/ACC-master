@@ -1,0 +1,5 @@
+# Logfile created on 2021-05-31 09:54:17 +0700 by logger.rb/31641
+I, [2021-05-31T09:54:17.950835 #1508]  INFO -- : received: {"to":"thuct@hpu.edu.vn","token":"ETKWR9VM","reason":"reset"} on /topic/hpumail
+I, [2021-05-31T09:54:17.950835 #1508]  INFO -- : sending email to thuct@hpu.edu.vn with token ETKWR9VM with reason reset
+I, [2021-05-31T09:55:20.448946 #1508]  INFO -- : received: {"to":"thuct@hpu.edu.vn","token":"XQRRTPZX","reason":"reset"} on /topic/hpumail
+I, [2021-05-31T09:55:20.448946 #1508]  INFO -- : sending email to thuct@hpu.edu.vn with token XQRRTPZX with reason reset

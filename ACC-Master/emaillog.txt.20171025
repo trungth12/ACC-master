@@ -1,0 +1,3 @@
+# Logfile created on 2017-10-24 22:53:21 +0700 by logger.rb/31641
+I, [2017-10-24T22:53:21.617082 #1764]  INFO -- : received: {"to":"toandh.thuylinh@gmail.com","token":"CC7QWN4W","reason":"reset"} on /topic/hpumail
+I, [2017-10-24T22:53:21.632683 #1764]  INFO -- : sending email to toandh.thuylinh@gmail.com with token CC7QWN4W with reason reset

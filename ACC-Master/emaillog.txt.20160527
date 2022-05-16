@@ -1,0 +1,17 @@
+# Logfile created on 2016-05-27 11:16:49 +0700 by logger.rb/31641
+I, [2016-05-27T11:16:49.002929 #2828]  INFO -- : received: {"to":"doquangninh9altv@gmail.com","token":"A3A3GNEQ","reason":"reset"} on /topic/hpumail
+I, [2016-05-27T11:16:49.318947 #2828]  INFO -- : sending email to doquangninh9altv@gmail.com with token A3A3GNEQ with reason reset
+I, [2016-05-27T12:05:37.408425 #2828]  INFO -- : received: {"to":"hoa140797@gmail.com","token":"TG9YQ4HF","reason":"reset"} on /topic/hpumail
+I, [2016-05-27T12:05:37.409425 #2828]  INFO -- : sending email to hoa140797@gmail.com with token TG9YQ4HF with reason reset
+I, [2016-05-27T15:12:17.448030 #2828]  INFO -- : received: {"to":"daipham300897@gmail.com","token":"trang174","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-27T15:12:17.449030 #2828]  INFO -- : sending email to daipham300897@gmail.com with token trang174 with reason resetpassword
+I, [2016-05-27T15:55:18.298646 #2828]  INFO -- : received: {"to":"hungbh.hpu@gmail.com","token":"eabea30e78f2072d9d016906d72c85fd","reason":"register"} on /topic/hpumail
+I, [2016-05-27T15:55:18.491657 #2828]  INFO -- : sending email to hungbh.hpu@gmail.com with token eabea30e78f2072d9d016906d72c85fd with reason register
+I, [2016-05-27T21:27:23.081279 #2828]  INFO -- : received: {"to":"sukem.1504@gmail.com","token":"TMJ72PF7","reason":"reset"} on /topic/hpumail
+I, [2016-05-27T21:27:23.082279 #2828]  INFO -- : sending email to sukem.1504@gmail.com with token TMJ72PF7 with reason reset
+I, [2016-05-27T21:35:22.092677 #2828]  INFO -- : received: {"to":"sukem.1504@gmail.com","token":"dieuan1902","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-27T21:35:22.093677 #2828]  INFO -- : sending email to sukem.1504@gmail.com with token dieuan1902 with reason resetpassword
+I, [2016-05-27T22:57:23.866186 #2828]  INFO -- : received: {"to":"i_wanna_be_yourman1@yahoo.com","token":"4HJXQZ4F","reason":"reset"} on /topic/hpumail
+I, [2016-05-27T22:57:23.867186 #2828]  INFO -- : sending email to i_wanna_be_yourman1@yahoo.com with token 4HJXQZ4F with reason reset
+I, [2016-05-27T23:19:46.920004 #2828]  INFO -- : received: {"to":"i_wanna_be_yourman1@yahoo.com","token":"T3Y7HZFQ","reason":"reset"} on /topic/hpumail
+I, [2016-05-27T23:19:46.920004 #2828]  INFO -- : sending email to i_wanna_be_yourman1@yahoo.com with token T3Y7HZFQ with reason reset

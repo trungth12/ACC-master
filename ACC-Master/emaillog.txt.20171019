@@ -1,0 +1,7 @@
+# Logfile created on 2017-10-19 21:56:41 +0700 by logger.rb/31641
+I, [2017-10-19T21:56:41.325766 #1856]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"QWJAVQKE","reason":"reset"} on /topic/hpumail
+I, [2017-10-19T21:56:41.466166 #1856]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token QWJAVQKE with reason reset
+I, [2017-10-19T22:01:54.543116 #1856]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"VFJF6AWV","reason":"reset"} on /topic/hpumail
+I, [2017-10-19T22:01:54.543116 #1856]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token VFJF6AWV with reason reset
+I, [2017-10-19T22:03:13.806855 #1856]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"0902008350","reason":"resetpassword"} on /topic/hpumail
+I, [2017-10-19T22:03:13.853655 #1856]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token 0902008350 with reason resetpassword

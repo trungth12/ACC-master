@@ -1,0 +1,3 @@
+# Logfile created on 2016-06-21 12:34:52 +0700 by logger.rb/31641
+I, [2016-06-21T12:34:51.991110 #2820]  INFO -- : received: {"to":"hoanggiaapk891996@gmail.com","token":"giahoang1","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-21T12:34:52.028112 #2820]  INFO -- : sending email to hoanggiaapk891996@gmail.com with token giahoang1 with reason resetpassword

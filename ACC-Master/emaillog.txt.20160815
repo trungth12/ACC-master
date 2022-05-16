@@ -1,0 +1,5 @@
+# Logfile created on 2016-08-13 21:03:53 +0700 by logger.rb/31641
+I, [2016-08-13T21:03:53.874972 #1476]  INFO -- : received: {"to":"trangtrong3008@gmail.com","token":"RRFY3EKF","reason":"reset"} on /topic/hpumail
+I, [2016-08-13T21:03:53.943976 #1476]  INFO -- : sending email to trangtrong3008@gmail.com with token RRFY3EKF with reason reset
+I, [2016-08-13T21:07:28.911271 #1476]  INFO -- : received: {"to":"trangtrong3008@gmail.com","token":"thuytrang1211","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-13T21:07:28.911271 #1476]  INFO -- : sending email to trangtrong3008@gmail.com with token thuytrang1211 with reason resetpassword

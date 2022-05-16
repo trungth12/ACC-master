@@ -1,0 +1,5 @@
+# Logfile created on 2022-04-02 18:29:11 +0700 by logger.rb/31641
+I, [2022-04-02T18:29:11.350631 #5060]  INFO -- : received: {"to":"bomhai36@gmail.com","token":"de604b05bf7f87712d7a348dca18c55d","reason":"register"} on /topic/hpumail
+I, [2022-04-02T18:29:11.366231 #5060]  INFO -- : sending email to bomhai36@gmail.com with token de604b05bf7f87712d7a348dca18c55d with reason register
+I, [2022-04-02T18:30:52.532408 #5060]  INFO -- : received: {"to":"phonghao357@gmail.com","token":"2J77TT2N","reason":"reset"} on /topic/hpumail
+I, [2022-04-02T18:30:52.532408 #5060]  INFO -- : sending email to phonghao357@gmail.com with token 2J77TT2N with reason reset

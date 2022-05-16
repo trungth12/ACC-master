@@ -1,0 +1,3 @@
+# Logfile created on 2021-01-21 10:58:46 +0700 by logger.rb/31641
+I, [2021-01-21T10:58:46.735988 #1860]  INFO -- : received: {"to":"dunghp031@hpu.edu.vn","token":"7VJ7KAYR","reason":"reset"} on /topic/hpumail
+I, [2021-01-21T10:58:46.751588 #1860]  INFO -- : sending email to dunghp031@hpu.edu.vn with token 7VJ7KAYR with reason reset

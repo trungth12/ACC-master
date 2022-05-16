@@ -1,0 +1,11 @@
+# Logfile created on 2016-11-21 08:11:18 +0700 by logger.rb/31641
+I, [2016-11-21T08:11:18.211878 #2720]  INFO -- : received: {"to":"damlinh2107@gmail.com","token":"b7a7c7733edfbe88de310dc8098f1f35","reason":"register"} on /topic/hpumail
+I, [2016-11-21T08:11:18.336678 #2720]  INFO -- : sending email to damlinh2107@gmail.com with token b7a7c7733edfbe88de310dc8098f1f35 with reason register
+I, [2016-11-21T12:35:55.373765 #2720]  INFO -- : received: {"to":"theanhvotam@gmail.com","token":"AX7TXC27","reason":"reset"} on /topic/hpumail
+I, [2016-11-21T12:35:55.373765 #2720]  INFO -- : sending email to theanhvotam@gmail.com with token AX7TXC27 with reason reset
+I, [2016-11-21T12:38:22.731623 #2720]  INFO -- : received: {"to":"theanhvotam@gmail.com","token":"01632546119","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-21T12:38:22.731623 #2720]  INFO -- : sending email to theanhvotam@gmail.com with token 01632546119 with reason resetpassword
+I, [2016-11-21T15:40:38.834432 #2720]  INFO -- : received: {"to":"anhpohp@gmail.com","token":"ET99D3RY","reason":"reset"} on /topic/hpumail
+I, [2016-11-21T15:40:38.834432 #2720]  INFO -- : sending email to anhpohp@gmail.com with token ET99D3RY with reason reset
+I, [2016-11-21T15:44:25.424830 #2720]  INFO -- : received: {"to":"anhpohp@gmail.com","token":"PMX4729A","reason":"reset"} on /topic/hpumail
+I, [2016-11-21T15:44:25.424830 #2720]  INFO -- : sending email to anhpohp@gmail.com with token PMX4729A with reason reset

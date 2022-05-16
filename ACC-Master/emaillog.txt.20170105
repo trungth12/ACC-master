@@ -1,0 +1,3 @@
+# Logfile created on 2017-01-05 17:33:53 +0700 by logger.rb/31641
+I, [2017-01-05T17:33:53.627060 #2728]  INFO -- : received: {"to":"thuyxd83@gmail.com","token":"KZVX7M6N","reason":"reset"} on /topic/hpumail
+I, [2017-01-05T17:33:53.705060 #2728]  INFO -- : sending email to thuyxd83@gmail.com with token KZVX7M6N with reason reset

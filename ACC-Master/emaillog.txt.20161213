@@ -1,0 +1,11 @@
+# Logfile created on 2016-12-13 09:30:48 +0700 by logger.rb/31641
+I, [2016-12-13T09:30:48.579914 #2688]  INFO -- : received: {"to":"giangle442@gmail.com","token":"WRKHEVHH","reason":"reset"} on /topic/hpumail
+I, [2016-12-13T09:30:48.579914 #2688]  INFO -- : sending email to giangle442@gmail.com with token WRKHEVHH with reason reset
+I, [2016-12-13T09:44:57.564605 #2688]  INFO -- : received: {"to":"tieuyentu92@gmail.com","token":"YJZV76NM","reason":"reset"} on /topic/hpumail
+I, [2016-12-13T09:44:57.580205 #2688]  INFO -- : sending email to tieuyentu92@gmail.com with token YJZV76NM with reason reset
+I, [2016-12-13T15:40:56.373320 #2688]  INFO -- : received: {"to":"asurahahaha2468@gmail.com","token":"9MAKZHX3","reason":"reset"} on /topic/hpumail
+I, [2016-12-13T15:40:56.373320 #2688]  INFO -- : sending email to asurahahaha2468@gmail.com with token 9MAKZHX3 with reason reset
+I, [2016-12-13T16:30:14.388115 #2688]  INFO -- : received: {"to":"nocrry96@gmail.com","token":"92FKQPVW","reason":"reset"} on /topic/hpumail
+I, [2016-12-13T16:30:14.388115 #2688]  INFO -- : sending email to nocrry96@gmail.com with token 92FKQPVW with reason reset
+I, [2016-12-13T18:32:33.514606 #2688]  INFO -- : received: {"to":"phamkimanh13091993@gmail.com","token":"9MHXA6FX","reason":"reset"} on /topic/hpumail
+I, [2016-12-13T18:32:33.514606 #2688]  INFO -- : sending email to phamkimanh13091993@gmail.com with token 9MHXA6FX with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2017-11-07 18:08:59 +0700 by logger.rb/31641
+I, [2017-11-07T18:08:58.945443 #976]  INFO -- : received: {"to":"trung.qt1805k.1995@gmail.com","token":"PCCHDPZM","reason":"reset"} on /topic/hpumail
+I, [2017-11-07T18:08:59.085843 #976]  INFO -- : sending email to trung.qt1805k.1995@gmail.com with token PCCHDPZM with reason reset

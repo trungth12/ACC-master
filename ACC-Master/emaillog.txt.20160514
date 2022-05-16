@@ -1,0 +1,7 @@
+# Logfile created on 2016-05-14 19:36:09 +0700 by logger.rb/31641
+I, [2016-05-14T19:36:09.243036 #2012]  INFO -- : received: {"to":"lazyguy669@gmail.com","token":"7GY3XFR9","reason":"reset"} on /topic/hpumail
+I, [2016-05-14T19:36:09.251037 #2012]  INFO -- : sending email to lazyguy669@gmail.com with token 7GY3XFR9 with reason reset
+I, [2016-05-14T19:38:36.205442 #2012]  INFO -- : received: {"to":"lazyguy669@gmail.com","token":"0968882203","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-14T19:38:36.206442 #2012]  INFO -- : sending email to lazyguy669@gmail.com with token 0968882203 with reason resetpassword
+I, [2016-05-14T21:12:16.996933 #2012]  INFO -- : received: {"to":"hoaminh0312@gmail.com","token":"9VW4V7TV","reason":"reset"} on /topic/hpumail
+I, [2016-05-14T21:12:16.997933 #2012]  INFO -- : sending email to hoaminh0312@gmail.com with token 9VW4V7TV with reason reset

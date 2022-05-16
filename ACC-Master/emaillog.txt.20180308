@@ -1,0 +1,7 @@
+# Logfile created on 2018-03-08 10:55:45 +0700 by logger.rb/31641
+I, [2018-03-08T10:55:45.019620 #1788]  INFO -- : received: {"to":"quynhmaimilk@gmail.com","token":"6T6EGGHC","reason":"reset"} on /topic/hpumail
+I, [2018-03-08T10:55:45.035220 #1788]  INFO -- : sending email to quynhmaimilk@gmail.com with token 6T6EGGHC with reason reset
+I, [2018-03-08T14:48:18.386128 #1788]  INFO -- : received: {"to":"hieuchiemna1801@gmail.com","token":"D9EVD99W","reason":"reset"} on /topic/hpumail
+I, [2018-03-08T14:48:18.386128 #1788]  INFO -- : sending email to hieuchiemna1801@gmail.com with token D9EVD99W with reason reset
+I, [2018-03-08T21:34:04.225689 #1788]  INFO -- : received: {"to":"nguyenvuong2594@gmail.com","token":"DV4YAPZG","reason":"reset"} on /topic/hpumail
+I, [2018-03-08T21:34:04.225689 #1788]  INFO -- : sending email to nguyenvuong2594@gmail.com with token DV4YAPZG with reason reset

@@ -1,0 +1,9 @@
+# Logfile created on 2016-06-03 07:41:27 +0700 by logger.rb/31641
+I, [2016-06-03T07:41:27.885349 #4956]  INFO -- : received: {"to":"qt250895@gmail.com","token":"426F93EM","reason":"reset"} on /topic/hpumail
+I, [2016-06-03T07:41:27.936351 #4956]  INFO -- : sending email to qt250895@gmail.com with token 426F93EM with reason reset
+I, [2016-06-03T07:42:49.979044 #4956]  INFO -- : received: {"to":"qt250895@gmail.com","token":"rrttyyff","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-03T07:42:49.980044 #4956]  INFO -- : sending email to qt250895@gmail.com with token rrttyyff with reason resetpassword
+I, [2016-06-03T11:43:53.647319 #4956]  INFO -- : received: {"to":"kimdong1911nguyen@gmail.com","token":"VTFFKJ9D","reason":"reset"} on /topic/hpumail
+I, [2016-06-03T11:43:53.648319 #4956]  INFO -- : sending email to kimdong1911nguyen@gmail.com with token VTFFKJ9D with reason reset
+I, [2016-06-03T16:10:43.721042 #4956]  INFO -- : received: {"to":"vipboysanhdieu@gmail.com","token":"4TFXYMG4","reason":"reset"} on /topic/hpumail
+I, [2016-06-03T16:10:43.722042 #4956]  INFO -- : sending email to vipboysanhdieu@gmail.com with token 4TFXYMG4 with reason reset

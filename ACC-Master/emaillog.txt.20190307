@@ -1,0 +1,3 @@
+# Logfile created on 2019-03-06 15:31:33 +0700 by logger.rb/31641
+I, [2019-03-06T15:31:33.937750 #1848]  INFO -- : received: {"to":"vipboysanhdieu@gmail.com","token":"AHZM9R4P","reason":"reset"} on /topic/hpumail
+I, [2019-03-06T15:31:33.953350 #1848]  INFO -- : sending email to vipboysanhdieu@gmail.com with token AHZM9R4P with reason reset

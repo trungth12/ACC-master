@@ -1,0 +1,7 @@
+# Logfile created on 2017-12-09 19:44:01 +0700 by logger.rb/31641
+I, [2017-12-09T19:44:01.892278 #1104]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"DW2ATMYV","reason":"reset"} on /topic/hpumail
+I, [2017-12-09T19:44:01.907878 #1104]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token DW2ATMYV with reason reset
+I, [2017-12-09T19:45:14.136005 #1104]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"manhho10","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-09T19:45:14.136005 #1104]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token manhho10 with reason resetpassword
+I, [2017-12-09T23:05:45.001936 #1104]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"7GZGV6MY","reason":"reset"} on /topic/hpumail
+I, [2017-12-09T23:05:45.001936 #1104]  INFO -- : sending email to covaokhong1981@gmail.com with token 7GZGV6MY with reason reset

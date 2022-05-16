@@ -1,0 +1,3 @@
+# Logfile created on 2017-12-31 03:08:28 +0700 by logger.rb/31641
+I, [2017-12-31T03:08:28.797022 #1876]  INFO -- : received: {"to":"duongdangtuananh8993@gmail.com","token":"9KZ7DTHF","reason":"reset"} on /topic/hpumail
+I, [2017-12-31T03:08:28.812622 #1876]  INFO -- : sending email to duongdangtuananh8993@gmail.com with token 9KZ7DTHF with reason reset

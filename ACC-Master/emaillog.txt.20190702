@@ -1,0 +1,9 @@
+# Logfile created on 2019-07-02 08:08:26 +0700 by logger.rb/31641
+I, [2019-07-02T08:08:26.403539 #1176]  INFO -- : received: {"to":"lazyguy669@gmail.com","token":"9GVHGYT4","reason":"reset"} on /topic/hpumail
+I, [2019-07-02T08:08:26.481539 #1176]  INFO -- : sending email to lazyguy669@gmail.com with token 9GVHGYT4 with reason reset
+I, [2019-07-02T09:08:31.281730 #1176]  INFO -- : received: {"to":"leminh05121996@gmail.com","token":"WPNXZVCE","reason":"reset"} on /topic/hpumail
+I, [2019-07-02T09:08:31.281730 #1176]  INFO -- : sending email to leminh05121996@gmail.com with token WPNXZVCE with reason reset
+I, [2019-07-02T14:56:06.616088 #1176]  INFO -- : received: {"to":"namlunmario.208@gmail.com","token":"TWKFRT73","reason":"reset"} on /topic/hpumail
+I, [2019-07-02T14:56:06.616088 #1176]  INFO -- : sending email to namlunmario.208@gmail.com with token TWKFRT73 with reason reset
+I, [2019-07-02T15:08:39.775040 #1176]  INFO -- : received: {"to":"namlunmario.208@gmail.com","token":"ngocanh208","reason":"resetpassword"} on /topic/hpumail
+I, [2019-07-02T15:08:39.790640 #1176]  INFO -- : sending email to namlunmario.208@gmail.com with token ngocanh208 with reason resetpassword

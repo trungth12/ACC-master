@@ -1,0 +1,13 @@
+# Logfile created on 2018-06-06 10:26:10 +0700 by logger.rb/31641
+I, [2018-06-06T10:26:10.296400 #1464]  INFO -- : received: {"to":"quan12021994@gmail.com","token":"R2J92XTE","reason":"reset"} on /topic/hpumail
+I, [2018-06-06T10:26:10.312000 #1464]  INFO -- : sending email to quan12021994@gmail.com with token R2J92XTE with reason reset
+I, [2018-06-06T10:28:00.245394 #1464]  INFO -- : received: {"to":"quan12021994@gmail.com","token":"friendly1202","reason":"resetpassword"} on /topic/hpumail
+I, [2018-06-06T10:28:00.245394 #1464]  INFO -- : sending email to quan12021994@gmail.com with token friendly1202 with reason resetpassword
+I, [2018-06-06T10:32:33.074273 #1464]  INFO -- : received: {"to":"thehp9@gmail.com","token":"WRPGJE42","reason":"reset"} on /topic/hpumail
+I, [2018-06-06T10:32:33.074273 #1464]  INFO -- : sending email to thehp9@gmail.com with token WRPGJE42 with reason reset
+I, [2018-06-06T11:01:47.500154 #1464]  INFO -- : received: {"to":"tranthiduyenhp94@gmail.com","token":"2ZCGWJK7","reason":"reset"} on /topic/hpumail
+I, [2018-06-06T11:01:47.500154 #1464]  INFO -- : sending email to tranthiduyenhp94@gmail.com with token 2ZCGWJK7 with reason reset
+I, [2018-06-06T11:05:11.720113 #1464]  INFO -- : received: {"to":"tranthiduyenhp94@gmail.com","token":"09070910","reason":"resetpassword"} on /topic/hpumail
+I, [2018-06-06T11:05:11.720113 #1464]  INFO -- : sending email to tranthiduyenhp94@gmail.com with token 09070910 with reason resetpassword
+I, [2018-06-06T15:15:11.318058 #1464]  INFO -- : received: {"to":"vutuanthanh789@gmail.com","token":"PX7KWQJD","reason":"reset"} on /topic/hpumail
+I, [2018-06-06T15:15:11.318058 #1464]  INFO -- : sending email to vutuanthanh789@gmail.com with token PX7KWQJD with reason reset

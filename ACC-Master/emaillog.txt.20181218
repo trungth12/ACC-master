@@ -1,0 +1,13 @@
+# Logfile created on 2018-12-17 08:36:13 +0700 by logger.rb/31641
+I, [2018-12-17T08:36:13.699251 #2040]  INFO -- : received: {"to":"uyen.kahp@gmail.com","token":"9XMFXYVD","reason":"reset"} on /topic/hpumail
+I, [2018-12-17T08:36:13.870851 #2040]  INFO -- : sending email to uyen.kahp@gmail.com with token 9XMFXYVD with reason reset
+I, [2018-12-17T08:39:16.063571 #2040]  INFO -- : received: {"to":"uyen.kahp@gmail.com","token":"1412751106U","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-17T08:39:16.172771 #2040]  INFO -- : sending email to uyen.kahp@gmail.com with token 1412751106U with reason resetpassword
+I, [2018-12-17T14:19:45.079453 #2040]  INFO -- : received: {"to":"dangkyhpu1996@gmail.com","token":"JCEMMW34","reason":"reset"} on /topic/hpumail
+I, [2018-12-17T14:19:45.079453 #2040]  INFO -- : sending email to dangkyhpu1996@gmail.com with token JCEMMW34 with reason reset
+I, [2018-12-17T14:23:32.527852 #2040]  INFO -- : received: {"to":"dangkyhpu1996@gmail.com","token":"64EAJKV4","reason":"reset"} on /topic/hpumail
+I, [2018-12-17T14:23:32.527852 #2040]  INFO -- : sending email to dangkyhpu1996@gmail.com with token 64EAJKV4 with reason reset
+I, [2018-12-17T14:25:14.754832 #2040]  INFO -- : received: {"to":"dangkihpu1996@gmail.com","token":"YN7RFF32","reason":"reset"} on /topic/hpumail
+I, [2018-12-17T14:25:14.770432 #2040]  INFO -- : sending email to dangkihpu1996@gmail.com with token YN7RFF32 with reason reset
+I, [2018-12-17T14:26:42.598586 #2040]  INFO -- : received: {"to":"dangkihpu1996@gmail.com","token":"1412102027","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-17T14:26:42.598586 #2040]  INFO -- : sending email to dangkihpu1996@gmail.com with token 1412102027 with reason resetpassword

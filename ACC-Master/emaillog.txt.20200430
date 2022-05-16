@@ -1,0 +1,3 @@
+# Logfile created on 2020-04-30 21:41:38 +0700 by logger.rb/31641
+I, [2020-04-30T21:41:38.220729 #1824]  INFO -- : received: {"to":"oanhbtk@hpu.edu.vn","token":"EPHXJ4FH","reason":"reset"} on /topic/hpumail
+I, [2020-04-30T21:41:38.236329 #1824]  INFO -- : sending email to oanhbtk@hpu.edu.vn with token EPHXJ4FH with reason reset

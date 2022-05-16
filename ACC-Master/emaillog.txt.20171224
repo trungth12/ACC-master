@@ -1,0 +1,3 @@
+# Logfile created on 2017-12-24 19:32:10 +0700 by logger.rb/31641
+I, [2017-12-24T19:32:10.645131 #1876]  INFO -- : received: {"to":"thuycai.qt1805k@gmail.com","token":"239HTT23","reason":"reset"} on /topic/hpumail
+I, [2017-12-24T19:32:10.660731 #1876]  INFO -- : sending email to thuycai.qt1805k@gmail.com with token 239HTT23 with reason reset

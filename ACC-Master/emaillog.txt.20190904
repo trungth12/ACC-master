@@ -1,0 +1,7 @@
+# Logfile created on 2019-09-04 09:06:24 +0700 by logger.rb/31641
+I, [2019-09-04T09:06:24.138650 #2196]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"JN974JJA","reason":"reset"} on /topic/hpumail
+I, [2019-09-04T09:06:24.138650 #2196]  INFO -- : sending email to vandt@hpu.edu.vn with token JN974JJA with reason reset
+I, [2019-09-04T09:21:45.856281 #2196]  INFO -- : received: {"to":"thuyptm@hpu.edu.vn","token":"YTDRED6Z","reason":"reset"} on /topic/hpumail
+I, [2019-09-04T09:21:45.856281 #2196]  INFO -- : sending email to thuyptm@hpu.edu.vn with token YTDRED6Z with reason reset
+I, [2019-09-04T09:27:02.490041 #2196]  INFO -- : received: {"to":"thuyptm@hpu.edu.vn","token":"16051976","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-04T09:27:02.490041 #2196]  INFO -- : sending email to thuyptm@hpu.edu.vn with token 16051976 with reason resetpassword

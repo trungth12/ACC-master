@@ -1,0 +1,7 @@
+# Logfile created on 2016-11-24 09:38:18 +0700 by logger.rb/31641
+I, [2016-11-24T09:38:18.598308 #2720]  INFO -- : received: {"to":"bunhjx1995@gmail.com","token":"123123hh","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-24T09:38:18.691908 #2720]  INFO -- : sending email to bunhjx1995@gmail.com with token 123123hh with reason resetpassword
+I, [2016-11-24T14:57:25.198337 #2720]  INFO -- : received: {"to":"tunglesemco@gmail.com","token":"2ee7f064b37dbd69f3ae3e0be7c43e4e","reason":"register"} on /topic/hpumail
+I, [2016-11-24T14:57:25.198337 #2720]  INFO -- : sending email to tunglesemco@gmail.com with token 2ee7f064b37dbd69f3ae3e0be7c43e4e with reason register
+I, [2016-11-24T15:01:04.378722 #2720]  INFO -- : received: {"to":"vutronghieuhp2016@gmail.com","token":"04e5cdd2ce8cb530c0ab7bfb7e9f1b83","reason":"register"} on /topic/hpumail
+I, [2016-11-24T15:01:04.378722 #2720]  INFO -- : sending email to vutronghieuhp2016@gmail.com with token 04e5cdd2ce8cb530c0ab7bfb7e9f1b83 with reason register

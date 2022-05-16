@@ -1,0 +1,5 @@
+# Logfile created on 2017-01-29 14:06:01 +0700 by logger.rb/31641
+I, [2017-01-29T14:06:01.478194 #2660]  INFO -- : received: {"to":"tranduyhai246@gmail.com","token":"394JD9MM","reason":"reset"} on /topic/hpumail
+I, [2017-01-29T14:06:01.493794 #2660]  INFO -- : sending email to tranduyhai246@gmail.com with token 394JD9MM with reason reset
+I, [2017-01-29T14:09:46.555389 #2660]  INFO -- : received: {"to":"tranduyhai246@gmail.com","token":"qwevqdf4","reason":"resetpassword"} on /topic/hpumail
+I, [2017-01-29T14:09:46.555389 #2660]  INFO -- : sending email to tranduyhai246@gmail.com with token qwevqdf4 with reason resetpassword

@@ -1,0 +1,7 @@
+# Logfile created on 2019-09-18 10:15:52 +0700 by logger.rb/31641
+I, [2019-09-18T10:15:52.868630 #1456]  INFO -- : received: {"to":"huongdtl@hou.edu.vn","token":"7da1d0280b5ee052851aad8717ca9bcf","reason":"register"} on /topic/hpumail
+I, [2019-09-18T10:15:52.884230 #1456]  INFO -- : sending email to huongdtl@hou.edu.vn with token 7da1d0280b5ee052851aad8717ca9bcf with reason register
+I, [2019-09-18T10:45:52.799791 #1456]  INFO -- : received: {"to":"ducanh.hpu@gmail.com","token":"3GG3GX74","reason":"reset"} on /topic/hpumail
+I, [2019-09-18T10:45:52.799791 #1456]  INFO -- : sending email to ducanh.hpu@gmail.com with token 3GG3GX74 with reason reset
+I, [2019-09-18T10:47:05.105918 #1456]  INFO -- : received: {"to":"ducanh.hpu@gmail.com","token":"dan123","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-18T10:47:05.105918 #1456]  INFO -- : sending email to ducanh.hpu@gmail.com with token dan123 with reason resetpassword

@@ -1,0 +1,5 @@
+# Logfile created on 2016-09-30 09:13:29 +0700 by logger.rb/31641
+I, [2016-09-30T09:13:29.000506 #2428]  INFO -- : received: {"to":"tung52qnhp@gmail.com","token":"JPTYR4AT","reason":"reset"} on /topic/hpumail
+I, [2016-09-30T09:13:29.016106 #2428]  INFO -- : sending email to tung52qnhp@gmail.com with token JPTYR4AT with reason reset
+I, [2016-09-30T14:32:07.692086 #2428]  INFO -- : received: {"to":"lehoaithu200290@gmail.com","token":"e5df2878fcd2838b3b413b9b85666953","reason":"register"} on /topic/hpumail
+I, [2016-09-30T14:32:07.692086 #2428]  INFO -- : sending email to lehoaithu200290@gmail.com with token e5df2878fcd2838b3b413b9b85666953 with reason register

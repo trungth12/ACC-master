@@ -1,0 +1,5 @@
+# Logfile created on 2021-10-13 17:17:44 +0700 by logger.rb/31641
+I, [2021-10-13T17:17:44.630769 #59244]  INFO -- : received: {"to":"tungcanbo@gmail.com","token":"942W4AHC","reason":"reset"} on /topic/hpumail
+I, [2021-10-13T17:17:44.646369 #59244]  INFO -- : sending email to tungcanbo@gmail.com with token 942W4AHC with reason reset
+I, [2021-10-13T17:20:11.225736 #59244]  INFO -- : received: {"to":"tungcanbo@gmail.com","token":"27071992","reason":"resetpassword"} on /topic/hpumail
+I, [2021-10-13T17:20:11.225736 #59244]  INFO -- : sending email to tungcanbo@gmail.com with token 27071992 with reason resetpassword

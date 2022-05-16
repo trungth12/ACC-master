@@ -1,0 +1,11 @@
+# Logfile created on 2020-03-03 09:18:35 +0700 by logger.rb/31641
+I, [2020-03-03T09:18:35.862272 #1808]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"64VDJH74","reason":"reset"} on /topic/hpumail
+I, [2020-03-03T09:18:35.862272 #1808]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token 64VDJH74 with reason reset
+I, [2020-03-03T09:19:23.816756 #1808]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"KD9QEYVE","reason":"reset"} on /topic/hpumail
+I, [2020-03-03T09:19:23.816756 #1808]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token KD9QEYVE with reason reset
+I, [2020-03-03T09:20:22.644460 #1808]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"AR9QR2TR","reason":"reset"} on /topic/hpumail
+I, [2020-03-03T09:20:22.644460 #1808]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token AR9QR2TR with reason reset
+I, [2020-03-03T09:48:58.694274 #1808]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"CAQJZT4H","reason":"reset"} on /topic/hpumail
+I, [2020-03-03T09:48:58.694274 #1808]  INFO -- : sending email to vandt@hpu.edu.vn with token CAQJZT4H with reason reset
+I, [2020-03-03T17:44:03.214768 #1808]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"J6WX49FH","reason":"reset"} on /topic/hpumail
+I, [2020-03-03T17:44:03.214768 #1808]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token J6WX49FH with reason reset

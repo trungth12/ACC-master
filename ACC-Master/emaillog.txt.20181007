@@ -1,0 +1,11 @@
+# Logfile created on 2018-10-04 08:48:34 +0700 by logger.rb/31641
+I, [2018-10-04T08:48:34.667486 #1360]  INFO -- : received: {"to":"quynhanh9986@gmail.com","token":"RFPKPXVH","reason":"reset"} on /topic/hpumail
+I, [2018-10-04T08:48:34.761086 #1360]  INFO -- : sending email to quynhanh9986@gmail.com with token RFPKPXVH with reason reset
+I, [2018-10-04T08:50:42.962111 #1360]  INFO -- : received: {"to":"quynhanh9986@gmail.com","token":"thangchin","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-04T08:50:42.977711 #1360]  INFO -- : sending email to quynhanh9986@gmail.com with token thangchin with reason resetpassword
+I, [2018-10-04T10:09:29.661213 #1360]  INFO -- : received: {"to":"tranmyle2497@gmail.com","token":"ZDDTPJYT","reason":"reset"} on /topic/hpumail
+I, [2018-10-04T10:09:29.661213 #1360]  INFO -- : sending email to tranmyle2497@gmail.com with token ZDDTPJYT with reason reset
+I, [2018-10-04T10:24:25.991987 #1360]  INFO -- : received: {"to":"tranmyle2497@gmail.com","token":"DFH9YDRH","reason":"reset"} on /topic/hpumail
+I, [2018-10-04T10:24:25.991987 #1360]  INFO -- : sending email to tranmyle2497@gmail.com with token DFH9YDRH with reason reset
+I, [2018-10-04T10:29:25.824514 #1360]  INFO -- : received: {"to":"doanthokthp@gmail.com","token":"03121997","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-04T10:29:25.824514 #1360]  INFO -- : sending email to doanthokthp@gmail.com with token 03121997 with reason resetpassword

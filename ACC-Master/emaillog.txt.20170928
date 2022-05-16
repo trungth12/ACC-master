@@ -1,0 +1,7 @@
+# Logfile created on 2017-09-18 09:39:40 +0700 by logger.rb/31641
+I, [2017-09-18T09:39:40.797953 #2180]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"EXMD9HMY","reason":"reset"} on /topic/hpumail
+I, [2017-09-18T09:39:40.875953 #2180]  INFO -- : sending email to covaokhong1981@gmail.com with token EXMD9HMY with reason reset
+I, [2017-09-18T16:04:55.561352 #2180]  INFO -- : received: {"to":"vietthinhhdv@gmail.com","token":"QZAHC9YZ","reason":"reset"} on /topic/hpumail
+I, [2017-09-18T16:04:55.561352 #2180]  INFO -- : sending email to vietthinhhdv@gmail.com with token QZAHC9YZ with reason reset
+I, [2017-09-18T16:08:29.281727 #2180]  INFO -- : received: {"to":"vietthinhhdv@gmail.com","token":"cklldbttnt","reason":"resetpassword"} on /topic/hpumail
+I, [2017-09-18T16:08:29.281727 #2180]  INFO -- : sending email to vietthinhhdv@gmail.com with token cklldbttnt with reason resetpassword

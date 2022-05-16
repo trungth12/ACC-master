@@ -1,0 +1,3 @@
+# Logfile created on 2016-04-27 15:13:45 +0700 by logger.rb/31641
+I, [2016-04-27T15:13:45.663080 #2928]  INFO -- : received: {"to":"minnitruong@gmail.com","token":"4NKNWQVV","reason":"reset"} on /topic/hpumail
+I, [2016-04-27T15:13:45.720083 #2928]  INFO -- : sending email to minnitruong@gmail.com with token 4NKNWQVV with reason reset

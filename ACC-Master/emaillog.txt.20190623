@@ -1,0 +1,7 @@
+# Logfile created on 2019-06-23 19:42:12 +0700 by logger.rb/31641
+I, [2019-06-23T19:42:12.183553 #2012]  INFO -- : received: {"to":"anhnguyen.4596@gmail.com","token":"ZAWYD7ZW","reason":"reset"} on /topic/hpumail
+I, [2019-06-23T19:42:12.199153 #2012]  INFO -- : sending email to anhnguyen.4596@gmail.com with token ZAWYD7ZW with reason reset
+I, [2019-06-23T19:44:09.214958 #2012]  INFO -- : received: {"to":"anhnguyen.4596@gmail.com","token":"P6QFFZVQ","reason":"reset"} on /topic/hpumail
+I, [2019-06-23T19:44:09.214958 #2012]  INFO -- : sending email to anhnguyen.4596@gmail.com with token P6QFFZVQ with reason reset
+I, [2019-06-23T19:48:48.580249 #2012]  INFO -- : received: {"to":"anhnguyen.4596@gmail.com","token":"quynhanhdlhp123","reason":"resetpassword"} on /topic/hpumail
+I, [2019-06-23T19:48:48.580249 #2012]  INFO -- : sending email to anhnguyen.4596@gmail.com with token quynhanhdlhp123 with reason resetpassword

@@ -1,0 +1,3 @@
+# Logfile created on 2016-05-13 14:35:32 +0700 by logger.rb/31641
+I, [2016-05-13T14:35:31.993567 #2012]  INFO -- : received: {"to":"kieuoanhlecp@gmail.com","token":"EKCAC2ZK","reason":"reset"} on /topic/hpumail
+I, [2016-05-13T14:35:32.060571 #2012]  INFO -- : sending email to kieuoanhlecp@gmail.com with token EKCAC2ZK with reason reset

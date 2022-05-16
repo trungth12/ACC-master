@@ -1,0 +1,11 @@
+# Logfile created on 2021-01-26 09:36:45 +0700 by logger.rb/31641
+I, [2021-01-26T09:36:45.162942 #1852]  INFO -- : received: {"to":"hoangminhhahp@hpu.edu.vn","token":"WR3ARYND","reason":"reset"} on /topic/hpumail
+I, [2021-01-26T09:36:45.162942 #1852]  INFO -- : sending email to hoangminhhahp@hpu.edu.vn with token WR3ARYND with reason reset
+I, [2021-01-26T09:41:24.153832 #1852]  INFO -- : received: {"to":"hoangminhhahp@hpu.edu.vn","token":"hahtm130180","reason":"resetpassword"} on /topic/hpumail
+I, [2021-01-26T09:41:24.169432 #1852]  INFO -- : sending email to hoangminhhahp@hpu.edu.vn with token hahtm130180 with reason resetpassword
+I, [2021-01-26T10:11:08.484966 #1852]  INFO -- : received: {"to":"vananh@hpu.edu.vn","token":"JFCHQRPY","reason":"reset"} on /topic/hpumail
+I, [2021-01-26T10:11:08.484966 #1852]  INFO -- : sending email to vananh@hpu.edu.vn with token JFCHQRPY with reason reset
+I, [2021-01-26T10:14:34.264928 #1852]  INFO -- : received: {"to":"vananh@hpu.edu.vn","token":"trucanh2004","reason":"resetpassword"} on /topic/hpumail
+I, [2021-01-26T10:14:34.264928 #1852]  INFO -- : sending email to vananh@hpu.edu.vn with token trucanh2004 with reason resetpassword
+I, [2021-01-26T15:13:30.037630 #1852]  INFO -- : received: {"to":"hungnq@hpu.edu.vn","token":"XETHKA2D","reason":"reset"} on /topic/hpumail
+I, [2021-01-26T15:13:30.053230 #1852]  INFO -- : sending email to hungnq@hpu.edu.vn with token XETHKA2D with reason reset

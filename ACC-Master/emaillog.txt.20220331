@@ -1,0 +1,7 @@
+# Logfile created on 2022-03-31 07:52:47 +0700 by logger.rb/31641
+I, [2022-03-31T07:52:47.730332 #5060]  INFO -- : received: {"to":"minhquang22599@gmail.com","token":"9A6MTWN7","reason":"reset"} on /topic/hpumail
+I, [2022-03-31T07:52:47.761532 #5060]  INFO -- : sending email to minhquang22599@gmail.com with token 9A6MTWN7 with reason reset
+I, [2022-03-31T10:01:45.645879 #5060]  INFO -- : received: {"to":"datnguyen221019@gmail.com","token":"fdf63f8166c52d77ea551691e5255324","reason":"register"} on /topic/hpumail
+I, [2022-03-31T10:01:45.645879 #5060]  INFO -- : sending email to datnguyen221019@gmail.com with token fdf63f8166c52d77ea551691e5255324 with reason register
+I, [2022-03-31T11:12:00.501463 #5060]  INFO -- : received: {"to":"minhquang22599@gmail.com","token":"Quang22051999","reason":"resetpassword"} on /topic/hpumail
+I, [2022-03-31T11:12:00.502463 #5060]  INFO -- : sending email to minhquang22599@gmail.com with token Quang22051999 with reason resetpassword

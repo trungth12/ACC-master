@@ -1,0 +1,11 @@
+# Logfile created on 2018-09-06 14:07:23 +0700 by logger.rb/31641
+I, [2018-09-06T14:07:23.278343 #2156]  INFO -- : received: {"to":"ngothixuan167@gmail.com","token":"JVEH42ZY","reason":"reset"} on /topic/hpumail
+I, [2018-09-06T14:07:23.340743 #2156]  INFO -- : sending email to ngothixuan167@gmail.com with token JVEH42ZY with reason reset
+I, [2018-09-06T14:09:05.817323 #2156]  INFO -- : received: {"to":"buitranthaouyen@gmail.com","token":"TFZPVJY6","reason":"reset"} on /topic/hpumail
+I, [2018-09-06T14:09:05.817323 #2156]  INFO -- : sending email to buitranthaouyen@gmail.com with token TFZPVJY6 with reason reset
+I, [2018-09-06T14:09:55.877811 #2156]  INFO -- : received: {"to":"ca.xjnh97@gmail.com","token":"XPJ6CQDJ","reason":"reset"} on /topic/hpumail
+I, [2018-09-06T14:09:55.877811 #2156]  INFO -- : sending email to ca.xjnh97@gmail.com with token XPJ6CQDJ with reason reset
+I, [2018-09-06T14:54:10.659274 #2156]  INFO -- : received: {"to":"anhtuyet1997hp@gmail.com","token":"AFHGP4ME","reason":"reset"} on /topic/hpumail
+I, [2018-09-06T14:54:10.659274 #2156]  INFO -- : sending email to anhtuyet1997hp@gmail.com with token AFHGP4ME with reason reset
+I, [2018-09-06T15:05:34.720476 #2156]  INFO -- : received: {"to":"ngothixuan167@gmail.com","token":"1512601020","reason":"resetpassword"} on /topic/hpumail
+I, [2018-09-06T15:05:34.720476 #2156]  INFO -- : sending email to ngothixuan167@gmail.com with token 1512601020 with reason resetpassword

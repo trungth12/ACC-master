@@ -1,0 +1,9 @@
+# Logfile created on 2019-02-25 10:05:44 +0700 by logger.rb/31641
+I, [2019-02-25T10:05:44.472685 #1848]  INFO -- : received: {"to":"minhquang22599@gmail.com","token":"3ZFVYEGF","reason":"reset"} on /topic/hpumail
+I, [2019-02-25T10:05:44.503885 #1848]  INFO -- : sending email to minhquang22599@gmail.com with token 3ZFVYEGF with reason reset
+I, [2019-02-25T10:06:32.177568 #1848]  INFO -- : received: {"to":"thehiep9so6@gmail.com","token":"J4K43JTR","reason":"reset"} on /topic/hpumail
+I, [2019-02-25T10:06:32.177568 #1848]  INFO -- : sending email to thehiep9so6@gmail.com with token J4K43JTR with reason reset
+I, [2019-02-25T10:06:45.484392 #1848]  INFO -- : received: {"to":"minhquang22599@gmail.com","token":"MinhQuang01222216393","reason":"resetpassword"} on /topic/hpumail
+I, [2019-02-25T10:06:45.484392 #1848]  INFO -- : sending email to minhquang22599@gmail.com with token MinhQuang01222216393 with reason resetpassword
+I, [2019-02-25T10:08:47.055405 #1848]  INFO -- : received: {"to":"thehiep9so6@gmail.com","token":"bohiephp99","reason":"resetpassword"} on /topic/hpumail
+I, [2019-02-25T10:08:47.055405 #1848]  INFO -- : sending email to thehiep9so6@gmail.com with token bohiephp99 with reason resetpassword

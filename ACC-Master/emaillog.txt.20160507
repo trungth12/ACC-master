@@ -1,0 +1,3 @@
+# Logfile created on 2016-05-07 21:55:42 +0700 by logger.rb/31641
+I, [2016-05-07T21:55:42.392851 #4156]  INFO -- : received: {"to":"tamkt.na1802@gmail.com","token":"ZWEKYGKM","reason":"reset"} on /topic/hpumail
+I, [2016-05-07T21:55:42.403852 #4156]  INFO -- : sending email to tamkt.na1802@gmail.com with token ZWEKYGKM with reason reset

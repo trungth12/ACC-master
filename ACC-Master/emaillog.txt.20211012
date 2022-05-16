@@ -1,0 +1,5 @@
+# Logfile created on 2021-10-11 11:14:59 +0700 by logger.rb/31641
+I, [2021-10-11T11:14:59.934847 #59244]  INFO -- : received: {"to":"phuonglink8822@gmail.com","token":"ZV9X996E","reason":"reset"} on /topic/hpumail
+I, [2021-10-11T11:14:59.950447 #59244]  INFO -- : sending email to phuonglink8822@gmail.com with token ZV9X996E with reason reset
+I, [2021-10-11T11:25:13.853352 #59244]  INFO -- : received: {"to":"phuonglink8822@gmail.com","token":"FNEV466A","reason":"reset"} on /topic/hpumail
+I, [2021-10-11T11:25:13.853352 #59244]  INFO -- : sending email to phuonglink8822@gmail.com with token FNEV466A with reason reset

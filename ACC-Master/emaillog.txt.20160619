@@ -1,0 +1,5 @@
+# Logfile created on 2016-06-18 12:04:56 +0700 by logger.rb/31641
+I, [2016-06-18T12:04:56.979457 #2940]  INFO -- : received: {"to":"thanhnokia3333@gmail.com","token":"9EM6Y9QP","reason":"reset"} on /topic/hpumail
+I, [2016-06-18T12:04:57.000458 #2940]  INFO -- : sending email to thanhnokia3333@gmail.com with token 9EM6Y9QP with reason reset
+I, [2016-06-18T12:07:22.720792 #2940]  INFO -- : received: {"to":"thanhnokia3333@gmail.com","token":"15031993","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-18T12:07:22.720792 #2940]  INFO -- : sending email to thanhnokia3333@gmail.com with token 15031993 with reason resetpassword

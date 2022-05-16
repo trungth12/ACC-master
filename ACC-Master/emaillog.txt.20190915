@@ -1,0 +1,3 @@
+# Logfile created on 2019-09-13 10:21:26 +0700 by logger.rb/31641
+I, [2019-09-13T10:21:26.796796 #2012]  INFO -- : received: {"to":"noamlone2@gmail.com","token":"4QT9T4TK","reason":"reset"} on /topic/hpumail
+I, [2019-09-13T10:21:26.812396 #2012]  INFO -- : sending email to noamlone2@gmail.com with token 4QT9T4TK with reason reset

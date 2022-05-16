@@ -1,0 +1,3 @@
+# Logfile created on 2017-01-17 21:49:33 +0700 by logger.rb/31641
+I, [2017-01-17T21:49:33.950635 #2680]  INFO -- : received: {"to":"codai1195@gmail.com","token":"G94ZDKP3","reason":"reset"} on /topic/hpumail
+I, [2017-01-17T21:49:33.981835 #2680]  INFO -- : sending email to codai1195@gmail.com with token G94ZDKP3 with reason reset

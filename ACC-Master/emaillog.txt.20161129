@@ -1,0 +1,7 @@
+# Logfile created on 2016-11-29 09:21:13 +0700 by logger.rb/31641
+I, [2016-11-29T09:21:13.086721 #2692]  INFO -- : received: {"to":"xekonono@gmail.com","token":"6M2PMQH9","reason":"reset"} on /topic/hpumail
+I, [2016-11-29T09:21:13.117921 #2692]  INFO -- : sending email to xekonono@gmail.com with token 6M2PMQH9 with reason reset
+I, [2016-11-29T09:23:52.924602 #2692]  INFO -- : received: {"to":"xekonono@gmail.com","token":"vuhongquyen","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-29T09:23:52.924602 #2692]  INFO -- : sending email to xekonono@gmail.com with token vuhongquyen with reason resetpassword
+I, [2016-11-29T09:29:13.239965 #2692]  INFO -- : received: {"to":"anhpohp@gmail.com","token":"K4XVWZRP","reason":"reset"} on /topic/hpumail
+I, [2016-11-29T09:29:13.239965 #2692]  INFO -- : sending email to anhpohp@gmail.com with token K4XVWZRP with reason reset

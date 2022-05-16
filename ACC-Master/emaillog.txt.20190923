@@ -1,0 +1,7 @@
+# Logfile created on 2019-09-23 08:59:25 +0700 by logger.rb/31641
+I, [2019-09-23T08:59:25.688668 #2032]  INFO -- : received: {"to":"thuytien1412402@gmail.com","token":"V7KKE2XA","reason":"reset"} on /topic/hpumail
+I, [2019-09-23T08:59:25.704268 #2032]  INFO -- : sending email to thuytien1412402@gmail.com with token V7KKE2XA with reason reset
+I, [2019-09-23T16:29:47.354129 #2032]  INFO -- : received: {"to":"buivu13@gmail.com","token":"M9VJ9HMD","reason":"reset"} on /topic/hpumail
+I, [2019-09-23T16:29:47.354129 #2032]  INFO -- : sending email to buivu13@gmail.com with token M9VJ9HMD with reason reset
+I, [2019-09-23T18:17:46.185908 #2032]  INFO -- : received: {"to":"pnanhgiang@gmail.com","token":"N266ZW4J","reason":"reset"} on /topic/hpumail
+I, [2019-09-23T18:17:46.185908 #2032]  INFO -- : sending email to pnanhgiang@gmail.com with token N266ZW4J with reason reset

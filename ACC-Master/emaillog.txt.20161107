@@ -1,0 +1,5 @@
+# Logfile created on 2016-11-07 14:38:45 +0700 by logger.rb/31641
+I, [2016-11-07T14:38:45.335872 #2556]  INFO -- : received: {"to":"xbuonz@gmail.com","token":"RVADZN2H","reason":"reset"} on /topic/hpumail
+I, [2016-11-07T14:38:45.380875 #2556]  INFO -- : sending email to xbuonz@gmail.com with token RVADZN2H with reason reset
+I, [2016-11-07T14:39:32.472568 #2556]  INFO -- : received: {"to":"xbuonz@gmail.com","token":"anhvu1212","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-07T14:39:32.473568 #2556]  INFO -- : sending email to xbuonz@gmail.com with token anhvu1212 with reason resetpassword

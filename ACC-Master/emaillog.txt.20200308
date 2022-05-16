@@ -1,0 +1,7 @@
+# Logfile created on 2020-03-08 10:13:16 +0700 by logger.rb/31641
+I, [2020-03-08T10:13:16.814262 #1808]  INFO -- : received: {"to":"vuongtrong313@gmail.com","token":"WXFVHJC2","reason":"reset"} on /topic/hpumail
+I, [2020-03-08T10:13:16.814262 #1808]  INFO -- : sending email to vuongtrong313@gmail.com with token WXFVHJC2 with reason reset
+I, [2020-03-08T10:25:06.849510 #1808]  INFO -- : received: {"to":"vuongtrong313@gmail.com","token":"RVPQPKPG","reason":"reset"} on /topic/hpumail
+I, [2020-03-08T10:25:06.849510 #1808]  INFO -- : sending email to vuongtrong313@gmail.com with token RVPQPKPG with reason reset
+I, [2020-03-08T10:35:37.121817 #1808]  INFO -- : received: {"to":"vuongtrong313@gmail.com","token":"6YC6X4Z9","reason":"reset"} on /topic/hpumail
+I, [2020-03-08T10:35:37.121817 #1808]  INFO -- : sending email to vuongtrong313@gmail.com with token 6YC6X4Z9 with reason reset

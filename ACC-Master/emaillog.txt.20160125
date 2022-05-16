@@ -1,0 +1,7 @@
+# Logfile created on 2016-01-25 09:59:59 +0700 by logger.rb/31641
+I, [2016-01-25T09:59:59.717665 #1384]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"WHFWKQQ9","reason":"reset"} on /topic/hpumail
+I, [2016-01-25T09:59:59.733265 #1384]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token WHFWKQQ9 with reason reset
+I, [2016-01-25T18:27:28.145946 #1384]  INFO -- : received: {"to":"huyphamvbhp96.hpu@gmail.com","token":"PAGM7H9G","reason":"reset"} on /topic/hpumail
+I, [2016-01-25T18:27:28.145946 #1384]  INFO -- : sending email to huyphamvbhp96.hpu@gmail.com with token PAGM7H9G with reason reset
+I, [2016-01-25T18:29:50.558596 #1384]  INFO -- : received: {"to":"huyphamvbhp96.hpu@gmail.com","token":"pvh221196","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-25T18:29:50.558596 #1384]  INFO -- : sending email to huyphamvbhp96.hpu@gmail.com with token pvh221196 with reason resetpassword

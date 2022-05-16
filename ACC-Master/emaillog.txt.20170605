@@ -1,0 +1,9 @@
+# Logfile created on 2017-06-04 08:01:04 +0700 by logger.rb/31641
+I, [2017-06-04T08:01:04.556031 #2568]  INFO -- : received: {"to":"hangnguyen.0810@yahoo.com.vn","token":"4KTJ4KDW","reason":"reset"} on /topic/hpumail
+I, [2017-06-04T08:01:04.619034 #2568]  INFO -- : sending email to hangnguyen.0810@yahoo.com.vn with token 4KTJ4KDW with reason reset
+I, [2017-06-04T16:54:46.596842 #2568]  INFO -- : received: {"to":"tunglesemco@gmail.com","token":"XD6AE4CZ","reason":"reset"} on /topic/hpumail
+I, [2017-06-04T16:54:46.596842 #2568]  INFO -- : sending email to tunglesemco@gmail.com with token XD6AE4CZ with reason reset
+I, [2017-06-04T16:57:53.953171 #2568]  INFO -- : received: {"to":"tunglesemco@gmail.com","token":"tungdaica97","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-04T16:57:53.953171 #2568]  INFO -- : sending email to tunglesemco@gmail.com with token tungdaica97 with reason resetpassword
+I, [2017-06-04T20:33:43.426715 #2568]  INFO -- : received: {"to":"minhhiepnguyen2408@gmail.com","token":"ZF6GN4VY","reason":"reset"} on /topic/hpumail
+I, [2017-06-04T20:33:43.426715 #2568]  INFO -- : sending email to minhhiepnguyen2408@gmail.com with token ZF6GN4VY with reason reset

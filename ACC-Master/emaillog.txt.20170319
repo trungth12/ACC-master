@@ -1,0 +1,5 @@
+# Logfile created on 2017-03-16 10:13:05 +0700 by logger.rb/31641
+I, [2017-03-16T10:13:05.228058 #2772]  INFO -- : received: {"to":"yurita.patun@gmail.com","token":"6VWGYXCC","reason":"reset"} on /topic/hpumail
+I, [2017-03-16T10:13:05.259258 #2772]  INFO -- : sending email to yurita.patun@gmail.com with token 6VWGYXCC with reason reset
+I, [2017-03-16T10:15:28.264709 #2772]  INFO -- : received: {"to":"yurita.patun@gmail.com","token":"thanhmai88","reason":"resetpassword"} on /topic/hpumail
+I, [2017-03-16T10:15:28.264709 #2772]  INFO -- : sending email to yurita.patun@gmail.com with token thanhmai88 with reason resetpassword

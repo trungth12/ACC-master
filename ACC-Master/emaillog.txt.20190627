@@ -1,0 +1,3 @@
+# Logfile created on 2019-06-25 19:46:40 +0700 by logger.rb/31641
+I, [2019-06-25T19:46:39.995847 #2012]  INFO -- : received: {"to":"anhhoang250197@gmail.com","token":"ZXMFWD2R","reason":"reset"} on /topic/hpumail
+I, [2019-06-25T19:46:40.089447 #2012]  INFO -- : sending email to anhhoang250197@gmail.com with token ZXMFWD2R with reason reset

@@ -1,0 +1,11 @@
+# Logfile created on 2016-05-04 06:48:21 +0700 by logger.rb/31641
+I, [2016-05-04T06:48:21.087163 #2608]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"HPTAARJV","reason":"reset"} on /topic/hpumail
+I, [2016-05-04T06:48:21.110164 #2608]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token HPTAARJV with reason reset
+I, [2016-05-04T06:48:38.528161 #2608]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"EC3FPNTK","reason":"reset"} on /topic/hpumail
+I, [2016-05-04T06:48:38.529161 #2608]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token EC3FPNTK with reason reset
+I, [2016-05-04T07:00:17.414135 #2608]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"manh0795","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-04T07:00:17.415135 #2608]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token manh0795 with reason resetpassword
+I, [2016-05-04T15:26:25.470520 #2784]  INFO -- : received: {"to":"luumaianh0712@gmail.com","token":"321e0dc24a0fbbb34511ce63a54134a3","reason":"register"} on /topic/hpumail
+I, [2016-05-04T15:26:25.480520 #2784]  INFO -- : sending email to luumaianh0712@gmail.com with token 321e0dc24a0fbbb34511ce63a54134a3 with reason register
+I, [2016-05-04T15:30:51.871757 #2784]  INFO -- : received: {"to":"tamha.nguyen91@gmail.com","token":"547ea0f5108a76ab12d41e11a804d1c3","reason":"register"} on /topic/hpumail
+I, [2016-05-04T15:30:51.872757 #2784]  INFO -- : sending email to tamha.nguyen91@gmail.com with token 547ea0f5108a76ab12d41e11a804d1c3 with reason register

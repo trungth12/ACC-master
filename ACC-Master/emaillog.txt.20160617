@@ -1,0 +1,5 @@
+# Logfile created on 2016-06-17 14:21:17 +0700 by logger.rb/31641
+I, [2016-06-17T14:21:17.399552 #1528]  INFO -- : received: {"to":"huhu11xx@gmail.com","token":"3acd8e2ba976137357b4206cd375a252","reason":"register"} on /topic/hpumail
+I, [2016-06-17T14:21:17.407553 #1528]  INFO -- : sending email to huhu11xx@gmail.com with token 3acd8e2ba976137357b4206cd375a252 with reason register
+I, [2016-06-17T22:22:03.839474 #1528]  INFO -- : received: {"to":"kimdong1911nguyen@gmail.com","token":"kimdongh1","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-17T22:22:03.840475 #1528]  INFO -- : sending email to kimdong1911nguyen@gmail.com with token kimdongh1 with reason resetpassword

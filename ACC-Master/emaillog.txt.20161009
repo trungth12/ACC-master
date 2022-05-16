@@ -1,0 +1,5 @@
+# Logfile created on 2016-10-09 19:37:39 +0700 by logger.rb/31641
+I, [2016-10-09T19:37:39.385347 #2028]  INFO -- : received: {"to":"vutrongnghiaa@gmail.com","token":"PH7RNW3D","reason":"reset"} on /topic/hpumail
+I, [2016-10-09T19:37:39.400947 #2028]  INFO -- : sending email to vutrongnghiaa@gmail.com with token PH7RNW3D with reason reset
+I, [2016-10-09T19:39:05.637898 #2028]  INFO -- : received: {"to":"vutrongnghiaa@gmail.com","token":"anhdisem1234","reason":"resetpassword"} on /topic/hpumail
+I, [2016-10-09T19:39:05.637898 #2028]  INFO -- : sending email to vutrongnghiaa@gmail.com with token anhdisem1234 with reason resetpassword

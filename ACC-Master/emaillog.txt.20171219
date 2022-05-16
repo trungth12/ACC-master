@@ -1,0 +1,7 @@
+# Logfile created on 2017-12-19 11:06:58 +0700 by logger.rb/31641
+I, [2017-12-19T11:06:58.458092 #1876]  INFO -- : received: {"to":"datphamandroid@gmail.com","token":"CTPXZAAA","reason":"reset"} on /topic/hpumail
+I, [2017-12-19T11:06:58.473692 #1876]  INFO -- : sending email to datphamandroid@gmail.com with token CTPXZAAA with reason reset
+I, [2017-12-19T11:47:26.914358 #1876]  INFO -- : received: {"to":"thaocp@hpu.edu.vn","token":"D44Z2T6N","reason":"reset"} on /topic/hpumail
+I, [2017-12-19T11:47:26.914358 #1876]  INFO -- : sending email to thaocp@hpu.edu.vn with token D44Z2T6N with reason reset
+I, [2017-12-19T15:41:07.033416 #1876]  INFO -- : received: {"to":"goilabomuoi@gmail.com","token":"WEG3NDQ7","reason":"reset"} on /topic/hpumail
+I, [2017-12-19T15:41:07.033416 #1876]  INFO -- : sending email to goilabomuoi@gmail.com with token WEG3NDQ7 with reason reset

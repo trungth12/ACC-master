@@ -1,0 +1,13 @@
+# Logfile created on 2015-12-05 08:13:11 +0700 by logger.rb/31641
+I, [2015-12-05T08:13:11.531959 #2212]  INFO -- : received: {"to":"vipbk007@gmail.com","token":"1e0a4f46134d43c243255b238855154b","reason":"register"} on /topic/hpumail
+I, [2015-12-05T08:13:11.547559 #2212]  INFO -- : sending email to vipbk007@gmail.com with token 1e0a4f46134d43c243255b238855154b with reason register
+I, [2015-12-05T14:32:11.916537 #2356]  INFO -- : received: {"to":"lvtuan.ihere.hut@gmail.com","token":"0fa358e9d9c8a86b5b17c28ea3b552ca","reason":"register"} on /topic/hpumail
+I, [2015-12-05T14:32:11.916537 #2356]  INFO -- : sending email to lvtuan.ihere.hut@gmail.com with token 0fa358e9d9c8a86b5b17c28ea3b552ca with reason register
+I, [2015-12-05T16:06:44.772901 #2356]  INFO -- : received: {"to":"khaib1408910@student.ctu.edu.vn","token":"ea8e7d90a30f7e71eef2dacadab67d51","reason":"register"} on /topic/hpumail
+I, [2015-12-05T16:06:44.772901 #2356]  INFO -- : sending email to khaib1408910@student.ctu.edu.vn with token ea8e7d90a30f7e71eef2dacadab67d51 with reason register
+I, [2015-12-05T18:25:37.449537 #2356]  INFO -- : received: {"to":"thuytram1405@gmail.com","token":"c225a591dcbf8bad73934ad45a376e7f","reason":"register"} on /topic/hpumail
+I, [2015-12-05T18:25:37.449537 #2356]  INFO -- : sending email to thuytram1405@gmail.com with token c225a591dcbf8bad73934ad45a376e7f with reason register
+I, [2015-12-05T20:24:30.546466 #2356]  INFO -- : received: {"to":"buihuy2412001@gmail.com","token":"6d7b581f1fd55a79ed4f5cc5bae4cd43","reason":"register"} on /topic/hpumail
+I, [2015-12-05T20:24:30.546466 #2356]  INFO -- : sending email to buihuy2412001@gmail.com with token 6d7b581f1fd55a79ed4f5cc5bae4cd43 with reason register
+I, [2015-12-05T21:28:30.165609 #2356]  INFO -- : received: {"to":"namtrung78@gmail.com","token":"141f5bc08b692161a8506955a16caa97","reason":"register"} on /topic/hpumail
+I, [2015-12-05T21:28:30.165609 #2356]  INFO -- : sending email to namtrung78@gmail.com with token 141f5bc08b692161a8506955a16caa97 with reason register

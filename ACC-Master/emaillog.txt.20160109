@@ -1,0 +1,5 @@
+# Logfile created on 2016-01-09 08:35:22 +0700 by logger.rb/31641
+I, [2016-01-09T08:35:22.801652 #2812]  INFO -- : received: {"to":"eagle111990@gmail.com","token":"RJFY7G7T","reason":"reset"} on /topic/hpumail
+I, [2016-01-09T08:35:22.817252 #2812]  INFO -- : sending email to eagle111990@gmail.com with token RJFY7G7T with reason reset
+I, [2016-01-09T14:03:22.751018 #2812]  INFO -- : received: {"to":"nguyenthilinh301197@gmail.com","token":"AHJP73DV","reason":"reset"} on /topic/hpumail
+I, [2016-01-09T14:03:22.751018 #2812]  INFO -- : sending email to nguyenthilinh301197@gmail.com with token AHJP73DV with reason reset

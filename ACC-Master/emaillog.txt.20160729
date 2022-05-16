@@ -1,0 +1,7 @@
+# Logfile created on 2016-07-29 13:08:38 +0700 by logger.rb/31641
+I, [2016-07-29T13:08:38.376702 #4064]  INFO -- : received: {"to":"ngocanh30693@gmail.com","token":"ACZTV9PH","reason":"reset"} on /topic/hpumail
+I, [2016-07-29T13:08:38.548712 #4064]  INFO -- : sending email to ngocanh30693@gmail.com with token ACZTV9PH with reason reset
+I, [2016-07-29T14:02:49.570660 #4064]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"W2T2ZPEP","reason":"reset"} on /topic/hpumail
+I, [2016-07-29T14:02:49.571660 #4064]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token W2T2ZPEP with reason reset
+I, [2016-07-29T14:05:28.738763 #4064]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"MANHHO10","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-29T14:05:28.738763 #4064]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token MANHHO10 with reason resetpassword

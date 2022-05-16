@@ -1,0 +1,5 @@
+# Logfile created on 2018-04-04 13:23:36 +0700 by logger.rb/31641
+I, [2018-04-04T13:23:36.234831 #1068]  INFO -- : received: {"to":"phamvanhaadhp@gmail.com","token":"N39HHWAA","reason":"reset"} on /topic/hpumail
+I, [2018-04-04T13:23:36.328431 #1068]  INFO -- : sending email to phamvanhaadhp@gmail.com with token N39HHWAA with reason reset
+I, [2018-04-04T15:58:42.633976 #1068]  INFO -- : received: {"to":"apollo.1308@gmail.com","token":"HRWGP6T7","reason":"reset"} on /topic/hpumail
+I, [2018-04-04T15:58:42.633976 #1068]  INFO -- : sending email to apollo.1308@gmail.com with token HRWGP6T7 with reason reset

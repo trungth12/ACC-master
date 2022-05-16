@@ -1,0 +1,9 @@
+# Logfile created on 2020-01-02 14:59:42 +0700 by logger.rb/31641
+I, [2020-01-02T14:59:42.002345 #1804]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"G7ZXAC9R","reason":"reset"} on /topic/hpumail
+I, [2020-01-02T14:59:42.017945 #1804]  INFO -- : sending email to vandt@hpu.edu.vn with token G7ZXAC9R with reason reset
+I, [2020-01-02T14:59:56.073569 #1804]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"TAY7Y4EP","reason":"reset"} on /topic/hpumail
+I, [2020-01-02T14:59:56.073569 #1804]  INFO -- : sending email to vandt@hpu.edu.vn with token TAY7Y4EP with reason reset
+I, [2020-01-02T15:01:34.478542 #1804]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"GHXQ6M2J","reason":"reset"} on /topic/hpumail
+I, [2020-01-02T15:01:34.478542 #1804]  INFO -- : sending email to vandt@hpu.edu.vn with token GHXQ6M2J with reason reset
+I, [2020-01-02T15:02:13.790611 #1804]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"EWRK3AGN","reason":"reset"} on /topic/hpumail
+I, [2020-01-02T15:02:13.790611 #1804]  INFO -- : sending email to vandt@hpu.edu.vn with token EWRK3AGN with reason reset

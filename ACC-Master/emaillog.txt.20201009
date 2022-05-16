@@ -1,0 +1,5 @@
+# Logfile created on 2020-10-06 14:44:49 +0700 by logger.rb/31641
+I, [2020-10-06T14:44:49.475201 #1836]  INFO -- : received: {"to":"canhcuthp97@gmail.com","token":"b15daa16aa8de40cfab298168e9d4c71","reason":"register"} on /topic/hpumail
+I, [2020-10-06T14:44:49.475201 #1836]  INFO -- : sending email to canhcuthp97@gmail.com with token b15daa16aa8de40cfab298168e9d4c71 with reason register
+I, [2020-10-06T14:49:52.505734 #1836]  INFO -- : received: {"to":"phamthibinh251197@gmail.com","token":"bed5bd023bb0e1788fed0279cc89cffa","reason":"register"} on /topic/hpumail
+I, [2020-10-06T14:49:52.505734 #1836]  INFO -- : sending email to phamthibinh251197@gmail.com with token bed5bd023bb0e1788fed0279cc89cffa with reason register

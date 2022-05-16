@@ -1,0 +1,11 @@
+# Logfile created on 2016-06-16 09:28:21 +0700 by logger.rb/31641
+I, [2016-06-16T09:28:21.140451 #1528]  INFO -- : received: {"to":"buimanhhoang222@gmail.com","token":"VR9JAZTJ","reason":"reset"} on /topic/hpumail
+I, [2016-06-16T09:28:21.148451 #1528]  INFO -- : sending email to buimanhhoang222@gmail.com with token VR9JAZTJ with reason reset
+I, [2016-06-16T09:29:22.902983 #1528]  INFO -- : received: {"to":"buimanhhoang222@gmail.com","token":"manhhieu","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-16T09:29:22.903983 #1528]  INFO -- : sending email to buimanhhoang222@gmail.com with token manhhieu with reason resetpassword
+I, [2016-06-16T15:23:59.236920 #1528]  INFO -- : received: {"to":"ngandai0202@gmail.com","token":"VNKTAPMP","reason":"reset"} on /topic/hpumail
+I, [2016-06-16T15:23:59.237920 #1528]  INFO -- : sending email to ngandai0202@gmail.com with token VNKTAPMP with reason reset
+I, [2016-06-16T15:25:04.171634 #1528]  INFO -- : received: {"to":"ngandai0202@gmail.com","token":"1513401035","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-16T15:25:04.172634 #1528]  INFO -- : sending email to ngandai0202@gmail.com with token 1513401035 with reason resetpassword
+I, [2016-06-16T23:17:07.813654 #1528]  INFO -- : received: {"to":"shinichi9x714@gmail.com","token":"6QKVP9NF","reason":"reset"} on /topic/hpumail
+I, [2016-06-16T23:17:07.814654 #1528]  INFO -- : sending email to shinichi9x714@gmail.com with token 6QKVP9NF with reason reset

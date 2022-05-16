@@ -1,0 +1,3 @@
+# Logfile created on 2017-03-27 13:27:01 +0700 by logger.rb/31641
+I, [2017-03-27T13:27:01.102025 #2656]  INFO -- : received: {"to":"legiatienanlao@gmail.com","token":"4DRDFCZC","reason":"reset"} on /topic/hpumail
+I, [2017-03-27T13:27:01.148825 #2656]  INFO -- : sending email to legiatienanlao@gmail.com with token 4DRDFCZC with reason reset

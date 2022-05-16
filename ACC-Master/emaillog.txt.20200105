@@ -1,0 +1,17 @@
+# Logfile created on 2020-01-04 20:54:17 +0700 by logger.rb/31641
+I, [2020-01-04T20:54:17.804174 #1680]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"MW44KFC9","reason":"reset"} on /topic/hpumail
+I, [2020-01-04T20:54:17.835374 #1680]  INFO -- : sending email to vandt@hpu.edu.vn with token MW44KFC9 with reason reset
+I, [2020-01-04T20:54:30.408997 #1680]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"F4MQZCE6","reason":"reset"} on /topic/hpumail
+I, [2020-01-04T20:54:30.408997 #1680]  INFO -- : sending email to vandt@hpu.edu.vn with token F4MQZCE6 with reason reset
+I, [2020-01-04T20:54:37.413409 #1680]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"PPPZZVEF","reason":"reset"} on /topic/hpumail
+I, [2020-01-04T20:54:37.429009 #1680]  INFO -- : sending email to vandt@hpu.edu.vn with token PPPZZVEF with reason reset
+I, [2020-01-04T20:54:47.444226 #1680]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"2PHXEQTV","reason":"reset"} on /topic/hpumail
+I, [2020-01-04T20:54:47.459826 #1680]  INFO -- : sending email to vandt@hpu.edu.vn with token 2PHXEQTV with reason reset
+I, [2020-01-04T20:55:01.468651 #1680]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"G7ZXAC9R","reason":"reset"} on /topic/hpumail
+I, [2020-01-04T20:55:01.468651 #1680]  INFO -- : sending email to vandt@hpu.edu.vn with token G7ZXAC9R with reason reset
+I, [2020-01-04T20:55:06.476260 #1680]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"TAY7Y4EP","reason":"reset"} on /topic/hpumail
+I, [2020-01-04T20:55:06.476260 #1680]  INFO -- : sending email to vandt@hpu.edu.vn with token TAY7Y4EP with reason reset
+I, [2020-01-04T20:55:15.477476 #1680]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"GHXQ6M2J","reason":"reset"} on /topic/hpumail
+I, [2020-01-04T20:55:15.477476 #1680]  INFO -- : sending email to vandt@hpu.edu.vn with token GHXQ6M2J with reason reset
+I, [2020-01-04T20:55:27.505097 #1680]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"EWRK3AGN","reason":"reset"} on /topic/hpumail
+I, [2020-01-04T20:55:27.505097 #1680]  INFO -- : sending email to vandt@hpu.edu.vn with token EWRK3AGN with reason reset

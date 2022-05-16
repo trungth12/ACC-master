@@ -1,0 +1,15 @@
+# Logfile created on 2019-08-20 09:44:07 +0700 by logger.rb/31641
+I, [2019-08-20T09:44:07.845425 #1776]  INFO -- : received: {"to":"tuongpv@hpu.edu.vn","token":"NWNN6PEV","reason":"reset"} on /topic/hpumail
+I, [2019-08-20T09:44:07.861025 #1776]  INFO -- : sending email to tuongpv@hpu.edu.vn with token NWNN6PEV with reason reset
+I, [2019-08-20T10:01:21.238040 #1776]  INFO -- : received: {"to":"pdthuan@hpu.edu.vn","token":"4PEAQGGP","reason":"reset"} on /topic/hpumail
+I, [2019-08-20T10:01:21.238040 #1776]  INFO -- : sending email to pdthuan@hpu.edu.vn with token 4PEAQGGP with reason reset
+I, [2019-08-20T10:02:37.256974 #1776]  INFO -- : received: {"to":"tuongpv@hpu.edu.vn","token":"ghetlamcoma","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-20T10:02:37.256974 #1776]  INFO -- : sending email to tuongpv@hpu.edu.vn with token ghetlamcoma with reason resetpassword
+I, [2019-08-20T10:21:17.650942 #1776]  INFO -- : received: {"to":"tinhnt@hpuedu.vn","token":"6008e69f42da21e9eb605aaef11eadb0","reason":"register"} on /topic/hpumail
+I, [2019-08-20T10:21:17.650942 #1776]  INFO -- : sending email to tinhnt@hpuedu.vn with token 6008e69f42da21e9eb605aaef11eadb0 with reason register
+I, [2019-08-20T12:40:50.544448 #1776]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"DAJ3EQ36","reason":"reset"} on /topic/hpumail
+I, [2019-08-20T12:40:50.544448 #1776]  INFO -- : sending email to vandt@hpu.edu.vn with token DAJ3EQ36 with reason reset
+I, [2019-08-20T14:47:49.816231 #1776]  INFO -- : received: {"to":"dannth@hpu.edu.vn","token":"2PACFZKH","reason":"reset"} on /topic/hpumail
+I, [2019-08-20T14:47:49.816231 #1776]  INFO -- : sending email to dannth@hpu.edu.vn with token 2PACFZKH with reason reset
+I, [2019-08-20T14:49:13.182777 #1776]  INFO -- : received: {"to":"dannth@hpu.edu.vn","token":"28091978","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-20T14:49:13.182777 #1776]  INFO -- : sending email to dannth@hpu.edu.vn with token 28091978 with reason resetpassword

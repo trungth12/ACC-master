@@ -1,0 +1,5 @@
+# Logfile created on 2020-10-14 19:48:36 +0700 by logger.rb/31641
+I, [2020-10-14T19:48:36.523198 #1816]  INFO -- : received: {"to":"trang.tranthuy29112001@gmail.com","token":"21f86f3adec4c84f3fc47a44a6c99a8e","reason":"register"} on /topic/hpumail
+I, [2020-10-14T19:48:36.538798 #1816]  INFO -- : sending email to trang.tranthuy29112001@gmail.com with token 21f86f3adec4c84f3fc47a44a6c99a8e with reason register
+I, [2020-10-14T19:55:56.085170 #1816]  INFO -- : received: {"to":"viethongnguyen123@gmail.com","token":"b5c8b43293bb8d853e11bc8fa6a42ef4","reason":"register"} on /topic/hpumail
+I, [2020-10-14T19:55:56.100770 #1816]  INFO -- : sending email to viethongnguyen123@gmail.com with token b5c8b43293bb8d853e11bc8fa6a42ef4 with reason register

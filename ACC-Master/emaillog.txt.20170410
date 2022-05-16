@@ -1,0 +1,7 @@
+# Logfile created on 2017-04-03 08:08:07 +0700 by logger.rb/31641
+I, [2017-04-03T08:08:05.086109 #2712]  INFO -- : received: {"to":"tc@hpu.edu.vn","token":"8b94117ff535c58051a5d49576b2100e","reason":"register"} on /topic/hpumail
+I, [2017-04-03T08:08:07.098512 #2712]  INFO -- : sending email to tc@hpu.edu.vn with token 8b94117ff535c58051a5d49576b2100e with reason register
+I, [2017-04-03T08:18:59.093212 #2716]  INFO -- : received: {"to":"tc@hpu.edu.vn","token":"8b94117ff535c58051a5d49576b2100e","reason":"register"} on /topic/hpumail
+I, [2017-04-03T08:18:59.094212 #2716]  INFO -- : sending email to tc@hpu.edu.vn with token 8b94117ff535c58051a5d49576b2100e with reason register
+I, [2017-04-03T08:58:40.514186 #2716]  INFO -- : received: {"to":"huongpt@hpu.edu.vn","token":"nguyenhai","reason":"resetpassword"} on /topic/hpumail
+I, [2017-04-03T08:58:40.514186 #2716]  INFO -- : sending email to huongpt@hpu.edu.vn with token nguyenhai with reason resetpassword

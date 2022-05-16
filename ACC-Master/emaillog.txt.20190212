@@ -1,0 +1,3 @@
+# Logfile created on 2019-01-30 10:26:16 +0700 by logger.rb/31641
+I, [2019-01-30T10:26:16.162005 #1836]  INFO -- : received: {"to":"phithingat95@gmail.com","token":"3VRP43ZX","reason":"reset"} on /topic/hpumail
+I, [2019-01-30T10:26:16.380405 #1836]  INFO -- : sending email to phithingat95@gmail.com with token 3VRP43ZX with reason reset

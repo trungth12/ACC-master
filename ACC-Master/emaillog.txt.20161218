@@ -1,0 +1,5 @@
+# Logfile created on 2016-12-17 13:30:09 +0700 by logger.rb/31641
+I, [2016-12-17T13:30:09.301592 #2820]  INFO -- : received: {"to":"nhokkeoquehp3@gmail.com","token":"FXYQ6MP4","reason":"reset"} on /topic/hpumail
+I, [2016-12-17T13:30:09.301592 #2820]  INFO -- : sending email to nhokkeoquehp3@gmail.com with token FXYQ6MP4 with reason reset
+I, [2016-12-17T13:31:34.150141 #2820]  INFO -- : received: {"to":"nhokkeoquehp3@gmail.com","token":"anhnhoem123","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-17T13:31:34.150141 #2820]  INFO -- : sending email to nhokkeoquehp3@gmail.com with token anhnhoem123 with reason resetpassword

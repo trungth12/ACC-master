@@ -1,0 +1,5 @@
+# Logfile created on 2016-11-18 10:39:01 +0700 by logger.rb/31641
+I, [2016-11-18T10:39:01.859433 #2728]  INFO -- : received: {"to":"hoanthanhtruc@gmail.com","token":"bdd09ff9ee4ba07aaa743492d209389a","reason":"register"} on /topic/hpumail
+I, [2016-11-18T10:39:01.984233 #2728]  INFO -- : sending email to hoanthanhtruc@gmail.com with token bdd09ff9ee4ba07aaa743492d209389a with reason register
+I, [2016-11-18T15:20:52.273535 #2728]  INFO -- : received: {"to":"danghp94@gmail.com","token":"Hdang492","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-18T15:20:52.273535 #2728]  INFO -- : sending email to danghp94@gmail.com with token Hdang492 with reason resetpassword

@@ -1,0 +1,7 @@
+# Logfile created on 2018-06-07 10:10:23 +0700 by logger.rb/31641
+I, [2018-06-07T10:10:23.674091 #1464]  INFO -- : received: {"to":"duynt@hpu.edu.vn","token":"GRWJ76FC","reason":"reset"} on /topic/hpumail
+I, [2018-06-07T10:10:23.798892 #1464]  INFO -- : sending email to duynt@hpu.edu.vn with token GRWJ76FC with reason reset
+I, [2018-06-07T10:11:02.081359 #1464]  INFO -- : received: {"to":"duynt@hpu.edu.vn","token":"4QV3MGAP","reason":"reset"} on /topic/hpumail
+I, [2018-06-07T10:11:02.081359 #1464]  INFO -- : sending email to duynt@hpu.edu.vn with token 4QV3MGAP with reason reset
+I, [2018-06-07T10:22:58.855818 #1464]  INFO -- : received: {"to":"duynt@hpu.edu.vn","token":"6PVNW6VA","reason":"reset"} on /topic/hpumail
+I, [2018-06-07T10:22:58.855818 #1464]  INFO -- : sending email to duynt@hpu.edu.vn with token 6PVNW6VA with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2019-10-28 10:01:07 +0700 by logger.rb/31641
+I, [2019-10-28T10:01:07.039974 #1988]  INFO -- : received: {"to":"nguyenthanhluan146ksnn@gmail.com","token":"3aef4e399e2cfcda309ac9623a5e8e49","reason":"register"} on /topic/hpumail
+I, [2019-10-28T10:01:07.071174 #1988]  INFO -- : sending email to nguyenthanhluan146ksnn@gmail.com with token 3aef4e399e2cfcda309ac9623a5e8e49 with reason register

@@ -1,0 +1,11 @@
+# Logfile created on 2016-05-17 12:53:24 +0700 by logger.rb/31641
+I, [2016-05-17T12:53:24.823621 #1808]  INFO -- : received: {"to":"mrhs2bn01@gmail.com","token":"MHR3MAZC","reason":"reset"} on /topic/hpumail
+I, [2016-05-17T12:53:24.900626 #1808]  INFO -- : sending email to mrhs2bn01@gmail.com with token MHR3MAZC with reason reset
+I, [2016-05-17T12:55:55.223224 #1808]  INFO -- : received: {"to":"mrhs2bn01@gmail.com","token":"hvxxkvptpn","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-17T12:55:55.224224 #1808]  INFO -- : sending email to mrhs2bn01@gmail.com with token hvxxkvptpn with reason resetpassword
+I, [2016-05-17T14:36:07.944132 #1808]  INFO -- : received: {"to":"nguyet.qt17@gmail.com","token":"VA7TGNRH","reason":"reset"} on /topic/hpumail
+I, [2016-05-17T14:36:07.945132 #1808]  INFO -- : sending email to nguyet.qt17@gmail.com with token VA7TGNRH with reason reset
+I, [2016-05-17T17:51:45.961508 #1808]  INFO -- : received: {"to":"playboizclgt@gmail.com","token":"EC4TEGRR","reason":"reset"} on /topic/hpumail
+I, [2016-05-17T17:51:45.962508 #1808]  INFO -- : sending email to playboizclgt@gmail.com with token EC4TEGRR with reason reset
+I, [2016-05-17T19:59:27.972750 #1808]  INFO -- : received: {"to":"kimdong1911nguyen@gmail.com","token":"6PYGCFWM","reason":"reset"} on /topic/hpumail
+I, [2016-05-17T19:59:27.973750 #1808]  INFO -- : sending email to kimdong1911nguyen@gmail.com with token 6PYGCFWM with reason reset

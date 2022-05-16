@@ -1,0 +1,5 @@
+# Logfile created on 2016-08-17 08:18:53 +0700 by logger.rb/31641
+I, [2016-08-17T08:18:53.555860 #2240]  INFO -- : received: {"to":"minhdc@hpu.edu.vn","token":"4b5211234f683c216768642fd2671c0d","reason":"register"} on /topic/hpumail
+I, [2016-08-17T08:18:53.600862 #2240]  INFO -- : sending email to minhdc@hpu.edu.vn with token 4b5211234f683c216768642fd2671c0d with reason register
+I, [2016-08-17T12:07:07.926133 #2240]  INFO -- : received: {"to":"ngocdienlong83@yahoo.com","token":"03b7cd8d9116ac8344f6e3b570ec7f28","reason":"register"} on /topic/hpumail
+I, [2016-08-17T12:07:07.927133 #2240]  INFO -- : sending email to ngocdienlong83@yahoo.com with token 03b7cd8d9116ac8344f6e3b570ec7f28 with reason register

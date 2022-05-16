@@ -1,0 +1,3 @@
+# Logfile created on 2017-01-13 13:23:41 +0700 by logger.rb/31641
+I, [2017-01-13T13:23:41.471842 #2700]  INFO -- : received: {"to":"phamhuyen.na007@gmail.com","token":"280895","reason":"resetpassword"} on /topic/hpumail
+I, [2017-01-13T13:23:41.503042 #2700]  INFO -- : sending email to phamhuyen.na007@gmail.com with token 280895 with reason resetpassword

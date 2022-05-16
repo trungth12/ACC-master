@@ -1,0 +1,3 @@
+# Logfile created on 2017-11-22 00:16:42 +0700 by logger.rb/31641
+I, [2017-11-22T00:16:42.886841 #960]  INFO -- : received: {"to":"toandh.thuylinh@gmail.com","token":"JX73NTKG","reason":"reset"} on /topic/hpumail
+I, [2017-11-22T00:16:42.949241 #960]  INFO -- : sending email to toandh.thuylinh@gmail.com with token JX73NTKG with reason reset

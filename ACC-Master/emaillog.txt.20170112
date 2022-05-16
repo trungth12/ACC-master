@@ -1,0 +1,5 @@
+# Logfile created on 2017-01-10 09:53:27 +0700 by logger.rb/31641
+I, [2017-01-10T09:53:27.224825 #2672]  INFO -- : received: {"to":"truongbabinh1810@gmail.com","token":"RRCV3YY4","reason":"reset"} on /topic/hpumail
+I, [2017-01-10T09:53:27.224825 #2672]  INFO -- : sending email to truongbabinh1810@gmail.com with token RRCV3YY4 with reason reset
+I, [2017-01-10T16:15:47.345917 #2672]  INFO -- : received: {"to":"phong98789@gmail.com","token":"JPGJVV4H","reason":"reset"} on /topic/hpumail
+I, [2017-01-10T16:15:47.345917 #2672]  INFO -- : sending email to phong98789@gmail.com with token JPGJVV4H with reason reset

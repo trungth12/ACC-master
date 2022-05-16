@@ -1,0 +1,5 @@
+# Logfile created on 2019-02-28 11:20:41 +0700 by logger.rb/31641
+I, [2019-02-28T11:20:41.147593 #1848]  INFO -- : received: {"to":"ngochuyenhpu96@gmail.com","token":"NVEYXZMK","reason":"reset"} on /topic/hpumail
+I, [2019-02-28T11:20:41.209994 #1848]  INFO -- : sending email to ngochuyenhpu96@gmail.com with token NVEYXZMK with reason reset
+I, [2019-02-28T11:23:52.482930 #1848]  INFO -- : received: {"to":"ngochuyenhpu96@gmail.com","token":"0523030626","reason":"resetpassword"} on /topic/hpumail
+I, [2019-02-28T11:23:52.482930 #1848]  INFO -- : sending email to ngochuyenhpu96@gmail.com with token 0523030626 with reason resetpassword

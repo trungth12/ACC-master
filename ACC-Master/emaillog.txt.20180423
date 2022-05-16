@@ -1,0 +1,5 @@
+# Logfile created on 2018-04-23 10:02:47 +0700 by logger.rb/31641
+I, [2018-04-23T10:02:47.801219 #1108]  INFO -- : received: {"to":"hieubatsy@gmail.com","token":"7CF3ENVJ","reason":"reset"} on /topic/hpumail
+I, [2018-04-23T10:02:47.926020 #1108]  INFO -- : sending email to hieubatsy@gmail.com with token 7CF3ENVJ with reason reset
+I, [2018-04-23T10:10:36.956443 #1108]  INFO -- : received: {"to":"hieubatsy@gmail.com","token":"HieuTrungNguyenHP55","reason":"resetpassword"} on /topic/hpumail
+I, [2018-04-23T10:10:36.956443 #1108]  INFO -- : sending email to hieubatsy@gmail.com with token HieuTrungNguyenHP55 with reason resetpassword

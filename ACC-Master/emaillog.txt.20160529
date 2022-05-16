@@ -1,0 +1,3 @@
+# Logfile created on 2016-05-29 11:06:40 +0700 by logger.rb/31641
+I, [2016-05-29T11:06:40.138613 #2160]  INFO -- : received: {"to":"nhido.94.kp2@gmail.com","token":"Y3FN7MYZ","reason":"reset"} on /topic/hpumail
+I, [2016-05-29T11:06:40.238619 #2160]  INFO -- : sending email to nhido.94.kp2@gmail.com with token Y3FN7MYZ with reason reset

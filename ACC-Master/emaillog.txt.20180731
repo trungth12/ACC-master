@@ -1,0 +1,5 @@
+# Logfile created on 2018-07-31 16:00:29 +0700 by logger.rb/31641
+I, [2018-07-31T16:00:29.740212 #1816]  INFO -- : received: {"to":"han.mum.7@gmail.com","token":"E9AQ7YKJ","reason":"reset"} on /topic/hpumail
+I, [2018-07-31T16:00:29.755813 #1816]  INFO -- : sending email to han.mum.7@gmail.com with token E9AQ7YKJ with reason reset
+I, [2018-07-31T16:02:31.748027 #1816]  INFO -- : received: {"to":"han.mum.7@gmail.com","token":"ngankimbui","reason":"resetpassword"} on /topic/hpumail
+I, [2018-07-31T16:02:32.762029 #1816]  INFO -- : sending email to han.mum.7@gmail.com with token ngankimbui with reason resetpassword

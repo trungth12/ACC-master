@@ -1,0 +1,9 @@
+# Logfile created on 2016-10-03 14:47:58 +0700 by logger.rb/31641
+I, [2016-10-03T14:47:58.292586 #2028]  INFO -- : received: {"to":"l0v3.st0rm@yahoo.com","token":"E6PP9MQF","reason":"reset"} on /topic/hpumail
+I, [2016-10-03T14:47:58.339386 #2028]  INFO -- : sending email to l0v3.st0rm@yahoo.com with token E6PP9MQF with reason reset
+I, [2016-10-03T20:31:29.345187 #2028]  INFO -- : received: {"to":"buivantiendangxa@gmail.com","token":"3WHK66XC","reason":"reset"} on /topic/hpumail
+I, [2016-10-03T20:31:29.345187 #2028]  INFO -- : sending email to buivantiendangxa@gmail.com with token 3WHK66XC with reason reset
+I, [2016-10-03T21:19:32.292651 #2028]  INFO -- : received: {"to":"nobita_dethuong_93@yahoo.com","token":"RMECWCVN","reason":"reset"} on /topic/hpumail
+I, [2016-10-03T21:19:32.292651 #2028]  INFO -- : sending email to nobita_dethuong_93@yahoo.com with token RMECWCVN with reason reset
+I, [2016-10-03T21:28:58.012045 #2028]  INFO -- : received: {"to":"nobita_dethuong_93@yahoo.com","token":"phacdiu123","reason":"resetpassword"} on /topic/hpumail
+I, [2016-10-03T21:28:58.012045 #2028]  INFO -- : sending email to nobita_dethuong_93@yahoo.com with token phacdiu123 with reason resetpassword

@@ -1,0 +1,5 @@
+# Logfile created on 2015-11-15 00:59:00 +0700 by logger.rb/31641
+I, [2015-11-15T00:59:00.841289 #2280]  INFO -- : received: {"to":"thuthuy1121995@gmail.com","token":"1312601031","reason":"resetpassword"} on /topic/hpumail
+I, [2015-11-15T00:59:00.841289 #2280]  INFO -- : sending email to thuthuy1121995@gmail.com with token 1312601031 with reason resetpassword
+I, [2015-11-15T10:18:48.934254 #2280]  INFO -- : received: {"to":"dinhphuong13594@gmail.com","token":"fd99943395125f29bd213015967c439e","reason":"register"} on /topic/hpumail
+I, [2015-11-15T10:18:48.934254 #2280]  INFO -- : sending email to dinhphuong13594@gmail.com with token fd99943395125f29bd213015967c439e with reason register

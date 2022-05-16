@@ -1,0 +1,3 @@
+# Logfile created on 2017-06-13 16:21:22 +0700 by logger.rb/31641
+I, [2017-06-13T16:21:22.909706 #1996]  INFO -- : received: {"to":"thedeath5597@gmail.com","token":"RQTJPNRF","reason":"reset"} on /topic/hpumail
+I, [2017-06-13T16:21:22.940906 #1996]  INFO -- : sending email to thedeath5597@gmail.com with token RQTJPNRF with reason reset

@@ -1,0 +1,9 @@
+# Logfile created on 2019-11-26 09:37:55 +0700 by logger.rb/31641
+I, [2019-11-26T09:37:55.501687 #1816]  INFO -- : received: {"to":"linhdd@hpu.edu.vn","token":"PVHPTMFM","reason":"reset"} on /topic/hpumail
+I, [2019-11-26T09:37:55.517287 #1816]  INFO -- : sending email to linhdd@hpu.edu.vn with token PVHPTMFM with reason reset
+I, [2019-11-26T09:43:59.699927 #1816]  INFO -- : received: {"to":"linhdd@hpu.edu.vn","token":"24051983","reason":"resetpassword"} on /topic/hpumail
+I, [2019-11-26T09:43:59.699927 #1816]  INFO -- : sending email to linhdd@hpu.edu.vn with token 24051983 with reason resetpassword
+I, [2019-11-26T21:16:35.349315 #1816]  INFO -- : received: {"to":"anhntn@hpu.edu.vn","token":"4Y9MM4Y7","reason":"reset"} on /topic/hpumail
+I, [2019-11-26T21:16:35.349315 #1816]  INFO -- : sending email to anhntn@hpu.edu.vn with token 4Y9MM4Y7 with reason reset
+I, [2019-11-26T21:18:43.987141 #1816]  INFO -- : received: {"to":"anhntn@hpu.edu.vn","token":"Z46NGY9T","reason":"reset"} on /topic/hpumail
+I, [2019-11-26T21:18:43.987141 #1816]  INFO -- : sending email to anhntn@hpu.edu.vn with token Z46NGY9T with reason reset

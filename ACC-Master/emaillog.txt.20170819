@@ -1,0 +1,3 @@
+# Logfile created on 2017-08-17 12:00:59 +0700 by logger.rb/31641
+I, [2017-08-17T12:00:59.151413 #2232]  INFO -- : received: {"to":"tranthingocbich212@gmail.com","token":"7QXT6W7P","reason":"reset"} on /topic/hpumail
+I, [2017-08-17T12:00:59.167013 #2232]  INFO -- : sending email to tranthingocbich212@gmail.com with token 7QXT6W7P with reason reset

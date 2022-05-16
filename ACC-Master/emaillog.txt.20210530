@@ -1,0 +1,5 @@
+# Logfile created on 2021-05-28 08:31:01 +0700 by logger.rb/31641
+I, [2021-05-28T08:31:01.263380 #1952]  INFO -- : received: {"to":"hien.nt@hpu.edu.vn","token":"ddeea5924b1423f8e10ee6f7bfbcb6a1","reason":"register"} on /topic/hpumail
+I, [2021-05-28T08:31:01.278980 #1952]  INFO -- : sending email to hien.nt@hpu.edu.vn with token ddeea5924b1423f8e10ee6f7bfbcb6a1 with reason register
+I, [2021-05-28T15:43:17.307334 #1952]  INFO -- : received: {"to":"nguyenminhtuank19@gmail.com","token":"24FJVF6N","reason":"reset"} on /topic/hpumail
+I, [2021-05-28T15:43:17.307334 #1952]  INFO -- : sending email to nguyenminhtuank19@gmail.com with token 24FJVF6N with reason reset

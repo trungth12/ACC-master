@@ -1,0 +1,13 @@
+# Logfile created on 2016-11-08 08:55:23 +0700 by logger.rb/31641
+I, [2016-11-08T08:55:23.867608 #2556]  INFO -- : received: {"to":"dohangtunghpu@gmail.com","token":"b1454ddccc7163b67da6baa0555888bf","reason":"register"} on /topic/hpumail
+I, [2016-11-08T08:55:23.898808 #2556]  INFO -- : sending email to dohangtunghpu@gmail.com with token b1454ddccc7163b67da6baa0555888bf with reason register
+I, [2016-11-08T09:14:05.244378 #2556]  INFO -- : received: {"to":"vietanhreal9825@gmail.com","token":"HKP2NRGT","reason":"reset"} on /topic/hpumail
+I, [2016-11-08T09:14:05.244378 #2556]  INFO -- : sending email to vietanhreal9825@gmail.com with token HKP2NRGT with reason reset
+I, [2016-11-08T09:14:15.431196 #2556]  INFO -- : received: {"to":"vietanhreal9825@gmail.com","token":"9CZPNPKV","reason":"reset"} on /topic/hpumail
+I, [2016-11-08T09:14:15.431196 #2556]  INFO -- : sending email to vietanhreal9825@gmail.com with token 9CZPNPKV with reason reset
+I, [2016-11-08T09:15:32.230130 #2556]  INFO -- : received: {"to":"vietanhreal9825@gmail.com","token":"7YT6EG2N","reason":"reset"} on /topic/hpumail
+I, [2016-11-08T09:15:32.230130 #2556]  INFO -- : sending email to vietanhreal9825@gmail.com with token 7YT6EG2N with reason reset
+I, [2016-11-08T09:16:39.544249 #2556]  INFO -- : received: {"to":"vietanhreal9825@gmail.com","token":"vietanh9825","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-08T09:16:39.544249 #2556]  INFO -- : sending email to vietanhreal9825@gmail.com with token vietanh9825 with reason resetpassword
+I, [2016-11-08T15:03:41.400020 #2556]  INFO -- : received: {"to":"hoangoanh150191@gmail.com","token":"DFHKZXFY","reason":"reset"} on /topic/hpumail
+I, [2016-11-08T15:03:41.400020 #2556]  INFO -- : sending email to hoangoanh150191@gmail.com with token DFHKZXFY with reason reset

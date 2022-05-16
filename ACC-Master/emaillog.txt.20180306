@@ -1,0 +1,15 @@
+# Logfile created on 2018-03-06 15:17:11 +0700 by logger.rb/31641
+I, [2018-03-06T15:17:11.852265 #1788]  INFO -- : received: {"to":"duyentran.qt1801n@gmail.com","token":"H7N7EE99","reason":"reset"} on /topic/hpumail
+I, [2018-03-06T15:17:11.867865 #1788]  INFO -- : sending email to duyentran.qt1801n@gmail.com with token H7N7EE99 with reason reset
+I, [2018-03-06T15:24:26.937030 #1788]  INFO -- : received: {"to":"duyentran.qt1801n@gmail.com","token":"RJ6NPYHR","reason":"reset"} on /topic/hpumail
+I, [2018-03-06T15:24:26.937030 #1788]  INFO -- : sending email to duyentran.qt1801n@gmail.com with token RJ6NPYHR with reason reset
+I, [2018-03-06T15:34:26.617683 #1788]  INFO -- : received: {"to":"duyentran.qt1801n@gmail.com","token":"cd4ce1891b9a6aa8618bb4b32f463259","reason":"register"} on /topic/hpumail
+I, [2018-03-06T15:34:26.633283 #1788]  INFO -- : sending email to duyentran.qt1801n@gmail.com with token cd4ce1891b9a6aa8618bb4b32f463259 with reason register
+I, [2018-03-06T16:25:06.002221 #1788]  INFO -- : received: {"to":"quynhmaimilk@gmail.com","token":"T4TMGVWF","reason":"reset"} on /topic/hpumail
+I, [2018-03-06T16:25:06.002221 #1788]  INFO -- : sending email to quynhmaimilk@gmail.com with token T4TMGVWF with reason reset
+I, [2018-03-06T16:29:36.849897 #1788]  INFO -- : received: {"to":"quynhmaimilk@gmail.com","token":"9AWWCMED","reason":"reset"} on /topic/hpumail
+I, [2018-03-06T16:29:36.849897 #1788]  INFO -- : sending email to quynhmaimilk@gmail.com with token 9AWWCMED with reason reset
+I, [2018-03-06T16:52:41.133928 #1788]  INFO -- : received: {"to":"quynhmaimilk@gmail.com","token":"94FKE2H2","reason":"reset"} on /topic/hpumail
+I, [2018-03-06T16:52:41.133928 #1788]  INFO -- : sending email to quynhmaimilk@gmail.com with token 94FKE2H2 with reason reset
+I, [2018-03-06T20:48:07.473540 #1788]  INFO -- : received: {"to":"quynhmaimilk@gmail.com","token":"FAFD42XK","reason":"reset"} on /topic/hpumail
+I, [2018-03-06T20:48:07.473540 #1788]  INFO -- : sending email to quynhmaimilk@gmail.com with token FAFD42XK with reason reset

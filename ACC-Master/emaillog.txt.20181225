@@ -1,0 +1,5 @@
+# Logfile created on 2018-12-24 08:51:11 +0700 by logger.rb/31641
+I, [2018-12-24T08:51:11.830130 #1300]  INFO -- : received: {"to":"thaont@hpu.edu.vn","token":"RWCT79AV","reason":"reset"} on /topic/hpumail
+I, [2018-12-24T08:51:11.922135 #1300]  INFO -- : sending email to thaont@hpu.edu.vn with token RWCT79AV with reason reset
+I, [2018-12-24T14:23:49.868931 #1300]  INFO -- : received: {"to":"hiepnguyen96101@gmail.com","token":"MVHFP7Z9","reason":"reset"} on /topic/hpumail
+I, [2018-12-24T14:23:49.915731 #1300]  INFO -- : sending email to hiepnguyen96101@gmail.com with token MVHFP7Z9 with reason reset

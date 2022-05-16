@@ -1,0 +1,7 @@
+# Logfile created on 2018-10-08 08:24:54 +0700 by logger.rb/31641
+I, [2018-10-08T08:24:54.350195 #1360]  INFO -- : received: {"to":"dangtrang261096@gmail.com","token":"WH7RGHXM","reason":"reset"} on /topic/hpumail
+I, [2018-10-08T08:24:54.443796 #1360]  INFO -- : sending email to dangtrang261096@gmail.com with token WH7RGHXM with reason reset
+I, [2018-10-08T08:56:07.601486 #1360]  INFO -- : received: {"to":"nhungliver@gmail.com","token":"JDDD6H76","reason":"reset"} on /topic/hpumail
+I, [2018-10-08T08:56:07.601486 #1360]  INFO -- : sending email to nhungliver@gmail.com with token JDDD6H76 with reason reset
+I, [2018-10-08T15:01:26.965985 #1360]  INFO -- : received: {"to":"tranthingocbich212@gmail.com","token":"KGEP2RRK","reason":"reset"} on /topic/hpumail
+I, [2018-10-08T15:01:26.965985 #1360]  INFO -- : sending email to tranthingocbich212@gmail.com with token KGEP2RRK with reason reset

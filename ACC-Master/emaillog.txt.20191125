@@ -1,0 +1,5 @@
+# Logfile created on 2019-11-21 17:47:01 +0700 by logger.rb/31641
+I, [2019-11-21T17:47:01.763505 #1880]  INFO -- : received: {"to":"nam08081999@gmail.com","token":"Y42HKPFK","reason":"reset"} on /topic/hpumail
+I, [2019-11-21T17:47:01.763505 #1880]  INFO -- : sending email to nam08081999@gmail.com with token Y42HKPFK with reason reset
+I, [2019-11-21T17:48:33.928467 #1880]  INFO -- : received: {"to":"nam08081999@gmail.com","token":"01668933882","reason":"resetpassword"} on /topic/hpumail
+I, [2019-11-21T17:48:33.928467 #1880]  INFO -- : sending email to nam08081999@gmail.com with token 01668933882 with reason resetpassword

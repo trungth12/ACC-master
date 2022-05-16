@@ -1,0 +1,17 @@
+# Logfile created on 2017-12-08 08:26:27 +0700 by logger.rb/31641
+I, [2017-12-08T08:26:27.079118 #1104]  INFO -- : received: {"to":"hoangtrungkien1963@gmail.com","token":"7E4TGPRG","reason":"reset"} on /topic/hpumail
+I, [2017-12-08T08:26:27.079118 #1104]  INFO -- : sending email to hoangtrungkien1963@gmail.com with token 7E4TGPRG with reason reset
+I, [2017-12-08T08:29:52.422278 #1104]  INFO -- : received: {"to":"hoangtrungkien1963@gmail.com","token":"4CWV722E","reason":"reset"} on /topic/hpumail
+I, [2017-12-08T08:29:52.422278 #1104]  INFO -- : sending email to hoangtrungkien1963@gmail.com with token 4CWV722E with reason reset
+I, [2017-12-08T09:12:40.139988 #1104]  INFO -- : received: {"to":"ducfakehp@gmail.com","token":"4HHN74QK","reason":"reset"} on /topic/hpumail
+I, [2017-12-08T09:12:40.139988 #1104]  INFO -- : sending email to ducfakehp@gmail.com with token 4HHN74QK with reason reset
+I, [2017-12-08T09:14:34.987390 #1104]  INFO -- : received: {"to":"ducfakehp@gmail.com","token":"ducbro96","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-08T09:14:34.987390 #1104]  INFO -- : sending email to ducfakehp@gmail.com with token ducbro96 with reason resetpassword
+I, [2017-12-08T09:28:53.503698 #1104]  INFO -- : received: {"to":"phamhieu220398@gmail.com","token":"MW4V7TYA","reason":"reset"} on /topic/hpumail
+I, [2017-12-08T09:28:53.503698 #1104]  INFO -- : sending email to phamhieu220398@gmail.com with token MW4V7TYA with reason reset
+I, [2017-12-08T09:57:58.975164 #1104]  INFO -- : received: {"to":"minhdc@hpu.edu.vn","token":"QCQ23MJW","reason":"reset"} on /topic/hpumail
+I, [2017-12-08T09:57:58.975164 #1104]  INFO -- : sending email to minhdc@hpu.edu.vn with token QCQ23MJW with reason reset
+I, [2017-12-08T09:59:07.599684 #1104]  INFO -- : received: {"to":"minhdc@hpu.edu.vn","token":"1234567890","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-08T09:59:07.599684 #1104]  INFO -- : sending email to minhdc@hpu.edu.vn with token 1234567890 with reason resetpassword
+I, [2017-12-08T21:17:58.725225 #1104]  INFO -- : received: {"to":"janedang131@gmail.com","token":"TF32KZY9","reason":"reset"} on /topic/hpumail
+I, [2017-12-08T21:17:58.725225 #1104]  INFO -- : sending email to janedang131@gmail.com with token TF32KZY9 with reason reset

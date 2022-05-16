@@ -1,0 +1,5 @@
+# Logfile created on 2016-10-04 08:31:15 +0700 by logger.rb/31641
+I, [2016-10-04T08:31:15.899441 #2028]  INFO -- : received: {"to":"nobita_dethuong_93@yahoo.com","token":"HJWVTMJX","reason":"reset"} on /topic/hpumail
+I, [2016-10-04T08:31:15.977441 #2028]  INFO -- : sending email to nobita_dethuong_93@yahoo.com with token HJWVTMJX with reason reset
+I, [2016-10-04T09:51:49.302730 #2028]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"3MWNN49A","reason":"reset"} on /topic/hpumail
+I, [2016-10-04T09:51:49.302730 #2028]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token 3MWNN49A with reason reset

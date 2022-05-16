@@ -1,0 +1,29 @@
+# Logfile created on 2015-12-23 08:01:22 +0700 by logger.rb/31641
+I, [2015-12-23T08:01:22.413952 #2736]  INFO -- : received: {"to":"nguyentuananh29011992@gmail.com","token":"A3F24KE4","reason":"reset"} on /topic/hpumail
+I, [2015-12-23T08:01:22.445152 #2736]  INFO -- : sending email to nguyentuananh29011992@gmail.com with token A3F24KE4 with reason reset
+I, [2015-12-23T10:08:19.190730 #2736]  INFO -- : received: {"to":"nguyentuananh29011992@gmail.com","token":"V3DZQA2R","reason":"reset"} on /topic/hpumail
+I, [2015-12-23T10:08:19.190730 #2736]  INFO -- : sending email to nguyentuananh29011992@gmail.com with token V3DZQA2R with reason reset
+I, [2015-12-23T12:31:15.707441 #2844]  INFO -- : received: {"to":"trieuvandungcd04@yahoo.com.vn","token":"c8e5e4f08a66c3ce98585f2e6a85bd60","reason":"register"} on /topic/hpumail
+I, [2015-12-23T12:31:15.707441 #2844]  INFO -- : sending email to trieuvandungcd04@yahoo.com.vn with token c8e5e4f08a66c3ce98585f2e6a85bd60 with reason register
+I, [2015-12-23T13:17:39.501130 #2844]  INFO -- : received: {"to":"trieuvandungcd04@yahoo.com.vn","token":"491b95ad8f34f3e52e9d6d14c49a4ac5","reason":"register"} on /topic/hpumail
+I, [2015-12-23T13:17:39.501130 #2844]  INFO -- : sending email to trieuvandungcd04@yahoo.com.vn with token 491b95ad8f34f3e52e9d6d14c49a4ac5 with reason register
+I, [2015-12-23T14:18:36.022753 #2844]  INFO -- : received: {"to":"myhuyen2307@gmail.com","token":"EDN9PZ7M","reason":"reset"} on /topic/hpumail
+I, [2015-12-23T14:18:36.038353 #2844]  INFO -- : sending email to myhuyen2307@gmail.com with token EDN9PZ7M with reason reset
+I, [2015-12-23T14:19:24.991239 #2844]  INFO -- : received: {"to":"myhuyen2307@gmail.com","token":"6X6MZ2ZK","reason":"reset"} on /topic/hpumail
+I, [2015-12-23T14:19:24.991239 #2844]  INFO -- : sending email to myhuyen2307@gmail.com with token 6X6MZ2ZK with reason reset
+I, [2015-12-23T14:39:38.361370 #2844]  INFO -- : received: {"to":"teenvietnamhp@gmail.com","token":"VXEHQ2GZ","reason":"reset"} on /topic/hpumail
+I, [2015-12-23T14:39:38.361370 #2844]  INFO -- : sending email to teenvietnamhp@gmail.com with token VXEHQ2GZ with reason reset
+I, [2015-12-23T16:07:21.186613 #2844]  INFO -- : received: {"to":"cank.buiba@gmail.com","token":"ea32f03322bfe1cc82305bec39567c26","reason":"register"} on /topic/hpumail
+I, [2015-12-23T16:07:21.186613 #2844]  INFO -- : sending email to cank.buiba@gmail.com with token ea32f03322bfe1cc82305bec39567c26 with reason register
+I, [2015-12-23T16:07:54.461472 #2844]  INFO -- : received: {"to":"thuytrang1401.vn@gmail.com","token":"6PP9AYJZ","reason":"reset"} on /topic/hpumail
+I, [2015-12-23T16:07:54.461472 #2844]  INFO -- : sending email to thuytrang1401.vn@gmail.com with token 6PP9AYJZ with reason reset
+I, [2015-12-23T16:10:10.306510 #2844]  INFO -- : received: {"to":"thuytrang1401.vn@gmail.com","token":"tranganhanh","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-23T16:10:10.306510 #2844]  INFO -- : sending email to thuytrang1401.vn@gmail.com with token tranganhanh with reason resetpassword
+I, [2015-12-23T16:33:02.469320 #2844]  INFO -- : received: {"to":"a1b2c3th@yahoo.com.vn","token":"97edadc0ae48bb61318b6033c38616cf","reason":"register"} on /topic/hpumail
+I, [2015-12-23T16:33:02.469320 #2844]  INFO -- : sending email to a1b2c3th@yahoo.com.vn with token 97edadc0ae48bb61318b6033c38616cf with reason register
+I, [2015-12-23T17:09:39.530379 #2844]  INFO -- : received: {"to":"super.sonic999@yahoo.com.vn","token":"14f7ae8e87236513fc7e68904303e04b","reason":"register"} on /topic/hpumail
+I, [2015-12-23T17:09:39.530379 #2844]  INFO -- : sending email to super.sonic999@yahoo.com.vn with token 14f7ae8e87236513fc7e68904303e04b with reason register
+I, [2015-12-23T17:30:33.928583 #2844]  INFO -- : received: {"to":"ai_ai614@yahoo.com","token":"JTR99CTY","reason":"reset"} on /topic/hpumail
+I, [2015-12-23T17:30:33.928583 #2844]  INFO -- : sending email to ai_ai614@yahoo.com with token JTR99CTY with reason reset
+I, [2015-12-23T17:31:52.630721 #2844]  INFO -- : received: {"to":"ai_ai614@yahoo.com","token":"anh0doiqua","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-23T17:31:52.630721 #2844]  INFO -- : sending email to ai_ai614@yahoo.com with token anh0doiqua with reason resetpassword

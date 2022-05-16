@@ -1,0 +1,5 @@
+# Logfile created on 2017-05-03 15:21:28 +0700 by logger.rb/31641
+I, [2017-05-03T15:21:28.677224 #2540]  INFO -- : received: {"to":"cuocsongao9595@gmail.com","token":"VN4QJAC9","reason":"reset"} on /topic/hpumail
+I, [2017-05-03T15:21:28.692824 #2540]  INFO -- : sending email to cuocsongao9595@gmail.com with token VN4QJAC9 with reason reset
+I, [2017-05-03T21:28:10.207067 #2540]  INFO -- : received: {"to":"lazyguy669@gmail.com","token":"QYE3KH9J","reason":"reset"} on /topic/hpumail
+I, [2017-05-03T21:28:10.207067 #2540]  INFO -- : sending email to lazyguy669@gmail.com with token QYE3KH9J with reason reset

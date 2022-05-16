@@ -1,0 +1,3 @@
+# Logfile created on 2020-07-20 15:46:54 +0700 by logger.rb/31641
+I, [2020-07-20T15:46:54.442941 #1816]  INFO -- : received: {"to":"vonamhp@gmail.com","token":"31ce891d0b2987c45e5795a362d51f6e","reason":"register"} on /topic/hpumail
+I, [2020-07-20T15:46:54.442941 #1816]  INFO -- : sending email to vonamhp@gmail.com with token 31ce891d0b2987c45e5795a362d51f6e with reason register

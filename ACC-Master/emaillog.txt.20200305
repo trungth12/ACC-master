@@ -1,0 +1,5 @@
+# Logfile created on 2020-03-05 10:30:16 +0700 by logger.rb/31641
+I, [2020-03-05T10:30:16.755438 #1808]  INFO -- : received: {"to":"boy.mrhobao@gmail.com","token":"anhanh031031","reason":"resetpassword"} on /topic/hpumail
+I, [2020-03-05T10:30:16.755438 #1808]  INFO -- : sending email to boy.mrhobao@gmail.com with token anhanh031031 with reason resetpassword
+I, [2020-03-05T10:49:43.091487 #1808]  INFO -- : received: {"to":"malkinsel@gmail.com","token":"PC6HVFXW","reason":"reset"} on /topic/hpumail
+I, [2020-03-05T10:49:43.091487 #1808]  INFO -- : sending email to malkinsel@gmail.com with token PC6HVFXW with reason reset

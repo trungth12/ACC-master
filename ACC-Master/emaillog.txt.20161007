@@ -1,0 +1,7 @@
+# Logfile created on 2016-10-05 12:33:25 +0700 by logger.rb/31641
+I, [2016-10-05T12:33:25.471514 #2028]  INFO -- : received: {"to":"phamtramanh21.hp@gmail.com","token":"QZPPGQMR","reason":"reset"} on /topic/hpumail
+I, [2016-10-05T12:33:25.533914 #2028]  INFO -- : sending email to phamtramanh21.hp@gmail.com with token QZPPGQMR with reason reset
+I, [2016-10-05T12:37:20.329927 #2028]  INFO -- : received: {"to":"phamtramanh21.hp@gmail.com","token":"bagiabiham96","reason":"resetpassword"} on /topic/hpumail
+I, [2016-10-05T12:37:20.329927 #2028]  INFO -- : sending email to phamtramanh21.hp@gmail.com with token bagiabiham96 with reason resetpassword
+I, [2016-10-05T15:41:53.026575 #2028]  INFO -- : received: {"to":"hoangminhvu26081993@gmail.com","token":"6NJY3HQW","reason":"reset"} on /topic/hpumail
+I, [2016-10-05T15:41:53.026575 #2028]  INFO -- : sending email to hoangminhvu26081993@gmail.com with token 6NJY3HQW with reason reset

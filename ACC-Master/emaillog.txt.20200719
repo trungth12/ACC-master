@@ -1,0 +1,3 @@
+# Logfile created on 2020-07-10 23:32:24 +0700 by logger.rb/31641
+I, [2020-07-10T23:32:24.610804 #1840]  INFO -- : received: {"to":"gi0tl3d3m@gmail.com","token":"JTMPQYWP","reason":"reset"} on /topic/hpumail
+I, [2020-07-10T23:32:24.626404 #1840]  INFO -- : sending email to gi0tl3d3m@gmail.com with token JTMPQYWP with reason reset

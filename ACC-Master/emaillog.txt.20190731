@@ -1,0 +1,13 @@
+# Logfile created on 2019-07-31 07:57:22 +0700 by logger.rb/31641
+I, [2019-07-31T07:57:22.568884 #2020]  INFO -- : received: {"to":"mai.tran@hpu.edu.vn","token":"ENVXDZFG","reason":"reset"} on /topic/hpumail
+I, [2019-07-31T07:57:22.568884 #2020]  INFO -- : sending email to mai.tran@hpu.edu.vn with token ENVXDZFG with reason reset
+I, [2019-07-31T10:39:22.961316 #2020]  INFO -- : received: {"to":"tuantrung@hpu.edu.vn","token":"6DXDNZGW","reason":"reset"} on /topic/hpumail
+I, [2019-07-31T10:39:22.976916 #2020]  INFO -- : sending email to tuantrung@hpu.edu.vn with token 6DXDNZGW with reason reset
+I, [2019-07-31T11:07:00.479655 #2020]  INFO -- : received: {"to":"tuantrung@hpu.edu.vn","token":"jesuisroi","reason":"resetpassword"} on /topic/hpumail
+I, [2019-07-31T11:07:00.479655 #2020]  INFO -- : sending email to tuantrung@hpu.edu.vn with token jesuisroi with reason resetpassword
+I, [2019-07-31T12:15:11.766114 #2020]  INFO -- : received: {"to":"trangnguyen23061996@gmail.com","token":"HME4Z9EN","reason":"reset"} on /topic/hpumail
+I, [2019-07-31T12:15:11.766114 #2020]  INFO -- : sending email to trangnguyen23061996@gmail.com with token HME4Z9EN with reason reset
+I, [2019-07-31T14:32:10.356888 #2020]  INFO -- : received: {"to":"tuan.hpu94@gmail.com","token":"QXVNR2PV","reason":"reset"} on /topic/hpumail
+I, [2019-07-31T14:32:10.356888 #2020]  INFO -- : sending email to tuan.hpu94@gmail.com with token QXVNR2PV with reason reset
+I, [2019-07-31T14:34:22.902523 #2020]  INFO -- : received: {"to":"tuan.hpu94@gmail.com","token":"buiquangtuan1994","reason":"resetpassword"} on /topic/hpumail
+I, [2019-07-31T14:34:22.902523 #2020]  INFO -- : sending email to tuan.hpu94@gmail.com with token buiquangtuan1994 with reason resetpassword

@@ -1,0 +1,41 @@
+# Logfile created on 2016-01-07 06:51:23 +0700 by logger.rb/31641
+I, [2016-01-07T06:51:23.362945 #1944]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"EWFHY6ZG","reason":"reset"} on /topic/hpumail
+I, [2016-01-07T06:51:23.378545 #1944]  INFO -- : sending email to becunsunrangvinh@gmail.com with token EWFHY6ZG with reason reset
+I, [2016-01-07T06:56:49.138317 #1944]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"Z2C6VGNT","reason":"reset"} on /topic/hpumail
+I, [2016-01-07T06:56:49.138317 #1944]  INFO -- : sending email to becunsunrangvinh@gmail.com with token Z2C6VGNT with reason reset
+I, [2016-01-07T08:06:09.587625 #1944]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"KJDNJF6T","reason":"reset"} on /topic/hpumail
+I, [2016-01-07T08:06:09.587625 #1944]  INFO -- : sending email to becunsunrangvinh@gmail.com with token KJDNJF6T with reason reset
+I, [2016-01-07T08:20:52.549176 #1944]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"ayehien123","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-07T08:20:52.549176 #1944]  INFO -- : sending email to becunsunrangvinh@gmail.com with token ayehien123 with reason resetpassword
+I, [2016-01-07T08:47:37.885595 #1944]  INFO -- : received: {"to":"buithuyloanhpu@gmail.com","token":"23051995","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-07T08:47:37.885595 #1944]  INFO -- : sending email to buithuyloanhpu@gmail.com with token 23051995 with reason resetpassword
+I, [2016-01-07T09:02:59.831615 #1944]  INFO -- : received: {"to":"thamletienganh@gmail.com","token":"3a49f004bbaf3132ed7e584c9c489a0f","reason":"register"} on /topic/hpumail
+I, [2016-01-07T09:02:59.831615 #1944]  INFO -- : sending email to thamletienganh@gmail.com with token 3a49f004bbaf3132ed7e584c9c489a0f with reason register
+I, [2016-01-07T10:06:23.945096 #1944]  INFO -- : received: {"to":"buidang3@gmail.com","token":"3ca3257530e9ea28f41a885d88309cdd","reason":"register"} on /topic/hpumail
+I, [2016-01-07T10:06:23.945096 #1944]  INFO -- : sending email to buidang3@gmail.com with token 3ca3257530e9ea28f41a885d88309cdd with reason register
+I, [2016-01-07T10:07:13.303583 #1944]  INFO -- : received: {"to":"ledinhduydchp@gmail.com","token":"533e22672ea8be8629ba5b3b489aa453","reason":"register"} on /topic/hpumail
+I, [2016-01-07T10:07:13.303583 #1944]  INFO -- : sending email to ledinhduydchp@gmail.com with token 533e22672ea8be8629ba5b3b489aa453 with reason register
+I, [2016-01-07T10:47:05.333784 #1944]  INFO -- : received: {"to":"chich131@gmail.com","token":"854c73eea3216062c1f4d2187fadbc8a","reason":"register"} on /topic/hpumail
+I, [2016-01-07T10:47:05.333784 #1944]  INFO -- : sending email to chich131@gmail.com with token 854c73eea3216062c1f4d2187fadbc8a with reason register
+I, [2016-01-07T10:51:35.073858 #1944]  INFO -- : received: {"to":"doyen1706@gmail.com","token":"c4d1f02cfce6e385012abdaecb92a14a","reason":"register"} on /topic/hpumail
+I, [2016-01-07T10:51:35.073858 #1944]  INFO -- : sending email to doyen1706@gmail.com with token c4d1f02cfce6e385012abdaecb92a14a with reason register
+I, [2016-01-07T11:02:38.262223 #1944]  INFO -- : received: {"to":"caohong130792@gmail.com","token":"47741288d4ff5e2334fb7f4137d0e887","reason":"register"} on /topic/hpumail
+I, [2016-01-07T11:02:38.262223 #1944]  INFO -- : sending email to caohong130792@gmail.com with token 47741288d4ff5e2334fb7f4137d0e887 with reason register
+I, [2016-01-07T11:17:01.630139 #1944]  INFO -- : received: {"to":"myththanthoaiboy8x@gmail.com","token":"18051994","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-07T11:17:01.630139 #1944]  INFO -- : sending email to myththanthoaiboy8x@gmail.com with token 18051994 with reason resetpassword
+I, [2016-01-07T11:23:21.662407 #1944]  INFO -- : received: {"to":"caohong130792@gmail.com","token":"4PHVAPWV","reason":"reset"} on /topic/hpumail
+I, [2016-01-07T11:23:21.662407 #1944]  INFO -- : sending email to caohong130792@gmail.com with token 4PHVAPWV with reason reset
+I, [2016-01-07T11:25:35.198641 #1944]  INFO -- : received: {"to":"caohong130792@gmail.com","token":"1513401011","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-07T11:25:35.198641 #1944]  INFO -- : sending email to caohong130792@gmail.com with token 1513401011 with reason resetpassword
+I, [2016-01-07T13:55:08.740003 #1944]  INFO -- : received: {"to":"nguyenanh20121995@gmail.com","token":"J2EYQYZ3","reason":"reset"} on /topic/hpumail
+I, [2016-01-07T13:55:08.740003 #1944]  INFO -- : sending email to nguyenanh20121995@gmail.com with token J2EYQYZ3 with reason reset
+I, [2016-01-07T13:56:13.526916 #1944]  INFO -- : received: {"to":"nguyenanh20121995@gmail.com","token":"kimanh","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-07T13:56:13.526916 #1944]  INFO -- : sending email to nguyenanh20121995@gmail.com with token kimanh with reason resetpassword
+I, [2016-01-07T15:39:29.935800 #1944]  INFO -- : received: {"to":"hientlhp1993@gmail.com","token":"V44TKYTA","reason":"reset"} on /topic/hpumail
+I, [2016-01-07T15:39:29.935800 #1944]  INFO -- : sending email to hientlhp1993@gmail.com with token V44TKYTA with reason reset
+I, [2016-01-07T15:43:49.941456 #1944]  INFO -- : received: {"to":"hientlhp1993@gmail.com","token":"HIENHP1993","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-07T15:43:49.941456 #1944]  INFO -- : sending email to hientlhp1993@gmail.com with token HIENHP1993 with reason resetpassword
+I, [2016-01-07T15:45:10.421998 #1944]  INFO -- : received: {"to":"phuongthao9xxx@gmail.com","token":"V3RZDAFV","reason":"reset"} on /topic/hpumail
+I, [2016-01-07T15:45:10.421998 #1944]  INFO -- : sending email to phuongthao9xxx@gmail.com with token V3RZDAFV with reason reset
+I, [2016-01-07T15:46:47.750569 #1944]  INFO -- : received: {"to":"phuongthao9xxx@gmail.com","token":"phuongthao11","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-07T15:46:47.750569 #1944]  INFO -- : sending email to phuongthao9xxx@gmail.com with token phuongthao11 with reason resetpassword

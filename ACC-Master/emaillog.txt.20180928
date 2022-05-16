@@ -1,0 +1,9 @@
+# Logfile created on 2018-09-28 10:28:23 +0700 by logger.rb/31641
+I, [2018-09-28T10:28:23.689715 #1360]  INFO -- : received: {"to":"skyjack95x@gmail.com","token":"EYRJ2YXH","reason":"reset"} on /topic/hpumail
+I, [2018-09-28T10:28:23.720915 #1360]  INFO -- : sending email to skyjack95x@gmail.com with token EYRJ2YXH with reason reset
+I, [2018-09-28T10:30:29.160735 #1360]  INFO -- : received: {"to":"skyjack95x@gmail.com","token":"sup\u00e9ky","reason":"resetpassword"} on /topic/hpumail
+I, [2018-09-28T10:30:29.160735 #1360]  INFO -- : sending email to skyjack95x@gmail.com with token supéky with reason resetpassword
+I, [2018-09-28T15:49:51.189192 #1360]  INFO -- : received: {"to":"hoainam170797@gmail.com","token":"4A2KRAPW","reason":"reset"} on /topic/hpumail
+I, [2018-09-28T15:49:51.189192 #1360]  INFO -- : sending email to hoainam170797@gmail.com with token 4A2KRAPW with reason reset
+I, [2018-09-28T15:57:41.327217 #1360]  INFO -- : received: {"to":"hoainam170797@gmail.com","token":"123456","reason":"resetpassword"} on /topic/hpumail
+I, [2018-09-28T15:57:41.327217 #1360]  INFO -- : sending email to hoainam170797@gmail.com with token 123456 with reason resetpassword

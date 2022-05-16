@@ -1,0 +1,13 @@
+# Logfile created on 2021-11-14 09:55:31 +0700 by logger.rb/31641
+I, [2021-11-14T09:55:31.413541 #19428]  INFO -- : received: {"to":"nguyenvantrung020203@gmail.com","token":"ANGD2A6D","reason":"reset"} on /topic/hpumail
+I, [2021-11-14T09:55:31.429141 #19428]  INFO -- : sending email to nguyenvantrung020203@gmail.com with token ANGD2A6D with reason reset
+I, [2021-11-14T10:00:42.361891 #19428]  INFO -- : received: {"to":"myhang16172018@gmail.com","token":"490ea21647c62cef3383d386b8087b8d","reason":"register"} on /topic/hpumail
+I, [2021-11-14T10:00:42.361891 #19428]  INFO -- : sending email to myhang16172018@gmail.com with token 490ea21647c62cef3383d386b8087b8d with reason register
+I, [2021-11-14T10:02:17.017659 #19428]  INFO -- : received: {"to":"kieuoanh23102003@gmail.com","token":"46b9b6d0ffebadc4de5afb7a6baef332","reason":"register"} on /topic/hpumail
+I, [2021-11-14T10:02:17.017659 #19428]  INFO -- : sending email to kieuoanh23102003@gmail.com with token 46b9b6d0ffebadc4de5afb7a6baef332 with reason register
+I, [2021-11-14T10:03:30.899789 #19428]  INFO -- : received: {"to":"kipkipkhai@gmail.com","token":"202fb434c6adb877d881343a0ac148b5","reason":"register"} on /topic/hpumail
+I, [2021-11-14T10:03:30.899789 #19428]  INFO -- : sending email to kipkipkhai@gmail.com with token 202fb434c6adb877d881343a0ac148b5 with reason register
+I, [2021-11-14T10:12:45.984171 #19428]  INFO -- : received: {"to":"kipkipkhai@gmail.com","token":"83e182afe2e745a53531da616096ab50","reason":"register"} on /topic/hpumail
+I, [2021-11-14T10:12:45.984171 #19428]  INFO -- : sending email to kipkipkhai@gmail.com with token 83e182afe2e745a53531da616096ab50 with reason register
+I, [2021-11-14T10:18:22.276967 #19428]  INFO -- : received: {"to":"phuonnganh2605@gmail.com","token":"7ef4260455be72aae7eb8ab90d124f57","reason":"register"} on /topic/hpumail
+I, [2021-11-14T10:18:22.292567 #19428]  INFO -- : sending email to phuonnganh2605@gmail.com with token 7ef4260455be72aae7eb8ab90d124f57 with reason register

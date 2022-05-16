@@ -1,0 +1,7 @@
+# Logfile created on 2017-11-29 15:00:43 +0700 by logger.rb/31641
+I, [2017-11-29T15:00:43.164210 #1916]  INFO -- : received: {"to":"tranthiduyenhp94@gmail.com","token":"3V3JA4VK","reason":"reset"} on /topic/hpumail
+I, [2017-11-29T15:00:43.179810 #1916]  INFO -- : sending email to tranthiduyenhp94@gmail.com with token 3V3JA4VK with reason reset
+I, [2017-11-29T15:01:46.453521 #1916]  INFO -- : received: {"to":"quan12021994@gmail.com","token":"F9RPXVC4","reason":"reset"} on /topic/hpumail
+I, [2017-11-29T15:01:46.453521 #1916]  INFO -- : sending email to quan12021994@gmail.com with token F9RPXVC4 with reason reset
+I, [2017-11-29T15:02:37.512411 #1916]  INFO -- : received: {"to":"quan12021994@gmail.com","token":"12021994","reason":"resetpassword"} on /topic/hpumail
+I, [2017-11-29T15:02:37.512411 #1916]  INFO -- : sending email to quan12021994@gmail.com with token 12021994 with reason resetpassword

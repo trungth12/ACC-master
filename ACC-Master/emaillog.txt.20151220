@@ -1,0 +1,25 @@
+# Logfile created on 2015-12-20 02:15:00 +0700 by logger.rb/31641
+I, [2015-12-20T02:15:00.975465 #2768]  INFO -- : received: {"to":"vutaiphi.57@gmail.com","token":"fef08bacc9585c2808c1f727a14d9e3b","reason":"register"} on /topic/hpumail
+I, [2015-12-20T02:15:00.975465 #2768]  INFO -- : sending email to vutaiphi.57@gmail.com with token fef08bacc9585c2808c1f727a14d9e3b with reason register
+I, [2015-12-20T10:18:55.731862 #2768]  INFO -- : received: {"to":"lengocan010984@gmail.com","token":"db53f59da99a99b2263522d7b9ba14bc","reason":"register"} on /topic/hpumail
+I, [2015-12-20T10:18:55.731862 #2768]  INFO -- : sending email to lengocan010984@gmail.com with token db53f59da99a99b2263522d7b9ba14bc with reason register
+I, [2015-12-20T12:30:10.844094 #2396]  INFO -- : received: {"to":"daknetbmt@gmail.com","token":"15251972cbdb9e3265d3fea768022e84","reason":"register"} on /topic/hpumail
+I, [2015-12-20T12:30:10.844094 #2396]  INFO -- : sending email to daknetbmt@gmail.com with token 15251972cbdb9e3265d3fea768022e84 with reason register
+I, [2015-12-20T13:11:38.362063 #2396]  INFO -- : received: {"to":"alexphan1985@gmail.com","token":"65bbc7ce3c2dd5db59b4e6d4d8ce8aa3","reason":"register"} on /topic/hpumail
+I, [2015-12-20T13:11:38.362063 #2396]  INFO -- : sending email to alexphan1985@gmail.com with token 65bbc7ce3c2dd5db59b4e6d4d8ce8aa3 with reason register
+I, [2015-12-20T14:11:01.455121 #2396]  INFO -- : received: {"to":"phamyen1711@gmail.com","token":"703dc733997b86d67794a609a077f72d","reason":"register"} on /topic/hpumail
+I, [2015-12-20T14:11:01.455121 #2396]  INFO -- : sending email to phamyen1711@gmail.com with token 703dc733997b86d67794a609a077f72d with reason register
+I, [2015-12-20T15:18:57.804681 #2396]  INFO -- : received: {"to":"ngtkhang211289@gmail.com","token":"f119c50566546b9551a041e58b862be2","reason":"register"} on /topic/hpumail
+I, [2015-12-20T15:18:57.804681 #2396]  INFO -- : sending email to ngtkhang211289@gmail.com with token f119c50566546b9551a041e58b862be2 with reason register
+I, [2015-12-20T17:11:47.046571 #2396]  INFO -- : received: {"to":"ichhaichau16081994@gmail.com","token":"bb0e8e37fbff341b7510544971b36546","reason":"register"} on /topic/hpumail
+I, [2015-12-20T17:11:47.046571 #2396]  INFO -- : sending email to ichhaichau16081994@gmail.com with token bb0e8e37fbff341b7510544971b36546 with reason register
+I, [2015-12-20T17:12:24.829837 #2396]  INFO -- : received: {"to":"hhceovip@gmail.com","token":"da4b4365848d091f4ec25988022bdbc0","reason":"register"} on /topic/hpumail
+I, [2015-12-20T17:12:24.829837 #2396]  INFO -- : sending email to hhceovip@gmail.com with token da4b4365848d091f4ec25988022bdbc0 with reason register
+I, [2015-12-20T19:48:10.073051 #2396]  INFO -- : received: {"to":"Hangung@gmall.com","token":"700d4b28c17e460c4991d4fdb8c303b3","reason":"register"} on /topic/hpumail
+I, [2015-12-20T19:48:10.073051 #2396]  INFO -- : sending email to Hangung@gmall.com with token 700d4b28c17e460c4991d4fdb8c303b3 with reason register
+I, [2015-12-20T20:05:20.829261 #2396]  INFO -- : received: {"to":"lazyguy669@gmail.com","token":"PVGC9EPD","reason":"reset"} on /topic/hpumail
+I, [2015-12-20T20:05:20.829261 #2396]  INFO -- : sending email to lazyguy669@gmail.com with token PVGC9EPD with reason reset
+I, [2015-12-20T20:30:46.043940 #2396]  INFO -- : received: {"to":"a01694906126@gmail.com","token":"c88cb8f9cdd54f20259dcff5fe64ced2","reason":"register"} on /topic/hpumail
+I, [2015-12-20T20:30:46.043940 #2396]  INFO -- : sending email to a01694906126@gmail.com with token c88cb8f9cdd54f20259dcff5fe64ced2 with reason register
+I, [2015-12-20T23:07:36.370469 #2396]  INFO -- : received: {"to":"ldhunghcm@gmail.com","token":"6a37618d1517ddad37a488d343c30a25","reason":"register"} on /topic/hpumail
+I, [2015-12-20T23:07:36.370469 #2396]  INFO -- : sending email to ldhunghcm@gmail.com with token 6a37618d1517ddad37a488d343c30a25 with reason register

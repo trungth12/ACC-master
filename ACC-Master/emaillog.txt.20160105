@@ -1,0 +1,11 @@
+# Logfile created on 2016-01-05 08:10:58 +0700 by logger.rb/31641
+I, [2016-01-05T08:10:58.768731 #4216]  INFO -- : received: {"to":"phanhongminh313@gmail.com","token":"bfed0a7699241d277b6fb1b97d43b866","reason":"register"} on /topic/hpumail
+I, [2016-01-05T08:10:58.768731 #4216]  INFO -- : sending email to phanhongminh313@gmail.com with token bfed0a7699241d277b6fb1b97d43b866 with reason register
+I, [2016-01-05T11:55:50.249628 #4216]  INFO -- : received: {"to":"dinhthuctrinhyb@gmail.com","token":"E2WCFEDZ","reason":"reset"} on /topic/hpumail
+I, [2016-01-05T11:55:50.249628 #4216]  INFO -- : sending email to dinhthuctrinhyb@gmail.com with token E2WCFEDZ with reason reset
+I, [2016-01-05T13:04:01.668814 #4216]  INFO -- : received: {"to":"dinhhongnhung1992@gmail.com","token":"HCYQJ4FK","reason":"reset"} on /topic/hpumail
+I, [2016-01-05T13:04:01.668814 #4216]  INFO -- : sending email to dinhhongnhung1992@gmail.com with token HCYQJ4FK with reason reset
+I, [2016-01-05T15:39:10.347831 #4216]  INFO -- : received: {"to":"buithithuhien12091995@gmail.com","token":"6F2EG7KV","reason":"reset"} on /topic/hpumail
+I, [2016-01-05T15:39:10.347831 #4216]  INFO -- : sending email to buithithuhien12091995@gmail.com with token 6F2EG7KV with reason reset
+I, [2016-01-05T16:08:59.062573 #4216]  INFO -- : received: {"to":"buihien.bc95@gmail.com","token":"5b95cdc1664dbb087fb89bb79951bc1a","reason":"register"} on /topic/hpumail
+I, [2016-01-05T16:08:59.062573 #4216]  INFO -- : sending email to buihien.bc95@gmail.com with token 5b95cdc1664dbb087fb89bb79951bc1a with reason register

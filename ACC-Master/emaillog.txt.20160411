@@ -1,0 +1,7 @@
+# Logfile created on 2016-04-11 09:47:15 +0700 by logger.rb/31641
+I, [2016-04-11T09:47:15.165886 #3056]  INFO -- : received: {"to":"dotruongsonhqhp@gmail.com","token":"WRA6TRMP","reason":"reset"} on /topic/hpumail
+I, [2016-04-11T09:47:15.197086 #3056]  INFO -- : sending email to dotruongsonhqhp@gmail.com with token WRA6TRMP with reason reset
+I, [2016-04-11T09:49:04.459678 #3056]  INFO -- : received: {"to":"dotruongsonhqhp@gmail.com","token":"HMAZKKZD","reason":"reset"} on /topic/hpumail
+I, [2016-04-11T09:49:04.459678 #3056]  INFO -- : sending email to dotruongsonhqhp@gmail.com with token HMAZKKZD with reason reset
+I, [2016-04-11T15:36:27.782087 #3056]  INFO -- : received: {"to":"tranganh.nnguyen@gmail.com","token":"ZAHE3Q9Z","reason":"reset"} on /topic/hpumail
+I, [2016-04-11T15:36:27.782087 #3056]  INFO -- : sending email to tranganh.nnguyen@gmail.com with token ZAHE3Q9Z with reason reset

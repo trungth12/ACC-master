@@ -1,0 +1,3 @@
+# Logfile created on 2016-09-20 09:35:03 +0700 by logger.rb/31641
+I, [2016-09-20T09:35:03.104964 #2184]  INFO -- : received: {"to":"dinhthuctrinhyb@gmail.com","token":"9J4QXAR6","reason":"reset"} on /topic/hpumail
+I, [2016-09-20T09:35:03.167364 #2184]  INFO -- : sending email to dinhthuctrinhyb@gmail.com with token 9J4QXAR6 with reason reset

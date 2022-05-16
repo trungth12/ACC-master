@@ -1,0 +1,9 @@
+# Logfile created on 2018-10-09 10:01:56 +0700 by logger.rb/31641
+I, [2018-10-09T10:01:56.595375 #1360]  INFO -- : received: {"to":"dvhhp97@gmail.com","token":"EHTAPRJ6","reason":"reset"} on /topic/hpumail
+I, [2018-10-09T10:01:56.766976 #1360]  INFO -- : sending email to dvhhp97@gmail.com with token EHTAPRJ6 with reason reset
+I, [2018-10-09T10:02:27.389829 #1360]  INFO -- : received: {"to":"malkinsel@gmail.com","token":"KKRXPTGA","reason":"reset"} on /topic/hpumail
+I, [2018-10-09T10:02:27.389829 #1360]  INFO -- : sending email to malkinsel@gmail.com with token KKRXPTGA with reason reset
+I, [2018-10-09T10:03:15.469114 #1360]  INFO -- : received: {"to":"dvhhp97@gmail.com","token":"HE9KGA7Z","reason":"reset"} on /topic/hpumail
+I, [2018-10-09T10:03:15.469114 #1360]  INFO -- : sending email to dvhhp97@gmail.com with token HE9KGA7Z with reason reset
+I, [2018-10-09T10:06:32.060659 #1360]  INFO -- : received: {"to":"anhhoang250197@gmail.com","token":"HW9DCFGK","reason":"reset"} on /topic/hpumail
+I, [2018-10-09T10:06:32.060659 #1360]  INFO -- : sending email to anhhoang250197@gmail.com with token HW9DCFGK with reason reset

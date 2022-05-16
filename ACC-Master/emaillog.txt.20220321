@@ -1,0 +1,5 @@
+# Logfile created on 2022-03-08 09:47:56 +0700 by logger.rb/31641
+I, [2022-03-08T09:47:56.738505 #5756]  INFO -- : received: {"to":"ngthu21081998@gmail.com","token":"8108ffd1c415d8cf8f10e327faee0b2e","reason":"register"} on /topic/hpumail
+I, [2022-03-08T09:47:56.769705 #5756]  INFO -- : sending email to ngthu21081998@gmail.com with token 8108ffd1c415d8cf8f10e327faee0b2e with reason register
+I, [2022-03-08T09:58:18.727198 #5756]  INFO -- : received: {"to":"nhuthanh594@gmail.com","token":"63f1a2cd1205b0415c5388df3c402c73","reason":"register"} on /topic/hpumail
+I, [2022-03-08T09:58:18.727198 #5756]  INFO -- : sending email to nhuthanh594@gmail.com with token 63f1a2cd1205b0415c5388df3c402c73 with reason register

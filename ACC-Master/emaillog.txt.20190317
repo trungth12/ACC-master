@@ -1,0 +1,5 @@
+# Logfile created on 2019-03-15 14:49:11 +0700 by logger.rb/31641
+I, [2019-03-15T14:49:11.978637 #2008]  INFO -- : received: {"to":"ziezieponyo@gmail.com","token":"DQGH4MHF","reason":"reset"} on /topic/hpumail
+I, [2019-03-15T14:49:11.994237 #2008]  INFO -- : sending email to ziezieponyo@gmail.com with token DQGH4MHF with reason reset
+I, [2019-03-15T14:51:24.566270 #2008]  INFO -- : received: {"to":"ziezieponyo@gmail.com","token":"xiahjunsu","reason":"resetpassword"} on /topic/hpumail
+I, [2019-03-15T14:51:24.566270 #2008]  INFO -- : sending email to ziezieponyo@gmail.com with token xiahjunsu with reason resetpassword

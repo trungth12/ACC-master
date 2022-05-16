@@ -1,0 +1,3 @@
+# Logfile created on 2016-12-12 22:10:06 +0700 by logger.rb/31641
+I, [2016-12-12T22:10:06.148178 #2688]  INFO -- : received: {"to":"yosmile15@gmail.com","token":"ANAHCYTY","reason":"reset"} on /topic/hpumail
+I, [2016-12-12T22:10:06.194978 #2688]  INFO -- : sending email to yosmile15@gmail.com with token ANAHCYTY with reason reset

@@ -1,0 +1,13 @@
+# Logfile created on 2019-08-21 08:04:27 +0700 by logger.rb/31641
+I, [2019-08-21T08:04:27.671475 #1776]  INFO -- : received: {"to":"chucdh@hpu.edu.vn","token":"AJJ3W44Y","reason":"reset"} on /topic/hpumail
+I, [2019-08-21T08:04:27.671475 #1776]  INFO -- : sending email to chucdh@hpu.edu.vn with token AJJ3W44Y with reason reset
+I, [2019-08-21T12:31:43.704041 #1776]  INFO -- : received: {"to":"chieudv@hpu.edu.vn","token":"3VGMQYZM","reason":"reset"} on /topic/hpumail
+I, [2019-08-21T12:31:43.704041 #1776]  INFO -- : sending email to chieudv@hpu.edu.vn with token 3VGMQYZM with reason reset
+I, [2019-08-21T19:15:34.711801 #1776]  INFO -- : received: {"to":"nvduong@hpu.edu.vn","token":"XCD4GM9Z","reason":"reset"} on /topic/hpumail
+I, [2019-08-21T19:15:34.727401 #1776]  INFO -- : sending email to nvduong@hpu.edu.vn with token XCD4GM9Z with reason reset
+I, [2019-08-21T22:55:47.779008 #1776]  INFO -- : received: {"to":"ngapt@hpu.edu.vn","token":"X969XZDN","reason":"reset"} on /topic/hpumail
+I, [2019-08-21T22:55:47.779008 #1776]  INFO -- : sending email to ngapt@hpu.edu.vn with token X969XZDN with reason reset
+I, [2019-08-21T22:56:50.834319 #1776]  INFO -- : received: {"to":"ngapt@hpu.edu.vn","token":"Z9HT79ZP","reason":"reset"} on /topic/hpumail
+I, [2019-08-21T22:56:50.849919 #1776]  INFO -- : sending email to ngapt@hpu.edu.vn with token Z9HT79ZP with reason reset
+I, [2019-08-21T23:19:42.919129 #1776]  INFO -- : received: {"to":"ngapt@hpu.edu.vn","token":"trinhan20","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-21T23:19:42.919129 #1776]  INFO -- : sending email to ngapt@hpu.edu.vn with token trinhan20 with reason resetpassword

@@ -1,0 +1,7 @@
+# Logfile created on 2017-10-02 11:16:03 +0700 by logger.rb/31641
+I, [2017-10-02T11:16:03.730093 #1464]  INFO -- : received: {"to":"doanhct16@gmail.com","token":"7739H3V9","reason":"reset"} on /topic/hpumail
+I, [2017-10-02T11:16:03.730093 #1464]  INFO -- : sending email to doanhct16@gmail.com with token 7739H3V9 with reason reset
+I, [2017-10-02T14:54:37.659126 #1464]  INFO -- : received: {"to":"anbui1402@gmail.com","token":"WV7EXJFP","reason":"reset"} on /topic/hpumail
+I, [2017-10-02T14:54:37.659126 #1464]  INFO -- : sending email to anbui1402@gmail.com with token WV7EXJFP with reason reset
+I, [2017-10-02T14:57:34.095436 #1464]  INFO -- : received: {"to":"anbui1402@gmail.com","token":"haiphong","reason":"resetpassword"} on /topic/hpumail
+I, [2017-10-02T14:57:34.095436 #1464]  INFO -- : sending email to anbui1402@gmail.com with token haiphong with reason resetpassword

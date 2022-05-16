@@ -1,0 +1,3 @@
+# Logfile created on 2019-07-15 22:58:03 +0700 by logger.rb/31641
+I, [2019-07-15T22:58:03.786473 #2020]  INFO -- : received: {"to":"thunv@hpu.edu.vn","token":"2YK79Q2W","reason":"reset"} on /topic/hpumail
+I, [2019-07-15T22:58:03.848873 #2020]  INFO -- : sending email to thunv@hpu.edu.vn with token 2YK79Q2W with reason reset

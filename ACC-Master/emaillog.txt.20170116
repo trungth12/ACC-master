@@ -1,0 +1,11 @@
+# Logfile created on 2017-01-16 07:44:46 +0700 by logger.rb/31641
+I, [2017-01-16T07:44:46.167053 #2680]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"WWCZE7YQ","reason":"reset"} on /topic/hpumail
+I, [2017-01-16T07:44:46.213853 #2680]  INFO -- : sending email to tamht.na1804@gmail.com with token WWCZE7YQ with reason reset
+I, [2017-01-16T07:48:04.131401 #2680]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"thanhtam27","reason":"resetpassword"} on /topic/hpumail
+I, [2017-01-16T07:48:04.131401 #2680]  INFO -- : sending email to tamht.na1804@gmail.com with token thanhtam27 with reason resetpassword
+I, [2017-01-16T08:03:58.915478 #2680]  INFO -- : received: {"to":"bagiakhotinh1995@gmail.com","token":"K2J6JD3K","reason":"reset"} on /topic/hpumail
+I, [2017-01-16T08:03:58.915478 #2680]  INFO -- : sending email to bagiakhotinh1995@gmail.com with token K2J6JD3K with reason reset
+I, [2017-01-16T08:09:58.667710 #2680]  INFO -- : received: {"to":"bagiakhotinh1995@gmail.com","token":"28041009","reason":"resetpassword"} on /topic/hpumail
+I, [2017-01-16T08:09:58.667710 #2680]  INFO -- : sending email to bagiakhotinh1995@gmail.com with token 28041009 with reason resetpassword
+I, [2017-01-16T09:33:40.129329 #2680]  INFO -- : received: {"to":"vipboysanhdieu@gmail.com","token":"23H99HQF","reason":"reset"} on /topic/hpumail
+I, [2017-01-16T09:33:40.129329 #2680]  INFO -- : sending email to vipboysanhdieu@gmail.com with token 23H99HQF with reason reset

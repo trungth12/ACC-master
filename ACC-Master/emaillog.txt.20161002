@@ -1,0 +1,3 @@
+# Logfile created on 2016-10-01 10:49:04 +0700 by logger.rb/31641
+I, [2016-10-01T10:49:04.072733 #2428]  INFO -- : received: {"to":"ngockhi3009@gmail.com","token":"ngoca12","reason":"resetpassword"} on /topic/hpumail
+I, [2016-10-01T10:49:04.103933 #2428]  INFO -- : sending email to ngockhi3009@gmail.com with token ngoca12 with reason resetpassword

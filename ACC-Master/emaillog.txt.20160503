@@ -1,0 +1,3 @@
+# Logfile created on 2016-04-28 20:31:46 +0700 by logger.rb/31641
+I, [2016-04-28T20:31:46.014476 #2632]  INFO -- : received: {"to":"nobita_dethuong_93@yahoo.com","token":"7JKN73HD","reason":"reset"} on /topic/hpumail
+I, [2016-04-28T20:31:46.050478 #2632]  INFO -- : sending email to nobita_dethuong_93@yahoo.com with token 7JKN73HD with reason reset

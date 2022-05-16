@@ -1,0 +1,3 @@
+# Logfile created on 2017-04-11 21:58:27 +0700 by logger.rb/31641
+I, [2017-04-11T21:58:27.210372 #2660]  INFO -- : received: {"to":"maseobbie@gmail.com","token":"1be93d2ebf07a8082354f29b0f416976","reason":"register"} on /topic/hpumail
+I, [2017-04-11T21:58:27.272772 #2660]  INFO -- : sending email to maseobbie@gmail.com with token 1be93d2ebf07a8082354f29b0f416976 with reason register

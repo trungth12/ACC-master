@@ -1,0 +1,9 @@
+# Logfile created on 2017-12-14 10:35:26 +0700 by logger.rb/31641
+I, [2017-12-14T10:35:26.766429 #1876]  INFO -- : received: {"to":"duongminhthuy080996@gmail.com","token":"7XJ7DDFQ","reason":"reset"} on /topic/hpumail
+I, [2017-12-14T10:35:26.766429 #1876]  INFO -- : sending email to duongminhthuy080996@gmail.com with token 7XJ7DDFQ with reason reset
+I, [2017-12-14T14:23:19.909645 #1876]  INFO -- : received: {"to":"hoangngoc9996@gmail.com","token":"RXGDH2QJ","reason":"reset"} on /topic/hpumail
+I, [2017-12-14T14:23:19.909645 #1876]  INFO -- : sending email to hoangngoc9996@gmail.com with token RXGDH2QJ with reason reset
+I, [2017-12-14T19:52:06.939893 #1876]  INFO -- : received: {"to":"minhphuong13081960@gmail.com","token":"XPAVN9D2","reason":"reset"} on /topic/hpumail
+I, [2017-12-14T19:52:06.939893 #1876]  INFO -- : sending email to minhphuong13081960@gmail.com with token XPAVN9D2 with reason reset
+I, [2017-12-14T22:10:46.699706 #1876]  INFO -- : received: {"to":"chuhien.214@gmail.com","token":"D7X9TGME","reason":"reset"} on /topic/hpumail
+I, [2017-12-14T22:10:46.699706 #1876]  INFO -- : sending email to chuhien.214@gmail.com with token D7X9TGME with reason reset

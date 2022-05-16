@@ -1,0 +1,5 @@
+# Logfile created on 2017-05-22 14:49:25 +0700 by logger.rb/31641
+I, [2017-05-22T14:49:25.619775 #2592]  INFO -- : received: {"to":"minhhiepnguyen2408@gmail.com","token":"M46MKV4D","reason":"reset"} on /topic/hpumail
+I, [2017-05-22T14:49:25.666575 #2592]  INFO -- : sending email to minhhiepnguyen2408@gmail.com with token M46MKV4D with reason reset
+I, [2017-05-22T15:41:25.079254 #2592]  INFO -- : received: {"to":"truongbabinh1810@gmail.com","token":"Y9V6KXWQ","reason":"reset"} on /topic/hpumail
+I, [2017-05-22T15:41:25.079254 #2592]  INFO -- : sending email to truongbabinh1810@gmail.com with token Y9V6KXWQ with reason reset

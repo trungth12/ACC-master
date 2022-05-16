@@ -1,0 +1,15 @@
+# Logfile created on 2018-10-01 06:51:30 +0700 by logger.rb/31641
+I, [2018-10-01T06:51:30.782815 #1360]  INFO -- : received: {"to":"daidv1996@gmail.com","token":"Y3NZNF9P","reason":"reset"} on /topic/hpumail
+I, [2018-10-01T06:51:30.876415 #1360]  INFO -- : sending email to daidv1996@gmail.com with token Y3NZNF9P with reason reset
+I, [2018-10-01T09:21:02.264972 #1360]  INFO -- : received: {"to":"luongvanchunghp94@gmail.com","token":"VXMPMJAF","reason":"reset"} on /topic/hpumail
+I, [2018-10-01T09:21:02.358572 #1360]  INFO -- : sending email to luongvanchunghp94@gmail.com with token VXMPMJAF with reason reset
+I, [2018-10-01T09:40:44.372649 #1360]  INFO -- : received: {"to":"luongvanchunghp94@gmail.com","token":"CHUNG25121994","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-01T09:40:44.372649 #1360]  INFO -- : sending email to luongvanchunghp94@gmail.com with token CHUNG25121994 with reason resetpassword
+I, [2018-10-01T15:31:38.304531 #1360]  INFO -- : received: {"to":"skyjack95x@gmail.com","token":"D4QVWGCN","reason":"reset"} on /topic/hpumail
+I, [2018-10-01T15:31:38.335731 #1360]  INFO -- : sending email to skyjack95x@gmail.com with token D4QVWGCN with reason reset
+I, [2018-10-01T15:32:51.999061 #1360]  INFO -- : received: {"to":"skyjack95x@gmail.com","token":"VD3NN46Q","reason":"reset"} on /topic/hpumail
+I, [2018-10-01T15:32:52.030261 #1360]  INFO -- : sending email to skyjack95x@gmail.com with token VD3NN46Q with reason reset
+I, [2018-10-01T15:57:07.762417 #1360]  INFO -- : received: {"to":"phamdu12@gmail.com","token":"EJG2T3X6","reason":"reset"} on /topic/hpumail
+I, [2018-10-01T15:57:07.762417 #1360]  INFO -- : sending email to phamdu12@gmail.com with token EJG2T3X6 with reason reset
+I, [2018-10-01T22:13:42.311703 #1360]  INFO -- : received: {"to":"skyjack95x@gmail.com","token":"supersky","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-01T22:13:42.311703 #1360]  INFO -- : sending email to skyjack95x@gmail.com with token supersky with reason resetpassword

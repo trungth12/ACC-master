@@ -1,0 +1,13 @@
+# Logfile created on 2016-05-18 00:18:37 +0700 by logger.rb/31641
+I, [2016-05-18T00:18:37.095109 #1808]  INFO -- : received: {"to":"cuchoanhothichcandualeo@gmail.com","token":"D769XJFY","reason":"reset"} on /topic/hpumail
+I, [2016-05-18T00:18:37.102109 #1808]  INFO -- : sending email to cuchoanhothichcandualeo@gmail.com with token D769XJFY with reason reset
+I, [2016-05-18T00:21:23.554630 #1808]  INFO -- : received: {"to":"cuchoanhothichcandualeo@gmail.com","token":"04101995","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-18T00:21:23.555630 #1808]  INFO -- : sending email to cuchoanhothichcandualeo@gmail.com with token 04101995 with reason resetpassword
+I, [2016-05-18T10:48:12.542741 #1808]  INFO -- : received: {"to":"magicanboom@gmail.com","token":"QQWRYGRC","reason":"reset"} on /topic/hpumail
+I, [2016-05-18T10:48:12.543741 #1808]  INFO -- : sending email to magicanboom@gmail.com with token QQWRYGRC with reason reset
+I, [2016-05-18T13:59:46.751172 #1808]  INFO -- : received: {"to":"nguyendieulinh16997@gmail.com","token":"conchodieuanh1","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-18T13:59:46.751172 #1808]  INFO -- : sending email to nguyendieulinh16997@gmail.com with token conchodieuanh1 with reason resetpassword
+I, [2016-05-18T17:22:48.756943 #1808]  INFO -- : received: {"to":"anhphuong142013@gmail.com","token":"Y2ZERVQZ","reason":"reset"} on /topic/hpumail
+I, [2016-05-18T17:22:48.757943 #1808]  INFO -- : sending email to anhphuong142013@gmail.com with token Y2ZERVQZ with reason reset
+I, [2016-05-18T20:27:45.473639 #1808]  INFO -- : received: {"to":"doanvanngochp@gmail.com","token":"c1cae165e223b81dba3583444c7618b0","reason":"register"} on /topic/hpumail
+I, [2016-05-18T20:27:45.473639 #1808]  INFO -- : sending email to doanvanngochp@gmail.com with token c1cae165e223b81dba3583444c7618b0 with reason register

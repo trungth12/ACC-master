@@ -1,0 +1,63 @@
+# Logfile created on 2020-04-02 05:22:43 +0700 by logger.rb/31641
+I, [2020-04-02T05:22:43.101968 #1148]  INFO -- : received: {"to":"quytd@hpu.edu.vn","token":"ba8e0248730119e5187ec392683d8cf7","reason":"register"} on /topic/hpumail
+I, [2020-04-02T05:22:43.101968 #1148]  INFO -- : sending email to quytd@hpu.edu.vn with token ba8e0248730119e5187ec392683d8cf7 with reason register
+I, [2020-04-02T05:22:50.714781 #1148]  INFO -- : received: {"to":"duytuanktv@gmail.com","token":"177afff725ab43168b1a6cb884e95930","reason":"register"} on /topic/hpumail
+I, [2020-04-02T05:22:50.730381 #1148]  INFO -- : sending email to duytuanktv@gmail.com with token 177afff725ab43168b1a6cb884e95930 with reason register
+I, [2020-04-02T05:22:58.733195 #1148]  INFO -- : received: {"to":"boy.mrhobao@gmail.com","token":"PGVYEK6H","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:22:58.748795 #1148]  INFO -- : sending email to boy.mrhobao@gmail.com with token PGVYEK6H with reason reset
+I, [2020-04-02T05:23:09.762414 #1148]  INFO -- : received: {"to":"boy.mrhobao@gmail.com","token":"4EWTGE46","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:23:09.778015 #1148]  INFO -- : sending email to boy.mrhobao@gmail.com with token 4EWTGE46 with reason reset
+I, [2020-04-02T05:23:23.786839 #1148]  INFO -- : received: {"to":"boy.mrhobao@gmail.com","token":"D2MXP46H","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:23:23.802439 #1148]  INFO -- : sending email to boy.mrhobao@gmail.com with token D2MXP46H with reason reset
+I, [2020-04-02T05:23:28.810048 #1148]  INFO -- : received: {"to":"malkinsel@gmail.com","token":"AQ4WT7ZY","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:23:28.825648 #1148]  INFO -- : sending email to malkinsel@gmail.com with token AQ4WT7ZY with reason reset
+I, [2020-04-02T05:23:33.833257 #1148]  INFO -- : received: {"to":"malkinsel@gmail.com","token":"NTZCVD37","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:23:33.833257 #1148]  INFO -- : sending email to malkinsel@gmail.com with token NTZCVD37 with reason reset
+I, [2020-04-02T05:23:44.846876 #1148]  INFO -- : received: {"to":"quytd@hpu.edu.vn","token":"DYD9XA9W","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:23:44.846876 #1148]  INFO -- : sending email to quytd@hpu.edu.vn with token DYD9XA9W with reason reset
+I, [2020-04-02T05:23:49.854485 #1148]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"64VDJH74","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:23:49.854485 #1148]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token 64VDJH74 with reason reset
+I, [2020-04-02T05:23:59.869702 #1148]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"KD9QEYVE","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:23:59.885303 #1148]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token KD9QEYVE with reason reset
+I, [2020-04-02T05:24:04.892911 #1148]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"AR9QR2TR","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:24:04.892911 #1148]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token AR9QR2TR with reason reset
+I, [2020-04-02T05:24:10.930122 #1148]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"CAQJZT4H","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:24:10.930122 #1148]  INFO -- : sending email to vandt@hpu.edu.vn with token CAQJZT4H with reason reset
+I, [2020-04-02T05:24:19.931338 #1148]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"J6WX49FH","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:24:19.946938 #1148]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token J6WX49FH with reason reset
+I, [2020-04-02T05:24:32.957361 #1148]  INFO -- : received: {"to":"boy.mrhobao@gmail.com","token":"anhanh031031","reason":"resetpassword"} on /topic/hpumail
+I, [2020-04-02T05:24:32.972961 #1148]  INFO -- : sending email to boy.mrhobao@gmail.com with token anhanh031031 with reason resetpassword
+I, [2020-04-02T05:24:39.992973 #1148]  INFO -- : received: {"to":"malkinsel@gmail.com","token":"PC6HVFXW","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:24:39.992973 #1148]  INFO -- : sending email to malkinsel@gmail.com with token PC6HVFXW with reason reset
+I, [2020-04-02T05:24:52.004994 #1148]  INFO -- : received: {"to":"lienttn@hpu.edu.vn","token":"F64MT63M","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:24:52.020594 #1148]  INFO -- : sending email to lienttn@hpu.edu.vn with token F64MT63M with reason reset
+I, [2020-04-02T05:24:58.042205 #1148]  INFO -- : received: {"to":"lienttn@hpu.edu.vn","token":"TJAEMAHZ","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:24:58.042205 #1148]  INFO -- : sending email to lienttn@hpu.edu.vn with token TJAEMAHZ with reason reset
+I, [2020-04-02T05:25:12.051029 #1148]  INFO -- : received: {"to":"lienttn@hpu.edu.vn","token":"6YPPXEVR","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:25:12.066629 #1148]  INFO -- : sending email to lienttn@hpu.edu.vn with token 6YPPXEVR with reason reset
+I, [2020-04-02T05:25:18.088240 #1148]  INFO -- : received: {"to":"vuongtrong313@gmail.com","token":"WXFVHJC2","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:25:18.088240 #1148]  INFO -- : sending email to vuongtrong313@gmail.com with token WXFVHJC2 with reason reset
+I, [2020-04-02T05:25:30.115861 #1148]  INFO -- : received: {"to":"vuongtrong313@gmail.com","token":"RVPQPKPG","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:25:30.115861 #1148]  INFO -- : sending email to vuongtrong313@gmail.com with token RVPQPKPG with reason reset
+I, [2020-04-02T05:25:41.145080 #1148]  INFO -- : received: {"to":"vuongtrong313@gmail.com","token":"6YC6X4Z9","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:25:41.145080 #1148]  INFO -- : sending email to vuongtrong313@gmail.com with token 6YC6X4Z9 with reason reset
+I, [2020-04-02T05:25:51.175898 #1148]  INFO -- : received: {"to":"quytd@hpu.edu.vn","token":"@10241078#","reason":"resetpassword"} on /topic/hpumail
+I, [2020-04-02T05:25:51.175898 #1148]  INFO -- : sending email to quytd@hpu.edu.vn with token @10241078# with reason resetpassword
+I, [2020-04-02T05:25:59.194312 #1148]  INFO -- : received: {"to":"quangduithpu@gmail.com","token":"9ZFXRYZF","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:25:59.194312 #1148]  INFO -- : sending email to quangduithpu@gmail.com with token 9ZFXRYZF with reason reset
+I, [2020-04-02T05:26:05.200323 #1148]  INFO -- : received: {"to":"nbtien001@gmail.com","token":"TZ3R62HK","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:26:05.215923 #1148]  INFO -- : sending email to nbtien001@gmail.com with token TZ3R62HK with reason reset
+I, [2020-04-02T05:26:12.220335 #1148]  INFO -- : received: {"to":"nbtien001@gmail.com","token":"ZQQ9ATFR","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:26:12.235935 #1148]  INFO -- : sending email to nbtien001@gmail.com with token ZQQ9ATFR with reason reset
+I, [2020-04-02T05:26:25.246358 #1148]  INFO -- : received: {"to":"lieuboo@gmail.com","token":"4WEMWNWM","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:26:25.261958 #1148]  INFO -- : sending email to lieuboo@gmail.com with token 4WEMWNWM with reason reset
+I, [2020-04-02T05:26:33.280372 #1148]  INFO -- : received: {"to":"anhanh19297@gmail.com","token":"606405b4457ed23a6fc949fae3d0c184","reason":"register"} on /topic/hpumail
+I, [2020-04-02T05:26:33.280372 #1148]  INFO -- : sending email to anhanh19297@gmail.com with token 606405b4457ed23a6fc949fae3d0c184 with reason register
+I, [2020-04-02T05:26:47.304797 #1148]  INFO -- : received: {"to":"hungbh@hpu.edu.vn","token":"WXKAG2RZ","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:26:47.304797 #1148]  INFO -- : sending email to hungbh@hpu.edu.vn with token WXKAG2RZ with reason reset
+I, [2020-04-02T05:26:52.328005 #1148]  INFO -- : received: {"to":"ledinhlam1280@gmail.com","token":"f152e1dc40296a8d104b22ade26bc5dd","reason":"register"} on /topic/hpumail
+I, [2020-04-02T05:26:52.328005 #1148]  INFO -- : sending email to ledinhlam1280@gmail.com with token f152e1dc40296a8d104b22ade26bc5dd with reason register
+I, [2020-04-02T05:27:02.343223 #1148]  INFO -- : received: {"to":"tuan.hero2016@gmail.com","token":"84ceb70534c9845ebcbaf8fc93e5cb19","reason":"register"} on /topic/hpumail
+I, [2020-04-02T05:27:02.358823 #1148]  INFO -- : sending email to tuan.hero2016@gmail.com with token 84ceb70534c9845ebcbaf8fc93e5cb19 with reason register
+I, [2020-04-02T05:27:07.366432 #1148]  INFO -- : received: {"to":"hungbh@hpu.edu.vn","token":"GM4YA6YM","reason":"reset"} on /topic/hpumail
+I, [2020-04-02T05:27:07.382032 #1148]  INFO -- : sending email to hungbh@hpu.edu.vn with token GM4YA6YM with reason reset

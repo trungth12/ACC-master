@@ -1,0 +1,3 @@
+# Logfile created on 2021-11-30 14:25:48 +0700 by logger.rb/31641
+I, [2021-11-30T14:25:48.868272 #19428]  INFO -- : received: {"to":"thoidimahp123@gmail.com","token":"MJHA2HJA","reason":"reset"} on /topic/hpumail
+I, [2021-11-30T14:25:49.055472 #19428]  INFO -- : sending email to thoidimahp123@gmail.com with token MJHA2HJA with reason reset

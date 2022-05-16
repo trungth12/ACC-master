@@ -1,0 +1,21 @@
+# Logfile created on 2017-12-30 13:32:31 +0700 by logger.rb/31641
+I, [2017-12-30T13:32:31.496233 #1876]  INFO -- : received: {"to":"quynhnguyen.hpu123@gmail.com","token":"7TXGE2ZJ","reason":"reset"} on /topic/hpumail
+I, [2017-12-30T13:32:31.496233 #1876]  INFO -- : sending email to quynhnguyen.hpu123@gmail.com with token 7TXGE2ZJ with reason reset
+I, [2017-12-30T14:11:56.273186 #1876]  INFO -- : received: {"to":"vuduytrung1102@gmail.com","token":"QKRA3EFC","reason":"reset"} on /topic/hpumail
+I, [2017-12-30T14:11:56.288786 #1876]  INFO -- : sending email to vuduytrung1102@gmail.com with token QKRA3EFC with reason reset
+I, [2017-12-30T14:58:29.676493 #1876]  INFO -- : received: {"to":"shocknhokno2@gmail.com","token":"PDZQ9VDG","reason":"reset"} on /topic/hpumail
+I, [2017-12-30T14:58:29.676493 #1876]  INFO -- : sending email to shocknhokno2@gmail.com with token PDZQ9VDG with reason reset
+I, [2017-12-30T15:41:34.975433 #1876]  INFO -- : received: {"to":"nguyennga07091996@gmail.com","token":"K2YYVXZ9","reason":"reset"} on /topic/hpumail
+I, [2017-12-30T15:41:34.975433 #1876]  INFO -- : sending email to nguyennga07091996@gmail.com with token K2YYVXZ9 with reason reset
+I, [2017-12-30T15:42:56.126776 #1876]  INFO -- : received: {"to":"nguyennga07091996@gmail.com","token":"R474HX4F","reason":"reset"} on /topic/hpumail
+I, [2017-12-30T15:42:56.126776 #1876]  INFO -- : sending email to nguyennga07091996@gmail.com with token R474HX4F with reason reset
+I, [2017-12-30T16:31:21.741079 #1876]  INFO -- : received: {"to":"uyen.kahp@gmail.com","token":"DQDZN2N9","reason":"reset"} on /topic/hpumail
+I, [2017-12-30T16:31:21.741079 #1876]  INFO -- : sending email to uyen.kahp@gmail.com with token DQDZN2N9 with reason reset
+I, [2017-12-30T16:42:48.204685 #1876]  INFO -- : received: {"to":"uyen.kahp@gmail.com","token":"AGHTKEZ9","reason":"reset"} on /topic/hpumail
+I, [2017-12-30T16:42:48.204685 #1876]  INFO -- : sending email to uyen.kahp@gmail.com with token AGHTKEZ9 with reason reset
+I, [2017-12-30T16:46:41.175494 #1876]  INFO -- : received: {"to":"uyen.kahp@gmail.com","token":"1412751106","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-30T16:46:41.175494 #1876]  INFO -- : sending email to uyen.kahp@gmail.com with token 1412751106 with reason resetpassword
+I, [2017-12-30T22:25:47.823231 #1876]  INFO -- : received: {"to":"ynsr1xx9@gmail.com","token":"GT2RAHHQ","reason":"reset"} on /topic/hpumail
+I, [2017-12-30T22:25:47.823231 #1876]  INFO -- : sending email to ynsr1xx9@gmail.com with token GT2RAHHQ with reason reset
+I, [2017-12-30T22:27:08.085372 #1876]  INFO -- : received: {"to":"ynsr1xx9@gmail.com","token":"buihaiyen1009","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-30T22:27:08.085372 #1876]  INFO -- : sending email to ynsr1xx9@gmail.com with token buihaiyen1009 with reason resetpassword

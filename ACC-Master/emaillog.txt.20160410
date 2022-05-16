@@ -1,0 +1,5 @@
+# Logfile created on 2016-04-07 08:47:10 +0700 by logger.rb/31641
+I, [2016-04-07T08:47:10.225575 #2196]  INFO -- : received: {"to":"huongntb@hpu.edu.vn","token":"fb19533b5d58e1f153545c40137a1ee0","reason":"register"} on /topic/hpumail
+I, [2016-04-07T08:47:10.287975 #2196]  INFO -- : sending email to huongntb@hpu.edu.vn with token fb19533b5d58e1f153545c40137a1ee0 with reason register
+I, [2016-04-07T10:00:46.308185 #3588]  INFO -- : received: {"to":"phinga@hpu.edu.vn","token":"fa162c8be9dccac8c5de13ee76796216","reason":"register"} on /topic/hpumail
+I, [2016-04-07T10:00:46.308185 #3588]  INFO -- : sending email to phinga@hpu.edu.vn with token fa162c8be9dccac8c5de13ee76796216 with reason register

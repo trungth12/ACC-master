@@ -1,0 +1,7 @@
+# Logfile created on 2019-09-16 09:57:58 +0700 by logger.rb/31641
+I, [2019-09-16T09:57:58.832036 #1456]  INFO -- : received: {"to":"anhvv@hpu.edu.vn","token":"7MZJVQM9","reason":"reset"} on /topic/hpumail
+I, [2019-09-16T09:57:58.847636 #1456]  INFO -- : sending email to anhvv@hpu.edu.vn with token 7MZJVQM9 with reason reset
+I, [2019-09-16T10:03:00.396166 #1456]  INFO -- : received: {"to":"anhvv@hpu.edu.vn","token":"Z6QMEK4E","reason":"reset"} on /topic/hpumail
+I, [2019-09-16T10:03:00.396166 #1456]  INFO -- : sending email to anhvv@hpu.edu.vn with token Z6QMEK4E with reason reset
+I, [2019-09-16T16:46:50.577124 #1456]  INFO -- : received: {"to":"noamlone2@gmail.com","token":"nghia123","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-16T16:46:50.577124 #1456]  INFO -- : sending email to noamlone2@gmail.com with token nghia123 with reason resetpassword

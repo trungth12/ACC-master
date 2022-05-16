@@ -1,0 +1,3 @@
+# Logfile created on 2016-09-10 11:44:43 +0700 by logger.rb/31641
+I, [2016-09-10T11:44:43.265908 #2432]  INFO -- : received: {"to":"toantuoitho2@gmail.com","token":"b4a3767bf2fc7c8c10a765a2017b4fdf","reason":"register"} on /topic/hpumail
+I, [2016-09-10T11:44:43.343908 #2432]  INFO -- : sending email to toantuoitho2@gmail.com with token b4a3767bf2fc7c8c10a765a2017b4fdf with reason register

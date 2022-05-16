@@ -1,0 +1,7 @@
+# Logfile created on 2019-11-30 11:10:34 +0700 by logger.rb/31641
+I, [2019-11-30T11:10:34.583265 #1816]  INFO -- : received: {"to":"trandung@hpu.edu.vn","token":"WA7PDACZ","reason":"reset"} on /topic/hpumail
+I, [2019-11-30T11:10:34.598865 #1816]  INFO -- : sending email to trandung@hpu.edu.vn with token WA7PDACZ with reason reset
+I, [2019-11-30T11:14:58.800929 #1816]  INFO -- : received: {"to":"trandung@hpu.edu.vn","token":"Z27Z9APH","reason":"reset"} on /topic/hpumail
+I, [2019-11-30T11:14:58.800929 #1816]  INFO -- : sending email to trandung@hpu.edu.vn with token Z27Z9APH with reason reset
+I, [2019-11-30T11:16:52.197529 #1816]  INFO -- : received: {"to":"trandung@hpu.edu.vn","token":"02101977","reason":"resetpassword"} on /topic/hpumail
+I, [2019-11-30T11:16:52.197529 #1816]  INFO -- : sending email to trandung@hpu.edu.vn with token 02101977 with reason resetpassword

@@ -1,0 +1,3 @@
+# Logfile created on 2022-04-01 15:40:58 +0700 by logger.rb/31641
+I, [2022-04-01T15:40:58.822501 #3984]  INFO -- : received: {"to":"nguyenhoahana98@gmail.com","token":"YCWTGF6A","reason":"reset"} on /topic/hpumail
+I, [2022-04-01T15:40:58.838101 #3984]  INFO -- : sending email to nguyenhoahana98@gmail.com with token YCWTGF6A with reason reset

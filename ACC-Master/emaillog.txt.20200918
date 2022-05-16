@@ -1,0 +1,5 @@
+# Logfile created on 2020-09-14 09:26:36 +0700 by logger.rb/31641
+I, [2020-09-14T09:26:36.567943 #1824]  INFO -- : received: {"to":"destinyhp2012@gmail.com","token":"8df0e09e5347e1441170e1ca8bb03e16","reason":"register"} on /topic/hpumail
+I, [2020-09-14T09:26:36.583543 #1824]  INFO -- : sending email to destinyhp2012@gmail.com with token 8df0e09e5347e1441170e1ca8bb03e16 with reason register
+I, [2020-09-14T23:37:43.366838 #1824]  INFO -- : received: {"to":"thunv@hpu.edu.vn","token":"7HRWRZ6M","reason":"reset"} on /topic/hpumail
+I, [2020-09-14T23:37:43.366838 #1824]  INFO -- : sending email to thunv@hpu.edu.vn with token 7HRWRZ6M with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2016-07-28 20:55:11 +0700 by logger.rb/31641
+I, [2016-07-28T20:55:11.077995 #4064]  INFO -- : received: {"to":"danghp94@gmail.com","token":"QAHKC7YN","reason":"reset"} on /topic/hpumail
+I, [2016-07-28T20:55:11.192002 #4064]  INFO -- : sending email to danghp94@gmail.com with token QAHKC7YN with reason reset

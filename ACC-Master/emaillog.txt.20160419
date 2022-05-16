@@ -1,0 +1,3 @@
+# Logfile created on 2016-04-16 09:12:16 +0700 by logger.rb/31641
+I, [2016-04-16T09:12:16.921119 #2072]  INFO -- : received: {"to":"kutiboy96@gmail.com","token":"4JWJN2RP","reason":"reset"} on /topic/hpumail
+I, [2016-04-16T09:12:16.936719 #2072]  INFO -- : sending email to kutiboy96@gmail.com with token 4JWJN2RP with reason reset

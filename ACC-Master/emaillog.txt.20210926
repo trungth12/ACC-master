@@ -1,0 +1,5 @@
+# Logfile created on 2021-09-21 10:14:58 +0700 by logger.rb/31641
+I, [2021-09-21T10:14:58.059229 #3960]  INFO -- : received: {"to":"haidc@hpu.edu.vn","token":"GNGJMNY9","reason":"reset"} on /topic/hpumail
+I, [2021-09-21T10:14:58.074829 #3960]  INFO -- : sending email to haidc@hpu.edu.vn with token GNGJMNY9 with reason reset
+I, [2021-09-21T10:17:43.591120 #3960]  INFO -- : received: {"to":"haidc@hpu.edu.vn","token":"hai12345678","reason":"resetpassword"} on /topic/hpumail
+I, [2021-09-21T10:17:43.591120 #3960]  INFO -- : sending email to haidc@hpu.edu.vn with token hai12345678 with reason resetpassword

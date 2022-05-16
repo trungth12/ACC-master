@@ -1,0 +1,3 @@
+# Logfile created on 2016-03-15 20:47:47 +0700 by logger.rb/31641
+I, [2016-03-15T20:47:47.757955 #5024]  INFO -- : received: {"to":"ngothituyetmai.vn.hp.9x@gmail.com","token":"XDYXTFAD","reason":"reset"} on /topic/hpumail
+I, [2016-03-15T20:47:47.835955 #5024]  INFO -- : sending email to ngothituyetmai.vn.hp.9x@gmail.com with token XDYXTFAD with reason reset

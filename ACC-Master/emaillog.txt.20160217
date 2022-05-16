@@ -1,0 +1,7 @@
+# Logfile created on 2016-02-15 09:12:58 +0700 by logger.rb/31641
+I, [2016-02-15T09:12:58.530012 #5688]  INFO -- : received: {"to":"phamduyhiephpc@gmail.com","token":"af497c680677c0139e129d568a701792","reason":"register"} on /topic/hpumail
+I, [2016-02-15T09:12:58.576812 #5688]  INFO -- : sending email to phamduyhiephpc@gmail.com with token af497c680677c0139e129d568a701792 with reason register
+I, [2016-02-15T09:53:37.219895 #5688]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"7NHGWRCT","reason":"reset"} on /topic/hpumail
+I, [2016-02-15T09:53:37.219895 #5688]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token 7NHGWRCT with reason reset
+I, [2016-02-15T09:55:24.220483 #5688]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"spring7676","reason":"resetpassword"} on /topic/hpumail
+I, [2016-02-15T09:55:24.220483 #5688]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token spring7676 with reason resetpassword

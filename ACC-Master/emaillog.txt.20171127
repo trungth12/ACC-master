@@ -1,0 +1,3 @@
+# Logfile created on 2017-11-25 11:03:39 +0700 by logger.rb/31641
+I, [2017-11-25T11:03:39.747760 #960]  INFO -- : received: {"to":"lanphuongna1805@gmail.com","token":"VV3P226K","reason":"reset"} on /topic/hpumail
+I, [2017-11-25T11:03:39.763360 #960]  INFO -- : sending email to lanphuongna1805@gmail.com with token VV3P226K with reason reset

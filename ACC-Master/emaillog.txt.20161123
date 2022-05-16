@@ -1,0 +1,5 @@
+# Logfile created on 2016-11-23 11:14:53 +0700 by logger.rb/31641
+I, [2016-11-23T11:14:53.131932 #2720]  INFO -- : received: {"to":"phuongngoc318@gmail.com","token":"ZCF46N26","reason":"reset"} on /topic/hpumail
+I, [2016-11-23T11:14:53.209932 #2720]  INFO -- : sending email to phuongngoc318@gmail.com with token ZCF46N26 with reason reset
+I, [2016-11-23T11:16:28.572899 #2720]  INFO -- : received: {"to":"phuongngoc318@gmail.com","token":"nt212318","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-23T11:16:28.572899 #2720]  INFO -- : sending email to phuongngoc318@gmail.com with token nt212318 with reason resetpassword

@@ -1,0 +1,3 @@
+# Logfile created on 2018-05-27 09:50:55 +0700 by logger.rb/31641
+I, [2018-05-27T09:50:55.016878 #1868]  INFO -- : received: {"to":"tekatori147@gmail.com","token":"bef67bf09e2715c4b11864c7b32a3da1","reason":"register"} on /topic/hpumail
+I, [2018-05-27T09:50:55.032478 #1868]  INFO -- : sending email to tekatori147@gmail.com with token bef67bf09e2715c4b11864c7b32a3da1 with reason register

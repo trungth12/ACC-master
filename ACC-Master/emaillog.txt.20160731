@@ -1,0 +1,21 @@
+# Logfile created on 2016-07-31 10:00:42 +0700 by logger.rb/31641
+I, [2016-07-31T10:00:42.564333 #1992]  INFO -- : received: {"to":"tranghien954@gmail.com","token":"JEVT4J6H","reason":"reset"} on /topic/hpumail
+I, [2016-07-31T10:00:42.708342 #1992]  INFO -- : sending email to tranghien954@gmail.com with token JEVT4J6H with reason reset
+I, [2016-07-31T10:06:10.963117 #1992]  INFO -- : received: {"to":"tranghien954@gmail.com","token":"trangdao21","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-31T10:06:10.964117 #1992]  INFO -- : sending email to tranghien954@gmail.com with token trangdao21 with reason resetpassword
+I, [2016-07-31T11:46:39.497929 #1992]  INFO -- : received: {"to":"trinhphuonganh2612@gmail.com","token":"AYD732GN","reason":"reset"} on /topic/hpumail
+I, [2016-07-31T11:46:39.498929 #1992]  INFO -- : sending email to trinhphuonganh2612@gmail.com with token AYD732GN with reason reset
+I, [2016-07-31T15:48:35.245183 #1992]  INFO -- : received: {"to":"myloveislavender@gmail.com","token":"3GHY6G9E","reason":"reset"} on /topic/hpumail
+I, [2016-07-31T15:48:35.318187 #1992]  INFO -- : sending email to myloveislavender@gmail.com with token 3GHY6G9E with reason reset
+I, [2016-07-31T17:42:39.996680 #1992]  INFO -- : received: {"to":"ngocngo910@gmail.com","token":"ENNJQC2Y","reason":"reset"} on /topic/hpumail
+I, [2016-07-31T17:42:39.997680 #1992]  INFO -- : sending email to ngocngo910@gmail.com with token ENNJQC2Y with reason reset
+I, [2016-07-31T17:44:42.939712 #1992]  INFO -- : received: {"to":"ngocngo910@gmail.com","token":"khongnhodau","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-31T17:44:42.940712 #1992]  INFO -- : sending email to ngocngo910@gmail.com with token khongnhodau with reason resetpassword
+I, [2016-07-31T20:23:15.223783 #1992]  INFO -- : received: {"to":"minhphuong.na17@gmail.com","token":"34CVFCJW","reason":"reset"} on /topic/hpumail
+I, [2016-07-31T20:23:15.224783 #1992]  INFO -- : sending email to minhphuong.na17@gmail.com with token 34CVFCJW with reason reset
+I, [2016-07-31T20:24:42.186757 #1992]  INFO -- : received: {"to":"minhphuong.na17@gmail.com","token":"emyeuminh","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-31T20:24:42.187757 #1992]  INFO -- : sending email to minhphuong.na17@gmail.com with token emyeuminh with reason resetpassword
+I, [2016-07-31T22:37:29.134441 #1992]  INFO -- : received: {"to":"linhpham232131@gmail.com","token":"P29D2YQY","reason":"reset"} on /topic/hpumail
+I, [2016-07-31T22:37:29.135441 #1992]  INFO -- : sending email to linhpham232131@gmail.com with token P29D2YQY with reason reset
+I, [2016-07-31T22:39:16.673592 #1992]  INFO -- : received: {"to":"linhpham232131@gmail.com","token":"610645","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-31T22:39:16.674592 #1992]  INFO -- : sending email to linhpham232131@gmail.com with token 610645 with reason resetpassword

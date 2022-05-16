@@ -1,0 +1,3 @@
+# Logfile created on 2017-04-24 10:20:03 +0700 by logger.rb/31641
+I, [2017-04-24T10:20:03.798656 #2572]  INFO -- : received: {"to":"moitruonghpu@gmail.com","token":"d0cbe895aa1718421629f8f7ba368585","reason":"register"} on /topic/hpumail
+I, [2017-04-24T10:20:03.829856 #2572]  INFO -- : sending email to moitruonghpu@gmail.com with token d0cbe895aa1718421629f8f7ba368585 with reason register

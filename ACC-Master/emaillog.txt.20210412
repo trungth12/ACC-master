@@ -1,0 +1,3 @@
+# Logfile created on 2021-04-12 10:36:02 +0700 by logger.rb/31641
+I, [2021-04-12T10:36:02.585562 #1852]  INFO -- : received: {"to":"bgh@hpu.edu.vn","token":"2aeb106194a736ba34a2350c0fc91cc6","reason":"register"} on /topic/hpumail
+I, [2021-04-12T10:36:02.616762 #1852]  INFO -- : sending email to bgh@hpu.edu.vn with token 2aeb106194a736ba34a2350c0fc91cc6 with reason register

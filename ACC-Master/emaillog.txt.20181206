@@ -1,0 +1,19 @@
+# Logfile created on 2018-12-06 08:57:31 +0700 by logger.rb/31641
+I, [2018-12-06T08:57:31.662355 #2020]  INFO -- : received: {"to":"dungnd@hpu.edu.vn","token":"39GZJZV7","reason":"reset"} on /topic/hpumail
+I, [2018-12-06T08:57:31.677955 #2020]  INFO -- : sending email to dungnd@hpu.edu.vn with token 39GZJZV7 with reason reset
+I, [2018-12-06T10:59:55.593654 #2020]  INFO -- : received: {"to":"nadekochankawaii@gmail.com","token":"2ZVFKKZF","reason":"reset"} on /topic/hpumail
+I, [2018-12-06T10:59:55.593654 #2020]  INFO -- : sending email to nadekochankawaii@gmail.com with token 2ZVFKKZF with reason reset
+I, [2018-12-06T11:01:14.217792 #2020]  INFO -- : received: {"to":"nadekochankawaii@gmail.com","token":"745896321","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-06T11:01:14.217792 #2020]  INFO -- : sending email to nadekochankawaii@gmail.com with token 745896321 with reason resetpassword
+I, [2018-12-06T15:01:02.996665 #2020]  INFO -- : received: {"to":"uyen.kahp@gmail.com","token":"PDRQ377P","reason":"reset"} on /topic/hpumail
+I, [2018-12-06T15:01:02.996665 #2020]  INFO -- : sending email to uyen.kahp@gmail.com with token PDRQ377P with reason reset
+I, [2018-12-06T15:01:36.786324 #2020]  INFO -- : received: {"to":"uyen.kahp@gmail.com","token":"KVP9NK9E","reason":"reset"} on /topic/hpumail
+I, [2018-12-06T15:01:36.786324 #2020]  INFO -- : sending email to uyen.kahp@gmail.com with token KVP9NK9E with reason reset
+I, [2018-12-06T15:03:45.845351 #2020]  INFO -- : received: {"to":"uyen.kahp@gmail.com","token":"VKYD432M","reason":"reset"} on /topic/hpumail
+I, [2018-12-06T15:03:45.845351 #2020]  INFO -- : sending email to uyen.kahp@gmail.com with token VKYD432M with reason reset
+I, [2018-12-06T16:18:17.967606 #2020]  INFO -- : received: {"to":"thuy@homenh.vn","token":"TCQRACC7","reason":"reset"} on /topic/hpumail
+I, [2018-12-06T16:18:17.967606 #2020]  INFO -- : sending email to thuy@homenh.vn with token TCQRACC7 with reason reset
+I, [2018-12-06T18:01:14.954455 #2020]  INFO -- : received: {"to":"tien01205542890@gmail.com","token":"WXQKMQPA","reason":"reset"} on /topic/hpumail
+I, [2018-12-06T18:01:14.954455 #2020]  INFO -- : sending email to tien01205542890@gmail.com with token WXQKMQPA with reason reset
+I, [2018-12-06T21:51:39.901537 #2020]  INFO -- : received: {"to":"nguyenngoctram8197@gmail.com","token":"6AEV9VPQ","reason":"reset"} on /topic/hpumail
+I, [2018-12-06T21:51:39.901537 #2020]  INFO -- : sending email to nguyenngoctram8197@gmail.com with token 6AEV9VPQ with reason reset

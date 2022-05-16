@@ -1,0 +1,5 @@
+# Logfile created on 2016-02-20 22:19:33 +0700 by logger.rb/31641
+I, [2016-02-20T22:19:33.385335 #4728]  INFO -- : received: {"to":"skberbol710@gmail.com","token":"JAMDNXWN","reason":"reset"} on /topic/hpumail
+I, [2016-02-20T22:19:33.385335 #4728]  INFO -- : sending email to skberbol710@gmail.com with token JAMDNXWN with reason reset
+I, [2016-02-20T22:24:23.046643 #4728]  INFO -- : received: {"to":"skberbol710@gmail.com","token":"baonguyen","reason":"resetpassword"} on /topic/hpumail
+I, [2016-02-20T22:24:23.046643 #4728]  INFO -- : sending email to skberbol710@gmail.com with token baonguyen with reason resetpassword

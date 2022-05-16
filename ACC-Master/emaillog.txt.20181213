@@ -1,0 +1,13 @@
+# Logfile created on 2018-12-13 10:32:54 +0700 by logger.rb/31641
+I, [2018-12-13T10:32:54.340566 #2040]  INFO -- : received: {"to":"luckygirl11906@gmail.com","token":"PWMM2Z64","reason":"reset"} on /topic/hpumail
+I, [2018-12-13T10:32:54.402966 #2040]  INFO -- : sending email to luckygirl11906@gmail.com with token PWMM2Z64 with reason reset
+I, [2018-12-13T12:53:54.672226 #2040]  INFO -- : received: {"to":"yen.ct1802@gmail.com","token":"Haiyen23051996","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-13T12:53:54.672226 #2040]  INFO -- : sending email to yen.ct1802@gmail.com with token Haiyen23051996 with reason resetpassword
+I, [2018-12-13T15:46:25.672445 #2040]  INFO -- : received: {"to":"thanh.bill97@gmail.com","token":"TNYKE2FH","reason":"reset"} on /topic/hpumail
+I, [2018-12-13T15:46:25.672445 #2040]  INFO -- : sending email to thanh.bill97@gmail.com with token TNYKE2FH with reason reset
+I, [2018-12-13T17:18:55.428992 #2040]  INFO -- : received: {"to":"trangp9297@gmail.com","token":"HDRK3EQE","reason":"reset"} on /topic/hpumail
+I, [2018-12-13T17:18:55.428992 #2040]  INFO -- : sending email to trangp9297@gmail.com with token HDRK3EQE with reason reset
+I, [2018-12-13T17:30:09.381376 #2040]  INFO -- : received: {"to":"trangp9297@gmail.com","token":"phaithanhcon9297","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-13T17:30:09.381376 #2040]  INFO -- : sending email to trangp9297@gmail.com with token phaithanhcon9297 with reason resetpassword
+I, [2018-12-13T17:36:08.026006 #2040]  INFO -- : received: {"to":"trangp9297@gmail.com","token":"phaithanhcong9297","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-13T17:36:08.026006 #2040]  INFO -- : sending email to trangp9297@gmail.com with token phaithanhcong9297 with reason resetpassword

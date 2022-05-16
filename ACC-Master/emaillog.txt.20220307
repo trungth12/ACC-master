@@ -1,0 +1,5 @@
+# Logfile created on 2022-03-07 07:52:39 +0700 by logger.rb/31641
+I, [2022-03-07T07:52:39.786216 #6040]  INFO -- : received: {"to":"hungnq@hpu.edu.vn","token":"WF34N9PM","reason":"reset"} on /topic/hpumail
+I, [2022-03-07T07:52:39.801816 #6040]  INFO -- : sending email to hungnq@hpu.edu.vn with token WF34N9PM with reason reset
+I, [2022-03-07T08:04:17.419441 #6040]  INFO -- : received: {"to":"hungnq@hpu.edu.vn","token":"Hung18475","reason":"resetpassword"} on /topic/hpumail
+I, [2022-03-07T08:04:17.419441 #6040]  INFO -- : sending email to hungnq@hpu.edu.vn with token Hung18475 with reason resetpassword

@@ -1,0 +1,3 @@
+# Logfile created on 2020-05-01 00:17:58 +0700 by logger.rb/31641
+I, [2020-05-01T00:17:58.234993 #1824]  INFO -- : received: {"to":"vietanhreal9825@gmail.com","token":"J4ZNHR9R","reason":"reset"} on /topic/hpumail
+I, [2020-05-01T00:17:58.250593 #1824]  INFO -- : sending email to vietanhreal9825@gmail.com with token J4ZNHR9R with reason reset

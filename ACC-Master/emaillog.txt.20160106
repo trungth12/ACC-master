@@ -1,0 +1,11 @@
+# Logfile created on 2016-01-06 10:31:01 +0700 by logger.rb/31641
+I, [2016-01-06T10:31:01.213937 #1944]  INFO -- : received: {"to":"phub1406751@student.ctu.edu.vn","token":"e067ad983370d9f1aa232e6d3f73c337","reason":"register"} on /topic/hpumail
+I, [2016-01-06T10:31:01.229537 #1944]  INFO -- : sending email to phub1406751@student.ctu.edu.vn with token e067ad983370d9f1aa232e6d3f73c337 with reason register
+I, [2016-01-06T10:43:14.696025 #1944]  INFO -- : received: {"to":"tienbeba@gmail.com","token":"105d69f567f22a93cb4b104e24172fc3","reason":"register"} on /topic/hpumail
+I, [2016-01-06T10:43:14.696025 #1944]  INFO -- : sending email to tienbeba@gmail.com with token 105d69f567f22a93cb4b104e24172fc3 with reason register
+I, [2016-01-06T16:41:16.794757 #1944]  INFO -- : received: {"to":"anhphuong142013@gmail.com","token":"ZJFAMDG9","reason":"reset"} on /topic/hpumail
+I, [2016-01-06T16:41:16.794757 #1944]  INFO -- : sending email to anhphuong142013@gmail.com with token ZJFAMDG9 with reason reset
+I, [2016-01-06T18:49:31.336672 #1944]  INFO -- : received: {"to":"tranvjnhtjen@gmail.com","token":"H3YTG4XM","reason":"reset"} on /topic/hpumail
+I, [2016-01-06T18:49:31.336672 #1944]  INFO -- : sending email to tranvjnhtjen@gmail.com with token H3YTG4XM with reason reset
+I, [2016-01-06T22:16:57.459732 #1944]  INFO -- : received: {"to":"sukem.1504@gmail.com","token":"66ZJW29R","reason":"reset"} on /topic/hpumail
+I, [2016-01-06T22:16:57.459732 #1944]  INFO -- : sending email to sukem.1504@gmail.com with token 66ZJW29R with reason reset

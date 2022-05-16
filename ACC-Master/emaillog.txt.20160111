@@ -1,0 +1,21 @@
+# Logfile created on 2016-01-11 09:11:21 +0700 by logger.rb/31641
+I, [2016-01-11T09:11:21.090117 #2872]  INFO -- : received: {"to":"kenjudo.vn@gmail.com","token":"7f76b26034a6bc22f909b2d1ce34f387","reason":"register"} on /topic/hpumail
+I, [2016-01-11T09:11:21.105717 #2872]  INFO -- : sending email to kenjudo.vn@gmail.com with token 7f76b26034a6bc22f909b2d1ce34f387 with reason register
+I, [2016-01-11T10:18:09.735557 #2872]  INFO -- : received: {"to":"spirit.suffer@gmail.com","token":"5a190228d97580a78c915d262cbeff24","reason":"register"} on /topic/hpumail
+I, [2016-01-11T10:18:09.735557 #2872]  INFO -- : sending email to spirit.suffer@gmail.com with token 5a190228d97580a78c915d262cbeff24 with reason register
+I, [2016-01-11T10:18:25.210785 #2872]  INFO -- : received: {"to":"trieuhoainam170797@gmail.com","token":"4a3b05f9dd479d80f8b5c41279c13901","reason":"register"} on /topic/hpumail
+I, [2016-01-11T10:18:25.210785 #2872]  INFO -- : sending email to trieuhoainam170797@gmail.com with token 4a3b05f9dd479d80f8b5c41279c13901 with reason register
+I, [2016-01-11T13:03:49.043415 #2872]  INFO -- : received: {"to":"nguyenthilinh301197@gmail.com","token":"DE64D7J2","reason":"reset"} on /topic/hpumail
+I, [2016-01-11T13:03:49.043415 #2872]  INFO -- : sending email to nguyenthilinh301197@gmail.com with token DE64D7J2 with reason reset
+I, [2016-01-11T13:13:49.082869 #2872]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"KPTXW7R4","reason":"reset"} on /topic/hpumail
+I, [2016-01-11T13:13:49.082869 #2872]  INFO -- : sending email to becunsunrangvinh@gmail.com with token KPTXW7R4 with reason reset
+I, [2016-01-11T13:19:35.855878 #2872]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"ayehien","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-11T13:19:35.855878 #2872]  INFO -- : sending email to becunsunrangvinh@gmail.com with token ayehien with reason resetpassword
+I, [2016-01-11T14:21:13.920373 #2872]  INFO -- : received: {"to":"tuanpa@hpu.edu.vn","token":"TuaansHuwng","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-11T14:21:13.920373 #2872]  INFO -- : sending email to tuanpa@hpu.edu.vn with token TuaansHuwng with reason resetpassword
+I, [2016-01-11T14:24:21.027102 #2872]  INFO -- : received: {"to":"thanhmaing94@gmail.com","token":"becd12eddbfc42e3fcfbf0721c803493","reason":"register"} on /topic/hpumail
+I, [2016-01-11T14:24:21.027102 #2872]  INFO -- : sending email to thanhmaing94@gmail.com with token becd12eddbfc42e3fcfbf0721c803493 with reason register
+I, [2016-01-11T14:30:06.754909 #2872]  INFO -- : received: {"to":"ngan108hpu@gmail.com","token":"c6148821e596fc1a76854a0dbae851d9","reason":"register"} on /topic/hpumail
+I, [2016-01-11T14:30:06.754909 #2872]  INFO -- : sending email to ngan108hpu@gmail.com with token c6148821e596fc1a76854a0dbae851d9 with reason register
+I, [2016-01-11T15:36:01.174655 #2872]  INFO -- : received: {"to":"vohoangtung@hpu.edu.vn","token":"bd7a51ab3520b712074f015d90cfd66d","reason":"register"} on /topic/hpumail
+I, [2016-01-11T15:36:01.174655 #2872]  INFO -- : sending email to vohoangtung@hpu.edu.vn with token bd7a51ab3520b712074f015d90cfd66d with reason register

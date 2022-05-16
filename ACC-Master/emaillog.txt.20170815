@@ -1,0 +1,5 @@
+# Logfile created on 2017-08-15 10:50:32 +0700 by logger.rb/31641
+I, [2017-08-15T10:50:32.629281 #2232]  INFO -- : received: {"to":"lblong89@gmail.com","token":"461f68395660e5fe8e607cc53d4a9c96","reason":"register"} on /topic/hpumail
+I, [2017-08-15T10:50:32.629281 #2232]  INFO -- : sending email to lblong89@gmail.com with token 461f68395660e5fe8e607cc53d4a9c96 with reason register
+I, [2017-08-15T19:41:30.491238 #2232]  INFO -- : received: {"to":"nghiaueaw@gmail.com","token":"9RGKMXM6","reason":"reset"} on /topic/hpumail
+I, [2017-08-15T19:41:30.491238 #2232]  INFO -- : sending email to nghiaueaw@gmail.com with token 9RGKMXM6 with reason reset

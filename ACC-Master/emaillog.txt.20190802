@@ -1,0 +1,11 @@
+# Logfile created on 2019-08-02 09:21:39 +0700 by logger.rb/31641
+I, [2019-08-02T09:21:39.932687 #2020]  INFO -- : received: {"to":"tmai50149@gmail.com","token":"4TGTGHW4","reason":"reset"} on /topic/hpumail
+I, [2019-08-02T09:21:39.948287 #2020]  INFO -- : sending email to tmai50149@gmail.com with token 4TGTGHW4 with reason reset
+I, [2019-08-02T09:29:01.897063 #2020]  INFO -- : received: {"to":"tmai50149@gmail.com","token":"0948643931","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-02T09:29:01.897063 #2020]  INFO -- : sending email to tmai50149@gmail.com with token 0948643931 with reason resetpassword
+I, [2019-08-02T11:09:08.625213 #2020]  INFO -- : received: {"to":"tmai50149@gmail.com","token":"4kCAYktUBTxjbpU","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-02T11:09:08.625213 #2020]  INFO -- : sending email to tmai50149@gmail.com with token 4kCAYktUBTxjbpU with reason resetpassword
+I, [2019-08-02T11:12:07.541927 #2020]  INFO -- : received: {"to":"tmai50149@gmail.com","token":"bpx4hguWhSFSKuP","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-02T11:12:07.541927 #2020]  INFO -- : sending email to tmai50149@gmail.com with token bpx4hguWhSFSKuP with reason resetpassword
+I, [2019-08-02T11:35:23.042378 #2020]  INFO -- : received: {"to":"tmai50149@gmail.com","token":"02253613502","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-02T11:35:23.042378 #2020]  INFO -- : sending email to tmai50149@gmail.com with token 02253613502 with reason resetpassword

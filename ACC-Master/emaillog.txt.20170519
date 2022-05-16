@@ -1,0 +1,5 @@
+# Logfile created on 2017-05-18 08:34:00 +0700 by logger.rb/31641
+I, [2017-05-18T08:34:00.790011 #2688]  INFO -- : received: {"to":"cuonghp612@gmail.com","token":"TPWQXX9E","reason":"reset"} on /topic/hpumail
+I, [2017-05-18T08:34:00.836811 #2688]  INFO -- : sending email to cuonghp612@gmail.com with token TPWQXX9E with reason reset
+I, [2017-05-18T10:47:29.692134 #2688]  INFO -- : received: {"to":"ghostwarrior0515@gmail.com","token":"WYWRYG9Y","reason":"reset"} on /topic/hpumail
+I, [2017-05-18T10:47:29.692134 #2688]  INFO -- : sending email to ghostwarrior0515@gmail.com with token WYWRYG9Y with reason reset

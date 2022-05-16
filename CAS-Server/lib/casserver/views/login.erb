@@ -1,0 +1,156 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+  <title>HPU Central Authentication Service</title>
+  <!-- Modernizr -->
+  <script src="/js/libs/modernizr-2.6.2.min.js"></script>
+  <!-- jQuery -->
+  <script type="text/javascript" src="/js/libs/jquery-1.8.2.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.unveil.js"></script>
+  <script type="text/javascript" src="/js/jquery-ui.js"></script>
+  <!-- GroundworkCSS -->
+
+  <link type="text/css" rel="stylesheet" href="/css/groundwork.css">
+  <link type="text/css" rel="stylesheet" href="/css/jquery-ui.css">
+  <!--[if IE]>
+  <link type="text/css" rel="stylesheet" href="./css/groundwork-ie.css">
+  <![endif]-->
+  <!--[if lt IE 9]>
+  <script type="text/javascript" src="./js/libs/html5shiv.min.js"></script>
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" href="./css/font-awesome-ie7.min.css">
+  <![endif]-->
+  <script type="text/javascript">
+    // fallback if SVG unsupported
+    Modernizr.load({
+      test: Modernizr.svg,
+      nope: '/css/no-svg.css'
+    });
+    // polyfill for HTML5 placeholders
+    Modernizr.load({
+      test: Modernizr.input.placeholder,
+      nope: [
+        '/css/placeholder_polyfill.css',
+        '/js/libs/placeholder_polyfill.jquery.js'
+      ]
+    });
+  </script>
+  
+</head>
+<body>
+  
+    <div class="container">
+      <div class="row">
+        <div class="one half">
+          <h1 class="big responsive heading" data-compression="9" data-min="20" data-max="200" style="font-size: 66px;"><a href="/"><span class="logo"></span> </a></h1>
+        </div>
+        <div class="one half double pad-top">
+          <nav class="inline pull-right">
+             <ul>
+                     <% if !@authenticated then %>
+                      <li><a class="menu small-tablet" title="Đăng nhập" id="login-menu">Đăng nhập</a></li>            
+                      <li><a class="menu small-tablet" title="Đăng ký" href="<%= @default_service %>"></i>Đăng ký</a></li>            
+            <li><a class="menu small-tablet" title="Khởi tạo mật khẩu" href="<%= @default_service %>" id="pw-menu">Quên mật khẩu?</a></li>            
+                      <% else %>
+                        <li><a class="menu small-tablet" title="Đăng xuất" href="/logout">Đăng xuất</a></li>            
+                      <% end %>                            
+                    
+                  <li><a class="menu small-tablet" title="Hướng dẫn sử dụng hệ thống" class="menu small-tablet" id="help-menu">Hướng dẫn</a></li>    
+              </ul>              
+          </nav>
+        </div>
+      </div>
+    </div>
+  
+  
+  <div class="container">    
+    <div class="row">     
+      <div class="two fourths skip-one" >
+     <% if !@authenticated then %>
+      <div class="padded" id="accTpl"></div>
+    <% else %>
+    <div class="two fourths skip-one" id="helpTpl">Help</div>      
+    <% end %>          
+      </div>         
+    </div>
+     
+    <br /> <br />
+    <footer class="footer align-center">
+        <p>&copy; 2013 ÷ 2017 Trường Đại học Dân lập Hải Phòng - Haiphong Private University</p>       
+    </footer>
+    
+  </div>
+  <!-- scripts -->
+  <script type="text/javascript" src="/js/plugins/jquery.orbit-1.4.0.js"></script>  
+  <script type="text/javascript" src="/js/mustache.js"></script>
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+      var template = $('#loginTpl').html();
+      var html = Mustache.to_html(template);
+      $('#accTpl').html(html);      
+  })   ;
+  $("#login-menu").click(function() {
+      var template2 = $('#loginTpl').html();
+      var html2 = Mustache.to_html(template2);      
+      $('#accTpl').html(html2);
+  });
+  $("#help-menu").click(function() {
+      var template2 = $('#helpTpl').html();
+      var html2 = Mustache.to_html(template2);      
+      $('#accTpl').html(html2);
+  });
+  $("img").unveil();
+</script>
+<script id="helpTpl" type="text/template"> 
+  <h2>Hướng dẫn đăng ký hệ thống:</h2>
+<p>- Đối với sinh viên, việc đăng ký tài khoản được hướng dẫn và thực hiện trong khóa học sử dụng hệ thống mạng.</p>
+<p>- Nếu bạn là cán bộ, nhân viên, giảng viên, bạn cần đăng ký với tài khoản email của trường (username@hpu.edu.vn).</p>
+<p>- Nếu bạn là khách, vui lòng sử dụng email có hiệu lực sử dụng để đăng ký.</p>
+<p>Các vấn đề về đăng ký và sử dụng tài khoản vui lòng liên hệ trong giờ làm việc tại phòng Quản trị mạng tầng 2 nhà G hoặc qua email: hungbh@hpu.edu.vn</p>
+</script>
+<script id="loginTpl" type="text/template">
+     <% if @message %>  
+      <div class="messagebox <%= escape_html @message[:type] %>">
+        <%= escape_html @message[:message] %>
+      </div>   
+  <% end %>
+
+        <form method="post" action="<%= @form_action || "login" %>" id="login-form"
+      onsubmit="submitbutton = document.getElementById('login-submit'); submitbutton.value='<%= t.notice.please_wait %>'; submitbutton.disabled=true; return true;">
+          <fieldset>
+            <legend>Đăng nhập</legend>                      
+            <div class="row">
+              <div class="one whole padded">
+                <label for="email">Địa chỉ Email:</label>
+                <input type="email" name="username" placeholder="Địa chỉ Email" id="username" />
+              </div>
+            </div>
+            <div class="row">
+              <div class="one whole padded">
+                <label for="password">Mật khẩu:</label>
+                <input type="password" name="password" placeholder="Mật khẩu" id="password" />
+              </div>
+            </div>
+            <div class="row">
+              <div class="one whole padded">
+         <input type="hidden" id="lt" name="lt" value="<%= escape_html @lt %>" />
+        <input type="hidden" id="service" name="service" value="<%= escape_html @service %>" />
+                <button type="submit"  id="login-submit">Đăng nhập</button> 
+				  <br /> <br />
+				<div class="align-center">Hệ thống quản lý tài khoản Trường Đại học Dân lập Hải Phòng</div>
+              </div>
+            </div>          
+          </fieldset>
+        </form>
+      </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+# Logfile created on 2016-05-20 08:26:28 +0700 by logger.rb/31641
+I, [2016-05-20T08:26:28.066901 #5032]  INFO -- : received: {"to":"cathy.yb93@gmail.com","token":"HMYAVDJG","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T08:26:28.102903 #5032]  INFO -- : sending email to cathy.yb93@gmail.com with token HMYAVDJG with reason reset
+I, [2016-05-20T08:33:14.698159 #5032]  INFO -- : received: {"to":"cathy.yb93@gmail.com","token":"SEKHONGBIkimkepnua","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-20T08:33:14.699159 #5032]  INFO -- : sending email to cathy.yb93@gmail.com with token SEKHONGBIkimkepnua with reason resetpassword
+I, [2016-05-20T09:26:40.607526 #5032]  INFO -- : received: {"to":"hoaminh0312@gmail.com","token":"KQHCR4NC","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T09:26:40.608527 #5032]  INFO -- : sending email to hoaminh0312@gmail.com with token KQHCR4NC with reason reset
+I, [2016-05-20T15:15:37.488048 #5032]  INFO -- : received: {"to":"vietdq97@gmail.com","token":"190f504a66c9570333cacbe21978fc87","reason":"register"} on /topic/hpumail
+I, [2016-05-20T15:15:37.489048 #5032]  INFO -- : sending email to vietdq97@gmail.com with token 190f504a66c9570333cacbe21978fc87 with reason register
+I, [2016-05-20T17:28:50.594227 #5032]  INFO -- : received: {"to":"playboizclgt@gmail.com","token":"Z3RGYQMG","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T17:28:50.595227 #5032]  INFO -- : sending email to playboizclgt@gmail.com with token Z3RGYQMG with reason reset
+I, [2016-05-20T17:29:36.663862 #5032]  INFO -- : received: {"to":"playboizclgt@gmail.com","token":"0915317970","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-20T17:29:36.664862 #5032]  INFO -- : sending email to playboizclgt@gmail.com with token 0915317970 with reason resetpassword
+I, [2016-05-20T17:37:09.823781 #5032]  INFO -- : received: {"to":"bistro007007@gmail.com","token":"9QJHD6M6","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T17:37:09.824781 #5032]  INFO -- : sending email to bistro007007@gmail.com with token 9QJHD6M6 with reason reset
+I, [2016-05-20T18:04:23.550225 #5032]  INFO -- : received: {"to":"cuongcofss@gmail.com","token":"PRNNTVFV","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T18:04:23.551225 #5032]  INFO -- : sending email to cuongcofss@gmail.com with token PRNNTVFV with reason reset
+I, [2016-05-20T18:43:33.975662 #5032]  INFO -- : received: {"to":"malkinsel@gmail.com","token":"R6MRZ4RR","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T18:43:33.976662 #5032]  INFO -- : sending email to malkinsel@gmail.com with token R6MRZ4RR with reason reset
+I, [2016-05-20T18:47:29.074109 #5032]  INFO -- : received: {"to":"longhama691@gmail.com","token":"ZHQYDAND","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T18:47:29.075109 #5032]  INFO -- : sending email to longhama691@gmail.com with token ZHQYDAND with reason reset
+I, [2016-05-20T18:56:08.637826 #5032]  INFO -- : received: {"to":"longhama691@gmail.com","token":"long123","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-20T18:56:08.637826 #5032]  INFO -- : sending email to longhama691@gmail.com with token long123 with reason resetpassword
+I, [2016-05-20T19:37:01.720134 #5032]  INFO -- : received: {"to":"cuongcofss@gmail.com","token":"NEFMEXXX","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T19:37:01.721134 #5032]  INFO -- : sending email to cuongcofss@gmail.com with token NEFMEXXX with reason reset
+I, [2016-05-20T20:32:44.379323 #5032]  INFO -- : received: {"to":"daipham300897@gmail.com","token":"PRNGA3MT","reason":"reset"} on /topic/hpumail
+I, [2016-05-20T20:32:44.381324 #5032]  INFO -- : sending email to daipham300897@gmail.com with token PRNGA3MT with reason reset

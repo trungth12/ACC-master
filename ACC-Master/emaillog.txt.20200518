@@ -1,0 +1,5 @@
+# Logfile created on 2020-05-05 09:33:07 +0700 by logger.rb/31641
+I, [2020-05-05T09:33:07.644357 #1824]  INFO -- : received: {"to":"maihuongpt@hpu.edu.vn","token":"CJMA9KAW","reason":"reset"} on /topic/hpumail
+I, [2020-05-05T09:33:07.644357 #1824]  INFO -- : sending email to maihuongpt@hpu.edu.vn with token CJMA9KAW with reason reset
+I, [2020-05-05T14:50:07.790564 #1824]  INFO -- : received: {"to":"chucdh@hpu.edu.vn","token":"2Y37FVX4","reason":"reset"} on /topic/hpumail
+I, [2020-05-05T14:50:07.790564 #1824]  INFO -- : sending email to chucdh@hpu.edu.vn with token 2Y37FVX4 with reason reset

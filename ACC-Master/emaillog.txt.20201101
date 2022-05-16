@@ -1,0 +1,7 @@
+# Logfile created on 2020-10-22 09:12:41 +0700 by logger.rb/31641
+I, [2020-10-22T09:12:41.172183 #1832]  INFO -- : received: {"to":"honganh@hpu.edu.vn","token":"YXQPRMNP","reason":"reset"} on /topic/hpumail
+I, [2020-10-22T09:12:41.187783 #1832]  INFO -- : sending email to honganh@hpu.edu.vn with token YXQPRMNP with reason reset
+I, [2020-10-22T09:15:44.800106 #1832]  INFO -- : received: {"to":"honganh@hpu.edu.vn","token":"999999","reason":"resetpassword"} on /topic/hpumail
+I, [2020-10-22T09:15:44.800106 #1832]  INFO -- : sending email to honganh@hpu.edu.vn with token 999999 with reason resetpassword
+I, [2020-10-22T09:52:30.253980 #1832]  INFO -- : received: {"to":"luckylight180@gmail.com","token":"62e532fb2705a1bb46f26810a42ce0a3","reason":"register"} on /topic/hpumail
+I, [2020-10-22T09:52:30.253980 #1832]  INFO -- : sending email to luckylight180@gmail.com with token 62e532fb2705a1bb46f26810a42ce0a3 with reason register

@@ -1,0 +1,3 @@
+# Logfile created on 2018-12-09 00:06:41 +0700 by logger.rb/31641
+I, [2018-12-09T00:06:41.204473 #2020]  INFO -- : received: {"to":"manhcuong0984740435@gmail.com","token":"79M9T67T","reason":"reset"} on /topic/hpumail
+I, [2018-12-09T00:06:41.220073 #2020]  INFO -- : sending email to manhcuong0984740435@gmail.com with token 79M9T67T with reason reset

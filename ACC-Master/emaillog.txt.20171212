@@ -1,0 +1,7 @@
+# Logfile created on 2017-12-11 14:32:29 +0700 by logger.rb/31641
+I, [2017-12-11T14:32:29.407793 #1104]  INFO -- : received: {"to":"3851925@gmail.com","token":"X467PHD7","reason":"reset"} on /topic/hpumail
+I, [2017-12-11T14:32:29.438993 #1104]  INFO -- : sending email to 3851925@gmail.com with token X467PHD7 with reason reset
+I, [2017-12-11T22:40:27.055617 #1104]  INFO -- : received: {"to":"ductrunghp1102@gmail.com","token":"JCKVJW4F","reason":"reset"} on /topic/hpumail
+I, [2017-12-11T22:40:27.055617 #1104]  INFO -- : sending email to ductrunghp1102@gmail.com with token JCKVJW4F with reason reset
+I, [2017-12-11T22:44:19.511625 #1104]  INFO -- : received: {"to":"ductrunghp1102@gmail.com","token":"1512104008","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-11T22:44:19.511625 #1104]  INFO -- : sending email to ductrunghp1102@gmail.com with token 1512104008 with reason resetpassword

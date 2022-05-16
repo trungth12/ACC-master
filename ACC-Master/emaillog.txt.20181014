@@ -1,0 +1,7 @@
+# Logfile created on 2018-10-11 09:06:20 +0700 by logger.rb/31641
+I, [2018-10-11T09:06:20.114446 #1816]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"ADKG4JDV","reason":"reset"} on /topic/hpumail
+I, [2018-10-11T09:06:20.114446 #1816]  INFO -- : sending email to becunsunrangvinh@gmail.com with token ADKG4JDV with reason reset
+I, [2018-10-11T09:50:51.681538 #1816]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"KE39HZ9J","reason":"reset"} on /topic/hpumail
+I, [2018-10-11T09:50:51.681538 #1816]  INFO -- : sending email to becunsunrangvinh@gmail.com with token KE39HZ9J with reason reset
+I, [2018-10-11T10:02:51.794403 #1816]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"vinh1234","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-11T10:02:51.794403 #1816]  INFO -- : sending email to becunsunrangvinh@gmail.com with token vinh1234 with reason resetpassword

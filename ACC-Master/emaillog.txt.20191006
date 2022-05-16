@@ -1,0 +1,5 @@
+# Logfile created on 2019-10-04 15:54:27 +0700 by logger.rb/31641
+I, [2019-10-04T15:54:27.273821 #1168]  INFO -- : received: {"to":"lehongphong1996hp@gmail.com","token":"K6733AR7","reason":"reset"} on /topic/hpumail
+I, [2019-10-04T15:54:27.273821 #1168]  INFO -- : sending email to lehongphong1996hp@gmail.com with token K6733AR7 with reason reset
+I, [2019-10-04T15:55:46.178760 #1168]  INFO -- : received: {"to":"lehongphong1996hp@gmail.com","token":"chandoide123","reason":"resetpassword"} on /topic/hpumail
+I, [2019-10-04T15:55:46.178760 #1168]  INFO -- : sending email to lehongphong1996hp@gmail.com with token chandoide123 with reason resetpassword

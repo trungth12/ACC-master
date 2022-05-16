@@ -1,0 +1,3 @@
+# Logfile created on 2017-05-05 09:25:05 +0700 by logger.rb/31641
+I, [2017-05-05T09:25:05.023572 #2540]  INFO -- : received: {"to":"thanhdx.hpu@gmail.com","token":"e2a13a1cf07f2514d518c2a1feb8209d","reason":"register"} on /topic/hpumail
+I, [2017-05-05T09:25:05.054772 #2540]  INFO -- : sending email to thanhdx.hpu@gmail.com with token e2a13a1cf07f2514d518c2a1feb8209d with reason register

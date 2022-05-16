@@ -1,0 +1,9 @@
+# Logfile created on 2016-11-15 07:51:14 +0700 by logger.rb/31641
+I, [2016-11-15T07:51:14.669290 #2728]  INFO -- : received: {"to":"la.coi1996@gmail.com","token":"56496aec2a49476742b96df45c2dd08c","reason":"register"} on /topic/hpumail
+I, [2016-11-15T07:51:14.731690 #2728]  INFO -- : sending email to la.coi1996@gmail.com with token 56496aec2a49476742b96df45c2dd08c with reason register
+I, [2016-11-15T08:08:59.667561 #2728]  INFO -- : received: {"to":"dinhthihanh1312@gmail.com","token":"d61616ae1501f23d7fa58a8c1121a30c","reason":"register"} on /topic/hpumail
+I, [2016-11-15T08:08:59.667561 #2728]  INFO -- : sending email to dinhthihanh1312@gmail.com with token d61616ae1501f23d7fa58a8c1121a30c with reason register
+I, [2016-11-15T10:58:16.580201 #2728]  INFO -- : received: {"to":"hoangnam260492@gmail.com","token":"bd78bab26e82fb5bc42051e1677d2ab2","reason":"register"} on /topic/hpumail
+I, [2016-11-15T10:58:16.580201 #2728]  INFO -- : sending email to hoangnam260492@gmail.com with token bd78bab26e82fb5bc42051e1677d2ab2 with reason register
+I, [2016-11-15T15:16:53.085054 #2728]  INFO -- : received: {"to":"bsonnhnn1997@gmail.com","token":"9M47YKCH","reason":"reset"} on /topic/hpumail
+I, [2016-11-15T15:16:53.085054 #2728]  INFO -- : sending email to bsonnhnn1997@gmail.com with token 9M47YKCH with reason reset

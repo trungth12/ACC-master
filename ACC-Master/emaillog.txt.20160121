@@ -1,0 +1,9 @@
+# Logfile created on 2016-01-21 10:15:11 +0700 by logger.rb/31641
+I, [2016-01-21T10:15:11.709319 #3008]  INFO -- : received: {"to":"chinhtran311294@gmail.com","token":"b557d638ba62d7696f83d7a6c44f7e4c","reason":"register"} on /topic/hpumail
+I, [2016-01-21T10:15:11.724919 #3008]  INFO -- : sending email to chinhtran311294@gmail.com with token b557d638ba62d7696f83d7a6c44f7e4c with reason register
+I, [2016-01-21T14:22:48.638414 #3008]  INFO -- : received: {"to":"ngannguyenhp1105@gmail.com","token":"DFMQ2VCK","reason":"reset"} on /topic/hpumail
+I, [2016-01-21T14:22:48.638414 #3008]  INFO -- : sending email to ngannguyenhp1105@gmail.com with token DFMQ2VCK with reason reset
+I, [2016-01-21T14:23:47.278917 #3008]  INFO -- : received: {"to":"ngannguyenhp1105@gmail.com","token":"nganhaolua","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-21T14:23:47.278917 #3008]  INFO -- : sending email to ngannguyenhp1105@gmail.com with token nganhaolua with reason resetpassword
+I, [2016-01-21T15:17:46.874207 #3008]  INFO -- : received: {"to":"meoconngoan.1893@gmail.com","token":"cbe108a9cd475b7e1b47bad7c0cb3a15","reason":"register"} on /topic/hpumail
+I, [2016-01-21T15:17:46.889807 #3008]  INFO -- : sending email to meoconngoan.1893@gmail.com with token cbe108a9cd475b7e1b47bad7c0cb3a15 with reason register

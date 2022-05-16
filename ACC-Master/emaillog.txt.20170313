@@ -1,0 +1,5 @@
+# Logfile created on 2017-03-10 08:44:01 +0700 by logger.rb/31641
+I, [2017-03-10T08:44:01.443874 #2604]  INFO -- : received: {"to":"lienlove93@gmail.com","token":"4QGW6392","reason":"reset"} on /topic/hpumail
+I, [2017-03-10T08:44:01.537474 #2604]  INFO -- : sending email to lienlove93@gmail.com with token 4QGW6392 with reason reset
+I, [2017-03-10T11:07:02.800546 #2604]  INFO -- : received: {"to":"hailv@hpu.edu.vn","token":"9160ef48b78f4e58b6a1e711ab5b8242","reason":"register"} on /topic/hpumail
+I, [2017-03-10T11:07:02.800546 #2604]  INFO -- : sending email to hailv@hpu.edu.vn with token 9160ef48b78f4e58b6a1e711ab5b8242 with reason register

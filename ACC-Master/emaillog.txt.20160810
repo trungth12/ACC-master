@@ -1,0 +1,5 @@
+# Logfile created on 2016-08-10 12:30:53 +0700 by logger.rb/31641
+I, [2016-08-10T12:30:53.784536 #2140]  INFO -- : received: {"to":"phamtramanh21.hp@gmail.com","token":"7W2RRCJT","reason":"reset"} on /topic/hpumail
+I, [2016-08-10T12:30:53.807537 #2140]  INFO -- : sending email to phamtramanh21.hp@gmail.com with token 7W2RRCJT with reason reset
+I, [2016-08-10T12:32:53.235368 #2140]  INFO -- : received: {"to":"phamtramanh21.hp@gmail.com","token":"tramanh.21","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-10T12:32:53.236368 #2140]  INFO -- : sending email to phamtramanh21.hp@gmail.com with token tramanh.21 with reason resetpassword

@@ -1,0 +1,13 @@
+# Logfile created on 2016-04-04 06:53:26 +0700 by logger.rb/31641
+I, [2016-04-04T06:53:26.569045 #2920]  INFO -- : received: {"to":"thaovu3008@gmail.com","token":"K4FHPYAN","reason":"reset"} on /topic/hpumail
+I, [2016-04-04T06:53:26.598047 #2920]  INFO -- : sending email to thaovu3008@gmail.com with token K4FHPYAN with reason reset
+I, [2016-04-04T07:32:45.072271 #2920]  INFO -- : received: {"to":"todaysunset@gmail.com","token":"VZ9MR4NR","reason":"reset"} on /topic/hpumail
+I, [2016-04-04T07:32:45.072271 #2920]  INFO -- : sending email to todaysunset@gmail.com with token VZ9MR4NR with reason reset
+I, [2016-04-04T07:33:56.192796 #2920]  INFO -- : received: {"to":"todaysunset@gmail.com","token":"v4n.0409","reason":"resetpassword"} on /topic/hpumail
+I, [2016-04-04T07:33:56.192796 #2920]  INFO -- : sending email to todaysunset@gmail.com with token v4n.0409 with reason resetpassword
+I, [2016-04-04T09:37:09.842382 #2920]  INFO -- : received: {"to":"nguyentatthang05031989@gmail.com","token":"7fa05070a3aba4f67dd35ca784d3aafa","reason":"register"} on /topic/hpumail
+I, [2016-04-04T09:37:09.842382 #2920]  INFO -- : sending email to nguyentatthang05031989@gmail.com with token 7fa05070a3aba4f67dd35ca784d3aafa with reason register
+I, [2016-04-04T15:58:23.772558 #2920]  INFO -- : received: {"to":"tranthiduyenhp94@gmail.com","token":"67MMNQAX","reason":"reset"} on /topic/hpumail
+I, [2016-04-04T15:58:23.772558 #2920]  INFO -- : sending email to tranthiduyenhp94@gmail.com with token 67MMNQAX with reason reset
+I, [2016-04-04T16:44:16.102993 #2920]  INFO -- : received: {"to":"vuquyan411@gmail.com","token":"KQWDDY2V","reason":"reset"} on /topic/hpumail
+I, [2016-04-04T16:44:16.102993 #2920]  INFO -- : sending email to vuquyan411@gmail.com with token KQWDDY2V with reason reset

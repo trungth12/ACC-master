@@ -1,0 +1,9 @@
+# Logfile created on 2016-07-05 09:57:15 +0700 by logger.rb/31641
+I, [2016-07-05T09:57:15.031401 #2600]  INFO -- : received: {"to":"hainguyen2256@gmail.com","token":"DEG6MF2N","reason":"reset"} on /topic/hpumail
+I, [2016-07-05T09:57:15.084404 #2600]  INFO -- : sending email to hainguyen2256@gmail.com with token DEG6MF2N with reason reset
+I, [2016-07-05T10:10:14.247969 #2600]  INFO -- : received: {"to":"hainguyen2256@gmail.com","token":"VR6P3TTW","reason":"reset"} on /topic/hpumail
+I, [2016-07-05T10:10:14.248969 #2600]  INFO -- : sending email to hainguyen2256@gmail.com with token VR6P3TTW with reason reset
+I, [2016-07-05T11:26:55.860167 #2600]  INFO -- : received: {"to":"danghp94@gmail.com","token":"TXZZ9Q4T","reason":"reset"} on /topic/hpumail
+I, [2016-07-05T11:26:55.861167 #2600]  INFO -- : sending email to danghp94@gmail.com with token TXZZ9Q4T with reason reset
+I, [2016-07-05T16:23:54.309324 #2600]  INFO -- : received: {"to":"donghacbt@gmail.com","token":"94d83455d88771cd671be5c6ef74b658","reason":"register"} on /topic/hpumail
+I, [2016-07-05T16:23:54.310324 #2600]  INFO -- : sending email to donghacbt@gmail.com with token 94d83455d88771cd671be5c6ef74b658 with reason register

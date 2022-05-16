@@ -1,0 +1,5 @@
+# Logfile created on 2021-11-09 12:39:31 +0700 by logger.rb/31641
+I, [2021-11-09T12:39:31.721169 #19428]  INFO -- : received: {"to":"thuhuong021211@gmail.com","token":"EXZ6R6HX","reason":"reset"} on /topic/hpumail
+I, [2021-11-09T12:39:31.736769 #19428]  INFO -- : sending email to thuhuong021211@gmail.com with token EXZ6R6HX with reason reset
+I, [2021-11-09T12:44:26.913333 #19428]  INFO -- : received: {"to":"thuhuong20021993@gmail.com","token":"R3FWDA4A","reason":"reset"} on /topic/hpumail
+I, [2021-11-09T12:44:26.913333 #19428]  INFO -- : sending email to thuhuong20021993@gmail.com with token R3FWDA4A with reason reset

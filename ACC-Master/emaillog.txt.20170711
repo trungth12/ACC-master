@@ -1,0 +1,5 @@
+# Logfile created on 2017-07-08 23:42:06 +0700 by logger.rb/31641
+I, [2017-07-08T23:42:06.171825 #2596]  INFO -- : received: {"to":"hunghoihp123@gmail.com","token":"ZJVDT4ZP","reason":"reset"} on /topic/hpumail
+I, [2017-07-08T23:42:06.203025 #2596]  INFO -- : sending email to hunghoihp123@gmail.com with token ZJVDT4ZP with reason reset
+I, [2017-07-08T23:44:32.999283 #2596]  INFO -- : received: {"to":"hunghoihp123@gmail.com","token":"hunghoihp1","reason":"resetpassword"} on /topic/hpumail
+I, [2017-07-08T23:44:32.999283 #2596]  INFO -- : sending email to hunghoihp123@gmail.com with token hunghoihp1 with reason resetpassword

@@ -1,0 +1,3 @@
+# Logfile created on 2019-10-10 10:21:55 +0700 by logger.rb/31641
+I, [2019-10-10T10:21:55.745048 #2000]  INFO -- : received: {"to":"dunghp031@hpu.edu.vn","token":"DEEDPE3Q","reason":"reset"} on /topic/hpumail
+I, [2019-10-10T10:21:55.760648 #2000]  INFO -- : sending email to dunghp031@hpu.edu.vn with token DEEDPE3Q with reason reset

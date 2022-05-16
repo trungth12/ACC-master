@@ -1,0 +1,5 @@
+# Logfile created on 2019-10-16 10:17:20 +0700 by logger.rb/31641
+I, [2019-10-16T10:17:20.088383 #1120]  INFO -- : received: {"to":"hongnhungnguyen1295@gmail.com","token":"edd96017f0d048f73d0c08f77377f07a","reason":"register"} on /topic/hpumail
+I, [2019-10-16T10:17:20.103983 #1120]  INFO -- : sending email to hongnhungnguyen1295@gmail.com with token edd96017f0d048f73d0c08f77377f07a with reason register
+I, [2019-10-16T10:20:44.791943 #1120]  INFO -- : received: {"to":"phamduyen1702@gmail.com","token":"52880c4164cfff6fec18c72f3aded9af","reason":"register"} on /topic/hpumail
+I, [2019-10-16T10:20:44.791943 #1120]  INFO -- : sending email to phamduyen1702@gmail.com with token 52880c4164cfff6fec18c72f3aded9af with reason register

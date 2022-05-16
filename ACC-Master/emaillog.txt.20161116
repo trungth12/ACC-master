@@ -1,0 +1,13 @@
+# Logfile created on 2016-11-16 08:19:09 +0700 by logger.rb/31641
+I, [2016-11-16T08:19:09.179185 #2728]  INFO -- : received: {"to":"damkhuyen1998@gmail.com","token":"2a2c57b6f3c1a927208c43d08a789ff0","reason":"register"} on /topic/hpumail
+I, [2016-11-16T08:19:09.194785 #2728]  INFO -- : sending email to damkhuyen1998@gmail.com with token 2a2c57b6f3c1a927208c43d08a789ff0 with reason register
+I, [2016-11-16T08:25:04.766210 #2728]  INFO -- : received: {"to":"nguyenthithao020898@gmail.com","token":"d72e6ca1d1387d68234af98636035e7c","reason":"register"} on /topic/hpumail
+I, [2016-11-16T08:25:04.766210 #2728]  INFO -- : sending email to nguyenthithao020898@gmail.com with token d72e6ca1d1387d68234af98636035e7c with reason register
+I, [2016-11-16T08:26:40.690778 #2728]  INFO -- : received: {"to":"vuthinhan.va@gmail.com","token":"14d2e1b2b61e646a044f4aaa6848cac3","reason":"register"} on /topic/hpumail
+I, [2016-11-16T08:26:40.690778 #2728]  INFO -- : sending email to vuthinhan.va@gmail.com with token 14d2e1b2b61e646a044f4aaa6848cac3 with reason register
+I, [2016-11-16T08:51:21.616979 #2728]  INFO -- : received: {"to":"hoangthuychi98@gmail.com","token":"25da79bed77fa69765ab00ee303ed192","reason":"register"} on /topic/hpumail
+I, [2016-11-16T08:51:21.616979 #2728]  INFO -- : sending email to hoangthuychi98@gmail.com with token 25da79bed77fa69765ab00ee303ed192 with reason register
+I, [2016-11-16T16:07:03.456495 #2728]  INFO -- : received: {"to":"tranqbii1998@gmail.com","token":"3YXEV777","reason":"reset"} on /topic/hpumail
+I, [2016-11-16T16:07:03.456495 #2728]  INFO -- : sending email to tranqbii1998@gmail.com with token 3YXEV777 with reason reset
+I, [2016-11-16T16:08:31.378249 #2728]  INFO -- : received: {"to":"tranqbii1998@gmail.com","token":"trang1509","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-16T16:08:31.378249 #2728]  INFO -- : sending email to tranqbii1998@gmail.com with token trang1509 with reason resetpassword

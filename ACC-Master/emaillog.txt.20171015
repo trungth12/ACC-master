@@ -1,0 +1,5 @@
+# Logfile created on 2017-10-11 07:40:19 +0700 by logger.rb/31641
+I, [2017-10-11T07:40:19.325226 #1536]  INFO -- : received: {"to":"mr_quanghuy2007@yahoo.com","token":"48af8d90f912b491500f708cae227d94","reason":"register"} on /topic/hpumail
+I, [2017-10-11T07:40:19.340826 #1536]  INFO -- : sending email to mr_quanghuy2007@yahoo.com with token 48af8d90f912b491500f708cae227d94 with reason register
+I, [2017-10-11T23:39:07.031468 #1536]  INFO -- : received: {"to":"tien01205542890@gmail.com","token":"3Y2CDDEZ","reason":"reset"} on /topic/hpumail
+I, [2017-10-11T23:39:07.031468 #1536]  INFO -- : sending email to tien01205542890@gmail.com with token 3Y2CDDEZ with reason reset

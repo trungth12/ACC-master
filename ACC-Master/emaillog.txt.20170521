@@ -1,0 +1,5 @@
+# Logfile created on 2017-05-21 16:37:18 +0700 by logger.rb/31641
+I, [2017-05-21T16:37:18.860056 #2660]  INFO -- : received: {"to":"daothanhhaic1108h@gmail.com","token":"WQWJHDRK","reason":"reset"} on /topic/hpumail
+I, [2017-05-21T16:37:18.860056 #2660]  INFO -- : sending email to daothanhhaic1108h@gmail.com with token WQWJHDRK with reason reset
+I, [2017-05-21T16:39:10.649853 #2660]  INFO -- : received: {"to":"daothanhhaic1108h@gmail.com","token":"13031993","reason":"resetpassword"} on /topic/hpumail
+I, [2017-05-21T16:39:10.649853 #2660]  INFO -- : sending email to daothanhhaic1108h@gmail.com with token 13031993 with reason resetpassword

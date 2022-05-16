@@ -1,0 +1,3 @@
+# Logfile created on 2021-06-03 15:51:10 +0700 by logger.rb/31641
+I, [2021-06-03T15:51:10.364164 #1472]  INFO -- : received: {"to":"thaontp@hpu.edu.vn","token":"TCWQXNYY","reason":"reset"} on /topic/hpumail
+I, [2021-06-03T15:51:10.395364 #1472]  INFO -- : sending email to thaontp@hpu.edu.vn with token TCWQXNYY with reason reset

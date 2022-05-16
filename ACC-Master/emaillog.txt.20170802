@@ -1,0 +1,5 @@
+# Logfile created on 2017-08-01 22:39:25 +0700 by logger.rb/31641
+I, [2017-08-01T22:39:25.019266 #2328]  INFO -- : received: {"to":"ngocngo910@gmail.com","token":"CZZ4ZH92","reason":"reset"} on /topic/hpumail
+I, [2017-08-01T22:39:25.081666 #2328]  INFO -- : sending email to ngocngo910@gmail.com with token CZZ4ZH92 with reason reset
+I, [2017-08-01T22:44:54.959846 #2328]  INFO -- : received: {"to":"ngocngo910@gmail.com","token":"09101995","reason":"resetpassword"} on /topic/hpumail
+I, [2017-08-01T22:44:54.959846 #2328]  INFO -- : sending email to ngocngo910@gmail.com with token 09101995 with reason resetpassword

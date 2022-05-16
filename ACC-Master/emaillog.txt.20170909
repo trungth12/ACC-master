@@ -1,0 +1,5 @@
+# Logfile created on 2017-09-03 21:11:36 +0700 by logger.rb/31641
+I, [2017-09-03T21:11:36.138732 #2304]  INFO -- : received: {"to":"thehuuhp91@gmail.com","token":"PR64733X","reason":"reset"} on /topic/hpumail
+I, [2017-09-03T21:11:36.201133 #2304]  INFO -- : sending email to thehuuhp91@gmail.com with token PR64733X with reason reset
+I, [2017-09-03T21:12:47.196857 #2304]  INFO -- : received: {"to":"thehuuhp91@gmail.com","token":"1Lethehuu","reason":"resetpassword"} on /topic/hpumail
+I, [2017-09-03T21:12:47.274857 #2304]  INFO -- : sending email to thehuuhp91@gmail.com with token 1Lethehuu with reason resetpassword

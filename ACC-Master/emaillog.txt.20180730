@@ -1,0 +1,3 @@
+# Logfile created on 2018-07-27 09:55:37 +0700 by logger.rb/31641
+I, [2018-07-27T09:55:37.652019 #1816]  INFO -- : received: {"to":"chipbibo3010@gmail.com","token":"KJ3DEGAP","reason":"reset"} on /topic/hpumail
+I, [2018-07-27T09:55:37.667619 #1816]  INFO -- : sending email to chipbibo3010@gmail.com with token KJ3DEGAP with reason reset

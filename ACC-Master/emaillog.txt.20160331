@@ -1,0 +1,3 @@
+# Logfile created on 2016-03-31 08:25:40 +0700 by logger.rb/31641
+I, [2016-03-31T08:25:40.248406 #4992]  INFO -- : received: {"to":"toan170597@gmall.com","token":"f56ea1499ce574a7fcd811255641e312","reason":"register"} on /topic/hpumail
+I, [2016-03-31T08:25:40.279606 #4992]  INFO -- : sending email to toan170597@gmall.com with token f56ea1499ce574a7fcd811255641e312 with reason register

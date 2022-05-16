@@ -1,0 +1,7 @@
+# Logfile created on 2019-09-30 13:40:12 +0700 by logger.rb/31641
+I, [2019-09-30T13:40:12.546659 #1168]  INFO -- : received: {"to":"nghiaueaw@gmail.com","token":"RCW2P93Z","reason":"reset"} on /topic/hpumail
+I, [2019-09-30T13:40:12.577859 #1168]  INFO -- : sending email to nghiaueaw@gmail.com with token RCW2P93Z with reason reset
+I, [2019-09-30T13:43:22.211793 #1168]  INFO -- : received: {"to":"nghiaueaw@gmail.com","token":"08111996","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-30T13:43:22.227393 #1168]  INFO -- : sending email to nghiaueaw@gmail.com with token 08111996 with reason resetpassword
+I, [2019-09-30T18:41:54.537654 #1168]  INFO -- : received: {"to":"huongdtl@hpu.edu.vn","token":"VK2HQHWW","reason":"reset"} on /topic/hpumail
+I, [2019-09-30T18:41:54.537654 #1168]  INFO -- : sending email to huongdtl@hpu.edu.vn with token VK2HQHWW with reason reset

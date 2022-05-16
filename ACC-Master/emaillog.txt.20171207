@@ -1,0 +1,11 @@
+# Logfile created on 2017-12-06 12:11:35 +0700 by logger.rb/31641
+I, [2017-12-06T12:11:35.417737 #1104]  INFO -- : received: {"to":"lamtrungtuyen@gmail.com","token":"MGAZNRVJ","reason":"reset"} on /topic/hpumail
+I, [2017-12-06T12:11:35.558137 #1104]  INFO -- : sending email to lamtrungtuyen@gmail.com with token MGAZNRVJ with reason reset
+I, [2017-12-06T12:12:40.438651 #1104]  INFO -- : received: {"to":"lamtrungtuyen@gmail.com","token":"LT7733529#","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-06T12:12:40.438651 #1104]  INFO -- : sending email to lamtrungtuyen@gmail.com with token LT7733529# with reason resetpassword
+I, [2017-12-06T15:40:45.109379 #1104]  INFO -- : received: {"to":"nguyenanh20121995@gmail.com","token":"6AE2YNXC","reason":"reset"} on /topic/hpumail
+I, [2017-12-06T15:40:45.124979 #1104]  INFO -- : sending email to nguyenanh20121995@gmail.com with token 6AE2YNXC with reason reset
+I, [2017-12-06T15:45:11.292647 #1104]  INFO -- : received: {"to":"nguyenanh20121995@gmail.com","token":"V4KCM3DC","reason":"reset"} on /topic/hpumail
+I, [2017-12-06T15:45:11.292647 #1104]  INFO -- : sending email to nguyenanh20121995@gmail.com with token V4KCM3DC with reason reset
+I, [2017-12-06T15:47:34.313698 #1104]  INFO -- : received: {"to":"nguyenanh20121995@gmail.com","token":"1412407019","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-06T15:47:34.313698 #1104]  INFO -- : sending email to nguyenanh20121995@gmail.com with token 1412407019 with reason resetpassword

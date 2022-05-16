@@ -1,0 +1,5 @@
+# Logfile created on 2019-11-03 22:26:57 +0700 by logger.rb/31641
+I, [2019-11-03T22:26:57.975185 #1988]  INFO -- : received: {"to":"anhvv@hpu.edu.vn","token":"R2E4ZVDQ","reason":"reset"} on /topic/hpumail
+I, [2019-11-03T22:26:57.990785 #1988]  INFO -- : sending email to anhvv@hpu.edu.vn with token R2E4ZVDQ with reason reset
+I, [2019-11-03T22:45:47.853970 #1988]  INFO -- : received: {"to":"anhvv@hpu.edu.vn","token":"vukhanhlinh","reason":"resetpassword"} on /topic/hpumail
+I, [2019-11-03T22:45:47.853970 #1988]  INFO -- : sending email to anhvv@hpu.edu.vn with token vukhanhlinh with reason resetpassword

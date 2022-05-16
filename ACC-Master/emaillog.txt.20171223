@@ -1,0 +1,5 @@
+# Logfile created on 2017-12-23 14:23:58 +0700 by logger.rb/31641
+I, [2017-12-23T14:23:58.291697 #1876]  INFO -- : received: {"to":"mrcharon13@gmail.com","token":"CTW7KM3Z","reason":"reset"} on /topic/hpumail
+I, [2017-12-23T14:23:58.307297 #1876]  INFO -- : sending email to mrcharon13@gmail.com with token CTW7KM3Z with reason reset
+I, [2017-12-23T14:35:16.159688 #1876]  INFO -- : received: {"to":"tranthingocbich212@gmail.com","token":"P6ZGH23W","reason":"reset"} on /topic/hpumail
+I, [2017-12-23T14:35:16.159688 #1876]  INFO -- : sending email to tranthingocbich212@gmail.com with token P6ZGH23W with reason reset

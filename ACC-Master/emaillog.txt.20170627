@@ -1,0 +1,5 @@
+# Logfile created on 2017-06-27 09:48:40 +0700 by logger.rb/31641
+I, [2017-06-27T09:48:40.531075 #2588]  INFO -- : received: {"to":"tranthanh1996hp@gmail.com","token":"RN2TJQTF","reason":"reset"} on /topic/hpumail
+I, [2017-06-27T09:48:40.546675 #2588]  INFO -- : sending email to tranthanh1996hp@gmail.com with token RN2TJQTF with reason reset
+I, [2017-06-27T13:03:42.250683 #2588]  INFO -- : received: {"to":"lananhtranthi91@gmail.com","token":"KKGNEX2C","reason":"reset"} on /topic/hpumail
+I, [2017-06-27T13:03:42.250683 #2588]  INFO -- : sending email to lananhtranthi91@gmail.com with token KKGNEX2C with reason reset

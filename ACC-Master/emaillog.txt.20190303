@@ -1,0 +1,5 @@
+# Logfile created on 2019-03-01 09:20:35 +0700 by logger.rb/31641
+I, [2019-03-01T09:20:35.029072 #1848]  INFO -- : received: {"to":"thaotien2502@gmail.com","token":"74E36ZA7","reason":"reset"} on /topic/hpumail
+I, [2019-03-01T09:20:35.044672 #1848]  INFO -- : sending email to thaotien2502@gmail.com with token 74E36ZA7 with reason reset
+I, [2019-03-01T09:31:41.060642 #1848]  INFO -- : received: {"to":"nguyenquanghieu010597@gmail.com","token":"Hp852800863","reason":"resetpassword"} on /topic/hpumail
+I, [2019-03-01T09:31:41.060642 #1848]  INFO -- : sending email to nguyenquanghieu010597@gmail.com with token Hp852800863 with reason resetpassword

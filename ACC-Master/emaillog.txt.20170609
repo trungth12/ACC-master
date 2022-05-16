@@ -1,0 +1,5 @@
+# Logfile created on 2017-06-09 14:16:51 +0700 by logger.rb/31641
+I, [2017-06-09T14:16:50.991952 #2476]  INFO -- : received: {"to":"huyenthoaihp1994@gmail.com","token":"WCNRMHKA","reason":"reset"} on /topic/hpumail
+I, [2017-06-09T14:16:51.054352 #2476]  INFO -- : sending email to huyenthoaihp1994@gmail.com with token WCNRMHKA with reason reset
+I, [2017-06-09T14:18:03.890880 #2476]  INFO -- : received: {"to":"huyenthoaihp1994@gmail.com","token":"duclam94","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-09T14:18:03.890880 #2476]  INFO -- : sending email to huyenthoaihp1994@gmail.com with token duclam94 with reason resetpassword

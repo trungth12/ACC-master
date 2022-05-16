@@ -1,0 +1,9 @@
+# Logfile created on 2017-12-04 09:00:48 +0700 by logger.rb/31641
+I, [2017-12-04T09:00:48.283324 #1104]  INFO -- : received: {"to":"khubo123@gmail.com","token":"YK6KFNQ7","reason":"reset"} on /topic/hpumail
+I, [2017-12-04T09:00:48.298924 #1104]  INFO -- : sending email to khubo123@gmail.com with token YK6KFNQ7 with reason reset
+I, [2017-12-04T09:02:56.702749 #1104]  INFO -- : received: {"to":"khubo123@gmail.com","token":"1234567890","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-04T09:02:56.702749 #1104]  INFO -- : sending email to khubo123@gmail.com with token 1234567890 with reason resetpassword
+I, [2017-12-04T21:25:00.054550 #1104]  INFO -- : received: {"to":"721996hang@gmail.com","token":"WVR3XR3D","reason":"reset"} on /topic/hpumail
+I, [2017-12-04T21:25:00.054550 #1104]  INFO -- : sending email to 721996hang@gmail.com with token WVR3XR3D with reason reset
+I, [2017-12-04T21:45:58.758361 #1104]  INFO -- : received: {"to":"721996hang@gmail.com","token":"QF3AGZQW","reason":"reset"} on /topic/hpumail
+I, [2017-12-04T21:45:58.758361 #1104]  INFO -- : sending email to 721996hang@gmail.com with token QF3AGZQW with reason reset

@@ -1,0 +1,15 @@
+# Logfile created on 2016-05-16 07:13:24 +0700 by logger.rb/31641
+I, [2016-05-16T07:13:24.647001 #1808]  INFO -- : received: {"to":"leevodanhnumberone@gmail.com","token":"Y6NVNFPH","reason":"reset"} on /topic/hpumail
+I, [2016-05-16T07:13:24.691003 #1808]  INFO -- : sending email to leevodanhnumberone@gmail.com with token Y6NVNFPH with reason reset
+I, [2016-05-16T07:15:16.619405 #1808]  INFO -- : received: {"to":"leevodanhnumberone@gmail.com","token":"leesan1312","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-16T07:15:16.620405 #1808]  INFO -- : sending email to leevodanhnumberone@gmail.com with token leesan1312 with reason resetpassword
+I, [2016-05-16T08:04:43.947127 #1808]  INFO -- : received: {"to":"huongna1901a@gmail.com","token":"XRDD2EZ6","reason":"reset"} on /topic/hpumail
+I, [2016-05-16T08:04:43.948127 #1808]  INFO -- : sending email to huongna1901a@gmail.com with token XRDD2EZ6 with reason reset
+I, [2016-05-16T18:26:38.926421 #1808]  INFO -- : received: {"to":"ngoc14091996@gmail.com","token":"KKCA2Z23","reason":"reset"} on /topic/hpumail
+I, [2016-05-16T18:26:38.928421 #1808]  INFO -- : sending email to ngoc14091996@gmail.com with token KKCA2Z23 with reason reset
+I, [2016-05-16T18:40:11.820916 #1808]  INFO -- : received: {"to":"ngoc14091996@gmail.com","token":"1491996","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-16T18:40:11.820916 #1808]  INFO -- : sending email to ngoc14091996@gmail.com with token 1491996 with reason resetpassword
+I, [2016-05-16T20:43:53.113390 #1808]  INFO -- : received: {"to":"myththanthoaiboy8x@gmail.com","token":"CNNWK7J7","reason":"reset"} on /topic/hpumail
+I, [2016-05-16T20:43:53.113390 #1808]  INFO -- : sending email to myththanthoaiboy8x@gmail.com with token CNNWK7J7 with reason reset
+I, [2016-05-16T20:45:13.195970 #1808]  INFO -- : received: {"to":"myththanthoaiboy8x@gmail.com","token":"19940620","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-16T20:45:13.196970 #1808]  INFO -- : sending email to myththanthoaiboy8x@gmail.com with token 19940620 with reason resetpassword

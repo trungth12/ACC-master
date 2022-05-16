@@ -1,0 +1,5 @@
+# Logfile created on 2016-12-23 20:43:23 +0700 by logger.rb/31641
+I, [2016-12-23T20:43:23.060943 #2668]  INFO -- : received: {"to":"hainguyen22101995@gmail.com","token":"VW4QZNRM","reason":"reset"} on /topic/hpumail
+I, [2016-12-23T20:43:23.060943 #2668]  INFO -- : sending email to hainguyen22101995@gmail.com with token VW4QZNRM with reason reset
+I, [2016-12-23T23:01:47.708787 #2668]  INFO -- : received: {"to":"shocknhokno2@gmail.com","token":"E33FKYZ2","reason":"reset"} on /topic/hpumail
+I, [2016-12-23T23:01:47.708787 #2668]  INFO -- : sending email to shocknhokno2@gmail.com with token E33FKYZ2 with reason reset

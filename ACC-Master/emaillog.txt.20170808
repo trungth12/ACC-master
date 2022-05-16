@@ -1,0 +1,3 @@
+# Logfile created on 2017-08-08 14:16:33 +0700 by logger.rb/31641
+I, [2017-08-08T14:16:33.267823 #2292]  INFO -- : received: {"to":"dinhdacquang3@gmail.com","token":"ZVK7AEP7","reason":"reset"} on /topic/hpumail
+I, [2017-08-08T14:16:33.345823 #2292]  INFO -- : sending email to dinhdacquang3@gmail.com with token ZVK7AEP7 with reason reset

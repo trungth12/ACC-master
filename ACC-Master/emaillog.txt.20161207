@@ -1,0 +1,7 @@
+# Logfile created on 2016-12-07 17:17:34 +0700 by logger.rb/31641
+I, [2016-12-07T17:17:33.964500 #2572]  INFO -- : received: {"to":"kunduchp@gmail.com","token":"e58ac555b5b2ef69b9bf07502f434e1f","reason":"register"} on /topic/hpumail
+I, [2016-12-07T17:17:34.026900 #2572]  INFO -- : sending email to kunduchp@gmail.com with token e58ac555b5b2ef69b9bf07502f434e1f with reason register
+I, [2016-12-07T17:41:25.891015 #2572]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"X4EXV3MF","reason":"reset"} on /topic/hpumail
+I, [2016-12-07T17:41:25.891015 #2572]  INFO -- : sending email to covaokhong1981@gmail.com with token X4EXV3MF with reason reset
+I, [2016-12-07T17:46:35.723159 #2572]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"hiep98hp","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-07T17:46:35.723159 #2572]  INFO -- : sending email to covaokhong1981@gmail.com with token hiep98hp with reason resetpassword

@@ -1,0 +1,7 @@
+# Logfile created on 2018-11-29 17:28:11 +0700 by logger.rb/31641
+I, [2018-11-29T17:28:11.411709 #1352]  INFO -- : received: {"to":"phamvantoan94hd@gmail.com","token":"KECZFYHE","reason":"reset"} on /topic/hpumail
+I, [2018-11-29T17:28:11.442909 #1352]  INFO -- : sending email to phamvantoan94hd@gmail.com with token KECZFYHE with reason reset
+I, [2018-11-29T17:32:58.717414 #1352]  INFO -- : received: {"to":"phamvantoan94hd@gmail.com","token":"RQ3FPYJG","reason":"reset"} on /topic/hpumail
+I, [2018-11-29T17:32:58.717414 #1352]  INFO -- : sending email to phamvantoan94hd@gmail.com with token RQ3FPYJG with reason reset
+I, [2018-11-29T17:34:22.505161 #1352]  INFO -- : received: {"to":"phamvantoan94hd@gmail.com","token":"toan1541","reason":"resetpassword"} on /topic/hpumail
+I, [2018-11-29T17:34:22.505161 #1352]  INFO -- : sending email to phamvantoan94hd@gmail.com with token toan1541 with reason resetpassword

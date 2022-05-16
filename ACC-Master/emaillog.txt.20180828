@@ -1,0 +1,3 @@
+# Logfile created on 2018-08-24 16:39:15 +0700 by logger.rb/31641
+I, [2018-08-24T16:39:15.054383 #2144]  INFO -- : received: {"to":"mrbonbon25061998@gmail.com","token":"1b3a0d78d194cd56661801b879e90d1e","reason":"register"} on /topic/hpumail
+I, [2018-08-24T16:39:15.054383 #2144]  INFO -- : sending email to mrbonbon25061998@gmail.com with token 1b3a0d78d194cd56661801b879e90d1e with reason register

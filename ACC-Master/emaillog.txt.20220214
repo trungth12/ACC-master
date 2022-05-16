@@ -1,0 +1,3 @@
+# Logfile created on 2022-01-04 23:27:31 +0700 by logger.rb/31641
+I, [2022-01-04T23:27:31.717666 #618792]  INFO -- : received: {"to":"thunv@hpu.edu.vn","token":"H3H3FJ9A","reason":"reset"} on /topic/hpumail
+I, [2022-01-04T23:27:31.733266 #618792]  INFO -- : sending email to thunv@hpu.edu.vn with token H3H3FJ9A with reason reset

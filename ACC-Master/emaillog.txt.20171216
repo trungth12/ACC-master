@@ -1,0 +1,3 @@
+# Logfile created on 2017-12-15 11:53:04 +0700 by logger.rb/31641
+I, [2017-12-15T11:53:04.248626 #1876]  INFO -- : received: {"to":"phamthanhhang199655@gmail.com","token":"THVC93QJ","reason":"reset"} on /topic/hpumail
+I, [2017-12-15T11:53:04.264226 #1876]  INFO -- : sending email to phamthanhhang199655@gmail.com with token THVC93QJ with reason reset

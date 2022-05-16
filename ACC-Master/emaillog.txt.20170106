@@ -1,0 +1,21 @@
+# Logfile created on 2017-01-06 09:52:22 +0700 by logger.rb/31641
+I, [2017-01-06T09:52:22.770177 #2728]  INFO -- : received: {"to":"anhpohp@gmail.com","token":"RFAJ73TV","reason":"reset"} on /topic/hpumail
+I, [2017-01-06T09:52:22.801377 #2728]  INFO -- : sending email to anhpohp@gmail.com with token RFAJ73TV with reason reset
+I, [2017-01-06T09:58:43.301645 #2728]  INFO -- : received: {"to":"anhpohp@gmail.com","token":"KZM9RKDC","reason":"reset"} on /topic/hpumail
+I, [2017-01-06T09:58:43.301645 #2728]  INFO -- : sending email to anhpohp@gmail.com with token KZM9RKDC with reason reset
+I, [2017-01-06T10:06:14.111237 #2728]  INFO -- : received: {"to":"anhpohp@gmail.com","token":"YZDJX9DA","reason":"reset"} on /topic/hpumail
+I, [2017-01-06T10:06:14.111237 #2728]  INFO -- : sending email to anhpohp@gmail.com with token YZDJX9DA with reason reset
+I, [2017-01-06T10:44:48.480007 #2700]  INFO -- : received: {"to":"hungbh.hp@gmail.com","token":"f3de42bcb6ff15568591999dc9281038","reason":"register"} on /topic/hpumail
+I, [2017-01-06T10:44:48.495607 #2700]  INFO -- : sending email to hungbh.hp@gmail.com with token f3de42bcb6ff15568591999dc9281038 with reason register
+I, [2017-01-06T10:45:37.510893 #2700]  INFO -- : received: {"to":"hungbh.hp@gmail.com","token":"W932WYX3","reason":"reset"} on /topic/hpumail
+I, [2017-01-06T10:45:37.526493 #2700]  INFO -- : sending email to hungbh.hp@gmail.com with token W932WYX3 with reason reset
+I, [2017-01-06T11:10:59.839567 #2700]  INFO -- : received: {"to":"noamlone2@gmail.com","token":"2NWHYTRK","reason":"reset"} on /topic/hpumail
+I, [2017-01-06T11:10:59.839567 #2700]  INFO -- : sending email to noamlone2@gmail.com with token 2NWHYTRK with reason reset
+I, [2017-01-06T11:12:25.015716 #2700]  INFO -- : received: {"to":"noamlone2@gmail.com","token":"nghia123","reason":"resetpassword"} on /topic/hpumail
+I, [2017-01-06T11:12:25.015716 #2700]  INFO -- : sending email to noamlone2@gmail.com with token nghia123 with reason resetpassword
+I, [2017-01-06T16:31:52.831783 #2700]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"TNX44M9D","reason":"reset"} on /topic/hpumail
+I, [2017-01-06T16:31:52.831783 #2700]  INFO -- : sending email to tamht.na1804@gmail.com with token TNX44M9D with reason reset
+I, [2017-01-06T21:21:58.312754 #2700]  INFO -- : received: {"to":"tithp0187@gmail.com","token":"272NW9NY","reason":"reset"} on /topic/hpumail
+I, [2017-01-06T21:21:58.312754 #2700]  INFO -- : sending email to tithp0187@gmail.com with token 272NW9NY with reason reset
+I, [2017-01-06T21:22:50.276445 #2700]  INFO -- : received: {"to":"tithp0187@gmail.com","token":"ditmemay1","reason":"resetpassword"} on /topic/hpumail
+I, [2017-01-06T21:22:50.276445 #2700]  INFO -- : sending email to tithp0187@gmail.com with token ditmemay1 with reason resetpassword

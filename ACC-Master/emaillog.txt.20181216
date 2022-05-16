@@ -1,0 +1,5 @@
+# Logfile created on 2018-12-14 08:48:36 +0700 by logger.rb/31641
+I, [2018-12-14T08:48:36.992967 #2040]  INFO -- : received: {"to":"thuybinh19971@gmail.com","token":"Q6N9K97R","reason":"reset"} on /topic/hpumail
+I, [2018-12-14T08:48:36.992967 #2040]  INFO -- : sending email to thuybinh19971@gmail.com with token Q6N9K97R with reason reset
+I, [2018-12-14T08:52:37.607790 #2040]  INFO -- : received: {"to":"oaihuongtim600@gmail.com","token":"HW2W794Z","reason":"reset"} on /topic/hpumail
+I, [2018-12-14T08:52:37.607790 #2040]  INFO -- : sending email to oaihuongtim600@gmail.com with token HW2W794Z with reason reset

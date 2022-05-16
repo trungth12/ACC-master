@@ -1,0 +1,11 @@
+# Logfile created on 2018-10-03 10:14:18 +0700 by logger.rb/31641
+I, [2018-10-03T10:14:17.969227 #1360]  INFO -- : received: {"to":"daohang.qt1801n@gmail.com","token":"EAPAV632","reason":"reset"} on /topic/hpumail
+I, [2018-10-03T10:14:18.078427 #1360]  INFO -- : sending email to daohang.qt1801n@gmail.com with token EAPAV632 with reason reset
+I, [2018-10-03T10:16:31.599061 #1360]  INFO -- : received: {"to":"daohang.qt1801n@gmail.com","token":"1412402014","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-03T10:16:31.599061 #1360]  INFO -- : sending email to daohang.qt1801n@gmail.com with token 1412402014 with reason resetpassword
+I, [2018-10-03T12:27:02.469616 #1360]  INFO -- : received: {"to":"truongbabinh1810@gmail.com","token":"6F6MKFED","reason":"reset"} on /topic/hpumail
+I, [2018-10-03T12:27:02.485216 #1360]  INFO -- : sending email to truongbabinh1810@gmail.com with token 6F6MKFED with reason reset
+I, [2018-10-03T12:33:54.840740 #1360]  INFO -- : received: {"to":"truongbabinh1810@gmail.com","token":"19971018","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-03T12:33:54.840740 #1360]  INFO -- : sending email to truongbabinh1810@gmail.com with token 19971018 with reason resetpassword
+I, [2018-10-03T16:02:04.659477 #1360]  INFO -- : received: {"to":"tranthanh1996hp@gmail.com","token":"MQGJJ6FP","reason":"reset"} on /topic/hpumail
+I, [2018-10-03T16:02:04.659477 #1360]  INFO -- : sending email to tranthanh1996hp@gmail.com with token MQGJJ6FP with reason reset

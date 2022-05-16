@@ -1,0 +1,5 @@
+# Logfile created on 2018-12-04 12:29:01 +0700 by logger.rb/31641
+I, [2018-12-04T12:29:01.108736 #2020]  INFO -- : received: {"to":"vutuanthanh789@gmail.com","token":"ZEKJ9XX6","reason":"reset"} on /topic/hpumail
+I, [2018-12-04T12:29:01.186736 #2020]  INFO -- : sending email to vutuanthanh789@gmail.com with token ZEKJ9XX6 with reason reset
+I, [2018-12-04T15:53:45.381512 #2020]  INFO -- : received: {"to":"canhoangubqn@gmail.com","token":"CJNYH7DD","reason":"reset"} on /topic/hpumail
+I, [2018-12-04T15:53:45.381512 #2020]  INFO -- : sending email to canhoangubqn@gmail.com with token CJNYH7DD with reason reset

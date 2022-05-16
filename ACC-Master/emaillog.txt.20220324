@@ -1,0 +1,29 @@
+# Logfile created on 2022-03-24 15:14:06 +0700 by logger.rb/31641
+I, [2022-03-24T15:14:06.807671 #4872]  INFO -- : received: {"to":"uyennguyen54dshp@gmail.com","token":"1b0210bd3951d5a89cf0e124a33caed5","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:14:06.838871 #4872]  INFO -- : sending email to uyennguyen54dshp@gmail.com with token 1b0210bd3951d5a89cf0e124a33caed5 with reason register
+I, [2022-03-24T15:22:02.202906 #4872]  INFO -- : received: {"to":"ahonglam096@gmail.com","token":"28be2172576b20b58402a614c6091612","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:22:02.202906 #4872]  INFO -- : sending email to ahonglam096@gmail.com with token 28be2172576b20b58402a614c6091612 with reason register
+I, [2022-03-24T15:27:55.403126 #4872]  INFO -- : received: {"to":"anhpth.26@gmail.com","token":"f4f0b56f6b2180c06333dab38862a2cc","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:27:55.403126 #4872]  INFO -- : sending email to anhpth.26@gmail.com with token f4f0b56f6b2180c06333dab38862a2cc with reason register
+I, [2022-03-24T15:31:51.759142 #4872]  INFO -- : received: {"to":"thang2708200@gmail.com","token":"460e02d06eecc05189e550d26589b99c","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:31:51.759142 #4872]  INFO -- : sending email to thang2708200@gmail.com with token 460e02d06eecc05189e550d26589b99c with reason register
+I, [2022-03-24T15:36:42.465652 #4872]  INFO -- : received: {"to":"thang2708200@gmail.com","token":"R6726CNG","reason":"reset"} on /topic/hpumail
+I, [2022-03-24T15:36:42.465652 #4872]  INFO -- : sending email to thang2708200@gmail.com with token R6726CNG with reason reset
+I, [2022-03-24T15:38:55.502686 #4872]  INFO -- : received: {"to":"nguyenmaihuong2000hp@gmail.com","token":"71a47d63aba698b43e9497a94157478b","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:38:55.502686 #4872]  INFO -- : sending email to nguyenmaihuong2000hp@gmail.com with token 71a47d63aba698b43e9497a94157478b with reason register
+I, [2022-03-24T15:42:39.238279 #4872]  INFO -- : received: {"to":"huyhuy1312002@gmail.com","token":"65536a800bb63ca9ed0686741ac2db52","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:42:39.238279 #4872]  INFO -- : sending email to huyhuy1312002@gmail.com with token 65536a800bb63ca9ed0686741ac2db52 with reason register
+I, [2022-03-24T15:46:06.593843 #4872]  INFO -- : received: {"to":"tuphungvan.05@gmail.com","token":"b58676bf73534e013eae98a53a30e16a","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:46:06.593843 #4872]  INFO -- : sending email to tuphungvan.05@gmail.com with token b58676bf73534e013eae98a53a30e16a with reason register
+I, [2022-03-24T15:48:03.266448 #4872]  INFO -- : received: {"to":"thang2708200@gmail.com","token":"C3WXX43Q","reason":"reset"} on /topic/hpumail
+I, [2022-03-24T15:48:03.266448 #4872]  INFO -- : sending email to thang2708200@gmail.com with token C3WXX43Q with reason reset
+I, [2022-03-24T15:51:03.805565 #4872]  INFO -- : received: {"to":"ngoc.kute1520@gmail.com","token":"88b2491db31cdbae16d4cb12a41fecd3","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:51:03.805565 #4872]  INFO -- : sending email to ngoc.kute1520@gmail.com with token 88b2491db31cdbae16d4cb12a41fecd3 with reason register
+I, [2022-03-24T15:55:31.439635 #4872]  INFO -- : received: {"to":"thanhbibo21@gmail.com","token":"ba88d96b18777e333a35d6bd3a35335d","reason":"register"} on /topic/hpumail
+I, [2022-03-24T15:55:31.439635 #4872]  INFO -- : sending email to thanhbibo21@gmail.com with token ba88d96b18777e333a35d6bd3a35335d with reason register
+I, [2022-03-24T15:57:32.776648 #4872]  INFO -- : received: {"to":"dinhnt.tv@gmail.com","token":"MWMMZ4T6","reason":"reset"} on /topic/hpumail
+I, [2022-03-24T15:57:32.776648 #4872]  INFO -- : sending email to dinhnt.tv@gmail.com with token MWMMZ4T6 with reason reset
+I, [2022-03-24T15:59:18.498034 #4872]  INFO -- : received: {"to":"thang2708200@gmail.com","token":"NKPHDGRM","reason":"reset"} on /topic/hpumail
+I, [2022-03-24T15:59:18.498034 #4872]  INFO -- : sending email to thang2708200@gmail.com with token NKPHDGRM with reason reset
+I, [2022-03-24T16:11:37.346532 #4872]  INFO -- : received: {"to":"thang2708200@gmail.com","token":"9XTECG43","reason":"reset"} on /topic/hpumail
+I, [2022-03-24T16:11:37.346532 #4872]  INFO -- : sending email to thang2708200@gmail.com with token 9XTECG43 with reason reset

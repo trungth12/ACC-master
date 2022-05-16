@@ -1,0 +1,11 @@
+# Logfile created on 2019-03-04 15:09:07 +0700 by logger.rb/31641
+I, [2019-03-04T15:09:07.732925 #1848]  INFO -- : received: {"to":"renlady0202@gmail.com","token":"2THMM3T2","reason":"reset"} on /topic/hpumail
+I, [2019-03-04T15:09:07.826526 #1848]  INFO -- : sending email to renlady0202@gmail.com with token 2THMM3T2 with reason reset
+I, [2019-03-04T15:16:30.681103 #1848]  INFO -- : received: {"to":"huyenbi115@gmail.com","token":"ZMDAR2TY","reason":"reset"} on /topic/hpumail
+I, [2019-03-04T15:16:30.681103 #1848]  INFO -- : sending email to huyenbi115@gmail.com with token ZMDAR2TY with reason reset
+I, [2019-03-04T15:19:51.781057 #1848]  INFO -- : received: {"to":"huyenbi115@gmail.com","token":"hyybiiz96","reason":"resetpassword"} on /topic/hpumail
+I, [2019-03-04T15:19:51.781057 #1848]  INFO -- : sending email to huyenbi115@gmail.com with token hyybiiz96 with reason resetpassword
+I, [2019-03-04T15:21:51.418667 #1848]  INFO -- : received: {"to":"phamnghia020294@gmail.com","token":"X3TCCGK3","reason":"reset"} on /topic/hpumail
+I, [2019-03-04T15:21:51.418667 #1848]  INFO -- : sending email to phamnghia020294@gmail.com with token X3TCCGK3 with reason reset
+I, [2019-03-04T15:25:08.697613 #1848]  INFO -- : received: {"to":"phamnghia020294@gmail.com","token":"1312751029","reason":"resetpassword"} on /topic/hpumail
+I, [2019-03-04T15:25:08.697613 #1848]  INFO -- : sending email to phamnghia020294@gmail.com with token 1312751029 with reason resetpassword

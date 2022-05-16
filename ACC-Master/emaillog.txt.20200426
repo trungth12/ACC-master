@@ -1,0 +1,5 @@
+# Logfile created on 2020-04-25 09:50:35 +0700 by logger.rb/31641
+I, [2020-04-25T09:50:35.250195 #1832]  INFO -- : received: {"to":"trungth@hpu.edu.vn","token":"E92RCMXA","reason":"reset"} on /topic/hpumail
+I, [2020-04-25T09:50:35.265795 #1832]  INFO -- : sending email to trungth@hpu.edu.vn with token E92RCMXA with reason reset
+I, [2020-04-25T09:53:54.883746 #1832]  INFO -- : received: {"to":"trungth@hpu.edu.vn","token":"ngocminh","reason":"resetpassword"} on /topic/hpumail
+I, [2020-04-25T09:53:54.883746 #1832]  INFO -- : sending email to trungth@hpu.edu.vn with token ngocminh with reason resetpassword

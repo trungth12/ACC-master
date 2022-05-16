@@ -1,0 +1,3 @@
+# Logfile created on 2016-06-12 02:40:52 +0700 by logger.rb/31641
+I, [2016-06-12T02:40:50.855654 #1740]  INFO -- : received: {"to":"smile_vhn1993@yahoo.com","token":"a2d71583f10e934b49938a445c1155f0","reason":"register"} on /topic/hpumail
+I, [2016-06-12T02:40:52.669758 #1740]  INFO -- : sending email to smile_vhn1993@yahoo.com with token a2d71583f10e934b49938a445c1155f0 with reason register

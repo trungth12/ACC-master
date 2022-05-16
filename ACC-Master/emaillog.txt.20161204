@@ -1,0 +1,5 @@
+# Logfile created on 2016-12-02 08:05:32 +0700 by logger.rb/31641
+I, [2016-12-02T08:05:32.456610 #2692]  INFO -- : received: {"to":"nobita_dethuong_93@yahoo.com","token":"XHZYQNAQ","reason":"reset"} on /topic/hpumail
+I, [2016-12-02T08:05:32.534610 #2692]  INFO -- : sending email to nobita_dethuong_93@yahoo.com with token XHZYQNAQ with reason reset
+I, [2016-12-02T08:09:14.772601 #2692]  INFO -- : received: {"to":"nobita_dethuong_93@yahoo.com","token":"123a456789","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-02T08:09:14.788201 #2692]  INFO -- : sending email to nobita_dethuong_93@yahoo.com with token 123a456789 with reason resetpassword

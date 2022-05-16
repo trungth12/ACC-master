@@ -1,0 +1,13 @@
+# Logfile created on 2017-12-27 08:51:50 +0700 by logger.rb/31641
+I, [2017-12-27T08:51:50.072192 #1876]  INFO -- : received: {"to":"nguyethp96@gmail.com","token":"7HCDGW2F","reason":"reset"} on /topic/hpumail
+I, [2017-12-27T08:51:50.087792 #1876]  INFO -- : sending email to nguyethp96@gmail.com with token 7HCDGW2F with reason reset
+I, [2017-12-27T08:52:58.618712 #1876]  INFO -- : received: {"to":"nguyethp96@gmail.com","token":"01219220091","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-27T08:52:58.618712 #1876]  INFO -- : sending email to nguyethp96@gmail.com with token 01219220091 with reason resetpassword
+I, [2017-12-27T09:47:10.928024 #1876]  INFO -- : received: {"to":"thanhcong10121996@gmail.com","token":"P4FPYG2Z","reason":"reset"} on /topic/hpumail
+I, [2017-12-27T09:47:10.928024 #1876]  INFO -- : sending email to thanhcong10121996@gmail.com with token P4FPYG2Z with reason reset
+I, [2017-12-27T11:08:51.879432 #1876]  INFO -- : received: {"to":"nguyenthirieuna1802@gmail.com","token":"PGNN6744","reason":"reset"} on /topic/hpumail
+I, [2017-12-27T11:08:51.879432 #1876]  INFO -- : sending email to nguyenthirieuna1802@gmail.com with token PGNN6744 with reason reset
+I, [2017-12-27T11:09:49.505934 #1876]  INFO -- : received: {"to":"nguyenthirieuna1802@gmail.com","token":"27121995","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-27T11:09:49.505934 #1876]  INFO -- : sending email to nguyenthirieuna1802@gmail.com with token 27121995 with reason resetpassword
+I, [2017-12-27T17:31:54.058198 #1876]  INFO -- : received: {"to":"tungphamvhdl1801@gmail.com","token":"HRW9Z7J9","reason":"reset"} on /topic/hpumail
+I, [2017-12-27T17:31:54.058198 #1876]  INFO -- : sending email to tungphamvhdl1801@gmail.com with token HRW9Z7J9 with reason reset

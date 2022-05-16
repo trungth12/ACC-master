@@ -1,0 +1,7 @@
+# Logfile created on 2020-09-25 06:43:18 +0700 by logger.rb/31641
+I, [2020-09-25T06:43:18.740856 #1836]  INFO -- : received: {"to":"duykt1901c@gmail.com","token":"4R9Z3EZJ","reason":"reset"} on /topic/hpumail
+I, [2020-09-25T06:43:18.756456 #1836]  INFO -- : sending email to duykt1901c@gmail.com with token 4R9Z3EZJ with reason reset
+I, [2020-09-25T15:42:32.105681 #1836]  INFO -- : received: {"to":"tranduyhai246@gmail.com","token":"Q3PAP3JC","reason":"reset"} on /topic/hpumail
+I, [2020-09-25T15:42:32.121281 #1836]  INFO -- : sending email to tranduyhai246@gmail.com with token Q3PAP3JC with reason reset
+I, [2020-09-25T19:43:30.273476 #1836]  INFO -- : received: {"to":"duykt1901c@gmail.com","token":"Duy23121997","reason":"resetpassword"} on /topic/hpumail
+I, [2020-09-25T19:43:30.273476 #1836]  INFO -- : sending email to duykt1901c@gmail.com with token Duy23121997 with reason resetpassword

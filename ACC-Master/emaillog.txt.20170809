@@ -1,0 +1,3 @@
+# Logfile created on 2017-08-09 09:39:53 +0700 by logger.rb/31641
+I, [2017-08-09T09:39:53.767686 #2236]  INFO -- : received: {"to":"ngotheancr7@gmail.com","token":"d4236740afc5e065a38be85285c7edc1","reason":"register"} on /topic/hpumail
+I, [2017-08-09T09:39:53.830086 #2236]  INFO -- : sending email to ngotheancr7@gmail.com with token d4236740afc5e065a38be85285c7edc1 with reason register

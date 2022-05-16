@@ -1,0 +1,5 @@
+# Logfile created on 2016-01-08 08:58:18 +0700 by logger.rb/31641
+I, [2016-01-08T08:58:18.484115 #2812]  INFO -- : received: {"to":"anhletuan992@gmail.com","token":"FQYJYKTV","reason":"reset"} on /topic/hpumail
+I, [2016-01-08T08:58:18.484115 #2812]  INFO -- : sending email to anhletuan992@gmail.com with token FQYJYKTV with reason reset
+I, [2016-01-08T09:00:09.977511 #2812]  INFO -- : received: {"to":"nguyentuduc1989@gmail.com","token":"b5fa31c2fc1b38078f4e434fae04ad39","reason":"register"} on /topic/hpumail
+I, [2016-01-08T09:00:09.977511 #2812]  INFO -- : sending email to nguyentuduc1989@gmail.com with token b5fa31c2fc1b38078f4e434fae04ad39 with reason register

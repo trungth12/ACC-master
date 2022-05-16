@@ -1,0 +1,3 @@
+# Logfile created on 2016-02-18 13:19:18 +0700 by logger.rb/31641
+I, [2016-02-18T13:19:18.086583 #3056]  INFO -- : received: {"to":"haobh88@gmail.com","token":"JCJQDVDC","reason":"reset"} on /topic/hpumail
+I, [2016-02-18T13:19:18.102183 #3056]  INFO -- : sending email to haobh88@gmail.com with token JCJQDVDC with reason reset

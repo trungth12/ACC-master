@@ -1,0 +1,7 @@
+# Logfile created on 2016-12-26 10:40:14 +0700 by logger.rb/31641
+I, [2016-12-26T10:40:14.142028 #2676]  INFO -- : received: {"to":"vutrang310896.mt1801q@gmail.com","token":"44CZ2E3P","reason":"reset"} on /topic/hpumail
+I, [2016-12-26T10:40:14.188828 #2676]  INFO -- : sending email to vutrang310896.mt1801q@gmail.com with token 44CZ2E3P with reason reset
+I, [2016-12-26T15:51:36.547642 #2676]  INFO -- : received: {"to":"honghanhvu875@gmail.com","token":"3HCYTEMC","reason":"reset"} on /topic/hpumail
+I, [2016-12-26T15:51:36.547642 #2676]  INFO -- : sending email to honghanhvu875@gmail.com with token 3HCYTEMC with reason reset
+I, [2016-12-26T18:57:44.123657 #2676]  INFO -- : received: {"to":"vutrang310896.mt1801q@gmail.com","token":"2P27RGKA","reason":"reset"} on /topic/hpumail
+I, [2016-12-26T18:57:44.123657 #2676]  INFO -- : sending email to vutrang310896.mt1801q@gmail.com with token 2P27RGKA with reason reset

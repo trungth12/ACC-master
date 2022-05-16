@@ -1,0 +1,31 @@
+# Logfile created on 2015-12-09 00:21:31 +0700 by logger.rb/31641
+I, [2015-12-09T00:21:31.758092 #2804]  INFO -- : received: {"to":"ngocngo910@gmail.com","token":"A2HWWF6H","reason":"reset"} on /topic/hpumail
+I, [2015-12-09T00:21:31.804892 #2804]  INFO -- : sending email to ngocngo910@gmail.com with token A2HWWF6H with reason reset
+I, [2015-12-09T07:49:32.931707 #2804]  INFO -- : received: {"to":"guitarevn@gmail.com","token":"63d1a708510204b59dd31534cb61b9ed","reason":"register"} on /topic/hpumail
+I, [2015-12-09T07:49:32.931707 #2804]  INFO -- : sending email to guitarevn@gmail.com with token 63d1a708510204b59dd31534cb61b9ed with reason register
+I, [2015-12-09T08:44:51.385135 #2804]  INFO -- : received: {"to":"jackminhhiep@yahoo.com","token":"bda6cd55ad2c00d6fe62b1c3eb5a6abb","reason":"register"} on /topic/hpumail
+I, [2015-12-09T08:44:51.385135 #2804]  INFO -- : sending email to jackminhhiep@yahoo.com with token bda6cd55ad2c00d6fe62b1c3eb5a6abb with reason register
+I, [2015-12-09T10:07:27.638640 #2804]  INFO -- : received: {"to":"duong19912008@gmail.com","token":"a86099612b8f3c938c7d5029024d93b4","reason":"register"} on /topic/hpumail
+I, [2015-12-09T10:07:27.638640 #2804]  INFO -- : sending email to duong19912008@gmail.com with token a86099612b8f3c938c7d5029024d93b4 with reason register
+I, [2015-12-09T10:24:29.768036 #2804]  INFO -- : received: {"to":"tranloi090893@gmail.com","token":"8bd3912e4a5a0e9d2bab86f35dcfa5f1","reason":"register"} on /topic/hpumail
+I, [2015-12-09T10:24:29.768036 #2804]  INFO -- : sending email to tranloi090893@gmail.com with token 8bd3912e4a5a0e9d2bab86f35dcfa5f1 with reason register
+I, [2015-12-09T11:06:09.252226 #2804]  INFO -- : received: {"to":"hongminhhn5@gmail.com","token":"78183301c3de182f112b2c9f6ce58874","reason":"register"} on /topic/hpumail
+I, [2015-12-09T11:06:09.252226 #2804]  INFO -- : sending email to hongminhhn5@gmail.com with token 78183301c3de182f112b2c9f6ce58874 with reason register
+I, [2015-12-09T12:39:16.375485 #2796]  INFO -- : received: {"to":"huyentrang23196@gmail.com","token":"GP924RDX","reason":"reset"} on /topic/hpumail
+I, [2015-12-09T12:39:16.391085 #2796]  INFO -- : sending email to huyentrang23196@gmail.com with token GP924RDX with reason reset
+I, [2015-12-09T12:43:36.724342 #2796]  INFO -- : received: {"to":"huyentrang23196@gmail.com","token":"123qwe00","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-09T12:43:36.724342 #2796]  INFO -- : sending email to huyentrang23196@gmail.com with token 123qwe00 with reason resetpassword
+I, [2015-12-09T12:55:23.124783 #2796]  INFO -- : received: {"to":"johnathanstevie84@gmail.com","token":"0cc3189cb974deb6063ece995ac88b14","reason":"register"} on /topic/hpumail
+I, [2015-12-09T12:55:23.124783 #2796]  INFO -- : sending email to johnathanstevie84@gmail.com with token 0cc3189cb974deb6063ece995ac88b14 with reason register
+I, [2015-12-09T14:04:01.753641 #2772]  INFO -- : received: {"to":"vuthithuhuyen90@gmail.com","token":"840ef215e59d8cd21e4c4f288d8a993b","reason":"register"} on /topic/hpumail
+I, [2015-12-09T14:04:01.753641 #2772]  INFO -- : sending email to vuthithuhuyen90@gmail.com with token 840ef215e59d8cd21e4c4f288d8a993b with reason register
+I, [2015-12-09T15:44:06.906189 #2772]  INFO -- : received: {"to":"anhtrung2493@gmail.com","token":"VNADNPVM","reason":"reset"} on /topic/hpumail
+I, [2015-12-09T15:44:06.921789 #2772]  INFO -- : sending email to anhtrung2493@gmail.com with token VNADNPVM with reason reset
+I, [2015-12-09T15:49:31.917160 #2772]  INFO -- : received: {"to":"anhtrung2493@gmail.com","token":"trunganh","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-09T15:49:31.917160 #2772]  INFO -- : sending email to anhtrung2493@gmail.com with token trunganh with reason resetpassword
+I, [2015-12-09T19:28:01.821386 #2772]  INFO -- : received: {"to":"tranganhna1804@gmail.com","token":"01658310468","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-09T19:28:01.821386 #2772]  INFO -- : sending email to tranganhna1804@gmail.com with token 01658310468 with reason resetpassword
+I, [2015-12-09T20:30:52.379209 #2772]  INFO -- : received: {"to":"thesoulseller221@gmail.com","token":"R62YGDM3","reason":"reset"} on /topic/hpumail
+I, [2015-12-09T20:30:52.379209 #2772]  INFO -- : sending email to thesoulseller221@gmail.com with token R62YGDM3 with reason reset
+I, [2015-12-09T22:08:52.528737 #2772]  INFO -- : received: {"to":"linhnguyen.qt1805k@gmail.com","token":"ABingohpv96123","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-09T22:08:52.528737 #2772]  INFO -- : sending email to linhnguyen.qt1805k@gmail.com with token ABingohpv96123 with reason resetpassword

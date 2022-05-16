@@ -1,0 +1,11 @@
+# Logfile created on 2019-12-03 09:02:12 +0700 by logger.rb/31641
+I, [2019-12-03T09:02:12.408384 #1820]  INFO -- : received: {"to":"tuanta@hpu.edu.vn","token":"JQRTD77Z","reason":"reset"} on /topic/hpumail
+I, [2019-12-03T09:02:12.423984 #1820]  INFO -- : sending email to tuanta@hpu.edu.vn with token JQRTD77Z with reason reset
+I, [2019-12-03T09:11:38.004211 #1820]  INFO -- : received: {"to":"tuanta@hpu.edu.vn","token":"TMFVJY62","reason":"reset"} on /topic/hpumail
+I, [2019-12-03T09:11:38.004211 #1820]  INFO -- : sending email to tuanta@hpu.edu.vn with token TMFVJY62 with reason reset
+I, [2019-12-03T10:04:28.730618 #1820]  INFO -- : received: {"to":"duynt@hpu.edu.vn","token":"7T3239TQ","reason":"reset"} on /topic/hpumail
+I, [2019-12-03T10:04:28.730618 #1820]  INFO -- : sending email to duynt@hpu.edu.vn with token 7T3239TQ with reason reset
+I, [2019-12-03T10:56:14.930480 #1820]  INFO -- : received: {"to":"hoangnh@hpu.edu.vn","token":"JKAH24FM","reason":"reset"} on /topic/hpumail
+I, [2019-12-03T10:56:14.930480 #1820]  INFO -- : sending email to hoangnh@hpu.edu.vn with token JKAH24FM with reason reset
+I, [2019-12-03T11:33:20.008511 #1820]  INFO -- : received: {"to":"lienttn@hpu.edu.vn","token":"GXJ6CVZM","reason":"reset"} on /topic/hpumail
+I, [2019-12-03T11:33:20.008511 #1820]  INFO -- : sending email to lienttn@hpu.edu.vn with token GXJ6CVZM with reason reset

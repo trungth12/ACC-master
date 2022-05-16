@@ -1,0 +1,19 @@
+# Logfile created on 2016-06-07 08:51:17 +0700 by logger.rb/31641
+I, [2016-06-07T08:51:17.634178 #2576]  INFO -- : received: {"to":"vuquynhnhu2509@gmail.com","token":"DYXAFEYV","reason":"reset"} on /topic/hpumail
+I, [2016-06-07T08:51:17.737184 #2576]  INFO -- : sending email to vuquynhnhu2509@gmail.com with token DYXAFEYV with reason reset
+I, [2016-06-07T08:52:39.620867 #2576]  INFO -- : received: {"to":"vuquynhnhu2509@gmail.com","token":"quynhnhu2509","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-07T08:52:39.621867 #2576]  INFO -- : sending email to vuquynhnhu2509@gmail.com with token quynhnhu2509 with reason resetpassword
+I, [2016-06-07T08:52:51.647555 #2576]  INFO -- : received: {"to":"vuquynhnhu2509@gmail.com","token":"a60acd67438487d5e043a23f51600194","reason":"register"} on /topic/hpumail
+I, [2016-06-07T08:52:51.647555 #2576]  INFO -- : sending email to vuquynhnhu2509@gmail.com with token a60acd67438487d5e043a23f51600194 with reason register
+I, [2016-06-07T10:14:55.225168 #2576]  INFO -- : received: {"to":"doanthien.hp1994@gmail.com","token":"c0d26cfa0805cdbace03afac5154a2eb","reason":"register"} on /topic/hpumail
+I, [2016-06-07T10:14:55.226168 #2576]  INFO -- : sending email to doanthien.hp1994@gmail.com with token c0d26cfa0805cdbace03afac5154a2eb with reason register
+I, [2016-06-07T10:47:17.718272 #2576]  INFO -- : received: {"to":"huongnoo97@gmail.com","token":"noophuocthinh","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-07T10:47:17.719272 #2576]  INFO -- : sending email to huongnoo97@gmail.com with token noophuocthinh with reason resetpassword
+I, [2016-06-07T10:49:40.396433 #2576]  INFO -- : received: {"to":"lethikhanhlinh.hp.1997@gmail.com","token":"PCM6R3RE","reason":"reset"} on /topic/hpumail
+I, [2016-06-07T10:49:40.397433 #2576]  INFO -- : sending email to lethikhanhlinh.hp.1997@gmail.com with token PCM6R3RE with reason reset
+I, [2016-06-07T10:50:39.677823 #2576]  INFO -- : received: {"to":"lethikhanhlinh.hp.1997@gmail.com","token":"lethikhanhlinh","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-07T10:50:39.677823 #2576]  INFO -- : sending email to lethikhanhlinh.hp.1997@gmail.com with token lethikhanhlinh with reason resetpassword
+I, [2016-06-07T15:20:24.124521 #2576]  INFO -- : received: {"to":"vipxanh9xx@gmail.com","token":"XVHZQNCJ","reason":"reset"} on /topic/hpumail
+I, [2016-06-07T15:20:24.125521 #2576]  INFO -- : sending email to vipxanh9xx@gmail.com with token XVHZQNCJ with reason reset
+I, [2016-06-07T21:40:30.038945 #2576]  INFO -- : received: {"to":"ngocngo910@gmail.com","token":"P479H9J4","reason":"reset"} on /topic/hpumail
+I, [2016-06-07T21:40:30.039945 #2576]  INFO -- : sending email to ngocngo910@gmail.com with token P479H9J4 with reason reset

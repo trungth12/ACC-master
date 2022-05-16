@@ -1,0 +1,26 @@
+error:
+  no_login_ticket: "Yêu cầu đăng nhập không hợp lệ. Đảm bảo trình duyệt của bạn cho phép cookie."
+  login_ticket_already_used: "Phiên đăng nhập đang được sử dụng. Hãy thử đăng nhập lại."
+  login_timeout: "Phiên đăng nhập quá thời gian. Vui lòng thử lại."
+  invalid_login_ticket: "Yêu cầu đăng nhập không hợp lệ. Có thể có vấn đề với hệ thống xác thực."
+  login_ticket_needs_post_request: "Để thực hiện yêu cầu này, bạn cần đăng nhập."
+  incorrect_username_or_password: "Tên đăng nhập hoặc mật khẩu không đúng."
+  invalid_submit_to_uri: "Đường dẫn không hợp lệ. Vui lòng kiểm tra lại đường dẫn của bạn."
+  invalid_target_service: "Dịch vụ không hợp lệ. Hãy liên hệ với quản trị hệ mạng để được giúp đỡ."
+  unable_to_authenticate: "Không thể đăng nhập tại thời điểm này. Hãy thử đăng nhập lại sau."
+  no_service_parameter_given: "Hệ thống không thể đáp ứng yêu cầu này vì các tham số dịch vụ đã được đưa ra không hợp lệ."
+
+notice:
+  logged_in_as: "Bạn đang đăng nhập như '%1'. Nếu đây không phải là bạn, hãy thử đăng nhập dưới đây."
+  click_to_continue: "Vui lòng nhấn chuột vào liên kết sau để tiếp tục:"
+  success_logged_out: "Đăng xuất thành công."
+  success_logged_in: "Đăng nhập thành công."
+  please_wait: "Xin chờ trong giây lát ..."
+
+label:
+  username: "Tên đăng nhập"
+  password: "Mật khẩu"
+  central_login_title: "Hệ thống quản lý tài khoản tập trung"
+
+button:
+  login: "LOGIN"

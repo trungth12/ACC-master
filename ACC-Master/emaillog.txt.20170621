@@ -1,0 +1,7 @@
+# Logfile created on 2017-06-19 14:53:20 +0700 by logger.rb/31641
+I, [2017-06-19T14:53:20.287877 #2632]  INFO -- : received: {"to":"thaocp@hpu.edu.vn","token":"Y63VXPCX","reason":"reset"} on /topic/hpumail
+I, [2017-06-19T14:53:20.334677 #2632]  INFO -- : sending email to thaocp@hpu.edu.vn with token Y63VXPCX with reason reset
+I, [2017-06-19T14:54:35.526809 #2632]  INFO -- : received: {"to":"thaocp@hpu.edu.vn","token":"thaonguyen","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-19T14:54:35.526809 #2632]  INFO -- : sending email to thaocp@hpu.edu.vn with token thaonguyen with reason resetpassword
+I, [2017-06-19T23:07:03.273507 #2632]  INFO -- : received: {"to":"danglanhuong1512@gmail.com","token":"FXKEVVWR","reason":"reset"} on /topic/hpumail
+I, [2017-06-19T23:07:03.273507 #2632]  INFO -- : sending email to danglanhuong1512@gmail.com with token FXKEVVWR with reason reset

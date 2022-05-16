@@ -1,0 +1,7 @@
+# Logfile created on 2017-01-19 09:55:27 +0700 by logger.rb/31641
+I, [2017-01-19T09:55:27.030814 #2680]  INFO -- : received: {"to":"gia.toc.xitrum.hp@gmail.com","token":"TWATTV7A","reason":"reset"} on /topic/hpumail
+I, [2017-01-19T09:55:27.062014 #2680]  INFO -- : sending email to gia.toc.xitrum.hp@gmail.com with token TWATTV7A with reason reset
+I, [2017-01-19T09:56:18.276904 #2680]  INFO -- : received: {"to":"gia.toc.xitrum.hp@gmail.com","token":"pasttime","reason":"resetpassword"} on /topic/hpumail
+I, [2017-01-19T09:56:18.276904 #2680]  INFO -- : sending email to gia.toc.xitrum.hp@gmail.com with token pasttime with reason resetpassword
+I, [2017-01-19T10:33:49.641659 #2680]  INFO -- : received: {"to":"phuongbuina1702@gmail.com","token":"742f9684fc0bf38150a14303e0309cd5","reason":"register"} on /topic/hpumail
+I, [2017-01-19T10:33:49.641659 #2680]  INFO -- : sending email to phuongbuina1702@gmail.com with token 742f9684fc0bf38150a14303e0309cd5 with reason register

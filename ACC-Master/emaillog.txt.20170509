@@ -1,0 +1,7 @@
+# Logfile created on 2017-05-09 15:01:07 +0700 by logger.rb/31641
+I, [2017-05-09T15:01:07.747319 #2616]  INFO -- : received: {"to":"pkhtc@hpu.edu.vn","token":"NAMchinh241102","reason":"resetpassword"} on /topic/hpumail
+I, [2017-05-09T15:01:07.794119 #2616]  INFO -- : sending email to pkhtc@hpu.edu.vn with token NAMchinh241102 with reason resetpassword
+I, [2017-05-09T15:10:25.276699 #2616]  INFO -- : received: {"to":"bws@hpu.edu.vn","token":"YRK3TRMA","reason":"reset"} on /topic/hpumail
+I, [2017-05-09T15:10:25.276699 #2616]  INFO -- : sending email to bws@hpu.edu.vn with token YRK3TRMA with reason reset
+I, [2017-05-09T15:12:29.265716 #2616]  INFO -- : received: {"to":"bws@hpu.edu.vn","token":"@hpu125%","reason":"resetpassword"} on /topic/hpumail
+I, [2017-05-09T15:12:29.265716 #2616]  INFO -- : sending email to bws@hpu.edu.vn with token @hpu125% with reason resetpassword

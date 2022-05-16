@@ -1,0 +1,5 @@
+# Logfile created on 2019-12-01 15:09:42 +0700 by logger.rb/31641
+I, [2019-12-01T15:09:42.860505 #1816]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"93TN7MCJ","reason":"reset"} on /topic/hpumail
+I, [2019-12-01T15:09:42.954105 #1816]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token 93TN7MCJ with reason reset
+I, [2019-12-01T15:10:58.333438 #1816]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"Spring7676","reason":"resetpassword"} on /topic/hpumail
+I, [2019-12-01T15:10:58.395838 #1816]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token Spring7676 with reason resetpassword

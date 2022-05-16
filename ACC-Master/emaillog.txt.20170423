@@ -1,0 +1,3 @@
+# Logfile created on 2017-04-23 20:27:06 +0700 by logger.rb/31641
+I, [2017-04-23T20:27:06.730658 #2732]  INFO -- : received: {"to":"hung.nguyen.198@gmail.com","token":"E66FHC69","reason":"reset"} on /topic/hpumail
+I, [2017-04-23T20:27:06.793058 #2732]  INFO -- : sending email to hung.nguyen.198@gmail.com with token E66FHC69 with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2019-09-07 10:14:35 +0700 by logger.rb/31641
+I, [2019-09-07T10:14:35.235029 #2196]  INFO -- : received: {"to":"buihaininhanh@gmail.com","token":"d6c897c2c11e995c2fc584c6a2e0b013","reason":"register"} on /topic/hpumail
+I, [2019-09-07T10:14:35.250629 #2196]  INFO -- : sending email to buihaininhanh@gmail.com with token d6c897c2c11e995c2fc584c6a2e0b013 with reason register

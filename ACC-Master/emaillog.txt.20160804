@@ -1,0 +1,9 @@
+# Logfile created on 2016-08-04 14:14:00 +0700 by logger.rb/31641
+I, [2016-08-04T14:14:00.922154 #5072]  INFO -- : received: {"to":"huyenpt@hpu.edu.vn","token":"98f14372d3603e8332038f3d5563e1cc","reason":"register"} on /topic/hpumail
+I, [2016-08-04T14:14:00.940155 #5072]  INFO -- : sending email to huyenpt@hpu.edu.vn with token 98f14372d3603e8332038f3d5563e1cc with reason register
+I, [2016-08-04T15:57:09.329111 #5072]  INFO -- : received: {"to":"anhthevodka@gmail.com","token":"84388664","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-04T15:57:09.330111 #5072]  INFO -- : sending email to anhthevodka@gmail.com with token 84388664 with reason resetpassword
+I, [2016-08-04T15:57:46.944262 #5072]  INFO -- : received: {"to":"tranthaotrang.0903@gmail.com","token":"84388664","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-04T15:57:46.945262 #5072]  INFO -- : sending email to tranthaotrang.0903@gmail.com with token 84388664 with reason resetpassword
+I, [2016-08-04T15:58:08.370488 #5072]  INFO -- : received: {"to":"myloveislavender19@gmail.com","token":"19918bf873163d981f0f49009fed2328","reason":"register"} on /topic/hpumail
+I, [2016-08-04T15:58:08.370488 #5072]  INFO -- : sending email to myloveislavender19@gmail.com with token 19918bf873163d981f0f49009fed2328 with reason register

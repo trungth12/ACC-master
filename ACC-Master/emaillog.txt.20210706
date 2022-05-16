@@ -1,0 +1,3 @@
+# Logfile created on 2021-07-05 15:02:05 +0700 by logger.rb/31641
+I, [2021-07-05T15:02:05.318976 #1088]  INFO -- : received: {"to":"buitruong314@gmail.com","token":"d338b84009815fff5445f3853a3fef06","reason":"register"} on /topic/hpumail
+I, [2021-07-05T15:02:05.334576 #1088]  INFO -- : sending email to buitruong314@gmail.com with token d338b84009815fff5445f3853a3fef06 with reason register

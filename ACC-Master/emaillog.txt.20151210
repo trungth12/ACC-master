@@ -1,0 +1,55 @@
+# Logfile created on 2015-12-10 07:47:43 +0700 by logger.rb/31641
+I, [2015-12-10T07:47:43.212938 #2772]  INFO -- : received: {"to":"sontruc162@gmail.com","token":"8aba6b4ee71f2e1bb2f2ab5819604a32","reason":"register"} on /topic/hpumail
+I, [2015-12-10T07:47:43.275338 #2772]  INFO -- : sending email to sontruc162@gmail.com with token 8aba6b4ee71f2e1bb2f2ab5819604a32 with reason register
+I, [2015-12-10T10:47:36.794896 #2772]  INFO -- : received: {"to":"trinh240812@gmail.com","token":"3b68c4878c705213eec0e86e388aa3aa","reason":"register"} on /topic/hpumail
+I, [2015-12-10T10:47:36.794896 #2772]  INFO -- : sending email to trinh240812@gmail.com with token 3b68c4878c705213eec0e86e388aa3aa with reason register
+I, [2015-12-10T11:31:28.628718 #2772]  INFO -- : received: {"to":"vophapchinhphap@gmail.com","token":"cffba68a31388cb188649566e6cbc488","reason":"register"} on /topic/hpumail
+I, [2015-12-10T11:31:28.628718 #2772]  INFO -- : sending email to vophapchinhphap@gmail.com with token cffba68a31388cb188649566e6cbc488 with reason register
+I, [2015-12-10T13:50:48.660624 #2760]  INFO -- : received: {"to":"nguyenhongnhung1491997@gmail.com","token":"1491151997","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-10T13:50:48.676224 #2760]  INFO -- : sending email to nguyenhongnhung1491997@gmail.com with token 1491151997 with reason resetpassword
+I, [2015-12-10T15:12:44.010857 #2760]  INFO -- : received: {"to":"trunghoangxi@gmail.com","token":"a0d4c8ed0f2b01b546e1caa31d4f9c0e","reason":"register"} on /topic/hpumail
+I, [2015-12-10T15:12:44.010857 #2760]  INFO -- : sending email to trunghoangxi@gmail.com with token a0d4c8ed0f2b01b546e1caa31d4f9c0e with reason register
+I, [2015-12-10T15:18:42.889488 #2760]  INFO -- : received: {"to":"wangjunkai1706@gmail.com","token":"b80b14ca7c038ccf570ce8bd49eb71f6","reason":"register"} on /topic/hpumail
+I, [2015-12-10T15:18:42.889488 #2760]  INFO -- : sending email to wangjunkai1706@gmail.com with token b80b14ca7c038ccf570ce8bd49eb71f6 with reason register
+I, [2015-12-10T15:35:46.142085 #2760]  INFO -- : received: {"to":"thachvani1979@gmail.com","token":"40d23e8c0a7542acf404b29222911a47","reason":"register"} on /topic/hpumail
+I, [2015-12-10T15:35:46.142085 #2760]  INFO -- : sending email to thachvani1979@gmail.com with token 40d23e8c0a7542acf404b29222911a47 with reason register
+I, [2015-12-10T16:11:21.692236 #2760]  INFO -- : received: {"to":"lightninghunter94@gmail.com","token":"e11d49f8821aecbc565a5a922b5d6126","reason":"register"} on /topic/hpumail
+I, [2015-12-10T16:11:21.692236 #2760]  INFO -- : sending email to lightninghunter94@gmail.com with token e11d49f8821aecbc565a5a922b5d6126 with reason register
+I, [2015-12-10T17:19:26.777811 #2760]  INFO -- : received: {"to":"dinhthuctrinhyb@gmail.com","token":"ZEGRCGXC","reason":"reset"} on /topic/hpumail
+I, [2015-12-10T17:19:26.777811 #2760]  INFO -- : sending email to dinhthuctrinhyb@gmail.com with token ZEGRCGXC with reason reset
+I, [2015-12-10T17:27:49.597894 #2760]  INFO -- : received: {"to":"dinhthuctrinhyb@gmail.com","token":"dinhthuctrinhyb","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-10T17:27:49.597894 #2760]  INFO -- : sending email to dinhthuctrinhyb@gmail.com with token dinhthuctrinhyb with reason resetpassword
+I, [2015-12-10T17:31:09.995846 #2760]  INFO -- : received: {"to":"vietmy17496@gmail.com","token":"655eefac67ef5ccea07a9abb1c67f9fb","reason":"register"} on /topic/hpumail
+I, [2015-12-10T17:31:09.995846 #2760]  INFO -- : sending email to vietmy17496@gmail.com with token 655eefac67ef5ccea07a9abb1c67f9fb with reason register
+I, [2015-12-10T18:12:46.951832 #2760]  INFO -- : received: {"to":"ngtanlinh1999@gmail.com","token":"e38b7bc0bdff34b915e83b15fdc2792b","reason":"register"} on /topic/hpumail
+I, [2015-12-10T18:12:46.951832 #2760]  INFO -- : sending email to ngtanlinh1999@gmail.com with token e38b7bc0bdff34b915e83b15fdc2792b with reason register
+I, [2015-12-10T18:36:49.143165 #2760]  INFO -- : received: {"to":"tieumiugd@gmail.com","token":"b119d4c3745650b3a382f87b156124a2","reason":"register"} on /topic/hpumail
+I, [2015-12-10T18:36:49.143165 #2760]  INFO -- : sending email to tieumiugd@gmail.com with token b119d4c3745650b3a382f87b156124a2 with reason register
+I, [2015-12-10T18:37:50.638473 #2760]  INFO -- : received: {"to":"tieumiugd@gmail.com","token":"ZE6XDANQ","reason":"reset"} on /topic/hpumail
+I, [2015-12-10T18:37:50.638473 #2760]  INFO -- : sending email to tieumiugd@gmail.com with token ZE6XDANQ with reason reset
+I, [2015-12-10T19:17:15.134626 #2760]  INFO -- : received: {"to":"dongthuyanhthi@gmail.com","token":"d71cd85ac65206dbea54cc4dde8a66b1","reason":"register"} on /topic/hpumail
+I, [2015-12-10T19:17:15.134626 #2760]  INFO -- : sending email to dongthuyanhthi@gmail.com with token d71cd85ac65206dbea54cc4dde8a66b1 with reason register
+I, [2015-12-10T19:41:16.686358 #2760]  INFO -- : received: {"to":"ndtduc9x@gmail.com","token":"328cb8b245c21dc5523fa5a078b922e8","reason":"register"} on /topic/hpumail
+I, [2015-12-10T19:41:16.686358 #2760]  INFO -- : sending email to ndtduc9x@gmail.com with token 328cb8b245c21dc5523fa5a078b922e8 with reason register
+I, [2015-12-10T20:14:36.890671 #2760]  INFO -- : received: {"to":"vinhphat141@gmail.com","token":"8ecb283a4ac5a3bac75cdae13e532e25","reason":"register"} on /topic/hpumail
+I, [2015-12-10T20:14:36.890671 #2760]  INFO -- : sending email to vinhphat141@gmail.com with token 8ecb283a4ac5a3bac75cdae13e532e25 with reason register
+I, [2015-12-10T20:28:59.088585 #2760]  INFO -- : received: {"to":"nguyenquangkhanh05@yahoo.com","token":"e30f8eb584243b3b0662b98e7dcb698c","reason":"register"} on /topic/hpumail
+I, [2015-12-10T20:28:59.088585 #2760]  INFO -- : sending email to nguyenquangkhanh05@yahoo.com with token e30f8eb584243b3b0662b98e7dcb698c with reason register
+I, [2015-12-10T21:22:03.350578 #2760]  INFO -- : received: {"to":"phanthisuong2@gmail.com","token":"cb9499c3974e696cca41ed2e3a00720c","reason":"register"} on /topic/hpumail
+I, [2015-12-10T21:22:03.350578 #2760]  INFO -- : sending email to phanthisuong2@gmail.com with token cb9499c3974e696cca41ed2e3a00720c with reason register
+I, [2015-12-10T21:29:56.218609 #2760]  INFO -- : received: {"to":"quantuan10@yahoo.com.vn","token":"825aef3a174c348b6c573edd7d38b53a","reason":"register"} on /topic/hpumail
+I, [2015-12-10T21:29:56.218609 #2760]  INFO -- : sending email to quantuan10@yahoo.com.vn with token 825aef3a174c348b6c573edd7d38b53a with reason register
+I, [2015-12-10T21:35:38.779610 #2760]  INFO -- : received: {"to":"quantuan10@yahoo.com.vn","token":"NA736X2Z","reason":"reset"} on /topic/hpumail
+I, [2015-12-10T21:35:38.779610 #2760]  INFO -- : sending email to quantuan10@yahoo.com.vn with token NA736X2Z with reason reset
+I, [2015-12-10T22:04:13.222622 #2760]  INFO -- : received: {"to":"vuthanhtung75tv@gmail.com","token":"e36735f53238f74a0987f94937885eeb","reason":"register"} on /topic/hpumail
+I, [2015-12-10T22:04:13.222622 #2760]  INFO -- : sending email to vuthanhtung75tv@gmail.com with token e36735f53238f74a0987f94937885eeb with reason register
+I, [2015-12-10T22:11:26.731783 #2760]  INFO -- : received: {"to":"long91720@gmail.com","token":"3849802abc64bf7b88f76c0f1e711940","reason":"register"} on /topic/hpumail
+I, [2015-12-10T22:11:26.731783 #2760]  INFO -- : sending email to long91720@gmail.com with token 3849802abc64bf7b88f76c0f1e711940 with reason register
+I, [2015-12-10T22:38:15.781009 #2760]  INFO -- : received: {"to":"vchikhanh@gmail.com","token":"6b67008a7ade95ead4c617a864dc5fc3","reason":"register"} on /topic/hpumail
+I, [2015-12-10T22:38:15.781009 #2760]  INFO -- : sending email to vchikhanh@gmail.com with token 6b67008a7ade95ead4c617a864dc5fc3 with reason register
+I, [2015-12-10T22:47:54.058425 #2760]  INFO -- : received: {"to":"trantrongtien9197@gmail.com","token":"1cea10e92fe9b45d892d56fa437903ce","reason":"register"} on /topic/hpumail
+I, [2015-12-10T22:47:54.058425 #2760]  INFO -- : sending email to trantrongtien9197@gmail.com with token 1cea10e92fe9b45d892d56fa437903ce with reason register
+I, [2015-12-10T23:19:46.902585 #2760]  INFO -- : received: {"to":"myearthmyself@gmail.com","token":"8bf0ec8b39ea4bf49869bf9e1cf8410c","reason":"register"} on /topic/hpumail
+I, [2015-12-10T23:19:46.902585 #2760]  INFO -- : sending email to myearthmyself@gmail.com with token 8bf0ec8b39ea4bf49869bf9e1cf8410c with reason register
+I, [2015-12-10T23:43:01.763435 #2760]  INFO -- : received: {"to":"vuvanbao92@gmail.com","token":"T7CK9CJH","reason":"reset"} on /topic/hpumail
+I, [2015-12-10T23:43:01.763435 #2760]  INFO -- : sending email to vuvanbao92@gmail.com with token T7CK9CJH with reason reset

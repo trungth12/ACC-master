@@ -1,0 +1,11 @@
+# Logfile created on 2015-12-30 08:42:58 +0700 by logger.rb/31641
+I, [2015-12-30T08:42:58.563737 #2336]  INFO -- : received: {"to":"maianhbt.2919@gmail.com","token":"0656b6eb7b675e5a7a6bc8477b1b725d","reason":"register"} on /topic/hpumail
+I, [2015-12-30T08:42:58.594937 #2336]  INFO -- : sending email to maianhbt.2919@gmail.com with token 0656b6eb7b675e5a7a6bc8477b1b725d with reason register
+I, [2015-12-30T13:33:54.289995 #3264]  INFO -- : received: {"to":"khoadang0910@gmail.com","token":"c893964ec5344567fefcb9c9b05e4ae7","reason":"register"} on /topic/hpumail
+I, [2015-12-30T13:33:54.289995 #3264]  INFO -- : sending email to khoadang0910@gmail.com with token c893964ec5344567fefcb9c9b05e4ae7 with reason register
+I, [2015-12-30T13:55:02.541023 #3264]  INFO -- : received: {"to":"cobecodon345@gmail.com","token":"24dc9b910ff1331954d5ddc8815fb0ac","reason":"register"} on /topic/hpumail
+I, [2015-12-30T13:55:02.541023 #3264]  INFO -- : sending email to cobecodon345@gmail.com with token 24dc9b910ff1331954d5ddc8815fb0ac with reason register
+I, [2015-12-30T17:15:49.899960 #3264]  INFO -- : received: {"to":"nhoc.gabong93@gmail.com","token":"5303bd8de7bed0791621ef038e7ca303","reason":"register"} on /topic/hpumail
+I, [2015-12-30T17:15:49.899960 #3264]  INFO -- : sending email to nhoc.gabong93@gmail.com with token 5303bd8de7bed0791621ef038e7ca303 with reason register
+I, [2015-12-30T21:51:08.378973 #3264]  INFO -- : received: {"to":"phannga18393@gmail.com","token":"1413401024","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-30T21:51:08.378973 #3264]  INFO -- : sending email to phannga18393@gmail.com with token 1413401024 with reason resetpassword

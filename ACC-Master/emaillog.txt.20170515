@@ -1,0 +1,3 @@
+# Logfile created on 2017-05-11 14:49:39 +0700 by logger.rb/31641
+I, [2017-05-11T14:49:39.099904 #2720]  INFO -- : received: {"to":"vudungduyendang@gmail.com","token":"vudung","reason":"resetpassword"} on /topic/hpumail
+I, [2017-05-11T14:49:39.209104 #2720]  INFO -- : sending email to vudungduyendang@gmail.com with token vudung with reason resetpassword

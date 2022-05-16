@@ -1,0 +1,7 @@
+# Logfile created on 2017-08-14 10:00:07 +0700 by logger.rb/31641
+I, [2017-08-14T10:00:07.718614 #2232]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"R7M7NNQ4","reason":"reset"} on /topic/hpumail
+I, [2017-08-14T10:00:07.734214 #2232]  INFO -- : sending email to covaokhong1981@gmail.com with token R7M7NNQ4 with reason reset
+I, [2017-08-14T16:23:53.624257 #2232]  INFO -- : received: {"to":"janedang131@gmail.com","token":"77KGVXQ4","reason":"reset"} on /topic/hpumail
+I, [2017-08-14T16:23:53.624257 #2232]  INFO -- : sending email to janedang131@gmail.com with token 77KGVXQ4 with reason reset
+I, [2017-08-14T16:27:26.096630 #2232]  INFO -- : received: {"to":"janedang131@gmail.com","token":"J4N2AQ3R","reason":"reset"} on /topic/hpumail
+I, [2017-08-14T16:27:26.096630 #2232]  INFO -- : sending email to janedang131@gmail.com with token J4N2AQ3R with reason reset

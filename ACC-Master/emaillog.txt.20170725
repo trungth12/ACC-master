@@ -1,0 +1,3 @@
+# Logfile created on 2017-07-25 21:31:51 +0700 by logger.rb/31641
+I, [2017-07-25T21:31:51.538721 #1972]  INFO -- : received: {"to":"vu.nguyen@vinhhoan.com","token":"8ac7096fb9afcf80fdbc4cbbc5705bd5","reason":"register"} on /topic/hpumail
+I, [2017-07-25T21:31:51.647921 #1972]  INFO -- : sending email to vu.nguyen@vinhhoan.com with token 8ac7096fb9afcf80fdbc4cbbc5705bd5 with reason register

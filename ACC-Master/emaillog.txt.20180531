@@ -1,0 +1,19 @@
+# Logfile created on 2018-05-31 08:53:14 +0700 by logger.rb/31641
+I, [2018-05-31T08:53:14.010546 #2128]  INFO -- : received: {"to":"ynsr1xx9@gmail.com","token":"P3YR4PJ4","reason":"reset"} on /topic/hpumail
+I, [2018-05-31T08:53:14.026146 #2128]  INFO -- : sending email to ynsr1xx9@gmail.com with token P3YR4PJ4 with reason reset
+I, [2018-05-31T08:57:15.842171 #2128]  INFO -- : received: {"to":"ynsr1xx9@gmail.com","token":"FKDGDJ4Z","reason":"reset"} on /topic/hpumail
+I, [2018-05-31T08:57:15.842171 #2128]  INFO -- : sending email to ynsr1xx9@gmail.com with token FKDGDJ4Z with reason reset
+I, [2018-05-31T09:01:43.959842 #2128]  INFO -- : received: {"to":"ynsr1xx9@gmail.com","token":"WH49YJQC","reason":"reset"} on /topic/hpumail
+I, [2018-05-31T09:01:43.959842 #2128]  INFO -- : sending email to ynsr1xx9@gmail.com with token WH49YJQC with reason reset
+I, [2018-05-31T09:04:56.464180 #2128]  INFO -- : received: {"to":"ynsr1xx9@gmail.com","token":"haiyen1009","reason":"resetpassword"} on /topic/hpumail
+I, [2018-05-31T09:04:56.464180 #2128]  INFO -- : sending email to ynsr1xx9@gmail.com with token haiyen1009 with reason resetpassword
+I, [2018-05-31T11:00:13.297928 #2128]  INFO -- : received: {"to":"dinh96.hpu@gmail.com","token":"922TTK9M","reason":"reset"} on /topic/hpumail
+I, [2018-05-31T11:00:13.297928 #2128]  INFO -- : sending email to dinh96.hpu@gmail.com with token 922TTK9M with reason reset
+I, [2018-05-31T15:35:03.306892 #2128]  INFO -- : received: {"to":"onlyyou84999@gmail.com","token":"443C7644","reason":"reset"} on /topic/hpumail
+I, [2018-05-31T15:35:03.306892 #2128]  INFO -- : sending email to onlyyou84999@gmail.com with token 443C7644 with reason reset
+I, [2018-05-31T16:25:41.833428 #2128]  INFO -- : received: {"to":"ngoduclocqt1801t@gmail.com","token":"ZAT4GTQK","reason":"reset"} on /topic/hpumail
+I, [2018-05-31T16:25:41.833428 #2128]  INFO -- : sending email to ngoduclocqt1801t@gmail.com with token ZAT4GTQK with reason reset
+I, [2018-05-31T16:27:45.448046 #2128]  INFO -- : received: {"to":"ngoduclocqt1801t@gmail.com","token":"14101994","reason":"resetpassword"} on /topic/hpumail
+I, [2018-05-31T16:27:45.448046 #2128]  INFO -- : sending email to ngoduclocqt1801t@gmail.com with token 14101994 with reason resetpassword
+I, [2018-05-31T16:43:20.810088 #2128]  INFO -- : received: {"to":"tuananhcp96@gmail.com","token":"01252045196","reason":"resetpassword"} on /topic/hpumail
+I, [2018-05-31T16:43:20.810088 #2128]  INFO -- : sending email to tuananhcp96@gmail.com with token 01252045196 with reason resetpassword

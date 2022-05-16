@@ -1,0 +1,5 @@
+# Logfile created on 2016-12-31 14:33:52 +0700 by logger.rb/31641
+I, [2016-12-31T14:33:52.073115 #2676]  INFO -- : received: {"to":"vudungduyendang@gmail.com","token":"QE3CXPZN","reason":"reset"} on /topic/hpumail
+I, [2016-12-31T14:33:52.088715 #2676]  INFO -- : sending email to vudungduyendang@gmail.com with token QE3CXPZN with reason reset
+I, [2016-12-31T15:46:25.069983 #2676]  INFO -- : received: {"to":"meolunrosie@gmail.com","token":"TNMTR9A2","reason":"reset"} on /topic/hpumail
+I, [2016-12-31T15:46:25.069983 #2676]  INFO -- : sending email to meolunrosie@gmail.com with token TNMTR9A2 with reason reset

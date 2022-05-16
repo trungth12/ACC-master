@@ -1,0 +1,5 @@
+# Logfile created on 2019-12-05 09:21:19 +0700 by logger.rb/31641
+I, [2019-12-05T09:21:19.435366 #1820]  INFO -- : received: {"to":"ducnd@hpu.edu.vn","token":"9FCHRR6W","reason":"reset"} on /topic/hpumail
+I, [2019-12-05T09:21:19.450966 #1820]  INFO -- : sending email to ducnd@hpu.edu.vn with token 9FCHRR6W with reason reset
+I, [2019-12-05T09:24:36.770725 #1820]  INFO -- : received: {"to":"ducnd@hpu.edu.vn","token":"hphanh2012","reason":"resetpassword"} on /topic/hpumail
+I, [2019-12-05T09:24:36.770725 #1820]  INFO -- : sending email to ducnd@hpu.edu.vn with token hphanh2012 with reason resetpassword

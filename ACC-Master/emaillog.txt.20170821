@@ -1,0 +1,5 @@
+# Logfile created on 2017-08-21 08:35:19 +0700 by logger.rb/31641
+I, [2017-08-21T08:35:19.812807 #2280]  INFO -- : received: {"to":"danchoi110y@gmail.com","token":"ZFK2YTDJ","reason":"reset"} on /topic/hpumail
+I, [2017-08-21T08:35:19.828407 #2280]  INFO -- : sending email to danchoi110y@gmail.com with token ZFK2YTDJ with reason reset
+I, [2017-08-21T08:35:37.846438 #2280]  INFO -- : received: {"to":"danchoi110y@gmail.com","token":"WGV3RNYV","reason":"reset"} on /topic/hpumail
+I, [2017-08-21T08:35:37.846438 #2280]  INFO -- : sending email to danchoi110y@gmail.com with token WGV3RNYV with reason reset

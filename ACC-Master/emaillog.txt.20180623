@@ -1,0 +1,5 @@
+# Logfile created on 2018-06-21 18:09:24 +0700 by logger.rb/31641
+I, [2018-06-21T18:09:24.074853 #1092]  INFO -- : received: {"to":"gapro199378@gmail.com","token":"NE6GFQKC","reason":"reset"} on /topic/hpumail
+I, [2018-06-21T18:09:24.090453 #1092]  INFO -- : sending email to gapro199378@gmail.com with token NE6GFQKC with reason reset
+I, [2018-06-21T18:11:40.372292 #1092]  INFO -- : received: {"to":"gapro199378@gmail.com","token":"TAXJ77XG","reason":"reset"} on /topic/hpumail
+I, [2018-06-21T18:11:40.372292 #1092]  INFO -- : sending email to gapro199378@gmail.com with token TAXJ77XG with reason reset

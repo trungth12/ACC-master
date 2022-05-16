@@ -1,0 +1,7 @@
+# Logfile created on 2018-12-19 16:33:24 +0700 by logger.rb/31641
+I, [2018-12-19T16:33:24.700645 #2040]  INFO -- : received: {"to":"xuananhtphp@gmail.com","token":"WRQRK7V4","reason":"reset"} on /topic/hpumail
+I, [2018-12-19T16:33:24.731846 #2040]  INFO -- : sending email to xuananhtphp@gmail.com with token WRQRK7V4 with reason reset
+I, [2018-12-19T17:32:26.031665 #2040]  INFO -- : received: {"to":"xuananhtphp@gmail.com","token":"XV9H9CJX","reason":"reset"} on /topic/hpumail
+I, [2018-12-19T17:32:26.031665 #2040]  INFO -- : sending email to xuananhtphp@gmail.com with token XV9H9CJX with reason reset
+I, [2018-12-19T17:33:49.803813 #2040]  INFO -- : received: {"to":"xuananhtphp@gmail.com","token":"1512301003","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-19T17:33:49.803813 #2040]  INFO -- : sending email to xuananhtphp@gmail.com with token 1512301003 with reason resetpassword

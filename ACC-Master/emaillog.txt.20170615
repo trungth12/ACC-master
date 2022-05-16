@@ -1,0 +1,5 @@
+# Logfile created on 2017-06-14 08:48:40 +0700 by logger.rb/31641
+I, [2017-06-14T08:48:40.304681 #2652]  INFO -- : received: {"to":"phamhuyen.na007@gmail.com","token":"43KFMJGR","reason":"reset"} on /topic/hpumail
+I, [2017-06-14T08:48:40.351481 #2652]  INFO -- : sending email to phamhuyen.na007@gmail.com with token 43KFMJGR with reason reset
+I, [2017-06-14T20:02:01.208842 #2652]  INFO -- : received: {"to":"thedeath5597@gmail.com","token":"nguyenhieu5597","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-14T20:02:01.208842 #2652]  INFO -- : sending email to thedeath5597@gmail.com with token nguyenhieu5597 with reason resetpassword

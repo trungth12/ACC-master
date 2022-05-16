@@ -1,0 +1,3 @@
+# Logfile created on 2019-09-17 10:47:10 +0700 by logger.rb/31641
+I, [2019-09-17T10:47:10.016973 #1456]  INFO -- : received: {"to":"huyenntt@hpu.edu.vn","token":"QDX94DJ6","reason":"reset"} on /topic/hpumail
+I, [2019-09-17T10:47:10.016973 #1456]  INFO -- : sending email to huyenntt@hpu.edu.vn with token QDX94DJ6 with reason reset

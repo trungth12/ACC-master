@@ -1,0 +1,15 @@
+# Logfile created on 2016-05-05 08:34:37 +0700 by logger.rb/31641
+I, [2016-05-05T08:34:37.658111 #2784]  INFO -- : received: {"to":"nguyenthanhtung1996cp@gmail.com","token":"KMQR34GH","reason":"reset"} on /topic/hpumail
+I, [2016-05-05T08:34:37.775118 #2784]  INFO -- : sending email to nguyenthanhtung1996cp@gmail.com with token KMQR34GH with reason reset
+I, [2016-05-05T08:38:49.721528 #2784]  INFO -- : received: {"to":"nguyenthanhtung1996cp@gmail.com","token":"19960102","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-05T08:38:49.721528 #2784]  INFO -- : sending email to nguyenthanhtung1996cp@gmail.com with token 19960102 with reason resetpassword
+I, [2016-05-05T09:41:11.555549 #2784]  INFO -- : received: {"to":"phamthithuhuyen2486@gmail.com","token":"f91544719926fb2cd1d43b02b7a8c8ae","reason":"register"} on /topic/hpumail
+I, [2016-05-05T09:41:11.556549 #2784]  INFO -- : sending email to phamthithuhuyen2486@gmail.com with token f91544719926fb2cd1d43b02b7a8c8ae with reason register
+I, [2016-05-05T09:46:42.900501 #2784]  INFO -- : received: {"to":"huongthaoo310@gmail.com","token":"f5595a73df343e7d20d0b303f0760154","reason":"register"} on /topic/hpumail
+I, [2016-05-05T09:46:42.900501 #2784]  INFO -- : sending email to huongthaoo310@gmail.com with token f5595a73df343e7d20d0b303f0760154 with reason register
+I, [2016-05-05T09:51:23.406545 #2784]  INFO -- : received: {"to":"thaokyn94@gmail.com","token":"9c3748c850831f21a877eb74c09d1370","reason":"register"} on /topic/hpumail
+I, [2016-05-05T09:51:23.407545 #2784]  INFO -- : sending email to thaokyn94@gmail.com with token 9c3748c850831f21a877eb74c09d1370 with reason register
+I, [2016-05-05T09:54:00.446527 #2784]  INFO -- : received: {"to":"hagiangha297@gmail.com","token":"e290bbad3c9ff60fd4ee60d0d5e305ba","reason":"register"} on /topic/hpumail
+I, [2016-05-05T09:54:00.446527 #2784]  INFO -- : sending email to hagiangha297@gmail.com with token e290bbad3c9ff60fd4ee60d0d5e305ba with reason register
+I, [2016-05-05T12:14:29.639649 #2784]  INFO -- : received: {"to":"beoxinh0690@gmail.com","token":"QGMAFHEX","reason":"reset"} on /topic/hpumail
+I, [2016-05-05T12:14:29.639649 #2784]  INFO -- : sending email to beoxinh0690@gmail.com with token QGMAFHEX with reason reset

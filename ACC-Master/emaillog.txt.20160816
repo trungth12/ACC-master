@@ -1,0 +1,3 @@
+# Logfile created on 2016-08-16 16:45:30 +0700 by logger.rb/31641
+I, [2016-08-16T16:45:30.344659 #2240]  INFO -- : received: {"to":"vinhnt@hpu.edu.vn","token":"7a48846349a1fc80b1369eb9f9de7b3f","reason":"register"} on /topic/hpumail
+I, [2016-08-16T16:45:30.431664 #2240]  INFO -- : sending email to vinhnt@hpu.edu.vn with token 7a48846349a1fc80b1369eb9f9de7b3f with reason register

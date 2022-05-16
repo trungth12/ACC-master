@@ -1,0 +1,5 @@
+# Logfile created on 2017-06-06 12:21:29 +0700 by logger.rb/31641
+I, [2017-06-06T12:21:29.092810 #2612]  INFO -- : received: {"to":"truonghoangmaihp95@gmail.com","token":"fa1725617570883b3d0d547f89009e29","reason":"register"} on /topic/hpumail
+I, [2017-06-06T12:21:29.124010 #2612]  INFO -- : sending email to truonghoangmaihp95@gmail.com with token fa1725617570883b3d0d547f89009e29 with reason register
+I, [2017-06-06T21:09:33.606461 #2612]  INFO -- : received: {"to":"danchoi110y@gmail.com","token":"3AR939VV","reason":"reset"} on /topic/hpumail
+I, [2017-06-06T21:09:33.606461 #2612]  INFO -- : sending email to danchoi110y@gmail.com with token 3AR939VV with reason reset

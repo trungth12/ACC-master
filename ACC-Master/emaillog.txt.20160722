@@ -1,0 +1,3 @@
+# Logfile created on 2016-07-22 12:41:17 +0700 by logger.rb/31641
+I, [2016-07-22T12:41:16.953203 #4896]  INFO -- : received: {"to":"hoquynhvan4893@gmail.com","token":"QQDTW673","reason":"reset"} on /topic/hpumail
+I, [2016-07-22T12:41:17.013207 #4896]  INFO -- : sending email to hoquynhvan4893@gmail.com with token QQDTW673 with reason reset

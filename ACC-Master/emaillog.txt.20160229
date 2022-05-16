@@ -1,0 +1,3 @@
+# Logfile created on 2016-02-26 08:27:45 +0700 by logger.rb/31641
+I, [2016-02-26T08:27:45.868321 #2852]  INFO -- : received: {"to":"antran.15895@gmail.com","token":"NXADWXZ3","reason":"reset"} on /topic/hpumail
+I, [2016-02-26T08:27:45.961921 #2852]  INFO -- : sending email to antran.15895@gmail.com with token NXADWXZ3 with reason reset

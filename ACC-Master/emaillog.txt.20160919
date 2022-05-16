@@ -1,0 +1,5 @@
+# Logfile created on 2016-09-19 14:36:20 +0700 by logger.rb/31641
+I, [2016-09-19T14:36:20.273361 #2184]  INFO -- : received: {"to":"dnn.bich.hp93@gmail.com","token":"YKJN7FHP","reason":"reset"} on /topic/hpumail
+I, [2016-09-19T14:36:20.320161 #2184]  INFO -- : sending email to dnn.bich.hp93@gmail.com with token YKJN7FHP with reason reset
+I, [2016-09-19T17:45:53.067736 #2184]  INFO -- : received: {"to":"tamha.nguyen91@gmail.com","token":"KJHME76Z","reason":"reset"} on /topic/hpumail
+I, [2016-09-19T17:45:53.067736 #2184]  INFO -- : sending email to tamha.nguyen91@gmail.com with token KJHME76Z with reason reset

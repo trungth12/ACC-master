@@ -1,0 +1,5 @@
+# Logfile created on 2017-08-06 11:10:35 +0700 by logger.rb/31641
+I, [2017-08-06T11:10:35.354604 #2328]  INFO -- : received: {"to":"asurahahaha2468@gmail.com","token":"2JEKNGPN","reason":"reset"} on /topic/hpumail
+I, [2017-08-06T11:10:35.432604 #2328]  INFO -- : sending email to asurahahaha2468@gmail.com with token 2JEKNGPN with reason reset
+I, [2017-08-06T15:06:32.145469 #2328]  INFO -- : received: {"to":"nhocxinh_baby_kute_pro@yahoo.com","token":"92MWRT6J","reason":"reset"} on /topic/hpumail
+I, [2017-08-06T15:06:32.145469 #2328]  INFO -- : sending email to nhocxinh_baby_kute_pro@yahoo.com with token 92MWRT6J with reason reset

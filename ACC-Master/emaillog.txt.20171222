@@ -1,0 +1,15 @@
+# Logfile created on 2017-12-22 08:32:06 +0700 by logger.rb/31641
+I, [2017-12-22T08:32:06.662463 #1876]  INFO -- : received: {"to":"jungbon.s2lonely@gmail.com","token":"RXK726RA","reason":"reset"} on /topic/hpumail
+I, [2017-12-22T08:32:06.662463 #1876]  INFO -- : sending email to jungbon.s2lonely@gmail.com with token RXK726RA with reason reset
+I, [2017-12-22T08:33:39.903827 #1876]  INFO -- : received: {"to":"thuthuy.vh1801@gmail.com","token":"ZD2PG4EP","reason":"reset"} on /topic/hpumail
+I, [2017-12-22T08:33:39.903827 #1876]  INFO -- : sending email to thuthuy.vh1801@gmail.com with token ZD2PG4EP with reason reset
+I, [2017-12-22T09:36:41.412868 #1876]  INFO -- : received: {"to":"daobich96@gmail.com","token":"GYGGJ46A","reason":"reset"} on /topic/hpumail
+I, [2017-12-22T09:36:41.412868 #1876]  INFO -- : sending email to daobich96@gmail.com with token GYGGJ46A with reason reset
+I, [2017-12-22T10:06:01.969561 #1876]  INFO -- : received: {"to":"daohongbichhp@gmail.com","token":"3f3238fa06a2cb1ed5c0074a2f60a129","reason":"register"} on /topic/hpumail
+I, [2017-12-22T10:06:01.985161 #1876]  INFO -- : sending email to daohongbichhp@gmail.com with token 3f3238fa06a2cb1ed5c0074a2f60a129 with reason register
+I, [2017-12-22T10:20:13.294256 #1876]  INFO -- : received: {"to":"dokimphuongqt1806k@gmail.com","token":"ce516c2910fb293ed0acf4b2cb9344c1","reason":"register"} on /topic/hpumail
+I, [2017-12-22T10:20:13.294256 #1876]  INFO -- : sending email to dokimphuongqt1806k@gmail.com with token ce516c2910fb293ed0acf4b2cb9344c1 with reason register
+I, [2017-12-22T15:38:28.289395 #1876]  INFO -- : received: {"to":"han.mum.7@gmail.com","token":"37EKC9NT","reason":"reset"} on /topic/hpumail
+I, [2017-12-22T15:38:28.304995 #1876]  INFO -- : sending email to han.mum.7@gmail.com with token 37EKC9NT with reason reset
+I, [2017-12-22T15:38:41.783418 #1876]  INFO -- : received: {"to":"han.mum.7@gmail.com","token":"JXY24MEK","reason":"reset"} on /topic/hpumail
+I, [2017-12-22T15:38:41.783418 #1876]  INFO -- : sending email to han.mum.7@gmail.com with token JXY24MEK with reason reset

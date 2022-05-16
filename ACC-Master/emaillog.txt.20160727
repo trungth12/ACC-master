@@ -1,0 +1,9 @@
+# Logfile created on 2016-07-26 12:18:50 +0700 by logger.rb/31641
+I, [2016-07-26T12:18:49.920380 #2036]  INFO -- : received: {"to":"thaotien2502@gmail.com","token":"XH392XAD","reason":"reset"} on /topic/hpumail
+I, [2016-07-26T12:18:50.144393 #2036]  INFO -- : sending email to thaotien2502@gmail.com with token XH392XAD with reason reset
+I, [2016-07-26T14:43:21.164347 #2036]  INFO -- : received: {"to":"mailenhatphong@gmail.com","token":"ADWZDMPC","reason":"reset"} on /topic/hpumail
+I, [2016-07-26T14:43:21.564370 #2036]  INFO -- : sending email to mailenhatphong@gmail.com with token ADWZDMPC with reason reset
+I, [2016-07-26T23:58:30.860552 #2036]  INFO -- : received: {"to":"hoangtienqt1801t@gmail.com","token":"EVV6MNT4","reason":"reset"} on /topic/hpumail
+I, [2016-07-26T23:58:31.076565 #2036]  INFO -- : sending email to hoangtienqt1801t@gmail.com with token EVV6MNT4 with reason reset
+I, [2016-07-26T23:59:07.672658 #2036]  INFO -- : received: {"to":"hoangtienqt1801t@gmail.com","token":"6YZGG2NJ","reason":"reset"} on /topic/hpumail
+I, [2016-07-26T23:59:07.692659 #2036]  INFO -- : sending email to hoangtienqt1801t@gmail.com with token 6YZGG2NJ with reason reset

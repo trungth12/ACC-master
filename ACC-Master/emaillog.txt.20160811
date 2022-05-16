@@ -1,0 +1,5 @@
+# Logfile created on 2016-08-11 09:22:32 +0700 by logger.rb/31641
+I, [2016-08-11T09:22:32.544123 #2632]  INFO -- : received: {"to":"vuquyan411@gmail.com","token":"6XQ6YECT","reason":"reset"} on /topic/hpumail
+I, [2016-08-11T09:22:32.628128 #2632]  INFO -- : sending email to vuquyan411@gmail.com with token 6XQ6YECT with reason reset
+I, [2016-08-11T11:00:25.449034 #2632]  INFO -- : received: {"to":"daoviet8@gmail.com","token":"c30e2aac1e931fa533f5596c4c334c0e","reason":"register"} on /topic/hpumail
+I, [2016-08-11T11:00:25.451034 #2632]  INFO -- : sending email to daoviet8@gmail.com with token c30e2aac1e931fa533f5596c4c334c0e with reason register

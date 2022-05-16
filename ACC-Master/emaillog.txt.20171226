@@ -1,0 +1,17 @@
+# Logfile created on 2017-12-26 10:41:38 +0700 by logger.rb/31641
+I, [2017-12-26T10:41:38.631610 #1876]  INFO -- : received: {"to":"quan12021994@gmail.com","token":"Friendly1202","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-26T10:41:38.647210 #1876]  INFO -- : sending email to quan12021994@gmail.com with token Friendly1202 with reason resetpassword
+I, [2017-12-26T10:50:12.543313 #1876]  INFO -- : received: {"to":"thuycai.qt1805k@gmail.com","token":"TE9GVC6H","reason":"reset"} on /topic/hpumail
+I, [2017-12-26T10:50:12.543313 #1876]  INFO -- : sending email to thuycai.qt1805k@gmail.com with token TE9GVC6H with reason reset
+I, [2017-12-26T10:51:22.181835 #1876]  INFO -- : received: {"to":"thuycai.qt1805k@gmail.com","token":"thuycai123","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-26T10:51:22.181835 #1876]  INFO -- : sending email to thuycai.qt1805k@gmail.com with token thuycai123 with reason resetpassword
+I, [2017-12-26T15:08:58.064982 #1876]  INFO -- : received: {"to":"vutuanthanh789@gmail.com","token":"25d4327000d16ac57662e50c3855aeb7","reason":"register"} on /topic/hpumail
+I, [2017-12-26T15:08:58.064982 #1876]  INFO -- : sending email to vutuanthanh789@gmail.com with token 25d4327000d16ac57662e50c3855aeb7 with reason register
+I, [2017-12-26T15:50:53.366600 #1876]  INFO -- : received: {"to":"thuynguyen280395@gmail.com","token":"J7FRT36R","reason":"reset"} on /topic/hpumail
+I, [2017-12-26T15:50:53.366600 #1876]  INFO -- : sending email to thuynguyen280395@gmail.com with token J7FRT36R with reason reset
+I, [2017-12-26T15:52:34.002377 #1876]  INFO -- : received: {"to":"thuynguyen280395@gmail.com","token":"nguyenthithuy19950328","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-26T15:52:34.002377 #1876]  INFO -- : sending email to thuynguyen280395@gmail.com with token nguyenthithuy19950328 with reason resetpassword
+I, [2017-12-26T16:27:09.227222 #1876]  INFO -- : received: {"to":"buiphuong.qt1805k@gmail.com","token":"XPT7THNK","reason":"reset"} on /topic/hpumail
+I, [2017-12-26T16:27:09.227222 #1876]  INFO -- : sending email to buiphuong.qt1805k@gmail.com with token XPT7THNK with reason reset
+I, [2017-12-26T16:28:13.686535 #1876]  INFO -- : received: {"to":"buiphuong.qt1805k@gmail.com","token":"buiphuong","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-26T16:28:13.686535 #1876]  INFO -- : sending email to buiphuong.qt1805k@gmail.com with token buiphuong with reason resetpassword

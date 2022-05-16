@@ -1,0 +1,3 @@
+# Logfile created on 2019-01-18 18:29:57 +0700 by logger.rb/31641
+I, [2019-01-18T18:29:57.625780 #956]  INFO -- : received: {"to":"tuanha@hpu.edu.vn","token":"994V2EWJ","reason":"reset"} on /topic/hpumail
+I, [2019-01-18T18:29:57.734980 #956]  INFO -- : sending email to tuanha@hpu.edu.vn with token 994V2EWJ with reason reset

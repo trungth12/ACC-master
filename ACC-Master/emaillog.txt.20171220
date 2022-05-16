@@ -1,0 +1,7 @@
+# Logfile created on 2017-12-20 09:02:48 +0700 by logger.rb/31641
+I, [2017-12-20T09:02:48.192990 #1876]  INFO -- : received: {"to":"nhocxinh_baby_kute_pro@yahoo.com","token":"CG3C4YT9","reason":"reset"} on /topic/hpumail
+I, [2017-12-20T09:02:48.208590 #1876]  INFO -- : sending email to nhocxinh_baby_kute_pro@yahoo.com with token CG3C4YT9 with reason reset
+I, [2017-12-20T09:08:01.597541 #1876]  INFO -- : received: {"to":"han.mum.7@gmail.com","token":"6GFCE97E","reason":"reset"} on /topic/hpumail
+I, [2017-12-20T09:08:01.597541 #1876]  INFO -- : sending email to han.mum.7@gmail.com with token 6GFCE97E with reason reset
+I, [2017-12-20T09:24:29.266475 #1876]  INFO -- : received: {"to":"cuongnguyen14121996@gmail.com","token":"XEHDNRK7","reason":"reset"} on /topic/hpumail
+I, [2017-12-20T09:24:29.282075 #1876]  INFO -- : sending email to cuongnguyen14121996@gmail.com with token XEHDNRK7 with reason reset

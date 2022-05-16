@@ -1,0 +1,21 @@
+# Logfile created on 2017-12-18 10:34:00 +0700 by logger.rb/31641
+I, [2017-12-18T10:34:00.991665 #1876]  INFO -- : received: {"to":"ngoduclocqt1801t@gmail.com","token":"QD9AMFGK","reason":"reset"} on /topic/hpumail
+I, [2017-12-18T10:34:01.007265 #1876]  INFO -- : sending email to ngoduclocqt1801t@gmail.com with token QD9AMFGK with reason reset
+I, [2017-12-18T10:35:11.425789 #1876]  INFO -- : received: {"to":"ngoduclocqt1801t@gmail.com","token":"14101994","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-18T10:35:11.425789 #1876]  INFO -- : sending email to ngoduclocqt1801t@gmail.com with token 14101994 with reason resetpassword
+I, [2017-12-18T11:29:05.483069 #1876]  INFO -- : received: {"to":"starbmqlove@gmail.com","token":"YGGKECQM","reason":"reset"} on /topic/hpumail
+I, [2017-12-18T11:29:05.483069 #1876]  INFO -- : sending email to starbmqlove@gmail.com with token YGGKECQM with reason reset
+I, [2017-12-18T13:37:12.989372 #1876]  INFO -- : received: {"to":"nhocxinh_baby_kute_pro@yahoo.com","token":"KKP2T2Q6","reason":"reset"} on /topic/hpumail
+I, [2017-12-18T13:37:12.989372 #1876]  INFO -- : sending email to nhocxinh_baby_kute_pro@yahoo.com with token KKP2T2Q6 with reason reset
+I, [2017-12-18T13:57:07.623870 #1876]  INFO -- : received: {"to":"nhocxinh_baby_kute_pro@yahoo.com","token":"P4469QAW","reason":"reset"} on /topic/hpumail
+I, [2017-12-18T13:57:07.623870 #1876]  INFO -- : sending email to nhocxinh_baby_kute_pro@yahoo.com with token P4469QAW with reason reset
+I, [2017-12-18T14:02:34.896845 #1876]  INFO -- : received: {"to":"nhocxinh_baby_kute_pro@yahoo.com","token":"DPQQF3K7","reason":"reset"} on /topic/hpumail
+I, [2017-12-18T14:02:34.896845 #1876]  INFO -- : sending email to nhocxinh_baby_kute_pro@yahoo.com with token DPQQF3K7 with reason reset
+I, [2017-12-18T16:51:39.875463 #1876]  INFO -- : received: {"to":"nhocxinh_baby_kute_pro@yahoo.com","token":"J2CATCTD","reason":"reset"} on /topic/hpumail
+I, [2017-12-18T16:51:39.953464 #1876]  INFO -- : sending email to nhocxinh_baby_kute_pro@yahoo.com with token J2CATCTD with reason reset
+I, [2017-12-18T17:02:06.341364 #1876]  INFO -- : received: {"to":"nhocxinh_baby_kute_pro@yahoo.com","token":"GZEREKKZ","reason":"reset"} on /topic/hpumail
+I, [2017-12-18T17:02:06.341364 #1876]  INFO -- : sending email to nhocxinh_baby_kute_pro@yahoo.com with token GZEREKKZ with reason reset
+I, [2017-12-18T22:11:18.767549 #1876]  INFO -- : received: {"to":"ductrungcpu@gmail.com","token":"EKEJW64C","reason":"reset"} on /topic/hpumail
+I, [2017-12-18T22:11:18.767549 #1876]  INFO -- : sending email to ductrungcpu@gmail.com with token EKEJW64C with reason reset
+I, [2017-12-18T22:13:54.315423 #1876]  INFO -- : received: {"to":"ductrungcpu@gmail.com","token":"doithian1234","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-18T22:13:54.315423 #1876]  INFO -- : sending email to ductrungcpu@gmail.com with token doithian1234 with reason resetpassword

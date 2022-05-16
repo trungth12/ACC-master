@@ -1,0 +1,11 @@
+# Logfile created on 2017-05-28 19:20:32 +0700 by logger.rb/31641
+I, [2017-05-28T19:20:32.969990 #2592]  INFO -- : received: {"to":"hangnguyen.0810@yahoo.com.vn","token":"YH64RT2W","reason":"reset"} on /topic/hpumail
+I, [2017-05-28T19:20:32.969990 #2592]  INFO -- : sending email to hangnguyen.0810@yahoo.com.vn with token YH64RT2W with reason reset
+I, [2017-05-28T19:22:35.009005 #2592]  INFO -- : received: {"to":"hangnguyen.0810@yahoo.com.vn","token":"TMQCAWQ4","reason":"reset"} on /topic/hpumail
+I, [2017-05-28T19:22:35.024605 #2592]  INFO -- : sending email to hangnguyen.0810@yahoo.com.vn with token TMQCAWQ4 with reason reset
+I, [2017-05-28T19:31:47.889576 #2592]  INFO -- : received: {"to":"hangnguyen.0810@yahoo.com.vn","token":"HP9NK4CJ","reason":"reset"} on /topic/hpumail
+I, [2017-05-28T19:31:47.889576 #2592]  INFO -- : sending email to hangnguyen.0810@yahoo.com.vn with token HP9NK4CJ with reason reset
+I, [2017-05-28T19:36:01.109221 #2592]  INFO -- : received: {"to":"hangnguyen.0810@yahoo.com.vn","token":"GJPDFXY4","reason":"reset"} on /topic/hpumail
+I, [2017-05-28T19:36:01.109221 #2592]  INFO -- : sending email to hangnguyen.0810@yahoo.com.vn with token GJPDFXY4 with reason reset
+I, [2017-05-28T20:25:13.586006 #2592]  INFO -- : received: {"to":"hangnguyen.0810@yahoo.com.vn","token":"Q3PQRPRG","reason":"reset"} on /topic/hpumail
+I, [2017-05-28T20:25:13.586006 #2592]  INFO -- : sending email to hangnguyen.0810@yahoo.com.vn with token Q3PQRPRG with reason reset

@@ -1,0 +1,35 @@
+# Logfile created on 2020-10-16 13:33:06 +0700 by logger.rb/31641
+I, [2020-10-16T13:33:06.095629 #1844]  INFO -- : received: {"to":"tuananhdshp123@gmail.com","token":"cd3a003ea1fb792cecd6d241a475a2fb","reason":"register"} on /topic/hpumail
+I, [2020-10-16T13:33:06.158029 #1844]  INFO -- : sending email to tuananhdshp123@gmail.com with token cd3a003ea1fb792cecd6d241a475a2fb with reason register
+I, [2020-10-16T13:39:35.877913 #1844]  INFO -- : received: {"to":"thao71963@gmail.com","token":"219017990cc394caff8551213c285df0","reason":"register"} on /topic/hpumail
+I, [2020-10-16T13:39:35.877913 #1844]  INFO -- : sending email to thao71963@gmail.com with token 219017990cc394caff8551213c285df0 with reason register
+I, [2020-10-16T13:40:44.611634 #1844]  INFO -- : received: {"to":"thao71963@gmail.com","token":"YZGCM2AE","reason":"reset"} on /topic/hpumail
+I, [2020-10-16T13:40:44.611634 #1844]  INFO -- : sending email to thao71963@gmail.com with token YZGCM2AE with reason reset
+I, [2020-10-16T13:42:48.600652 #1844]  INFO -- : received: {"to":"thuhong2000hd@gmail.com","token":"593e391a764da7533032edaeb0407081","reason":"register"} on /topic/hpumail
+I, [2020-10-16T13:42:48.600652 #1844]  INFO -- : sending email to thuhong2000hd@gmail.com with token 593e391a764da7533032edaeb0407081 with reason register
+I, [2020-10-16T13:43:03.311478 #1844]  INFO -- : received: {"to":"huyentrang1xx@gmail.com","token":"c98a13c4d08b3a51fe17e2c787dee920","reason":"register"} on /topic/hpumail
+I, [2020-10-16T13:43:03.311478 #1844]  INFO -- : sending email to huyentrang1xx@gmail.com with token c98a13c4d08b3a51fe17e2c787dee920 with reason register
+I, [2020-10-16T13:43:46.804354 #1844]  INFO -- : received: {"to":"thao71963@gmail.com","token":"thaomoswag","reason":"resetpassword"} on /topic/hpumail
+I, [2020-10-16T13:43:46.804354 #1844]  INFO -- : sending email to thao71963@gmail.com with token thaomoswag with reason resetpassword
+I, [2020-10-16T13:45:08.782498 #1844]  INFO -- : received: {"to":"ntdieulinh0604@gmail.com","token":"dd04179067495c0bd0419a74e2e43d59","reason":"register"} on /topic/hpumail
+I, [2020-10-16T13:45:08.782498 #1844]  INFO -- : sending email to ntdieulinh0604@gmail.com with token dd04179067495c0bd0419a74e2e43d59 with reason register
+I, [2020-10-16T13:45:58.452985 #1844]  INFO -- : received: {"to":"thuhuongn838999@gmail.com","token":"7eb6ead1318adf86fd4c042f7083487e","reason":"register"} on /topic/hpumail
+I, [2020-10-16T13:45:58.452985 #1844]  INFO -- : sending email to thuhuongn838999@gmail.com with token 7eb6ead1318adf86fd4c042f7083487e with reason register
+I, [2020-10-16T13:46:15.956216 #1844]  INFO -- : received: {"to":"thanhnhan28092002@gmail.com","token":"d660b15cd25a17d2fe0703ddde7587d0","reason":"register"} on /topic/hpumail
+I, [2020-10-16T13:46:15.956216 #1844]  INFO -- : sending email to thanhnhan28092002@gmail.com with token d660b15cd25a17d2fe0703ddde7587d0 with reason register
+I, [2020-10-16T13:46:29.762240 #1844]  INFO -- : received: {"to":"lexjieunkan@gmail.com","token":"b4d696b8eab0de3f92cc9b5cb46f8d00","reason":"register"} on /topic/hpumail
+I, [2020-10-16T13:46:29.762240 #1844]  INFO -- : sending email to lexjieunkan@gmail.com with token b4d696b8eab0de3f92cc9b5cb46f8d00 with reason register
+I, [2020-10-16T14:02:42.657949 #1844]  INFO -- : received: {"to":"cungdilen1999@gmail.com","token":"0971818c737364c62f702b3aa2fdbe89","reason":"register"} on /topic/hpumail
+I, [2020-10-16T14:02:42.657949 #1844]  INFO -- : sending email to cungdilen1999@gmail.com with token 0971818c737364c62f702b3aa2fdbe89 with reason register
+I, [2020-10-16T15:26:09.705144 #1844]  INFO -- : received: {"to":"ikaros141222@gmail.com","token":"aaa7abaafdbbc44cc673adf4801ef4de","reason":"register"} on /topic/hpumail
+I, [2020-10-16T15:26:09.705144 #1844]  INFO -- : sending email to ikaros141222@gmail.com with token aaa7abaafdbbc44cc673adf4801ef4de with reason register
+I, [2020-10-16T15:29:40.726714 #1844]  INFO -- : received: {"to":"tranhaithanhka96@gmail.com","token":"e3adaab6f6a3424597c6fcf28c229557","reason":"register"} on /topic/hpumail
+I, [2020-10-16T15:29:40.726714 #1844]  INFO -- : sending email to tranhaithanhka96@gmail.com with token e3adaab6f6a3424597c6fcf28c229557 with reason register
+I, [2020-10-16T15:30:28.727999 #1844]  INFO -- : received: {"to":"gardenrose2004@gmail.com","token":"2d7a9598576d1f8d462031c52a2f848a","reason":"register"} on /topic/hpumail
+I, [2020-10-16T15:30:28.727999 #1844]  INFO -- : sending email to gardenrose2004@gmail.com with token 2d7a9598576d1f8d462031c52a2f848a with reason register
+I, [2020-10-16T16:00:40.967582 #1844]  INFO -- : received: {"to":"tung.01647052245@gmail.com","token":"e333028de680e6e85b67ee5f6a2bf719","reason":"register"} on /topic/hpumail
+I, [2020-10-16T16:00:40.967582 #1844]  INFO -- : sending email to tung.01647052245@gmail.com with token e333028de680e6e85b67ee5f6a2bf719 with reason register
+I, [2020-10-16T16:00:54.882806 #1844]  INFO -- : received: {"to":"vuminhquan051102@gmail.com","token":"1962e69bdfc086b50d5cded0270396f4","reason":"register"} on /topic/hpumail
+I, [2020-10-16T16:00:54.882806 #1844]  INFO -- : sending email to vuminhquan051102@gmail.com with token 1962e69bdfc086b50d5cded0270396f4 with reason register
+I, [2020-10-16T16:01:10.030433 #1844]  INFO -- : received: {"to":"hoangmanhtien11072002@gmail.com","token":"98124cd7969da031891f20186caf175c","reason":"register"} on /topic/hpumail
+I, [2020-10-16T16:01:10.030433 #1844]  INFO -- : sending email to hoangmanhtien11072002@gmail.com with token 98124cd7969da031891f20186caf175c with reason register

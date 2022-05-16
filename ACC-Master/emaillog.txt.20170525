@@ -1,0 +1,7 @@
+# Logfile created on 2017-05-25 13:58:34 +0700 by logger.rb/31641
+I, [2017-05-25T13:58:34.734158 #2592]  INFO -- : received: {"to":"trankimanh.ttka927@gmail.com","token":"vuonganh","reason":"resetpassword"} on /topic/hpumail
+I, [2017-05-25T13:58:34.734158 #2592]  INFO -- : sending email to trankimanh.ttka927@gmail.com with token vuonganh with reason resetpassword
+I, [2017-05-25T19:40:03.951947 #2592]  INFO -- : received: {"to":"thaoxinhdep.hi@gmail.com","token":"NMNFXR96","reason":"reset"} on /topic/hpumail
+I, [2017-05-25T19:40:03.951947 #2592]  INFO -- : sending email to thaoxinhdep.hi@gmail.com with token NMNFXR96 with reason reset
+I, [2017-05-25T21:37:08.332284 #2592]  INFO -- : received: {"to":"lananhcb12@gmail.com","token":"2H4DP7AF","reason":"reset"} on /topic/hpumail
+I, [2017-05-25T21:37:08.332284 #2592]  INFO -- : sending email to lananhcb12@gmail.com with token 2H4DP7AF with reason reset

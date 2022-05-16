@@ -1,0 +1,13 @@
+# Logfile created on 2017-05-16 13:36:49 +0700 by logger.rb/31641
+I, [2017-05-16T13:36:49.947506 #2564]  INFO -- : received: {"to":"dinhdacquang3@gmail.com","token":"J96VZVH6","reason":"reset"} on /topic/hpumail
+I, [2017-05-16T13:36:49.947506 #2564]  INFO -- : sending email to dinhdacquang3@gmail.com with token J96VZVH6 with reason reset
+I, [2017-05-16T18:45:59.971288 #2564]  INFO -- : received: {"to":"buivu13@gmail.com","token":"A9YYARRP","reason":"reset"} on /topic/hpumail
+I, [2017-05-16T18:45:59.971288 #2564]  INFO -- : sending email to buivu13@gmail.com with token A9YYARRP with reason reset
+I, [2017-05-16T22:08:24.795419 #2564]  INFO -- : received: {"to":"danghp94@gmail.com","token":"6VMNH2VY","reason":"reset"} on /topic/hpumail
+I, [2017-05-16T22:08:24.795419 #2564]  INFO -- : sending email to danghp94@gmail.com with token 6VMNH2VY with reason reset
+I, [2017-05-16T22:15:13.937338 #2564]  INFO -- : received: {"to":"vietphuong462@gmail.com","token":"2D92A4NA","reason":"reset"} on /topic/hpumail
+I, [2017-05-16T22:15:13.937338 #2564]  INFO -- : sending email to vietphuong462@gmail.com with token 2D92A4NA with reason reset
+I, [2017-05-16T22:21:22.300785 #2564]  INFO -- : received: {"to":"ducthanghpu@gmail.com","token":"9VAVRKW3","reason":"reset"} on /topic/hpumail
+I, [2017-05-16T22:21:22.300785 #2564]  INFO -- : sending email to ducthanghpu@gmail.com with token 9VAVRKW3 with reason reset
+I, [2017-05-16T22:25:19.202801 #2564]  INFO -- : received: {"to":"ducthanghpu@gmail.com","token":"ngocdien123","reason":"resetpassword"} on /topic/hpumail
+I, [2017-05-16T22:25:19.202801 #2564]  INFO -- : sending email to ducthanghpu@gmail.com with token ngocdien123 with reason resetpassword

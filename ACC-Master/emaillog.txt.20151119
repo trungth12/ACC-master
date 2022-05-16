@@ -1,0 +1,27 @@
+# Logfile created on 2015-11-19 07:25:24 +0700 by logger.rb/31641
+I, [2015-11-19T07:25:24.030763 #2348]  INFO -- : received: {"to":"phamlehan1995@gmaip.com","token":"7a307a3b561c80f9b7ca16d33c30e095","reason":"register"} on /topic/hpumail
+I, [2015-11-19T07:25:24.046363 #2348]  INFO -- : sending email to phamlehan1995@gmaip.com with token 7a307a3b561c80f9b7ca16d33c30e095 with reason register
+I, [2015-11-19T07:33:04.808773 #2348]  INFO -- : received: {"to":"phamlehan1995@gmail.com","token":"f16998f589f73b8d504efaf2ecc2614f","reason":"register"} on /topic/hpumail
+I, [2015-11-19T07:33:04.808773 #2348]  INFO -- : sending email to phamlehan1995@gmail.com with token f16998f589f73b8d504efaf2ecc2614f with reason register
+I, [2015-11-19T10:04:57.830979 #2348]  INFO -- : received: {"to":"tungnh2904@gmail.com","token":"2e8be02457be273ddb84af7f255b823a","reason":"register"} on /topic/hpumail
+I, [2015-11-19T10:04:57.830979 #2348]  INFO -- : sending email to tungnh2904@gmail.com with token 2e8be02457be273ddb84af7f255b823a with reason register
+I, [2015-11-19T10:24:20.625821 #2348]  INFO -- : received: {"to":"chieulq@yahoo.com","token":"095291b0b9c8868eca644610bc8b98f9","reason":"register"} on /topic/hpumail
+I, [2015-11-19T10:24:20.625821 #2348]  INFO -- : sending email to chieulq@yahoo.com with token 095291b0b9c8868eca644610bc8b98f9 with reason register
+I, [2015-11-19T10:58:32.372625 #2348]  INFO -- : received: {"to":"khanghy3004@gmail.com","token":"204e8ea0f7f5d085a5e111d6b924071f","reason":"register"} on /topic/hpumail
+I, [2015-11-19T10:58:32.372625 #2348]  INFO -- : sending email to khanghy3004@gmail.com with token 204e8ea0f7f5d085a5e111d6b924071f with reason register
+I, [2015-11-19T11:13:45.629429 #2348]  INFO -- : received: {"to":"khanhlinh.mt1801q@gmail.com","token":"nguyenquangdai","reason":"resetpassword"} on /topic/hpumail
+I, [2015-11-19T11:13:45.629429 #2348]  INFO -- : sending email to khanhlinh.mt1801q@gmail.com with token nguyenquangdai with reason resetpassword
+I, [2015-11-19T11:42:54.969702 #2348]  INFO -- : received: {"to":"maixtong1@gmail.com","token":"476073388b595c1618b68f92aff0ece1","reason":"register"} on /topic/hpumail
+I, [2015-11-19T11:42:54.969702 #2348]  INFO -- : sending email to maixtong1@gmail.com with token 476073388b595c1618b68f92aff0ece1 with reason register
+I, [2015-11-19T13:09:42.188092 #2692]  INFO -- : received: {"to":"bupbebuon.kieuanh.9x@gmail.com","token":"FK7MTYF9","reason":"reset"} on /topic/hpumail
+I, [2015-11-19T13:09:42.203692 #2692]  INFO -- : sending email to bupbebuon.kieuanh.9x@gmail.com with token FK7MTYF9 with reason reset
+I, [2015-11-19T13:13:36.328903 #2692]  INFO -- : received: {"to":"bupbebuon.kieuanh.9x@gmail.com","token":"kieuanh9393","reason":"resetpassword"} on /topic/hpumail
+I, [2015-11-19T13:13:36.328903 #2692]  INFO -- : sending email to bupbebuon.kieuanh.9x@gmail.com with token kieuanh9393 with reason resetpassword
+I, [2015-11-19T18:15:48.633751 #2692]  INFO -- : received: {"to":"caocuonghoak4@gmail.com","token":"a56e35eafca2569ee794e5f20acb5bfe","reason":"register"} on /topic/hpumail
+I, [2015-11-19T18:15:48.633751 #2692]  INFO -- : sending email to caocuonghoak4@gmail.com with token a56e35eafca2569ee794e5f20acb5bfe with reason register
+I, [2015-11-19T20:16:14.472843 #2692]  INFO -- : received: {"to":"vinh462ht@gmail.com","token":"74ec8a374e2e2d82538fe9d29ad13334","reason":"register"} on /topic/hpumail
+I, [2015-11-19T20:16:14.472843 #2692]  INFO -- : sending email to vinh462ht@gmail.com with token 74ec8a374e2e2d82538fe9d29ad13334 with reason register
+I, [2015-11-19T21:08:02.981102 #2692]  INFO -- : received: {"to":"minho.hp90@gmail.com","token":"255f138e51f0848577d0866e8542b08a","reason":"register"} on /topic/hpumail
+I, [2015-11-19T21:08:02.981102 #2692]  INFO -- : sending email to minho.hp90@gmail.com with token 255f138e51f0848577d0866e8542b08a with reason register
+I, [2015-11-19T21:37:38.279820 #2692]  INFO -- : received: {"to":"np.nguyenphuthuan@gmail.com","token":"9c584d87d82c8f4b5a3dff5707775c33","reason":"register"} on /topic/hpumail
+I, [2015-11-19T21:37:38.279820 #2692]  INFO -- : sending email to np.nguyenphuthuan@gmail.com with token 9c584d87d82c8f4b5a3dff5707775c33 with reason register

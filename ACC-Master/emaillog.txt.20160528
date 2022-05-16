@@ -1,0 +1,11 @@
+# Logfile created on 2016-05-28 10:12:10 +0700 by logger.rb/31641
+I, [2016-05-28T10:12:10.863910 #2828]  INFO -- : received: {"to":"ilivewithoutregret@gmail.com","token":"QPZKKQDF","reason":"reset"} on /topic/hpumail
+I, [2016-05-28T10:12:11.000918 #2828]  INFO -- : sending email to ilivewithoutregret@gmail.com with token QPZKKQDF with reason reset
+I, [2016-05-28T10:14:15.226023 #2828]  INFO -- : received: {"to":"ilivewithoutregret@gmail.com","token":"linh1234","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-28T10:14:15.227023 #2828]  INFO -- : sending email to ilivewithoutregret@gmail.com with token linh1234 with reason resetpassword
+I, [2016-05-28T15:21:30.459458 #2828]  INFO -- : received: {"to":"huongnoo97@gmail.com","token":"XW67HT2H","reason":"reset"} on /topic/hpumail
+I, [2016-05-28T15:21:30.535462 #2828]  INFO -- : sending email to huongnoo97@gmail.com with token XW67HT2H with reason reset
+I, [2016-05-28T15:23:51.613532 #2828]  INFO -- : received: {"to":"huongnoo97@gmail.com","token":"J3ZPC9WV","reason":"reset"} on /topic/hpumail
+I, [2016-05-28T15:23:51.614532 #2828]  INFO -- : sending email to huongnoo97@gmail.com with token J3ZPC9WV with reason reset
+I, [2016-05-28T15:28:29.882448 #2828]  INFO -- : received: {"to":"huongnoo97@gmail.com","token":"XFQNXMPC","reason":"reset"} on /topic/hpumail
+I, [2016-05-28T15:28:29.883448 #2828]  INFO -- : sending email to huongnoo97@gmail.com with token XFQNXMPC with reason reset

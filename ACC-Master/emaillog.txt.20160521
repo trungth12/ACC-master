@@ -1,0 +1,23 @@
+# Logfile created on 2016-05-21 08:39:33 +0700 by logger.rb/31641
+I, [2016-05-21T08:39:33.796639 #5032]  INFO -- : received: {"to":"bibicucu9293@gmail.com","token":"J97EDDY2","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T08:39:33.804640 #5032]  INFO -- : sending email to bibicucu9293@gmail.com with token J97EDDY2 with reason reset
+I, [2016-05-21T12:01:12.994674 #5032]  INFO -- : received: {"to":"ngothuhang080996vh1801@gmail.com","token":"4949eb8e8385680c04d9febce8777431","reason":"register"} on /topic/hpumail
+I, [2016-05-21T12:01:12.995674 #5032]  INFO -- : sending email to ngothuhang080996vh1801@gmail.com with token 4949eb8e8385680c04d9febce8777431 with reason register
+I, [2016-05-21T12:29:49.722865 #5032]  INFO -- : received: {"to":"hamy.jimin1319@gmail.com","token":"JAPEGEEA","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T12:29:49.723865 #5032]  INFO -- : sending email to hamy.jimin1319@gmail.com with token JAPEGEEA with reason reset
+I, [2016-05-21T16:00:15.718031 #5032]  INFO -- : received: {"to":"maiduclong1996@gmail.com","token":"VNFFE3JN","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T16:00:15.719031 #5032]  INFO -- : sending email to maiduclong1996@gmail.com with token VNFFE3JN with reason reset
+I, [2016-05-21T16:26:11.457014 #5032]  INFO -- : received: {"to":"hoangkhipro@gmail.com","token":"M9E94XHG","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T16:26:11.457014 #5032]  INFO -- : sending email to hoangkhipro@gmail.com with token M9E94XHG with reason reset
+I, [2016-05-21T17:17:20.610560 #5032]  INFO -- : received: {"to":"tithp0187@gmail.com","token":"GZDYQVPA","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T17:17:20.611560 #5032]  INFO -- : sending email to tithp0187@gmail.com with token GZDYQVPA with reason reset
+I, [2016-05-21T17:55:18.102825 #5032]  INFO -- : received: {"to":"cuhungpzo112@gmail.com","token":"DCN6JVWD","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T17:55:18.103825 #5032]  INFO -- : sending email to cuhungpzo112@gmail.com with token DCN6JVWD with reason reset
+I, [2016-05-21T18:04:44.680231 #5032]  INFO -- : received: {"to":"ngvmanh.97@gmail.com","token":"CVN6RYGA","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T18:04:44.681231 #5032]  INFO -- : sending email to ngvmanh.97@gmail.com with token CVN6RYGA with reason reset
+I, [2016-05-21T18:45:37.421520 #5032]  INFO -- : received: {"to":"meolunrosie@gmail.com","token":"3DVEQWG4","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T18:45:37.422520 #5032]  INFO -- : sending email to meolunrosie@gmail.com with token 3DVEQWG4 with reason reset
+I, [2016-05-21T23:43:52.859080 #5032]  INFO -- : received: {"to":"phamtramanh21.hp@gmail.com","token":"CM7JRWDQ","reason":"reset"} on /topic/hpumail
+I, [2016-05-21T23:43:52.860080 #5032]  INFO -- : sending email to phamtramanh21.hp@gmail.com with token CM7JRWDQ with reason reset
+I, [2016-05-21T23:47:09.741341 #5032]  INFO -- : received: {"to":"phamtramanh21.hp@gmail.com","token":"qt1806kk","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-21T23:47:09.742341 #5032]  INFO -- : sending email to phamtramanh21.hp@gmail.com with token qt1806kk with reason resetpassword

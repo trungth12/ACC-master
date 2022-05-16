@@ -1,0 +1,9 @@
+# Logfile created on 2017-07-31 08:25:15 +0700 by logger.rb/31641
+I, [2017-07-31T08:25:15.135574 #2328]  INFO -- : received: {"to":"buivu13@gmail.com","token":"7EPQCHXG","reason":"reset"} on /topic/hpumail
+I, [2017-07-31T08:25:15.166774 #2328]  INFO -- : sending email to buivu13@gmail.com with token 7EPQCHXG with reason reset
+I, [2017-07-31T09:05:11.752183 #2328]  INFO -- : received: {"to":"213haiminh96@gmail.com","token":"FQMXYQTZ","reason":"reset"} on /topic/hpumail
+I, [2017-07-31T09:05:11.752183 #2328]  INFO -- : sending email to 213haiminh96@gmail.com with token FQMXYQTZ with reason reset
+I, [2017-07-31T11:40:47.136180 #2328]  INFO -- : received: {"to":"thehp9@gmail.com","token":"CMMMF6CZ","reason":"reset"} on /topic/hpumail
+I, [2017-07-31T11:40:47.136180 #2328]  INFO -- : sending email to thehp9@gmail.com with token CMMMF6CZ with reason reset
+I, [2017-07-31T19:56:16.498397 #2328]  INFO -- : received: {"to":"nam5495@gmail.com","token":"GGCF92DM","reason":"reset"} on /topic/hpumail
+I, [2017-07-31T19:56:16.498397 #2328]  INFO -- : sending email to nam5495@gmail.com with token GGCF92DM with reason reset

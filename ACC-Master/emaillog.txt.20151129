@@ -1,0 +1,17 @@
+# Logfile created on 2015-11-29 00:04:52 +0700 by logger.rb/31641
+I, [2015-11-29T00:04:52.039338 #2308]  INFO -- : received: {"to":"misaktvm@gmail.com","token":"a7e30a6ce9c4aa73f6c60e86a08fe0a8","reason":"register"} on /topic/hpumail
+I, [2015-11-29T00:04:52.101738 #2308]  INFO -- : sending email to misaktvm@gmail.com with token a7e30a6ce9c4aa73f6c60e86a08fe0a8 with reason register
+I, [2015-11-29T08:03:41.056411 #2308]  INFO -- : received: {"to":"nguyenngoc01@gmail.com","token":"d0ead3ce9a0df55b2be9b35757b4cce4","reason":"register"} on /topic/hpumail
+I, [2015-11-29T08:03:41.056411 #2308]  INFO -- : sending email to nguyenngoc01@gmail.com with token d0ead3ce9a0df55b2be9b35757b4cce4 with reason register
+I, [2015-11-29T08:09:40.746242 #2308]  INFO -- : received: {"to":"nguyenvuong.711@gmail.com","token":"038c352c42ac02c574e1425f151a4bdf","reason":"register"} on /topic/hpumail
+I, [2015-11-29T08:09:40.746242 #2308]  INFO -- : sending email to nguyenvuong.711@gmail.com with token 038c352c42ac02c574e1425f151a4bdf with reason register
+I, [2015-11-29T10:09:38.879685 #2308]  INFO -- : received: {"to":"hieptruong92@gmail.com","token":"11155318c4db018f57f3bb1e535e2782","reason":"register"} on /topic/hpumail
+I, [2015-11-29T10:09:38.879685 #2308]  INFO -- : sending email to hieptruong92@gmail.com with token 11155318c4db018f57f3bb1e535e2782 with reason register
+I, [2015-11-29T15:26:47.638966 #2300]  INFO -- : received: {"to":"dduy1221@gmail.com","token":"XRXDJXEA","reason":"reset"} on /topic/hpumail
+I, [2015-11-29T15:26:47.701366 #2300]  INFO -- : sending email to dduy1221@gmail.com with token XRXDJXEA with reason reset
+I, [2015-11-29T17:48:40.745518 #2300]  INFO -- : received: {"to":"kutiboy96@gmail.com","token":"9CFRQM7J","reason":"reset"} on /topic/hpumail
+I, [2015-11-29T17:48:40.745518 #2300]  INFO -- : sending email to kutiboy96@gmail.com with token 9CFRQM7J with reason reset
+I, [2015-11-29T22:02:19.024648 #2300]  INFO -- : received: {"to":"lovelastforever8x@gmail.com","token":"26DPG9VV","reason":"reset"} on /topic/hpumail
+I, [2015-11-29T22:02:19.040248 #2300]  INFO -- : sending email to lovelastforever8x@gmail.com with token 26DPG9VV with reason reset
+I, [2015-11-29T23:35:09.716432 #2300]  INFO -- : received: {"to":"thaiphuongdung2805@gmail.com","token":"32XDQVTH","reason":"reset"} on /topic/hpumail
+I, [2015-11-29T23:35:09.716432 #2300]  INFO -- : sending email to thaiphuongdung2805@gmail.com with token 32XDQVTH with reason reset

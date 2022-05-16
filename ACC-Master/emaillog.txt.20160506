@@ -1,0 +1,3 @@
+# Logfile created on 2016-05-06 09:19:28 +0700 by logger.rb/31641
+I, [2016-05-06T09:19:28.860836 #2784]  INFO -- : received: {"to":"hientlhp1993@gmail.com","token":"CZ3NNGJF","reason":"reset"} on /topic/hpumail
+I, [2016-05-06T09:19:28.919840 #2784]  INFO -- : sending email to hientlhp1993@gmail.com with token CZ3NNGJF with reason reset

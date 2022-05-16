@@ -1,0 +1,15 @@
+# Logfile created on 2019-09-27 08:56:42 +0700 by logger.rb/31641
+I, [2019-09-27T08:56:42.851796 #2032]  INFO -- : received: {"to":"vukien9996@gmail.com","token":"HF2TTNJG","reason":"reset"} on /topic/hpumail
+I, [2019-09-27T08:56:42.867396 #2032]  INFO -- : sending email to vukien9996@gmail.com with token HF2TTNJG with reason reset
+I, [2019-09-27T08:57:48.059911 #2032]  INFO -- : received: {"to":"chauanhbui285@gmail.com","token":"WXQ9GGNW","reason":"reset"} on /topic/hpumail
+I, [2019-09-27T08:57:48.059911 #2032]  INFO -- : sending email to chauanhbui285@gmail.com with token WXQ9GGNW with reason reset
+I, [2019-09-27T09:04:24.987008 #2032]  INFO -- : received: {"to":"khanhduyhp1997@gmail.com","token":"2TR4KM79","reason":"reset"} on /topic/hpumail
+I, [2019-09-27T09:04:24.987008 #2032]  INFO -- : sending email to khanhduyhp1997@gmail.com with token 2TR4KM79 with reason reset
+I, [2019-09-27T09:07:36.258944 #2032]  INFO -- : received: {"to":"chauanhbui285@gmail.com","token":"KF6ERNFW","reason":"reset"} on /topic/hpumail
+I, [2019-09-27T09:07:36.258944 #2032]  INFO -- : sending email to chauanhbui285@gmail.com with token KF6ERNFW with reason reset
+I, [2019-09-27T09:15:14.681349 #2032]  INFO -- : received: {"to":"chauanh2805@gmail.com","token":"TE3EEZH9","reason":"reset"} on /topic/hpumail
+I, [2019-09-27T09:15:14.681349 #2032]  INFO -- : sending email to chauanh2805@gmail.com with token TE3EEZH9 with reason reset
+I, [2019-09-27T13:07:04.382644 #1860]  INFO -- : received: {"to":"phamthihuyentrang2101996@gmail.com","token":"CZKCTMXF","reason":"reset"} on /topic/hpumail
+I, [2019-09-27T13:07:04.398244 #1860]  INFO -- : sending email to phamthihuyentrang2101996@gmail.com with token CZKCTMXF with reason reset
+I, [2019-09-27T19:53:57.583123 #1860]  INFO -- : received: {"to":"thanhphobuon97@gmail.com","token":"P2E3P6H3","reason":"reset"} on /topic/hpumail
+I, [2019-09-27T19:53:57.583123 #1860]  INFO -- : sending email to thanhphobuon97@gmail.com with token P2E3P6H3 with reason reset

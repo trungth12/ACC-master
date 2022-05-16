@@ -1,0 +1,9 @@
+# Logfile created on 2020-09-29 09:24:49 +0700 by logger.rb/31641
+I, [2020-09-29T09:24:49.304678 #1824]  INFO -- : received: {"to":"huyhenry23041998@gmail.com","token":"DJFD63JZ","reason":"reset"} on /topic/hpumail
+I, [2020-09-29T09:24:49.320278 #1824]  INFO -- : sending email to huyhenry23041998@gmail.com with token DJFD63JZ with reason reset
+I, [2020-09-29T13:58:01.189469 #1824]  INFO -- : received: {"to":"trankhanhhp97@gmail.com","token":"2Y2WYZMJ","reason":"reset"} on /topic/hpumail
+I, [2020-09-29T13:58:01.189469 #1824]  INFO -- : sending email to trankhanhhp97@gmail.com with token 2Y2WYZMJ with reason reset
+I, [2020-09-29T14:56:32.100435 #1824]  INFO -- : received: {"to":"dotiendat22101998hp@gmail.com","token":"3Z2J6A42","reason":"reset"} on /topic/hpumail
+I, [2020-09-29T14:56:32.116036 #1824]  INFO -- : sending email to dotiendat22101998hp@gmail.com with token 3Z2J6A42 with reason reset
+I, [2020-09-29T15:01:40.481777 #1824]  INFO -- : received: {"to":"dotiendat22101998hp@gmail.com","token":"EWVTQXTD","reason":"reset"} on /topic/hpumail
+I, [2020-09-29T15:01:40.481777 #1824]  INFO -- : sending email to dotiendat22101998hp@gmail.com with token EWVTQXTD with reason reset

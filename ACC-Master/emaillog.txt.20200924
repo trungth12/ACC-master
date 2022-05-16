@@ -1,0 +1,5 @@
+# Logfile created on 2020-09-19 20:55:32 +0700 by logger.rb/31641
+I, [2020-09-19T20:55:32.303072 #1824]  INFO -- : received: {"to":"thuct@hpu.edu.vn","token":"JY7Q93PP","reason":"reset"} on /topic/hpumail
+I, [2020-09-19T20:55:32.318672 #1824]  INFO -- : sending email to thuct@hpu.edu.vn with token JY7Q93PP with reason reset
+I, [2020-09-19T20:56:57.635222 #1824]  INFO -- : received: {"to":"thuct@hpu.edu.vn","token":"Leminhtu0406","reason":"resetpassword"} on /topic/hpumail
+I, [2020-09-19T20:56:57.635222 #1824]  INFO -- : sending email to thuct@hpu.edu.vn with token Leminhtu0406 with reason resetpassword

@@ -1,0 +1,7 @@
+# Logfile created on 2018-08-05 11:44:28 +0700 by logger.rb/31641
+I, [2018-08-05T11:44:28.504600 #1816]  INFO -- : received: {"to":"ngoc14091996@gmail.com","token":"X2YF9J9W","reason":"reset"} on /topic/hpumail
+I, [2018-08-05T11:44:28.582600 #1816]  INFO -- : sending email to ngoc14091996@gmail.com with token X2YF9J9W with reason reset
+I, [2018-08-05T22:10:09.783338 #1816]  INFO -- : received: {"to":"uyennguyen.304@gmail.com","token":"J9ERFPGG","reason":"reset"} on /topic/hpumail
+I, [2018-08-05T22:10:09.783338 #1816]  INFO -- : sending email to uyennguyen.304@gmail.com with token J9ERFPGG with reason reset
+I, [2018-08-05T22:19:15.987097 #1816]  INFO -- : received: {"to":"uyennguyen.304@gmail.com","token":"hpuuyen3048695","reason":"resetpassword"} on /topic/hpumail
+I, [2018-08-05T22:19:15.987097 #1816]  INFO -- : sending email to uyennguyen.304@gmail.com with token hpuuyen3048695 with reason resetpassword

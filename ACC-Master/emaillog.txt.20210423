@@ -1,0 +1,5 @@
+# Logfile created on 2021-04-15 09:31:34 +0700 by logger.rb/31641
+I, [2021-04-15T09:31:34.529774 #1904]  INFO -- : received: {"to":"maihuongpt@hpu.edu.vn","token":"R2VFR7DE","reason":"reset"} on /topic/hpumail
+I, [2021-04-15T09:31:34.545374 #1904]  INFO -- : sending email to maihuongpt@hpu.edu.vn with token R2VFR7DE with reason reset
+I, [2021-04-15T14:53:38.782915 #1904]  INFO -- : received: {"to":"nguyenduanz1999@gmail.com","token":"b103f8d5ffaf7fd64e5ea3afea6d6f89","reason":"register"} on /topic/hpumail
+I, [2021-04-15T14:53:38.782915 #1904]  INFO -- : sending email to nguyenduanz1999@gmail.com with token b103f8d5ffaf7fd64e5ea3afea6d6f89 with reason register

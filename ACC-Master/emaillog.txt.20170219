@@ -1,0 +1,7 @@
+# Logfile created on 2017-02-16 10:28:22 +0700 by logger.rb/31641
+I, [2017-02-16T10:28:22.631113 #2692]  INFO -- : received: {"to":"pinkyphoenix12@gmail.com","token":"b125cafd2c58a30e8d17591856eb9abb","reason":"register"} on /topic/hpumail
+I, [2017-02-16T10:28:22.631113 #2692]  INFO -- : sending email to pinkyphoenix12@gmail.com with token b125cafd2c58a30e8d17591856eb9abb with reason register
+I, [2017-02-16T15:19:42.664615 #2692]  INFO -- : received: {"to":"anhnth@hpu.edu.vn","token":"TPAAN3VF","reason":"reset"} on /topic/hpumail
+I, [2017-02-16T15:19:42.664615 #2692]  INFO -- : sending email to anhnth@hpu.edu.vn with token TPAAN3VF with reason reset
+I, [2017-02-16T18:45:08.324264 #2692]  INFO -- : received: {"to":"nam5495@gmail.com","token":"WTCRG3WG","reason":"reset"} on /topic/hpumail
+I, [2017-02-16T18:45:08.324264 #2692]  INFO -- : sending email to nam5495@gmail.com with token WTCRG3WG with reason reset

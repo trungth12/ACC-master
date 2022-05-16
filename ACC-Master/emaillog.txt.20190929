@@ -1,0 +1,7 @@
+# Logfile created on 2019-09-28 08:38:11 +0700 by logger.rb/31641
+I, [2019-09-28T08:38:11.601662 #1860]  INFO -- : received: {"to":"dothuhuong.qt1805@gmail.com","token":"VDMCHM3M","reason":"reset"} on /topic/hpumail
+I, [2019-09-28T08:38:11.679662 #1860]  INFO -- : sending email to dothuhuong.qt1805@gmail.com with token VDMCHM3M with reason reset
+I, [2019-09-28T20:46:57.012061 #1860]  INFO -- : received: {"to":"ta.iphone14@gmail.com","token":"QPTEW6VD","reason":"reset"} on /topic/hpumail
+I, [2019-09-28T20:46:57.012061 #1860]  INFO -- : sending email to ta.iphone14@gmail.com with token QPTEW6VD with reason reset
+I, [2019-09-28T20:47:36.838931 #1860]  INFO -- : received: {"to":"ta.iphone14@gmail.com","token":"endlesslove","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-28T20:47:36.838931 #1860]  INFO -- : sending email to ta.iphone14@gmail.com with token endlesslove with reason resetpassword

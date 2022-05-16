@@ -1,0 +1,3 @@
+# Logfile created on 2016-06-28 14:45:13 +0700 by logger.rb/31641
+I, [2016-06-28T14:45:13.223861 #4056]  INFO -- : received: {"to":"dinhmaiphuong0402@gmail.com","token":"b9b87790bfb551ad9712c5901da89499","reason":"register"} on /topic/hpumail
+I, [2016-06-28T14:45:13.256863 #4056]  INFO -- : sending email to dinhmaiphuong0402@gmail.com with token b9b87790bfb551ad9712c5901da89499 with reason register

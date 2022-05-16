@@ -1,0 +1,11 @@
+# Logfile created on 2016-01-19 10:09:51 +0700 by logger.rb/31641
+I, [2016-01-19T10:09:51.577954 #2784]  INFO -- : received: {"to":"tungnguyen26011993@gmail.com","token":"25c7c09a44aed6a606932c6b5d5b50f7","reason":"register"} on /topic/hpumail
+I, [2016-01-19T10:09:51.593554 #2784]  INFO -- : sending email to tungnguyen26011993@gmail.com with token 25c7c09a44aed6a606932c6b5d5b50f7 with reason register
+I, [2016-01-19T10:15:04.483304 #2784]  INFO -- : received: {"to":"nguyenthanhtung26011993@gmail.com","token":"08fc1f30069719bc52079b3d370e2f25","reason":"register"} on /topic/hpumail
+I, [2016-01-19T10:15:04.483304 #2784]  INFO -- : sending email to nguyenthanhtung26011993@gmail.com with token 08fc1f30069719bc52079b3d370e2f25 with reason register
+I, [2016-01-19T11:51:13.893638 #2784]  INFO -- : received: {"to":"hn562961@gmail.com","token":"77e72b64fb051bab281914077426304a","reason":"register"} on /topic/hpumail
+I, [2016-01-19T11:51:13.893638 #2784]  INFO -- : sending email to hn562961@gmail.com with token 77e72b64fb051bab281914077426304a with reason register
+I, [2016-01-19T15:33:15.047065 #2784]  INFO -- : received: {"to":"thaivu2612.cr7@gmail.com","token":"PHRMT723","reason":"reset"} on /topic/hpumail
+I, [2016-01-19T15:33:15.047065 #2784]  INFO -- : sending email to thaivu2612.cr7@gmail.com with token PHRMT723 with reason reset
+I, [2016-01-19T15:35:15.713277 #2784]  INFO -- : received: {"to":"thaivu2612.cr7@gmail.com","token":"h0angthaI","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-19T15:35:15.713277 #2784]  INFO -- : sending email to thaivu2612.cr7@gmail.com with token h0angthaI with reason resetpassword

@@ -1,0 +1,3 @@
+# Logfile created on 2019-04-25 14:13:04 +0700 by logger.rb/31641
+I, [2019-04-25T14:13:04.724936 #2040]  INFO -- : received: {"to":"la.coi1996@gmail.com","token":"66P76WYG","reason":"reset"} on /topic/hpumail
+I, [2019-04-25T14:13:04.896537 #2040]  INFO -- : sending email to la.coi1996@gmail.com with token 66P76WYG with reason reset

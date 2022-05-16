@@ -1,0 +1,5 @@
+# Logfile created on 2018-02-26 08:55:30 +0700 by logger.rb/31641
+I, [2018-02-26T08:55:30.939694 #1832]  INFO -- : received: {"to":"nguyenthihaiyen19263@gmail.com","token":"3RMCEQN6","reason":"reset"} on /topic/hpumail
+I, [2018-02-26T08:55:31.017694 #1832]  INFO -- : sending email to nguyenthihaiyen19263@gmail.com with token 3RMCEQN6 with reason reset
+I, [2018-02-26T08:56:21.780183 #1832]  INFO -- : received: {"to":"nguyenthihaiyen19263@gmail.com","token":"Q22PX6GF","reason":"reset"} on /topic/hpumail
+I, [2018-02-26T08:56:21.780183 #1832]  INFO -- : sending email to nguyenthihaiyen19263@gmail.com with token Q22PX6GF with reason reset

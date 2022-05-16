@@ -1,0 +1,7 @@
+# Logfile created on 2017-04-02 09:09:52 +0700 by logger.rb/31641
+I, [2017-04-02T09:09:52.162640 #2684]  INFO -- : received: {"to":"dinhkuhpu01@gmail.com","token":"MQQC4Z6R","reason":"reset"} on /topic/hpumail
+I, [2017-04-02T09:09:52.162640 #2684]  INFO -- : sending email to dinhkuhpu01@gmail.com with token MQQC4Z6R with reason reset
+I, [2017-04-02T11:44:54.006578 #2684]  INFO -- : received: {"to":"vietcuonghp92@yahoo.com","token":"CZAQNNEE","reason":"reset"} on /topic/hpumail
+I, [2017-04-02T11:44:54.006578 #2684]  INFO -- : sending email to vietcuonghp92@yahoo.com with token CZAQNNEE with reason reset
+I, [2017-04-02T20:17:11.442566 #2684]  INFO -- : received: {"to":"trinhtran807@gmail.com","token":"V4H796JT","reason":"reset"} on /topic/hpumail
+I, [2017-04-02T20:17:11.442566 #2684]  INFO -- : sending email to trinhtran807@gmail.com with token V4H796JT with reason reset

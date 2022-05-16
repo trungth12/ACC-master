@@ -1,0 +1,7 @@
+# Logfile created on 2017-04-20 15:55:14 +0700 by logger.rb/31641
+I, [2017-04-20T15:55:14.037045 #2668]  INFO -- : received: {"to":"lequangyencat@yahoo.com.vn","token":"8bc643492fc31a849973243b1b084268","reason":"register"} on /topic/hpumail
+I, [2017-04-20T15:55:14.099445 #2668]  INFO -- : sending email to lequangyencat@yahoo.com.vn with token 8bc643492fc31a849973243b1b084268 with reason register
+I, [2017-04-20T22:45:48.289913 #2668]  INFO -- : received: {"to":"myththanthoaiboy8x@gmail.com","token":"ZT9MJNAY","reason":"reset"} on /topic/hpumail
+I, [2017-04-20T22:45:48.289913 #2668]  INFO -- : sending email to myththanthoaiboy8x@gmail.com with token ZT9MJNAY with reason reset
+I, [2017-04-20T22:47:08.286853 #2668]  INFO -- : received: {"to":"myththanthoaiboy8x@gmail.com","token":"Canh12345","reason":"resetpassword"} on /topic/hpumail
+I, [2017-04-20T22:47:08.286853 #2668]  INFO -- : sending email to myththanthoaiboy8x@gmail.com with token Canh12345 with reason resetpassword

@@ -1,0 +1,13 @@
+# Logfile created on 2016-01-22 08:49:18 +0700 by logger.rb/31641
+I, [2016-01-22T08:49:18.253221 #3008]  INFO -- : received: {"to":"muacuangayxuahp93@gmail.com","token":"ZZ7E6JAT","reason":"reset"} on /topic/hpumail
+I, [2016-01-22T08:49:18.253221 #3008]  INFO -- : sending email to muacuangayxuahp93@gmail.com with token ZZ7E6JAT with reason reset
+I, [2016-01-22T09:24:12.510100 #3008]  INFO -- : received: {"to":"daothihoaa@gmail.com","token":"34dbb0e25f3d8dc0f5881b3b5416079e","reason":"register"} on /topic/hpumail
+I, [2016-01-22T09:24:12.510100 #3008]  INFO -- : sending email to daothihoaa@gmail.com with token 34dbb0e25f3d8dc0f5881b3b5416079e with reason register
+I, [2016-01-22T09:50:31.513673 #3008]  INFO -- : received: {"to":"nguyenviethoang0804@gmail.com","token":"07d4e710aea77f7cd5d58dc0623c68a5","reason":"register"} on /topic/hpumail
+I, [2016-01-22T09:50:31.513673 #3008]  INFO -- : sending email to nguyenviethoang0804@gmail.com with token 07d4e710aea77f7cd5d58dc0623c68a5 with reason register
+I, [2016-01-22T09:50:51.622108 #3008]  INFO -- : received: {"to":"cauduc.hp97@gmail.com","token":"adb49b8516d46eb1b56dfaf0d6565ba7","reason":"register"} on /topic/hpumail
+I, [2016-01-22T09:50:51.622108 #3008]  INFO -- : sending email to cauduc.hp97@gmail.com with token adb49b8516d46eb1b56dfaf0d6565ba7 with reason register
+I, [2016-01-22T10:21:37.620151 #3008]  INFO -- : received: {"to":"mbbgmnh@gmail.com","token":"MK26TDAW","reason":"reset"} on /topic/hpumail
+I, [2016-01-22T10:21:37.620151 #3008]  INFO -- : sending email to mbbgmnh@gmail.com with token MK26TDAW with reason reset
+I, [2016-01-22T10:22:39.536659 #3008]  INFO -- : received: {"to":"mbbgmnh@gmail.com","token":"ZKDE66NK","reason":"reset"} on /topic/hpumail
+I, [2016-01-22T10:22:39.536659 #3008]  INFO -- : sending email to mbbgmnh@gmail.com with token ZKDE66NK with reason reset

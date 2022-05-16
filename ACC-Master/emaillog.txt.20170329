@@ -1,0 +1,3 @@
+# Logfile created on 2017-03-29 10:31:33 +0700 by logger.rb/31641
+I, [2017-03-29T10:31:33.260372 #2656]  INFO -- : received: {"to":"tranquangcuong681@gmail.com","token":"3eed2fedd24a644ca6d2a6242e4e9679","reason":"register"} on /topic/hpumail
+I, [2017-03-29T10:31:33.260372 #2656]  INFO -- : sending email to tranquangcuong681@gmail.com with token 3eed2fedd24a644ca6d2a6242e4e9679 with reason register

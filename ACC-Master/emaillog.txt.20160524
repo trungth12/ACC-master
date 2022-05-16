@@ -1,0 +1,31 @@
+# Logfile created on 2016-05-24 00:03:03 +0700 by logger.rb/31641
+I, [2016-05-24T00:03:03.728344 #2636]  INFO -- : received: {"to":"nguyenducduy152@gmail.com","token":"K36MAYHD","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T00:03:03.736344 #2636]  INFO -- : sending email to nguyenducduy152@gmail.com with token K36MAYHD with reason reset
+I, [2016-05-24T09:48:55.840930 #2636]  INFO -- : received: {"to":"ngocnguyenvands@gmail.com","token":"641f37f0b4f3caeb8bd8bbc05e057440","reason":"register"} on /topic/hpumail
+I, [2016-05-24T09:48:56.090944 #2636]  INFO -- : sending email to ngocnguyenvands@gmail.com with token 641f37f0b4f3caeb8bd8bbc05e057440 with reason register
+I, [2016-05-24T09:49:16.636119 #2636]  INFO -- : received: {"to":"thuylinhkthp@gmail.com","token":"YNE7GJ2H","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T09:49:16.637119 #2636]  INFO -- : sending email to thuylinhkthp@gmail.com with token YNE7GJ2H with reason reset
+I, [2016-05-24T09:56:05.423500 #2636]  INFO -- : received: {"to":"hienle.30.01.95@gmail.com","token":"7cccdb3d0d55b3cd08f9f89476f50aac","reason":"register"} on /topic/hpumail
+I, [2016-05-24T09:56:05.515506 #2636]  INFO -- : sending email to hienle.30.01.95@gmail.com with token 7cccdb3d0d55b3cd08f9f89476f50aac with reason register
+I, [2016-05-24T12:24:41.260457 #2636]  INFO -- : received: {"to":"yennhi97.hp@gmail.com","token":"DRRZQD7A","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T12:24:41.364463 #2636]  INFO -- : sending email to yennhi97.hp@gmail.com with token DRRZQD7A with reason reset
+I, [2016-05-24T13:14:05.662011 #2636]  INFO -- : received: {"to":"dfis3cc@gmail.com","token":"foever","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-24T13:14:05.716014 #2636]  INFO -- : sending email to dfis3cc@gmail.com with token foever with reason resetpassword
+I, [2016-05-24T13:36:49.921042 #2636]  INFO -- : received: {"to":"dduy1221@gmail.com","token":"AZAFX3RR","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T13:36:50.044049 #2636]  INFO -- : sending email to dduy1221@gmail.com with token AZAFX3RR with reason reset
+I, [2016-05-24T15:08:15.138779 #2636]  INFO -- : received: {"to":"yennhi97.hp@gmail.com","token":"YCCM7TVE","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T15:08:15.139779 #2636]  INFO -- : sending email to yennhi97.hp@gmail.com with token YCCM7TVE with reason reset
+I, [2016-05-24T15:21:33.335433 #2636]  INFO -- : received: {"to":"yennhi97.hp@gmail.com","token":"WRRRE9RA","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T15:21:33.336433 #2636]  INFO -- : sending email to yennhi97.hp@gmail.com with token WRRRE9RA with reason reset
+I, [2016-05-24T17:52:50.229602 #2636]  INFO -- : received: {"to":"213haiminh96@gmail.com","token":"D329Y3MF","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T17:52:50.231602 #2636]  INFO -- : sending email to 213haiminh96@gmail.com with token D329Y3MF with reason reset
+I, [2016-05-24T18:59:46.944345 #2636]  INFO -- : received: {"to":"hoanghp196@gmail.com","token":"AJ9XJNDC","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T18:59:46.945345 #2636]  INFO -- : sending email to hoanghp196@gmail.com with token AJ9XJNDC with reason reset
+I, [2016-05-24T19:00:37.155217 #2636]  INFO -- : received: {"to":"hoanghp196@gmail.com","token":"0936926919","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-24T19:00:37.174218 #2636]  INFO -- : sending email to hoanghp196@gmail.com with token 0936926919 with reason resetpassword
+I, [2016-05-24T20:26:25.630693 #2636]  INFO -- : received: {"to":"samahawatakechi@gmail.com","token":"TJFQA3MK","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T20:26:25.631693 #2636]  INFO -- : sending email to samahawatakechi@gmail.com with token TJFQA3MK with reason reset
+I, [2016-05-24T20:28:43.564582 #2636]  INFO -- : received: {"to":"samahawatakechi@gmail.com","token":"WZD2XKTE","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T20:28:43.565582 #2636]  INFO -- : sending email to samahawatakechi@gmail.com with token WZD2XKTE with reason reset
+I, [2016-05-24T20:32:52.150800 #2636]  INFO -- : received: {"to":"samahawatakechi@gmail.com","token":"N34E3N23","reason":"reset"} on /topic/hpumail
+I, [2016-05-24T20:32:52.151800 #2636]  INFO -- : sending email to samahawatakechi@gmail.com with token N34E3N23 with reason reset

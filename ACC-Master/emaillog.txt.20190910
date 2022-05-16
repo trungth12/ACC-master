@@ -1,0 +1,15 @@
+# Logfile created on 2019-09-10 08:58:02 +0700 by logger.rb/31641
+I, [2019-09-10T08:58:02.392382 #1372]  INFO -- : received: {"to":"anhvv@hpu.edu.vn","token":"VCF76GMA","reason":"reset"} on /topic/hpumail
+I, [2019-09-10T08:58:02.407982 #1372]  INFO -- : sending email to anhvv@hpu.edu.vn with token VCF76GMA with reason reset
+I, [2019-09-10T09:09:44.775827 #1372]  INFO -- : received: {"to":"oanhptk@hpu.edu.vn","token":"FKTCGPDZ","reason":"reset"} on /topic/hpumail
+I, [2019-09-10T09:09:44.775827 #1372]  INFO -- : sending email to oanhptk@hpu.edu.vn with token FKTCGPDZ with reason reset
+I, [2019-09-10T09:31:37.332152 #1372]  INFO -- : received: {"to":"maibtt@hpu.edu.vn","token":"2XDTJKGJ","reason":"reset"} on /topic/hpumail
+I, [2019-09-10T09:31:37.332152 #1372]  INFO -- : sending email to maibtt@hpu.edu.vn with token 2XDTJKGJ with reason reset
+I, [2019-09-10T10:09:24.054769 #1372]  INFO -- : received: {"to":"thuntc@hpu.edu.vn","token":"R4YDX7PH","reason":"reset"} on /topic/hpumail
+I, [2019-09-10T10:09:24.054769 #1372]  INFO -- : sending email to thuntc@hpu.edu.vn with token R4YDX7PH with reason reset
+I, [2019-09-10T12:39:12.538505 #1372]  INFO -- : received: {"to":"linhntm@hpu.edu.vn","token":"21022006","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-10T12:39:12.538505 #1372]  INFO -- : sending email to linhntm@hpu.edu.vn with token 21022006 with reason resetpassword
+I, [2019-09-10T15:03:35.886663 #1372]  INFO -- : received: {"to":"cantc@hpu.edu.vn","token":"VTAKE4CZ","reason":"reset"} on /topic/hpumail
+I, [2019-09-10T15:03:35.886663 #1372]  INFO -- : sending email to cantc@hpu.edu.vn with token VTAKE4CZ with reason reset
+I, [2019-09-10T15:17:22.836529 #1372]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"VW9QQNMX","reason":"reset"} on /topic/hpumail
+I, [2019-09-10T15:17:22.836529 #1372]  INFO -- : sending email to thuypt@hpu.edu.vn with token VW9QQNMX with reason reset

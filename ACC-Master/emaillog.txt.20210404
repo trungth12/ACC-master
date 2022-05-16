@@ -1,0 +1,3 @@
+# Logfile created on 2021-03-16 08:44:41 +0700 by logger.rb/31641
+I, [2021-03-16T08:44:41.798034 #1856]  INFO -- : received: {"to":"nguyendanhhung96@gmail.com","token":"9Q3FHMJ4","reason":"reset"} on /topic/hpumail
+I, [2021-03-16T08:44:41.813634 #1856]  INFO -- : sending email to nguyendanhhung96@gmail.com with token 9Q3FHMJ4 with reason reset

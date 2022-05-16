@@ -1,0 +1,5 @@
+# Logfile created on 2016-04-12 01:20:47 +0700 by logger.rb/31641
+I, [2016-04-12T01:20:47.769267 #3056]  INFO -- : received: {"to":"elainehoang251@gmail.com","token":"DPYNT2RD","reason":"reset"} on /topic/hpumail
+I, [2016-04-12T01:20:47.769267 #3056]  INFO -- : sending email to elainehoang251@gmail.com with token DPYNT2RD with reason reset
+I, [2016-04-12T08:53:19.570157 #3056]  INFO -- : received: {"to":"congto1312@gmail.com","token":"PW6GCJRK","reason":"reset"} on /topic/hpumail
+I, [2016-04-12T08:53:19.570157 #3056]  INFO -- : sending email to congto1312@gmail.com with token PW6GCJRK with reason reset

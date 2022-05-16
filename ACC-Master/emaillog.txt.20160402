@@ -1,0 +1,3 @@
+# Logfile created on 2016-04-01 11:29:58 +0700 by logger.rb/31641
+I, [2016-04-01T11:29:58.252303 #4992]  INFO -- : received: {"to":"maitxhp@gmail.com","token":"9AFHJWZH","reason":"reset"} on /topic/hpumail
+I, [2016-04-01T11:29:58.299104 #4992]  INFO -- : sending email to maitxhp@gmail.com with token 9AFHJWZH with reason reset

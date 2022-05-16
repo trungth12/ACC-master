@@ -1,0 +1,13 @@
+# Logfile created on 2018-05-29 08:27:33 +0700 by logger.rb/31641
+I, [2018-05-29T08:27:33.836231 #2128]  INFO -- : received: {"to":"xuki.nguyen@gmail.com","token":"4YVDKHKR","reason":"reset"} on /topic/hpumail
+I, [2018-05-29T08:27:33.883031 #2128]  INFO -- : sending email to xuki.nguyen@gmail.com with token 4YVDKHKR with reason reset
+I, [2018-05-29T10:13:43.358618 #2128]  INFO -- : received: {"to":"xuki.nguyen@gmail.com","token":"X7DVR3XA","reason":"reset"} on /topic/hpumail
+I, [2018-05-29T10:13:43.358618 #2128]  INFO -- : sending email to xuki.nguyen@gmail.com with token X7DVR3XA with reason reset
+I, [2018-05-29T10:17:10.183781 #2128]  INFO -- : received: {"to":"xuki.nguyen@gmail.com","token":"thoa12345*","reason":"resetpassword"} on /topic/hpumail
+I, [2018-05-29T10:17:10.183781 #2128]  INFO -- : sending email to xuki.nguyen@gmail.com with token thoa12345* with reason resetpassword
+I, [2018-05-29T14:34:12.001094 #2128]  INFO -- : received: {"to":"tuanhhp1995@gmail.com","token":"NG2TZRT2","reason":"reset"} on /topic/hpumail
+I, [2018-05-29T14:34:12.001094 #2128]  INFO -- : sending email to tuanhhp1995@gmail.com with token NG2TZRT2 with reason reset
+I, [2018-05-29T14:39:19.384033 #2128]  INFO -- : received: {"to":"tuanhxg95@gmail.com","token":"KGFHGNAY","reason":"reset"} on /topic/hpumail
+I, [2018-05-29T14:39:19.384033 #2128]  INFO -- : sending email to tuanhxg95@gmail.com with token KGFHGNAY with reason reset
+I, [2018-05-29T14:43:30.107674 #2128]  INFO -- : received: {"to":"tuanhxg95@gmail.com","token":"1412401204","reason":"resetpassword"} on /topic/hpumail
+I, [2018-05-29T14:43:30.107674 #2128]  INFO -- : sending email to tuanhxg95@gmail.com with token 1412401204 with reason resetpassword

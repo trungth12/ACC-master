@@ -1,0 +1,5 @@
+# Logfile created on 2018-02-25 19:17:54 +0700 by logger.rb/31641
+I, [2018-02-25T19:17:54.014455 #1832]  INFO -- : received: {"to":"vietanh96hp.dc1802@gmail.com","token":"743ZKWGV","reason":"reset"} on /topic/hpumail
+I, [2018-02-25T19:17:54.123655 #1832]  INFO -- : sending email to vietanh96hp.dc1802@gmail.com with token 743ZKWGV with reason reset
+I, [2018-02-25T19:19:07.303383 #1832]  INFO -- : received: {"to":"vietanh96hp.dc1802@gmail.com","token":"Vietanh123","reason":"resetpassword"} on /topic/hpumail
+I, [2018-02-25T19:19:07.303383 #1832]  INFO -- : sending email to vietanh96hp.dc1802@gmail.com with token Vietanh123 with reason resetpassword

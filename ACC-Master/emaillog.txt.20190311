@@ -1,0 +1,5 @@
+# Logfile created on 2019-03-11 08:40:10 +0700 by logger.rb/31641
+I, [2019-03-11T08:40:10.260866 #1876]  INFO -- : received: {"to":"becunsunrangvinh@gmail.com","token":"E4MYWT6G","reason":"reset"} on /topic/hpumail
+I, [2019-03-11T08:40:10.260866 #1876]  INFO -- : sending email to becunsunrangvinh@gmail.com with token E4MYWT6G with reason reset
+I, [2019-03-11T18:51:15.930567 #1876]  INFO -- : received: {"to":"mr.iltf@gmail.com","token":"C6C2MGKN","reason":"reset"} on /topic/hpumail
+I, [2019-03-11T18:51:16.211367 #1876]  INFO -- : sending email to mr.iltf@gmail.com with token C6C2MGKN with reason reset

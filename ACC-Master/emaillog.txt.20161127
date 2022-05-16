@@ -1,0 +1,3 @@
+# Logfile created on 2016-11-26 17:41:39 +0700 by logger.rb/31641
+I, [2016-11-26T17:41:39.367152 #2720]  INFO -- : received: {"to":"crylp.2512.98@gmail.com","token":"QG7QHPZR","reason":"reset"} on /topic/hpumail
+I, [2016-11-26T17:41:39.445152 #2720]  INFO -- : sending email to crylp.2512.98@gmail.com with token QG7QHPZR with reason reset

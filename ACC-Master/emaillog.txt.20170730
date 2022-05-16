@@ -1,0 +1,9 @@
+# Logfile created on 2017-07-27 10:09:44 +0700 by logger.rb/31641
+I, [2017-07-27T10:09:44.595211 #2260]  INFO -- : received: {"to":"kanrashisarashiki@gmail.com","token":"FXQ9R4FR","reason":"reset"} on /topic/hpumail
+I, [2017-07-27T10:09:44.626411 #2260]  INFO -- : sending email to kanrashisarashiki@gmail.com with token FXQ9R4FR with reason reset
+I, [2017-07-27T10:13:07.473568 #2260]  INFO -- : received: {"to":"kanrashisarashiki@gmail.com","token":"infinite4","reason":"resetpassword"} on /topic/hpumail
+I, [2017-07-27T10:13:07.473568 #2260]  INFO -- : sending email to kanrashisarashiki@gmail.com with token infinite4 with reason resetpassword
+I, [2017-07-27T17:28:27.395045 #2260]  INFO -- : received: {"to":"quocthanh1661996@gmail.com","token":"VKGWTRW6","reason":"reset"} on /topic/hpumail
+I, [2017-07-27T17:28:27.395045 #2260]  INFO -- : sending email to quocthanh1661996@gmail.com with token VKGWTRW6 with reason reset
+I, [2017-07-27T17:34:57.692130 #2260]  INFO -- : received: {"to":"quocthanh1661996@gmail.com","token":"muabuibay","reason":"resetpassword"} on /topic/hpumail
+I, [2017-07-27T17:34:57.692130 #2260]  INFO -- : sending email to quocthanh1661996@gmail.com with token muabuibay with reason resetpassword

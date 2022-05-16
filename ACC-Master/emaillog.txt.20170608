@@ -1,0 +1,5 @@
+# Logfile created on 2017-06-08 10:06:13 +0700 by logger.rb/31641
+I, [2017-06-08T10:06:13.082745 #2668]  INFO -- : received: {"to":"daolananh1998@gmail.com","token":"a93a5a676ac3473371186f613076e135","reason":"register"} on /topic/hpumail
+I, [2017-06-08T10:06:13.191945 #2668]  INFO -- : sending email to daolananh1998@gmail.com with token a93a5a676ac3473371186f613076e135 with reason register
+I, [2017-06-08T14:04:10.727022 #2668]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"GEXE6D7P","reason":"reset"} on /topic/hpumail
+I, [2017-06-08T14:04:10.727022 #2668]  INFO -- : sending email to covaokhong1981@gmail.com with token GEXE6D7P with reason reset

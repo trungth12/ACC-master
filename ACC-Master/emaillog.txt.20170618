@@ -1,0 +1,5 @@
+# Logfile created on 2017-06-16 23:01:56 +0700 by logger.rb/31641
+I, [2017-06-16T23:01:56.075909 #2652]  INFO -- : received: {"to":"721996hang@gmail.com","token":"AE7DYW7H","reason":"reset"} on /topic/hpumail
+I, [2017-06-16T23:01:56.153909 #2652]  INFO -- : sending email to 721996hang@gmail.com with token AE7DYW7H with reason reset
+I, [2017-06-16T23:19:32.478565 #2652]  INFO -- : received: {"to":"nguyenq104@gmail.com","token":"4YXNQTCP","reason":"reset"} on /topic/hpumail
+I, [2017-06-16T23:19:32.478565 #2652]  INFO -- : sending email to nguyenq104@gmail.com with token 4YXNQTCP with reason reset

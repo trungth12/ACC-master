@@ -1,0 +1,5 @@
+# Logfile created on 2016-12-09 11:09:14 +0700 by logger.rb/31641
+I, [2016-12-09T11:09:14.794476 #2572]  INFO -- : received: {"to":"la.coi1996@gmail.com","token":"WW44XXHR","reason":"reset"} on /topic/hpumail
+I, [2016-12-09T11:09:14.794476 #2572]  INFO -- : sending email to la.coi1996@gmail.com with token WW44XXHR with reason reset
+I, [2016-12-09T11:45:21.919082 #2572]  INFO -- : received: {"to":"minhminh030310@gmail.com","token":"2c2c6c81e0e02679704a64b024a574c6","reason":"register"} on /topic/hpumail
+I, [2016-12-09T11:45:21.919082 #2572]  INFO -- : sending email to minhminh030310@gmail.com with token 2c2c6c81e0e02679704a64b024a574c6 with reason register

@@ -1,0 +1,7 @@
+# Logfile created on 2017-03-28 14:19:04 +0700 by logger.rb/31641
+I, [2017-03-28T14:19:04.982092 #2656]  INFO -- : received: {"to":"trphuongthao.hpu@gmail.com","token":"JDFKTFMG","reason":"reset"} on /topic/hpumail
+I, [2017-03-28T14:19:04.997692 #2656]  INFO -- : sending email to trphuongthao.hpu@gmail.com with token JDFKTFMG with reason reset
+I, [2017-03-28T14:22:00.513600 #2656]  INFO -- : received: {"to":"trphuongthao.hpu@gmail.com","token":"4HTAWRA9","reason":"reset"} on /topic/hpumail
+I, [2017-03-28T14:22:00.513600 #2656]  INFO -- : sending email to trphuongthao.hpu@gmail.com with token 4HTAWRA9 with reason reset
+I, [2017-03-28T15:47:41.756230 #2656]  INFO -- : received: {"to":"trphuongthao.hpu@gmail.com","token":"duongcho!!!","reason":"resetpassword"} on /topic/hpumail
+I, [2017-03-28T15:47:41.756230 #2656]  INFO -- : sending email to trphuongthao.hpu@gmail.com with token duongcho!!! with reason resetpassword

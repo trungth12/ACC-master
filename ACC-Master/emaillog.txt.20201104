@@ -1,0 +1,5 @@
+# Logfile created on 2020-11-02 10:41:56 +0700 by logger.rb/31641
+I, [2020-11-02T10:41:56.223055 #1824]  INFO -- : received: {"to":"cntt@hpu.edu.vn","token":"cntthppu","reason":"resetpassword"} on /topic/hpumail
+I, [2020-11-02T10:41:56.238655 #1824]  INFO -- : sending email to cntt@hpu.edu.vn with token cntthppu with reason resetpassword
+I, [2020-11-02T10:43:04.270375 #1824]  INFO -- : received: {"to":"cntt@hpu.edu.vn","token":"emyeu1311","reason":"resetpassword"} on /topic/hpumail
+I, [2020-11-02T10:43:04.270375 #1824]  INFO -- : sending email to cntt@hpu.edu.vn with token emyeu1311 with reason resetpassword

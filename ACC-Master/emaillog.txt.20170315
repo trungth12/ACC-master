@@ -1,0 +1,5 @@
+# Logfile created on 2017-03-14 15:00:52 +0700 by logger.rb/31641
+I, [2017-03-14T15:00:52.221730 #2676]  INFO -- : received: {"to":"oanhbtk@hpu.edu.vn","token":"CAPP3CMC","reason":"reset"} on /topic/hpumail
+I, [2017-03-14T15:00:52.284130 #2676]  INFO -- : sending email to oanhbtk@hpu.edu.vn with token CAPP3CMC with reason reset
+I, [2017-03-14T15:02:53.387143 #2676]  INFO -- : received: {"to":"oanhbtk@hpu.edu.vn","token":"Khongcogidau","reason":"resetpassword"} on /topic/hpumail
+I, [2017-03-14T15:02:53.387143 #2676]  INFO -- : sending email to oanhbtk@hpu.edu.vn with token Khongcogidau with reason resetpassword

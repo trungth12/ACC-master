@@ -1,0 +1,5 @@
+# Logfile created on 2017-12-03 22:50:09 +0700 by logger.rb/31641
+I, [2017-12-03T22:50:09.011770 #1104]  INFO -- : received: {"to":"honghanhvu875@gmail.com","token":"PVD6JE4K","reason":"reset"} on /topic/hpumail
+I, [2017-12-03T22:50:09.105370 #1104]  INFO -- : sending email to honghanhvu875@gmail.com with token PVD6JE4K with reason reset
+I, [2017-12-03T22:56:12.866809 #1104]  INFO -- : received: {"to":"honghanhvu875@gmail.com","token":"K3QCVP2V","reason":"reset"} on /topic/hpumail
+I, [2017-12-03T22:56:12.866809 #1104]  INFO -- : sending email to honghanhvu875@gmail.com with token K3QCVP2V with reason reset

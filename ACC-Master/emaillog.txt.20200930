@@ -1,0 +1,7 @@
+# Logfile created on 2020-09-30 14:19:12 +0700 by logger.rb/31641
+I, [2020-09-30T14:19:12.886504 #1836]  INFO -- : received: {"to":"nguyenminhanh21121998@gmail.com","token":"KJJY4Q7W","reason":"reset"} on /topic/hpumail
+I, [2020-09-30T14:19:12.902104 #1836]  INFO -- : sending email to nguyenminhanh21121998@gmail.com with token KJJY4Q7W with reason reset
+I, [2020-09-30T14:40:18.953528 #1836]  INFO -- : received: {"to":"hoahongxanh.takaha@gmail.com","token":"CW3VC3DX","reason":"reset"} on /topic/hpumail
+I, [2020-09-30T14:40:18.969128 #1836]  INFO -- : sending email to hoahongxanh.takaha@gmail.com with token CW3VC3DX with reason reset
+I, [2020-09-30T14:47:35.099094 #1836]  INFO -- : received: {"to":"trang161298@gmail.com","token":"f6da2573ae714e06267f259a0a625dd5","reason":"register"} on /topic/hpumail
+I, [2020-09-30T14:47:35.099094 #1836]  INFO -- : sending email to trang161298@gmail.com with token f6da2573ae714e06267f259a0a625dd5 with reason register

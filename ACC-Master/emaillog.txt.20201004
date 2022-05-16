@@ -1,0 +1,5 @@
+# Logfile created on 2020-10-03 09:05:07 +0700 by logger.rb/31641
+I, [2020-10-03T09:05:07.540202 #1816]  INFO -- : received: {"to":"phamnhuquynh9x@gmail.com","token":"EF2KT2M7","reason":"reset"} on /topic/hpumail
+I, [2020-10-03T09:05:07.555802 #1816]  INFO -- : sending email to phamnhuquynh9x@gmail.com with token EF2KT2M7 with reason reset
+I, [2020-10-03T09:06:34.135955 #1816]  INFO -- : received: {"to":"phamnhuquynh9x@gmail.com","token":"quynhyeuha","reason":"resetpassword"} on /topic/hpumail
+I, [2020-10-03T09:06:34.135955 #1816]  INFO -- : sending email to phamnhuquynh9x@gmail.com with token quynhyeuha with reason resetpassword

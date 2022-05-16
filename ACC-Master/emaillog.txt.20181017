@@ -1,0 +1,7 @@
+# Logfile created on 2018-10-16 07:48:40 +0700 by logger.rb/31641
+I, [2018-10-16T07:48:40.327024 #1816]  INFO -- : received: {"to":"tuyen1995.hpu@gmail.com","token":"WVZ39FQK","reason":"reset"} on /topic/hpumail
+I, [2018-10-16T07:48:40.389424 #1816]  INFO -- : sending email to tuyen1995.hpu@gmail.com with token WVZ39FQK with reason reset
+I, [2018-10-16T07:52:47.665458 #1816]  INFO -- : received: {"to":"tuyenphamvan1995@gmail.com","token":"DXQMXAG2","reason":"reset"} on /topic/hpumail
+I, [2018-10-16T07:52:47.665458 #1816]  INFO -- : sending email to tuyenphamvan1995@gmail.com with token DXQMXAG2 with reason reset
+I, [2018-10-16T07:55:11.591311 #1816]  INFO -- : received: {"to":"tuyenphamvan1995@gmail.com","token":"1412102086","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-16T07:55:11.591311 #1816]  INFO -- : sending email to tuyenphamvan1995@gmail.com with token 1412102086 with reason resetpassword

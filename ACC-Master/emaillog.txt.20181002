@@ -1,0 +1,9 @@
+# Logfile created on 2018-10-02 14:58:59 +0700 by logger.rb/31641
+I, [2018-10-02T14:58:59.568476 #1360]  INFO -- : received: {"to":"thanhdathp19xx@gmail.com","token":"PJ2R4RPE","reason":"reset"} on /topic/hpumail
+I, [2018-10-02T14:58:59.724477 #1360]  INFO -- : sending email to thanhdathp19xx@gmail.com with token PJ2R4RPE with reason reset
+I, [2018-10-02T16:16:12.043413 #1360]  INFO -- : received: {"to":"huucaoco.ct@gmail.com","token":"EYEMZH6R","reason":"reset"} on /topic/hpumail
+I, [2018-10-02T16:16:12.043413 #1360]  INFO -- : sending email to huucaoco.ct@gmail.com with token EYEMZH6R with reason reset
+I, [2018-10-02T23:51:23.053377 #1360]  INFO -- : received: {"to":"chinhle396@gmail.com","token":"7N2KGZMP","reason":"reset"} on /topic/hpumail
+I, [2018-10-02T23:51:23.131377 #1360]  INFO -- : sending email to chinhle396@gmail.com with token 7N2KGZMP with reason reset
+I, [2018-10-02T23:53:58.070849 #1360]  INFO -- : received: {"to":"chinhle396@gmail.com","token":"1391996","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-02T23:53:58.070849 #1360]  INFO -- : sending email to chinhle396@gmail.com with token 1391996 with reason resetpassword

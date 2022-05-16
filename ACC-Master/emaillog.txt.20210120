@@ -1,0 +1,5 @@
+# Logfile created on 2021-01-12 16:59:42 +0700 by logger.rb/31641
+I, [2021-01-12T16:59:42.772025 #1868]  INFO -- : received: {"to":"duyhai708@gmail.com","token":"Z2ZGNP7E","reason":"reset"} on /topic/hpumail
+I, [2021-01-12T16:59:42.787625 #1868]  INFO -- : sending email to duyhai708@gmail.com with token Z2ZGNP7E with reason reset
+I, [2021-01-12T17:01:26.715008 #1868]  INFO -- : received: {"to":"duyhai708@gmail.com","token":"TXNQMFPT","reason":"reset"} on /topic/hpumail
+I, [2021-01-12T17:01:26.715008 #1868]  INFO -- : sending email to duyhai708@gmail.com with token TXNQMFPT with reason reset

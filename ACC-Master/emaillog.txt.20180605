@@ -1,0 +1,15 @@
+# Logfile created on 2018-06-04 08:03:17 +0700 by logger.rb/31641
+I, [2018-06-04T08:03:17.732236 #1464]  INFO -- : received: {"to":"haohoachemgio19@gmail.com","token":"P2Z2K27N","reason":"reset"} on /topic/hpumail
+I, [2018-06-04T08:03:17.747836 #1464]  INFO -- : sending email to haohoachemgio19@gmail.com with token P2Z2K27N with reason reset
+I, [2018-06-04T08:55:21.590923 #1464]  INFO -- : received: {"to":"minhhp19966@gmail.com","token":"FVH7CW3W","reason":"reset"} on /topic/hpumail
+I, [2018-06-04T08:55:21.590923 #1464]  INFO -- : sending email to minhhp19966@gmail.com with token FVH7CW3W with reason reset
+I, [2018-06-04T09:43:04.336351 #1464]  INFO -- : received: {"to":"minhhp19966@gmail.com","token":"GP9RR2PV","reason":"reset"} on /topic/hpumail
+I, [2018-06-04T09:43:04.336351 #1464]  INFO -- : sending email to minhhp19966@gmail.com with token GP9RR2PV with reason reset
+I, [2018-06-04T09:46:06.872272 #1464]  INFO -- : received: {"to":"minhhp19966@gmail.com","token":"nongquadi1809","reason":"resetpassword"} on /topic/hpumail
+I, [2018-06-04T09:46:06.872272 #1464]  INFO -- : sending email to minhhp19966@gmail.com with token nongquadi1809 with reason resetpassword
+I, [2018-06-04T12:47:52.991828 #1464]  INFO -- : received: {"to":"tinhkhongdoithay.vianhyeuem96@gmail.com","token":"JRE3JV6F","reason":"reset"} on /topic/hpumail
+I, [2018-06-04T12:47:52.991828 #1464]  INFO -- : sending email to tinhkhongdoithay.vianhyeuem96@gmail.com with token JRE3JV6F with reason reset
+I, [2018-06-04T12:58:34.558554 #1464]  INFO -- : received: {"to":"tinhkhongdoithay.vianhyeuem96@gmail.com","token":"leviet119","reason":"resetpassword"} on /topic/hpumail
+I, [2018-06-04T12:58:34.558554 #1464]  INFO -- : sending email to tinhkhongdoithay.vianhyeuem96@gmail.com with token leviet119 with reason resetpassword
+I, [2018-06-04T16:18:43.178846 #1464]  INFO -- : received: {"to":"duonghp07121996@gmail.com","token":"E6343ZXQ","reason":"reset"} on /topic/hpumail
+I, [2018-06-04T16:18:43.178846 #1464]  INFO -- : sending email to duonghp07121996@gmail.com with token E6343ZXQ with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2019-07-03 10:17:54 +0700 by logger.rb/31641
+I, [2019-07-03T10:17:54.386333 #1176]  INFO -- : received: {"to":"trungth@hpu.edu.vn","token":"ngocminh","reason":"resetpassword"} on /topic/hpumail
+I, [2019-07-03T10:17:54.386333 #1176]  INFO -- : sending email to trungth@hpu.edu.vn with token ngocminh with reason resetpassword

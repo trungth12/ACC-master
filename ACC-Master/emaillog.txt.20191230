@@ -1,0 +1,7 @@
+# Logfile created on 2019-12-30 15:37:51 +0700 by logger.rb/31641
+I, [2019-12-30T15:37:51.890306 #1804]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"MW44KFC9","reason":"reset"} on /topic/hpumail
+I, [2019-12-30T15:37:51.890306 #1804]  INFO -- : sending email to vandt@hpu.edu.vn with token MW44KFC9 with reason reset
+I, [2019-12-30T15:39:44.553704 #1804]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"F4MQZCE6","reason":"reset"} on /topic/hpumail
+I, [2019-12-30T15:39:44.553704 #1804]  INFO -- : sending email to vandt@hpu.edu.vn with token F4MQZCE6 with reason reset
+I, [2019-12-30T15:40:11.182951 #1804]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"PPPZZVEF","reason":"reset"} on /topic/hpumail
+I, [2019-12-30T15:40:11.182951 #1804]  INFO -- : sending email to vandt@hpu.edu.vn with token PPPZZVEF with reason reset

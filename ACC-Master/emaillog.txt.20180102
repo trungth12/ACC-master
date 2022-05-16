@@ -1,0 +1,15 @@
+# Logfile created on 2018-01-02 10:04:54 +0700 by logger.rb/31641
+I, [2018-01-02T10:04:54.449067 #1876]  INFO -- : received: {"to":"duongdangtuananh8993@gmail.com","token":"KA63FRAT","reason":"reset"} on /topic/hpumail
+I, [2018-01-02T10:04:54.464667 #1876]  INFO -- : sending email to duongdangtuananh8993@gmail.com with token KA63FRAT with reason reset
+I, [2018-01-02T10:08:28.809044 #1876]  INFO -- : received: {"to":"duongdangtuananh8993@gmail.com","token":"08091993","reason":"resetpassword"} on /topic/hpumail
+I, [2018-01-02T10:08:28.809044 #1876]  INFO -- : sending email to duongdangtuananh8993@gmail.com with token 08091993 with reason resetpassword
+I, [2018-01-02T10:33:41.028900 #1876]  INFO -- : received: {"to":"nguyennga07091996@gmail.com","token":"YYHPXK6H","reason":"reset"} on /topic/hpumail
+I, [2018-01-02T10:33:41.028900 #1876]  INFO -- : sending email to nguyennga07091996@gmail.com with token YYHPXK6H with reason reset
+I, [2018-01-02T17:27:53.229751 #1876]  INFO -- : received: {"to":"giaminh1809@gmail.com","token":"XF3XTV7P","reason":"reset"} on /topic/hpumail
+I, [2018-01-02T17:27:53.229751 #1876]  INFO -- : sending email to giaminh1809@gmail.com with token XF3XTV7P with reason reset
+I, [2018-01-02T18:06:51.798658 #1876]  INFO -- : received: {"to":"nguyennga07091996@gmail.com","token":"GPK4XG7V","reason":"reset"} on /topic/hpumail
+I, [2018-01-02T18:06:51.798658 #1876]  INFO -- : sending email to nguyennga07091996@gmail.com with token GPK4XG7V with reason reset
+I, [2018-01-02T21:10:13.749182 #1876]  INFO -- : received: {"to":"giaminh1809@gmail.com","token":"M4AHG9YD","reason":"reset"} on /topic/hpumail
+I, [2018-01-02T21:10:13.951982 #1876]  INFO -- : sending email to giaminh1809@gmail.com with token M4AHG9YD with reason reset
+I, [2018-01-02T21:33:58.593285 #1876]  INFO -- : received: {"to":"giaminh1809@gmail.com","token":"ARKC6WMN","reason":"reset"} on /topic/hpumail
+I, [2018-01-02T21:33:58.593285 #1876]  INFO -- : sending email to giaminh1809@gmail.com with token ARKC6WMN with reason reset

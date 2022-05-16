@@ -1,0 +1,3 @@
+# Logfile created on 2020-11-18 03:48:51 +0700 by logger.rb/31641
+I, [2020-11-18T03:48:51.289798 #1828]  INFO -- : received: {"to":"thachdaigia912@gmail.com","token":"b609e8b5e518287fae0dab54465a4dd3","reason":"register"} on /topic/hpumail
+I, [2020-11-18T03:48:51.289798 #1828]  INFO -- : sending email to thachdaigia912@gmail.com with token b609e8b5e518287fae0dab54465a4dd3 with reason register

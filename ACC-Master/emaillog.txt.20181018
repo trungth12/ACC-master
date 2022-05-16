@@ -1,0 +1,7 @@
+# Logfile created on 2018-10-18 08:54:04 +0700 by logger.rb/31641
+I, [2018-10-18T08:54:04.067423 #1816]  INFO -- : received: {"to":"thanhhuyen.hasahi.250797@gmail.com","token":"6WGM7AA9","reason":"reset"} on /topic/hpumail
+I, [2018-10-18T08:54:04.083023 #1816]  INFO -- : sending email to thanhhuyen.hasahi.250797@gmail.com with token 6WGM7AA9 with reason reset
+I, [2018-10-18T09:15:58.759732 #1816]  INFO -- : received: {"to":"xuananhtphp@gmail.com","token":"PMXQKYYD","reason":"reset"} on /topic/hpumail
+I, [2018-10-18T09:15:58.759732 #1816]  INFO -- : sending email to xuananhtphp@gmail.com with token PMXQKYYD with reason reset
+I, [2018-10-18T23:20:23.343120 #1816]  INFO -- : received: {"to":"hoanganhjr4869@gmail.com","token":"3ed525e6956635462acef05849cffa4b","reason":"register"} on /topic/hpumail
+I, [2018-10-18T23:20:23.343120 #1816]  INFO -- : sending email to hoanganhjr4869@gmail.com with token 3ed525e6956635462acef05849cffa4b with reason register

@@ -1,0 +1,5 @@
+# Logfile created on 2019-09-11 18:45:57 +0700 by logger.rb/31641
+I, [2019-09-11T18:45:57.177656 #2012]  INFO -- : received: {"to":"thptkscb18pthongminh@gmail.com","token":"M6KW7J3W","reason":"reset"} on /topic/hpumail
+I, [2019-09-11T18:45:57.193256 #2012]  INFO -- : sending email to thptkscb18pthongminh@gmail.com with token M6KW7J3W with reason reset
+I, [2019-09-11T18:56:35.234377 #2012]  INFO -- : received: {"to":"thptkscb18pthongminh@gmail.com","token":"Minh295@","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-11T18:56:35.234377 #2012]  INFO -- : sending email to thptkscb18pthongminh@gmail.com with token Minh295@ with reason resetpassword

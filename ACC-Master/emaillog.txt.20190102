@@ -1,0 +1,3 @@
+# Logfile created on 2018-12-28 16:28:43 +0700 by logger.rb/31641
+I, [2018-12-28T16:28:42.949937 #1300]  INFO -- : received: {"to":"dongocquangson@gmail.com","token":"QY423K3X","reason":"reset"} on /topic/hpumail
+I, [2018-12-28T16:28:43.059137 #1300]  INFO -- : sending email to dongocquangson@gmail.com with token QY423K3X with reason reset

@@ -1,0 +1,15 @@
+# Logfile created on 2018-08-13 13:52:00 +0700 by logger.rb/31641
+I, [2018-08-13T13:52:00.917521 #1816]  INFO -- : received: {"to":"meyeu005388@gmail.com","token":"DJDKHWXJ","reason":"reset"} on /topic/hpumail
+I, [2018-08-13T13:52:00.964321 #1816]  INFO -- : sending email to meyeu005388@gmail.com with token DJDKHWXJ with reason reset
+I, [2018-08-13T14:03:58.362781 #1816]  INFO -- : received: {"to":"blackmeohp2000@gmail.com","token":"QPR6DKRN","reason":"reset"} on /topic/hpumail
+I, [2018-08-13T14:03:58.378381 #1816]  INFO -- : sending email to blackmeohp2000@gmail.com with token QPR6DKRN with reason reset
+I, [2018-08-13T14:05:58.872992 #1816]  INFO -- : received: {"to":"meyeu005388@gmail.com","token":"APVRXYJW","reason":"reset"} on /topic/hpumail
+I, [2018-08-13T14:05:58.872992 #1816]  INFO -- : sending email to meyeu005388@gmail.com with token APVRXYJW with reason reset
+I, [2018-08-13T14:07:45.670780 #1816]  INFO -- : received: {"to":"meyeu005388@gmail.com","token":"1412102002","reason":"resetpassword"} on /topic/hpumail
+I, [2018-08-13T14:07:45.670780 #1816]  INFO -- : sending email to meyeu005388@gmail.com with token 1412102002 with reason resetpassword
+I, [2018-08-13T14:10:35.227478 #1816]  INFO -- : received: {"to":"blackmeohp2000@gmail.com","token":"Hoangthituuyen1995","reason":"resetpassword"} on /topic/hpumail
+I, [2018-08-13T14:10:35.227478 #1816]  INFO -- : sending email to blackmeohp2000@gmail.com with token Hoangthituuyen1995 with reason resetpassword
+I, [2018-08-13T16:39:33.294377 #1816]  INFO -- : received: {"to":"huyentrangphan2806@gmail.com","token":"FP9FMXR4","reason":"reset"} on /topic/hpumail
+I, [2018-08-13T16:39:33.575177 #1816]  INFO -- : sending email to huyentrangphan2806@gmail.com with token FP9FMXR4 with reason reset
+I, [2018-08-13T16:44:35.357707 #1816]  INFO -- : received: {"to":"huyentrangphan2806@gmail.com","token":"1412601039","reason":"resetpassword"} on /topic/hpumail
+I, [2018-08-13T16:44:35.357707 #1816]  INFO -- : sending email to huyentrangphan2806@gmail.com with token 1412601039 with reason resetpassword

@@ -1,0 +1,11 @@
+# Logfile created on 2016-07-08 08:42:15 +0700 by logger.rb/31641
+I, [2016-07-08T08:42:15.410429 #1036]  INFO -- : received: {"to":"hanhanhp1907@gmail.com","token":"C4PAR72D","reason":"reset"} on /topic/hpumail
+I, [2016-07-08T08:42:15.413429 #1036]  INFO -- : sending email to hanhanhp1907@gmail.com with token C4PAR72D with reason reset
+I, [2016-07-08T08:43:23.551327 #1036]  INFO -- : received: {"to":"hanhanhp1907@gmail.com","token":"1412401350","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-08T08:43:23.552327 #1036]  INFO -- : sending email to hanhanhp1907@gmail.com with token 1412401350 with reason resetpassword
+I, [2016-07-08T09:19:12.819258 #1036]  INFO -- : received: {"to":"thanhmai2211hp@gmail.com","token":"57c9f9355e3b741cf73ab2b7c52611cb","reason":"register"} on /topic/hpumail
+I, [2016-07-08T09:19:12.820258 #1036]  INFO -- : sending email to thanhmai2211hp@gmail.com with token 57c9f9355e3b741cf73ab2b7c52611cb with reason register
+I, [2016-07-08T09:35:12.690159 #1036]  INFO -- : received: {"to":"hoabink5678@gmail.com","token":"5905b7d905d75adb02eb8fc6f8be0323","reason":"register"} on /topic/hpumail
+I, [2016-07-08T09:35:12.690159 #1036]  INFO -- : sending email to hoabink5678@gmail.com with token 5905b7d905d75adb02eb8fc6f8be0323 with reason register
+I, [2016-07-08T12:50:27.344199 #1036]  INFO -- : received: {"to":"phamthiyennhi2810@gmail.com","token":"AT9TKJY9","reason":"reset"} on /topic/hpumail
+I, [2016-07-08T12:50:27.345199 #1036]  INFO -- : sending email to phamthiyennhi2810@gmail.com with token AT9TKJY9 with reason reset

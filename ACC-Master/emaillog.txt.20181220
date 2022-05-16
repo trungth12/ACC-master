@@ -1,0 +1,11 @@
+# Logfile created on 2018-12-20 08:22:46 +0700 by logger.rb/31641
+I, [2018-12-20T08:22:46.742619 #1300]  INFO -- : received: {"to":"hoanggiaduy0312@gmail.com","token":"CHKWHNHM","reason":"reset"} on /topic/hpumail
+I, [2018-12-20T08:22:46.758219 #1300]  INFO -- : sending email to hoanggiaduy0312@gmail.com with token CHKWHNHM with reason reset
+I, [2018-12-20T08:41:34.062999 #1300]  INFO -- : received: {"to":"buivu13@gmail.com","token":"7Q2A3ZG4","reason":"reset"} on /topic/hpumail
+I, [2018-12-20T08:41:34.062999 #1300]  INFO -- : sending email to buivu13@gmail.com with token 7Q2A3ZG4 with reason reset
+I, [2018-12-20T14:56:15.496486 #1300]  INFO -- : received: {"to":"phamthithuhue888@gmail.com","token":"JHA9XAEW","reason":"reset"} on /topic/hpumail
+I, [2018-12-20T14:56:15.496486 #1300]  INFO -- : sending email to phamthithuhue888@gmail.com with token JHA9XAEW with reason reset
+I, [2018-12-20T15:00:45.595360 #1300]  INFO -- : received: {"to":"phamthithuhue888@gmail.com","token":"1412104037","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-20T15:00:45.595360 #1300]  INFO -- : sending email to phamthithuhue888@gmail.com with token 1412104037 with reason resetpassword
+I, [2018-12-20T16:53:17.942420 #1300]  INFO -- : received: {"to":"djhuypro@gmail.com","token":"ED6YQXQ7","reason":"reset"} on /topic/hpumail
+I, [2018-12-20T16:53:17.942420 #1300]  INFO -- : sending email to djhuypro@gmail.com with token ED6YQXQ7 with reason reset

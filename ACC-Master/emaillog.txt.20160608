@@ -1,0 +1,7 @@
+# Logfile created on 2016-06-08 08:53:17 +0700 by logger.rb/31641
+I, [2016-06-08T08:53:17.844851 #2576]  INFO -- : received: {"to":"rtyhjk200@gmail.com","token":"44820ccc5eec6acbacda20ccb99b785e","reason":"register"} on /topic/hpumail
+I, [2016-06-08T08:53:17.853851 #2576]  INFO -- : sending email to rtyhjk200@gmail.com with token 44820ccc5eec6acbacda20ccb99b785e with reason register
+I, [2016-06-08T09:12:28.612671 #2576]  INFO -- : received: {"to":"huongdaona1901a@gmail.com","token":"f227813979b8863bd533c0a8776dca17","reason":"register"} on /topic/hpumail
+I, [2016-06-08T09:12:28.613671 #2576]  INFO -- : sending email to huongdaona1901a@gmail.com with token f227813979b8863bd533c0a8776dca17 with reason register
+I, [2016-06-08T09:41:09.969127 #2576]  INFO -- : received: {"to":"nguyenthamquyen0812@gmail.com","token":"HEHW4GZW","reason":"reset"} on /topic/hpumail
+I, [2016-06-08T09:41:09.970127 #2576]  INFO -- : sending email to nguyenthamquyen0812@gmail.com with token HEHW4GZW with reason reset

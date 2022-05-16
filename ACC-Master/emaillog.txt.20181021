@@ -1,0 +1,3 @@
+# Logfile created on 2018-10-19 13:22:14 +0700 by logger.rb/31641
+I, [2018-10-19T13:22:14.391038 #1816]  INFO -- : received: {"to":"soldier.zfs@gmail.com","token":"Z7N99H2C","reason":"reset"} on /topic/hpumail
+I, [2018-10-19T13:22:14.406638 #1816]  INFO -- : sending email to soldier.zfs@gmail.com with token Z7N99H2C with reason reset

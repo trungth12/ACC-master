@@ -1,0 +1,15 @@
+# Logfile created on 2016-12-06 09:33:45 +0700 by logger.rb/31641
+I, [2016-12-06T09:33:45.152272 #2572]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"CVMQWQKW","reason":"reset"} on /topic/hpumail
+I, [2016-12-06T09:33:45.183473 #2572]  INFO -- : sending email to covaokhong1981@gmail.com with token CVMQWQKW with reason reset
+I, [2016-12-06T09:34:07.226311 #2572]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"FT6RVXET","reason":"reset"} on /topic/hpumail
+I, [2016-12-06T09:34:07.226311 #2572]  INFO -- : sending email to covaokhong1981@gmail.com with token FT6RVXET with reason reset
+I, [2016-12-06T09:37:45.548695 #2572]  INFO -- : received: {"to":"covaokhong1981@gmail.com","token":"7ZJ42VQW","reason":"reset"} on /topic/hpumail
+I, [2016-12-06T09:37:45.548695 #2572]  INFO -- : sending email to covaokhong1981@gmail.com with token 7ZJ42VQW with reason reset
+I, [2016-12-06T19:58:28.317502 #2572]  INFO -- : received: {"to":"huycohp@gmail.com","token":"RVQ9XXTM","reason":"reset"} on /topic/hpumail
+I, [2016-12-06T19:58:28.317502 #2572]  INFO -- : sending email to huycohp@gmail.com with token RVQ9XXTM with reason reset
+I, [2016-12-06T19:59:28.471207 #2572]  INFO -- : received: {"to":"huycohp@gmail.com","token":"EA29G7D3","reason":"reset"} on /topic/hpumail
+I, [2016-12-06T19:59:28.471207 #2572]  INFO -- : sending email to huycohp@gmail.com with token EA29G7D3 with reason reset
+I, [2016-12-06T20:10:07.120729 #2572]  INFO -- : received: {"to":"nguyenducminh124@gmail.com","token":"3JJTAQTM","reason":"reset"} on /topic/hpumail
+I, [2016-12-06T20:10:07.120729 #2572]  INFO -- : sending email to nguyenducminh124@gmail.com with token 3JJTAQTM with reason reset
+I, [2016-12-06T20:13:41.418306 #2572]  INFO -- : received: {"to":"nguyenducminh124@gmail.com","token":"Ducminh11","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-06T20:13:41.418306 #2572]  INFO -- : sending email to nguyenducminh124@gmail.com with token Ducminh11 with reason resetpassword

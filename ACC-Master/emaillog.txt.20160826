@@ -1,0 +1,3 @@
+# Logfile created on 2016-08-25 13:30:11 +0700 by logger.rb/31641
+I, [2016-08-25T13:30:11.413667 #2288]  INFO -- : received: {"to":"nhokkeoquehp3@gmail.com","token":"P2M6GEPN","reason":"reset"} on /topic/hpumail
+I, [2016-08-25T13:30:11.429267 #2288]  INFO -- : sending email to nhokkeoquehp3@gmail.com with token P2M6GEPN with reason reset

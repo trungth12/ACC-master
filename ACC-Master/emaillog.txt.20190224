@@ -1,0 +1,7 @@
+# Logfile created on 2019-02-13 10:04:04 +0700 by logger.rb/31641
+I, [2019-02-13T10:04:04.313138 #1836]  INFO -- : received: {"to":"trinhluuqp1101@gmail.com","token":"4VK2KTZF","reason":"reset"} on /topic/hpumail
+I, [2019-02-13T10:04:04.391138 #1836]  INFO -- : sending email to trinhluuqp1101@gmail.com with token 4VK2KTZF with reason reset
+I, [2019-02-13T10:07:45.942727 #1836]  INFO -- : received: {"to":"trinhluuqp1101@gmail.com","token":"trinhluu1101","reason":"resetpassword"} on /topic/hpumail
+I, [2019-02-13T10:07:45.942727 #1836]  INFO -- : sending email to trinhluuqp1101@gmail.com with token trinhluu1101 with reason resetpassword
+I, [2019-02-13T10:29:32.460622 #1836]  INFO -- : received: {"to":"nthanhhang2000@gmail.com","token":"71afc7fa55aff164342645fd31729253","reason":"register"} on /topic/hpumail
+I, [2019-02-13T10:29:32.523022 #1836]  INFO -- : sending email to nthanhhang2000@gmail.com with token 71afc7fa55aff164342645fd31729253 with reason register

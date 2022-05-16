@@ -1,0 +1,5 @@
+# Logfile created on 2019-09-22 21:40:39 +0700 by logger.rb/31641
+I, [2019-09-22T21:40:39.077705 #1456]  INFO -- : received: {"to":"ductrung97vb@gmail.com","token":"34DTEZ3Q","reason":"reset"} on /topic/hpumail
+I, [2019-09-22T21:40:39.093305 #1456]  INFO -- : sending email to ductrung97vb@gmail.com with token 34DTEZ3Q with reason reset
+I, [2019-09-22T21:41:54.987438 #1456]  INFO -- : received: {"to":"ductrung97vb@gmail.com","token":"TRUNGDUC97","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-22T21:41:54.987438 #1456]  INFO -- : sending email to ductrung97vb@gmail.com with token TRUNGDUC97 with reason resetpassword

@@ -1,0 +1,3 @@
+# Logfile created on 2016-06-20 21:37:41 +0700 by logger.rb/31641
+I, [2016-06-20T21:37:41.485181 #2820]  INFO -- : received: {"to":"dongochaihp@gmail.com","token":"HHVZZK9G","reason":"reset"} on /topic/hpumail
+I, [2016-06-20T21:37:41.536184 #2820]  INFO -- : sending email to dongochaihp@gmail.com with token HHVZZK9G with reason reset

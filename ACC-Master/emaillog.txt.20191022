@@ -1,0 +1,3 @@
+# Logfile created on 2019-10-22 17:35:51 +0700 by logger.rb/31641
+I, [2019-10-22T17:35:51.114851 #1432]  INFO -- : received: {"to":"hamy.jimin1319@gmail.com","token":"WVERD9RP","reason":"reset"} on /topic/hpumail
+I, [2019-10-22T17:35:51.130451 #1432]  INFO -- : sending email to hamy.jimin1319@gmail.com with token WVERD9RP with reason reset

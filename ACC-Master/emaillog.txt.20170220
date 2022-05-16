@@ -1,0 +1,3 @@
+# Logfile created on 2017-02-20 18:24:16 +0700 by logger.rb/31641
+I, [2017-02-20T18:24:16.702956 #2652]  INFO -- : received: {"to":"milo@emailvam.xyz","token":"9673113469bc21843542f6a2d2470879","reason":"register"} on /topic/hpumail
+I, [2017-02-20T18:24:16.718556 #2652]  INFO -- : sending email to milo@emailvam.xyz with token 9673113469bc21843542f6a2d2470879 with reason register

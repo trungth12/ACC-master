@@ -1,0 +1,3 @@
+# Logfile created on 2016-11-17 21:33:48 +0700 by logger.rb/31641
+I, [2016-11-17T21:33:48.201082 #2728]  INFO -- : received: {"to":"daddyleebeginz@gmail.com","token":"detpool31","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-17T21:33:48.247883 #2728]  INFO -- : sending email to daddyleebeginz@gmail.com with token detpool31 with reason resetpassword

@@ -1,0 +1,5 @@
+# Logfile created on 2021-05-04 14:37:55 +0700 by logger.rb/31641
+I, [2021-05-04T14:37:55.460446 #1128]  INFO -- : received: {"to":"phananh098@yahoo.com.vn","token":"G3T7CCVM","reason":"reset"} on /topic/hpumail
+I, [2021-05-04T14:37:55.476046 #1128]  INFO -- : sending email to phananh098@yahoo.com.vn with token G3T7CCVM with reason reset
+I, [2021-05-04T16:30:13.923482 #1128]  INFO -- : received: {"to":"nguyenthinhung@hpu.edu.vn","token":"fae2ec4b062d783e8ecf612cf7de3162","reason":"register"} on /topic/hpumail
+I, [2021-05-04T16:30:13.923482 #1128]  INFO -- : sending email to nguyenthinhung@hpu.edu.vn with token fae2ec4b062d783e8ecf612cf7de3162 with reason register

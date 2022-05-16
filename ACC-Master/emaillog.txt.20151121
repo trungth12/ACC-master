@@ -1,0 +1,5 @@
+# Logfile created on 2015-11-21 12:09:28 +0700 by logger.rb/31641
+I, [2015-11-21T12:09:28.955545 #2308]  INFO -- : received: {"to":"lemanh1406@gmail.com","token":"01297140697","reason":"resetpassword"} on /topic/hpumail
+I, [2015-11-21T12:09:28.955545 #2308]  INFO -- : sending email to lemanh1406@gmail.com with token 01297140697 with reason resetpassword
+I, [2015-11-21T20:57:26.622784 #2308]  INFO -- : received: {"to":"magicanboom@gmail.com","token":"AX9T7VN3","reason":"reset"} on /topic/hpumail
+I, [2015-11-21T20:57:26.622784 #2308]  INFO -- : sending email to magicanboom@gmail.com with token AX9T7VN3 with reason reset

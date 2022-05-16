@@ -1,0 +1,5 @@
+# Logfile created on 2016-03-14 17:02:53 +0700 by logger.rb/31641
+I, [2016-03-14T17:02:53.261299 #5024]  INFO -- : received: {"to":"anhnthpu@gmail.com","token":"D9VNJGAN","reason":"reset"} on /topic/hpumail
+I, [2016-03-14T17:02:53.261299 #5024]  INFO -- : sending email to anhnthpu@gmail.com with token D9VNJGAN with reason reset
+I, [2016-03-14T19:43:43.407049 #5024]  INFO -- : received: {"to":"hoanghp196@gmail.com","token":"QP34HW7M","reason":"reset"} on /topic/hpumail
+I, [2016-03-14T19:43:43.407049 #5024]  INFO -- : sending email to hoanghp196@gmail.com with token QP34HW7M with reason reset

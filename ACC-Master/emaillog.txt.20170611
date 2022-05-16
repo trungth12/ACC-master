@@ -1,0 +1,7 @@
+# Logfile created on 2017-06-10 19:54:24 +0700 by logger.rb/31641
+I, [2017-06-10T19:54:24.345859 #2656]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"Z24XAG2Q","reason":"reset"} on /topic/hpumail
+I, [2017-06-10T19:54:24.439459 #2656]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token Z24XAG2Q with reason reset
+I, [2017-06-10T19:56:43.295303 #2656]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"YENBANHBEO","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-10T19:56:43.310903 #2656]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token YENBANHBEO with reason resetpassword
+I, [2017-06-10T22:25:30.754183 #2656]  INFO -- : received: {"to":"minhtuan280495@gmail.com","token":"hongphong1997","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-10T22:25:30.754183 #2656]  INFO -- : sending email to minhtuan280495@gmail.com with token hongphong1997 with reason resetpassword

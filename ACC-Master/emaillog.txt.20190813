@@ -1,0 +1,3 @@
+# Logfile created on 2019-08-12 21:43:11 +0700 by logger.rb/31641
+I, [2019-08-12T21:43:11.140180 #1640]  INFO -- : received: {"to":"tranduyhai246@gmail.com","token":"7PA74FWX","reason":"reset"} on /topic/hpumail
+I, [2019-08-12T21:43:11.140180 #1640]  INFO -- : sending email to tranduyhai246@gmail.com with token 7PA74FWX with reason reset

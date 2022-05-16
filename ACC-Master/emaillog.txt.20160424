@@ -1,0 +1,3 @@
+# Logfile created on 2016-04-22 19:57:35 +0700 by logger.rb/31641
+I, [2016-04-22T19:57:35.809545 #2716]  INFO -- : received: {"to":"kutiboy96@gmail.com","token":"X42NCEKV","reason":"reset"} on /topic/hpumail
+I, [2016-04-22T19:57:35.903551 #2716]  INFO -- : sending email to kutiboy96@gmail.com with token X42NCEKV with reason reset

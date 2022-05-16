@@ -1,0 +1,7 @@
+# Logfile created on 2019-06-21 08:11:34 +0700 by logger.rb/31641
+I, [2019-06-21T08:11:34.433264 #2012]  INFO -- : received: {"to":"thptkscb18pthongminh@gmail.com","token":"f3ae1d5199d2963aa911f7eed7973b34","reason":"register"} on /topic/hpumail
+I, [2019-06-21T08:11:34.558064 #2012]  INFO -- : sending email to thptkscb18pthongminh@gmail.com with token f3ae1d5199d2963aa911f7eed7973b34 with reason register
+I, [2019-06-21T10:18:16.701017 #2012]  INFO -- : received: {"to":"thaoqt1901n@gmail.com","token":"C4W9ZADN","reason":"reset"} on /topic/hpumail
+I, [2019-06-21T10:18:16.701017 #2012]  INFO -- : sending email to thaoqt1901n@gmail.com with token C4W9ZADN with reason reset
+I, [2019-06-21T14:29:10.041057 #2012]  INFO -- : received: {"to":"dvhhp97@gmail.com","token":"6JEVMXCJ","reason":"reset"} on /topic/hpumail
+I, [2019-06-21T14:29:10.041057 #2012]  INFO -- : sending email to dvhhp97@gmail.com with token 6JEVMXCJ with reason reset

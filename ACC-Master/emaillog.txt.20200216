@@ -1,0 +1,5 @@
+# Logfile created on 2020-02-13 09:39:11 +0700 by logger.rb/31641
+I, [2020-02-13T09:39:11.693053 #1816]  INFO -- : received: {"to":"quytd@hpu.edu.vn","token":"ba8e0248730119e5187ec392683d8cf7","reason":"register"} on /topic/hpumail
+I, [2020-02-13T09:39:11.708653 #1816]  INFO -- : sending email to quytd@hpu.edu.vn with token ba8e0248730119e5187ec392683d8cf7 with reason register
+I, [2020-02-13T15:03:19.734411 #1816]  INFO -- : received: {"to":"duytuanktv@gmail.com","token":"177afff725ab43168b1a6cb884e95930","reason":"register"} on /topic/hpumail
+I, [2020-02-13T15:03:19.734411 #1816]  INFO -- : sending email to duytuanktv@gmail.com with token 177afff725ab43168b1a6cb884e95930 with reason register

@@ -1,0 +1,9 @@
+# Logfile created on 2018-07-26 08:40:53 +0700 by logger.rb/31641
+I, [2018-07-26T08:40:53.733190 #1816]  INFO -- : received: {"to":"myththanthoaiboy8x@gmail.com","token":"J9HD24N7","reason":"reset"} on /topic/hpumail
+I, [2018-07-26T08:40:53.748790 #1816]  INFO -- : sending email to myththanthoaiboy8x@gmail.com with token J9HD24N7 with reason reset
+I, [2018-07-26T08:42:29.220958 #1816]  INFO -- : received: {"to":"myththanthoaiboy8x@gmail.com","token":"Canh12345","reason":"resetpassword"} on /topic/hpumail
+I, [2018-07-26T08:42:29.220958 #1816]  INFO -- : sending email to myththanthoaiboy8x@gmail.com with token Canh12345 with reason resetpassword
+I, [2018-07-26T14:11:48.153262 #1816]  INFO -- : received: {"to":"badboy123hp@gmail.com","token":"QJD44TVV","reason":"reset"} on /topic/hpumail
+I, [2018-07-26T14:11:48.153262 #1816]  INFO -- : sending email to badboy123hp@gmail.com with token QJD44TVV with reason reset
+I, [2018-07-26T14:14:49.253981 #1816]  INFO -- : received: {"to":"badboy123hp@gmail.com","token":"badboy876841","reason":"resetpassword"} on /topic/hpumail
+I, [2018-07-26T14:14:49.253981 #1816]  INFO -- : sending email to badboy123hp@gmail.com with token badboy876841 with reason resetpassword

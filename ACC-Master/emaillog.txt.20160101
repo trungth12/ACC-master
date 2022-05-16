@@ -1,0 +1,11 @@
+# Logfile created on 2015-12-31 08:27:18 +0700 by logger.rb/31641
+I, [2015-12-31T08:27:18.406216 #3264]  INFO -- : received: {"to":"jimmytran_d@yahoo.com","token":"40ba212de3ae878467922e6097c28c3e","reason":"register"} on /topic/hpumail
+I, [2015-12-31T08:27:18.484216 #3264]  INFO -- : sending email to jimmytran_d@yahoo.com with token 40ba212de3ae878467922e6097c28c3e with reason register
+I, [2015-12-31T08:33:45.817296 #3264]  INFO -- : received: {"to":"nguyenquockhanhxd@gmail.com","token":"90308b25725b71dcbe8e6f97a4a422f6","reason":"register"} on /topic/hpumail
+I, [2015-12-31T08:33:45.817296 #3264]  INFO -- : sending email to nguyenquockhanhxd@gmail.com with token 90308b25725b71dcbe8e6f97a4a422f6 with reason register
+I, [2015-12-31T09:48:01.216322 #3264]  INFO -- : received: {"to":"acvaysao2127@gmail.com","token":"RAMA94W9","reason":"reset"} on /topic/hpumail
+I, [2015-12-31T09:48:01.216322 #3264]  INFO -- : sending email to acvaysao2127@gmail.com with token RAMA94W9 with reason reset
+I, [2015-12-31T10:11:54.437639 #3264]  INFO -- : received: {"to":"minhthu10979@gmail.com","token":"45d66f99b254dd79bf888722e8b20aca","reason":"register"} on /topic/hpumail
+I, [2015-12-31T10:11:54.437639 #3264]  INFO -- : sending email to minhthu10979@gmail.com with token 45d66f99b254dd79bf888722e8b20aca with reason register
+I, [2015-12-31T12:13:56.336147 #2784]  INFO -- : received: {"to":"giangqlt@yahoo.com","token":"e7f1046eb413d72bb3989cf7e857f6cf","reason":"register"} on /topic/hpumail
+I, [2015-12-31T12:13:56.347148 #2784]  INFO -- : sending email to giangqlt@yahoo.com with token e7f1046eb413d72bb3989cf7e857f6cf with reason register

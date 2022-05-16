@@ -1,0 +1,5 @@
+# Logfile created on 2017-06-12 10:23:16 +0700 by logger.rb/31641
+I, [2017-06-12T10:23:15.228931 #1996]  INFO -- : received: {"to":"cntt@hpu.edu.vn","token":"emyeu1311","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-12T10:23:16.762019 #1996]  INFO -- : sending email to cntt@hpu.edu.vn with token emyeu1311 with reason resetpassword
+I, [2017-06-12T16:11:33.303717 #1996]  INFO -- : received: {"to":"vipxanh9xx@gmail.com","token":"GZ46JCGC","reason":"reset"} on /topic/hpumail
+I, [2017-06-12T16:11:33.303717 #1996]  INFO -- : sending email to vipxanh9xx@gmail.com with token GZ46JCGC with reason reset

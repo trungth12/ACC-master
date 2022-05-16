@@ -1,0 +1,37 @@
+# Logfile created on 2018-12-11 08:51:16 +0700 by logger.rb/31641
+I, [2018-12-11T08:51:16.254778 #2020]  INFO -- : received: {"to":"hanhhaly1996@gmail.com","token":"MRNPH99H","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T08:51:16.285978 #2020]  INFO -- : sending email to hanhhaly1996@gmail.com with token MRNPH99H with reason reset
+I, [2018-12-11T08:52:15.441282 #2020]  INFO -- : received: {"to":"nguyenhue091997@gmail.com","token":"EXPNN2N7","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T08:52:15.441282 #2020]  INFO -- : sending email to nguyenhue091997@gmail.com with token EXPNN2N7 with reason reset
+I, [2018-12-11T08:54:20.787502 #2020]  INFO -- : received: {"to":"vuthingoc080297@gmail.com","token":"4GJ7Z2NW","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T08:54:20.787502 #2020]  INFO -- : sending email to vuthingoc080297@gmail.com with token 4GJ7Z2NW with reason reset
+I, [2018-12-11T08:55:21.736809 #2020]  INFO -- : received: {"to":"hang75042@gmail.com","token":"N44ZZEMT","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T08:55:21.736809 #2020]  INFO -- : sending email to hang75042@gmail.com with token N44ZZEMT with reason reset
+I, [2018-12-11T08:57:58.657485 #2020]  INFO -- : received: {"to":"lethianh1997@gmail.com","token":"KJX6VF3K","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T08:57:58.657485 #2020]  INFO -- : sending email to lethianh1997@gmail.com with token KJX6VF3K with reason reset
+I, [2018-12-11T09:14:38.244841 #2020]  INFO -- : received: {"to":"lethianh726@gmail.com","token":"EGPPXVPC","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T09:14:38.244841 #2020]  INFO -- : sending email to lethianh726@gmail.com with token EGPPXVPC with reason reset
+I, [2018-12-11T09:18:17.986827 #2020]  INFO -- : received: {"to":"lethianh726@gmail.com","token":"HOANGNAM1997","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-11T09:18:17.986827 #2020]  INFO -- : sending email to lethianh726@gmail.com with token HOANGNAM1997 with reason resetpassword
+I, [2018-12-11T09:25:45.629613 #2020]  INFO -- : received: {"to":"dangthituyen97hp@gmail.com","token":"0919a2c7a37be6bd1486636cae7a0bea","reason":"register"} on /topic/hpumail
+I, [2018-12-11T09:25:45.645213 #2020]  INFO -- : sending email to dangthituyen97hp@gmail.com with token 0919a2c7a37be6bd1486636cae7a0bea with reason register
+I, [2018-12-11T13:44:55.440525 #2020]  INFO -- : received: {"to":"vulethuyduongqt1901t@gmail.com","token":"43HJVKMG","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T13:44:55.440525 #2020]  INFO -- : sending email to vulethuyduongqt1901t@gmail.com with token 43HJVKMG with reason reset
+I, [2018-12-11T13:45:35.314195 #2020]  INFO -- : received: {"to":"thaocao080997@gmail.com","token":"D9HKNZA2","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T13:45:35.314195 #2020]  INFO -- : sending email to thaocao080997@gmail.com with token D9HKNZA2 with reason reset
+I, [2018-12-11T13:50:39.514729 #2020]  INFO -- : received: {"to":"vulethuyduongqt1901t@gmail.com","token":"20111997","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-11T13:50:39.514729 #2020]  INFO -- : sending email to vulethuyduongqt1901t@gmail.com with token 20111997 with reason resetpassword
+I, [2018-12-11T13:56:47.534975 #2020]  INFO -- : received: {"to":"thaocao080997@gmail.com","token":"08091997","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-11T13:56:47.534975 #2020]  INFO -- : sending email to thaocao080997@gmail.com with token 08091997 with reason resetpassword
+I, [2018-12-11T15:18:18.673966 #2020]  INFO -- : received: {"to":"ngocanh21597@gmail.com","token":"MZAGY9MF","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T15:18:18.673966 #2020]  INFO -- : sending email to ngocanh21597@gmail.com with token MZAGY9MF with reason reset
+I, [2018-12-11T15:22:39.771625 #2020]  INFO -- : received: {"to":"nguyendieulinh16997@gmail.com","token":"2TT92XR3","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T15:22:39.771625 #2020]  INFO -- : sending email to nguyendieulinh16997@gmail.com with token 2TT92XR3 with reason reset
+I, [2018-12-11T15:24:36.865430 #2020]  INFO -- : received: {"to":"nguyendieulinh16997@gmail.com","token":"1512752012","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-11T15:24:36.865430 #2020]  INFO -- : sending email to nguyendieulinh16997@gmail.com with token 1512752012 with reason resetpassword
+I, [2018-12-11T16:02:09.446987 #2020]  INFO -- : received: {"to":"sonwins2606@gmail.com","token":"f253963332f86e9222d47351d9cb3df4","reason":"register"} on /topic/hpumail
+I, [2018-12-11T16:02:09.446987 #2020]  INFO -- : sending email to sonwins2606@gmail.com with token f253963332f86e9222d47351d9cb3df4 with reason register
+I, [2018-12-11T16:03:33.796335 #2020]  INFO -- : received: {"to":"trinhhoa791997@gmail.com","token":"K6WRZZHJ","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T16:03:33.796335 #2020]  INFO -- : sending email to trinhhoa791997@gmail.com with token K6WRZZHJ with reason reset
+I, [2018-12-11T16:24:12.890911 #2020]  INFO -- : received: {"to":"lalalala2896@gmail.com","token":"J733PM36","reason":"reset"} on /topic/hpumail
+I, [2018-12-11T16:24:12.890911 #2020]  INFO -- : sending email to lalalala2896@gmail.com with token J733PM36 with reason reset

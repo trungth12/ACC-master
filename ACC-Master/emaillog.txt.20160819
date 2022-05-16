@@ -1,0 +1,11 @@
+# Logfile created on 2016-08-18 10:06:07 +0700 by logger.rb/31641
+I, [2016-08-18T10:06:07.884483 #3092]  INFO -- : received: {"to":"djquyetit@gmail.com","token":"6bd4067ba9ef9fd724e7be290c624275","reason":"register"} on /topic/hpumail
+I, [2016-08-18T10:06:07.888483 #3092]  INFO -- : sending email to djquyetit@gmail.com with token 6bd4067ba9ef9fd724e7be290c624275 with reason register
+I, [2016-08-18T10:06:44.322567 #3092]  INFO -- : received: {"to":"cuthehuylk@gmail.com","token":"6148de1a9229f37482e0cb4a3d7807a3","reason":"register"} on /topic/hpumail
+I, [2016-08-18T10:06:44.323567 #3092]  INFO -- : sending email to cuthehuylk@gmail.com with token 6148de1a9229f37482e0cb4a3d7807a3 with reason register
+I, [2016-08-18T10:09:51.493273 #3092]  INFO -- : received: {"to":"uranium66669@gmail.com","token":"8e560dac223976d49739367a49c19d40","reason":"register"} on /topic/hpumail
+I, [2016-08-18T10:09:51.493273 #3092]  INFO -- : sending email to uranium66669@gmail.com with token 8e560dac223976d49739367a49c19d40 with reason register
+I, [2016-08-18T10:22:33.183839 #3092]  INFO -- : received: {"to":"conglt@hpu.edu.vn","token":"45bb2e42f969d8b7d139a3b3c01b4de0","reason":"register"} on /topic/hpumail
+I, [2016-08-18T10:22:33.183839 #3092]  INFO -- : sending email to conglt@hpu.edu.vn with token 45bb2e42f969d8b7d139a3b3c01b4de0 with reason register
+I, [2016-08-18T12:52:59.111511 #2428]  INFO -- : received: {"to":"nhokkeoquehp3@gmail.com","token":"CT7XMQN2","reason":"reset"} on /topic/hpumail
+I, [2016-08-18T12:52:59.142711 #2428]  INFO -- : sending email to nhokkeoquehp3@gmail.com with token CT7XMQN2 with reason reset

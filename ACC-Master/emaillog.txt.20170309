@@ -1,0 +1,3 @@
+# Logfile created on 2017-03-06 04:05:17 +0700 by logger.rb/31641
+I, [2017-03-06T04:05:17.044922 #2164]  INFO -- : received: {"to":"chuotban@gmail.com","token":"eb075eae0369bebf562dd101a9b4fee3","reason":"register"} on /topic/hpumail
+I, [2017-03-06T04:05:17.051922 #2164]  INFO -- : sending email to chuotban@gmail.com with token eb075eae0369bebf562dd101a9b4fee3 with reason register

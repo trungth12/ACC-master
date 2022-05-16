@@ -1,0 +1,5 @@
+# Logfile created on 2017-02-22 16:33:15 +0700 by logger.rb/31641
+I, [2017-02-22T16:33:15.907101 #2652]  INFO -- : received: {"to":"hungbh.hp@gmail.com","token":"30667f1194dd89327b54e72febbc62fe","reason":"register"} on /topic/hpumail
+I, [2017-02-22T16:33:15.907101 #2652]  INFO -- : sending email to hungbh.hp@gmail.com with token 30667f1194dd89327b54e72febbc62fe with reason register
+I, [2017-02-22T16:33:57.231574 #2652]  INFO -- : received: {"to":"hungbh.hp@gmail.com","token":"WR2DHG29","reason":"reset"} on /topic/hpumail
+I, [2017-02-22T16:33:57.231574 #2652]  INFO -- : sending email to hungbh.hp@gmail.com with token WR2DHG29 with reason reset

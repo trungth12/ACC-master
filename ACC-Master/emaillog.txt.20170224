@@ -1,0 +1,5 @@
+# Logfile created on 2017-02-23 14:35:31 +0700 by logger.rb/31641
+I, [2017-02-23T14:35:31.307626 #2652]  INFO -- : received: {"to":"duyenpt@hpu.edu.vn","token":"55b04e57b797d7a738d19c9d156fba23","reason":"register"} on /topic/hpumail
+I, [2017-02-23T14:35:31.338826 #2652]  INFO -- : sending email to duyenpt@hpu.edu.vn with token 55b04e57b797d7a738d19c9d156fba23 with reason register
+I, [2017-02-23T15:03:43.629799 #2652]  INFO -- : received: {"to":"duyenpt@hpu.edu.vn","token":"duyen220369","reason":"resetpassword"} on /topic/hpumail
+I, [2017-02-23T15:03:43.629799 #2652]  INFO -- : sending email to duyenpt@hpu.edu.vn with token duyen220369 with reason resetpassword

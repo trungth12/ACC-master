@@ -1,0 +1,5 @@
+# Logfile created on 2019-11-27 09:22:52 +0700 by logger.rb/31641
+I, [2019-11-27T09:22:52.606255 #1816]  INFO -- : received: {"to":"tuyendv@hpu.edu.vn","token":"KWF793XC","reason":"reset"} on /topic/hpumail
+I, [2019-11-27T09:22:52.621855 #1816]  INFO -- : sending email to tuyendv@hpu.edu.vn with token KWF793XC with reason reset
+I, [2019-11-27T09:26:00.992186 #1816]  INFO -- : received: {"to":"tuyendv@hpu.edu.vn","token":"Tuyen1979","reason":"resetpassword"} on /topic/hpumail
+I, [2019-11-27T09:26:00.992186 #1816]  INFO -- : sending email to tuyendv@hpu.edu.vn with token Tuyen1979 with reason resetpassword

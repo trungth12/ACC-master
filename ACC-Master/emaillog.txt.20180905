@@ -1,0 +1,5 @@
+# Logfile created on 2018-08-29 22:26:04 +0700 by logger.rb/31641
+I, [2018-08-29T22:26:04.400610 #2144]  INFO -- : received: {"to":"duynt@hpu.edu.vn","token":"RE4PHXCK","reason":"reset"} on /topic/hpumail
+I, [2018-08-29T22:26:04.541011 #2144]  INFO -- : sending email to duynt@hpu.edu.vn with token RE4PHXCK with reason reset
+I, [2018-08-29T22:27:48.343593 #2144]  INFO -- : received: {"to":"duynt@hpu.edu.vn","token":"boduyboduy","reason":"resetpassword"} on /topic/hpumail
+I, [2018-08-29T22:27:48.390393 #2144]  INFO -- : sending email to duynt@hpu.edu.vn with token boduyboduy with reason resetpassword

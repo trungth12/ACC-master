@@ -1,0 +1,11 @@
+# Logfile created on 2016-01-10 00:17:23 +0700 by logger.rb/31641
+I, [2016-01-10T00:17:23.682126 #2812]  INFO -- : received: {"to":"playboizclgt@gmail.com","token":"4AVX3N92","reason":"reset"} on /topic/hpumail
+I, [2016-01-10T00:17:23.697726 #2812]  INFO -- : sending email to playboizclgt@gmail.com with token 4AVX3N92 with reason reset
+I, [2016-01-10T00:18:25.068234 #2812]  INFO -- : received: {"to":"playboizclgt@gmail.com","token":"yeuvoyen","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-10T00:18:25.068234 #2812]  INFO -- : sending email to playboizclgt@gmail.com with token yeuvoyen with reason resetpassword
+I, [2016-01-10T19:49:31.601851 #2812]  INFO -- : received: {"to":"vuquynhnhu2509@gmail.com","token":"2eeffe7fbb515869383dd24d23b6030b","reason":"register"} on /topic/hpumail
+I, [2016-01-10T19:49:31.601851 #2812]  INFO -- : sending email to vuquynhnhu2509@gmail.com with token 2eeffe7fbb515869383dd24d23b6030b with reason register
+I, [2016-01-10T22:44:41.979911 #2812]  INFO -- : received: {"to":"hoavtvt@gmail.com","token":"Hoa123456","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-10T22:44:41.979911 #2812]  INFO -- : sending email to hoavtvt@gmail.com with token Hoa123456 with reason resetpassword
+I, [2016-01-10T22:46:32.927306 #2812]  INFO -- : received: {"to":"hoavtvt@gmail.com","token":"19960504","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-10T22:46:32.927306 #2812]  INFO -- : sending email to hoavtvt@gmail.com with token 19960504 with reason resetpassword

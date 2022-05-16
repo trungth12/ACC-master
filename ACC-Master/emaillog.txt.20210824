@@ -1,0 +1,5 @@
+# Logfile created on 2021-07-12 10:04:50 +0700 by logger.rb/31641
+I, [2021-07-12T10:04:50.098445 #1980]  INFO -- : received: {"to":"nguyendu99qn@gmail.com","token":"1c983ac2ece22f955a4f2a0d4dd8c228","reason":"register"} on /topic/hpumail
+I, [2021-07-12T10:04:50.114045 #1980]  INFO -- : sending email to nguyendu99qn@gmail.com with token 1c983ac2ece22f955a4f2a0d4dd8c228 with reason register
+I, [2021-07-12T14:32:59.108703 #1980]  INFO -- : received: {"to":"sayohyeah2468@gmail.com","token":"fc3311e515a7731d9a93f7cb5dcdf82e","reason":"register"} on /topic/hpumail
+I, [2021-07-12T14:32:59.108703 #1980]  INFO -- : sending email to sayohyeah2468@gmail.com with token fc3311e515a7731d9a93f7cb5dcdf82e with reason register

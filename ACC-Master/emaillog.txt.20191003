@@ -1,0 +1,3 @@
+# Logfile created on 2019-10-02 06:10:05 +0700 by logger.rb/31641
+I, [2019-10-02T06:10:05.145531 #1168]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"NEAZRZEM","reason":"reset"} on /topic/hpumail
+I, [2019-10-02T06:10:05.145531 #1168]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token NEAZRZEM with reason reset

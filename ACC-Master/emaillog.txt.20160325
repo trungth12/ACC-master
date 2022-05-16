@@ -1,0 +1,5 @@
+# Logfile created on 2016-03-22 09:52:11 +0700 by logger.rb/31641
+I, [2016-03-22T09:52:10.960339 #4472]  INFO -- : received: {"to":"nguyenthu9290@gmail.com","token":"12505383b1ce35814a7aa8202d88dfce","reason":"register"} on /topic/hpumail
+I, [2016-03-22T09:52:11.022739 #4472]  INFO -- : sending email to nguyenthu9290@gmail.com with token 12505383b1ce35814a7aa8202d88dfce with reason register
+I, [2016-03-22T12:39:02.060522 #4472]  INFO -- : received: {"to":"bao.nht@bsmartvina.com","token":"6f6e461abc7b0b6230c2779ffd43097f","reason":"register"} on /topic/hpumail
+I, [2016-03-22T12:39:02.060522 #4472]  INFO -- : sending email to bao.nht@bsmartvina.com with token 6f6e461abc7b0b6230c2779ffd43097f with reason register

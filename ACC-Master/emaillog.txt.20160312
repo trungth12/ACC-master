@@ -1,0 +1,3 @@
+# Logfile created on 2016-03-12 20:58:49 +0700 by logger.rb/31641
+I, [2016-03-12T20:58:49.556656 #2820]  INFO -- : received: {"to":"tranthanh1996hp@gmail.com","token":"7T99CQW6","reason":"reset"} on /topic/hpumail
+I, [2016-03-12T20:58:49.572256 #2820]  INFO -- : sending email to tranthanh1996hp@gmail.com with token 7T99CQW6 with reason reset

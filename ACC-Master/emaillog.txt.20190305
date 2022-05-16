@@ -1,0 +1,5 @@
+# Logfile created on 2019-03-05 09:17:16 +0700 by logger.rb/31641
+I, [2019-03-05T09:17:16.965264 #1848]  INFO -- : received: {"to":"phithingat95@gmail.com","token":"9WTAQAKY","reason":"reset"} on /topic/hpumail
+I, [2019-03-05T09:17:16.996464 #1848]  INFO -- : sending email to phithingat95@gmail.com with token 9WTAQAKY with reason reset
+I, [2019-03-05T09:19:05.370855 #1848]  INFO -- : received: {"to":"phithingat95@gmail.com","token":"1412401257","reason":"resetpassword"} on /topic/hpumail
+I, [2019-03-05T09:19:05.370855 #1848]  INFO -- : sending email to phithingat95@gmail.com with token 1412401257 with reason resetpassword

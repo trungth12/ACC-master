@@ -1,0 +1,5 @@
+# Logfile created on 2017-02-27 11:08:44 +0700 by logger.rb/31641
+I, [2017-02-27T11:08:44.706316 #2612]  INFO -- : received: {"to":"hoangkhipro@gmail.com","token":"NJ4F69QP","reason":"reset"} on /topic/hpumail
+I, [2017-02-27T11:08:44.768716 #2612]  INFO -- : sending email to hoangkhipro@gmail.com with token NJ4F69QP with reason reset
+I, [2017-02-27T19:44:54.426711 #2612]  INFO -- : received: {"to":"duocnn@cbis.vn","token":"e93f684122d24f4fd540bd944725e0da","reason":"register"} on /topic/hpumail
+I, [2017-02-27T19:44:54.426711 #2612]  INFO -- : sending email to duocnn@cbis.vn with token e93f684122d24f4fd540bd944725e0da with reason register

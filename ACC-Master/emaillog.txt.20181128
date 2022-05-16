@@ -1,0 +1,7 @@
+# Logfile created on 2018-11-27 10:59:10 +0700 by logger.rb/31641
+I, [2018-11-27T10:59:10.190186 #1060]  INFO -- : received: {"to":"nguyenthuly.tb@gmail.com","token":"0a4200e7831b0d9bf7576f770a953524","reason":"register"} on /topic/hpumail
+I, [2018-11-27T10:59:10.205786 #1060]  INFO -- : sending email to nguyenthuly.tb@gmail.com with token 0a4200e7831b0d9bf7576f770a953524 with reason register
+I, [2018-11-27T19:57:55.889956 #1060]  INFO -- : received: {"to":"hoa.qt1805k@gmail.com","token":"V3M4PYAP","reason":"reset"} on /topic/hpumail
+I, [2018-11-27T19:57:55.889956 #1060]  INFO -- : sending email to hoa.qt1805k@gmail.com with token V3M4PYAP with reason reset
+I, [2018-11-27T19:59:35.527331 #1060]  INFO -- : received: {"to":"hoa.qt1805k@gmail.com","token":"1412401279","reason":"resetpassword"} on /topic/hpumail
+I, [2018-11-27T19:59:35.527331 #1060]  INFO -- : sending email to hoa.qt1805k@gmail.com with token 1412401279 with reason resetpassword

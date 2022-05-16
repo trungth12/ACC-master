@@ -1,0 +1,17 @@
+# Logfile created on 2016-05-22 04:38:59 +0700 by logger.rb/31641
+I, [2016-05-22T04:38:56.046006 #5032]  INFO -- : received: {"to":"tranthanh1996hp@gmail.com","token":"27GYEGYX","reason":"reset"} on /topic/hpumail
+I, [2016-05-22T04:39:01.034291 #5032]  INFO -- : sending email to tranthanh1996hp@gmail.com with token 27GYEGYX with reason reset
+I, [2016-05-22T05:03:41.085945 #5032]  INFO -- : received: {"to":"tranthanh1996hp@gmail.com","token":"TXWADRPF","reason":"reset"} on /topic/hpumail
+I, [2016-05-22T05:03:41.086945 #5032]  INFO -- : sending email to tranthanh1996hp@gmail.com with token TXWADRPF with reason reset
+I, [2016-05-22T13:16:36.891584 #4980]  INFO -- : received: {"to":"samahawatakechi@gmail.com","token":"VER6V7CQ","reason":"reset"} on /topic/hpumail
+I, [2016-05-22T13:16:36.965589 #4980]  INFO -- : sending email to samahawatakechi@gmail.com with token VER6V7CQ with reason reset
+I, [2016-05-22T13:47:35.187873 #4980]  INFO -- : received: {"to":"samahawatakechi@gmail.com","token":"R7WXTFK3","reason":"reset"} on /topic/hpumail
+I, [2016-05-22T13:47:35.188873 #4980]  INFO -- : sending email to samahawatakechi@gmail.com with token R7WXTFK3 with reason reset
+I, [2016-05-22T13:47:55.430031 #4980]  INFO -- : received: {"to":"samahawatakechi@gmail.com","token":"JF3JK99H","reason":"reset"} on /topic/hpumail
+I, [2016-05-22T13:47:55.431031 #4980]  INFO -- : sending email to samahawatakechi@gmail.com with token JF3JK99H with reason reset
+I, [2016-05-22T18:08:37.622713 #4980]  INFO -- : received: {"to":"hoanggiaapk891996@gmail.com","token":"XEAVR4XG","reason":"reset"} on /topic/hpumail
+I, [2016-05-22T18:08:37.716718 #4980]  INFO -- : sending email to hoanggiaapk891996@gmail.com with token XEAVR4XG with reason reset
+I, [2016-05-22T19:51:53.071072 #4980]  INFO -- : received: {"to":"buimanhhoang2308@gmail.com","token":"WMXWVJRT","reason":"reset"} on /topic/hpumail
+I, [2016-05-22T19:51:53.076073 #4980]  INFO -- : sending email to buimanhhoang2308@gmail.com with token WMXWVJRT with reason reset
+I, [2016-05-22T19:54:38.227519 #4980]  INFO -- : received: {"to":"buimanhhoang2308@gmail.com","token":"hoang1993","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-22T19:54:38.228519 #4980]  INFO -- : sending email to buimanhhoang2308@gmail.com with token hoang1993 with reason resetpassword

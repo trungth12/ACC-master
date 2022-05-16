@@ -1,0 +1,7 @@
+# Logfile created on 2016-03-13 02:32:19 +0700 by logger.rb/31641
+I, [2016-03-13T02:32:19.618202 #5024]  INFO -- : received: {"to":"tranthanh1996hp@gmail.com","token":"7T99CQW6","reason":"reset"} on /topic/hpumail
+I, [2016-03-13T02:32:19.618202 #5024]  INFO -- : sending email to tranthanh1996hp@gmail.com with token 7T99CQW6 with reason reset
+I, [2016-03-13T19:36:22.307320 #5024]  INFO -- : received: {"to":"hahuyhoanghp@gmail.com","token":"DADGQKH3","reason":"reset"} on /topic/hpumail
+I, [2016-03-13T19:36:22.354120 #5024]  INFO -- : sending email to hahuyhoanghp@gmail.com with token DADGQKH3 with reason reset
+I, [2016-03-13T23:23:40.662474 #5024]  INFO -- : received: {"to":"datbuihnue@gmail.com","token":"b0b048c64daddcb1b4b111e220932387","reason":"register"} on /topic/hpumail
+I, [2016-03-13T23:23:40.662474 #5024]  INFO -- : sending email to datbuihnue@gmail.com with token b0b048c64daddcb1b4b111e220932387 with reason register

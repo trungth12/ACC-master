@@ -1,0 +1,7 @@
+# Logfile created on 2017-08-28 14:42:49 +0700 by logger.rb/31641
+I, [2017-08-28T14:42:49.519840 #2304]  INFO -- : received: {"to":"buihuyen.nvc@gmail.com","token":"866a74eb04fd5dbe8e7ce9d10d0f559a","reason":"register"} on /topic/hpumail
+I, [2017-08-28T14:42:49.551040 #2304]  INFO -- : sending email to buihuyen.nvc@gmail.com with token 866a74eb04fd5dbe8e7ce9d10d0f559a with reason register
+I, [2017-08-28T14:44:45.958444 #2304]  INFO -- : received: {"to":"buihuyen.ncv@gmail.com","token":"8c0a1efa664f7e67f06020bc39e81706","reason":"register"} on /topic/hpumail
+I, [2017-08-28T14:44:45.958444 #2304]  INFO -- : sending email to buihuyen.ncv@gmail.com with token 8c0a1efa664f7e67f06020bc39e81706 with reason register
+I, [2017-08-28T14:45:40.340140 #2304]  INFO -- : received: {"to":"thanhthuy1677@gmail.com","token":"4a73696bc2cf08978a8539ca021b4c6e","reason":"register"} on /topic/hpumail
+I, [2017-08-28T14:45:40.340140 #2304]  INFO -- : sending email to thanhthuy1677@gmail.com with token 4a73696bc2cf08978a8539ca021b4c6e with reason register

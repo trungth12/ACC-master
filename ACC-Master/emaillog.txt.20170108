@@ -1,0 +1,5 @@
+# Logfile created on 2017-01-08 22:56:00 +0700 by logger.rb/31641
+I, [2017-01-08T22:56:00.340653 #2700]  INFO -- : received: {"to":"hoantq@hpu.edu.vn","token":"7CAHQ3KK","reason":"reset"} on /topic/hpumail
+I, [2017-01-08T22:56:00.356253 #2700]  INFO -- : sending email to hoantq@hpu.edu.vn with token 7CAHQ3KK with reason reset
+I, [2017-01-08T23:49:59.296342 #2700]  INFO -- : received: {"to":"trungtute.dhp@gmail.com","token":"anhyeuem2410","reason":"resetpassword"} on /topic/hpumail
+I, [2017-01-08T23:49:59.296342 #2700]  INFO -- : sending email to trungtute.dhp@gmail.com with token anhyeuem2410 with reason resetpassword

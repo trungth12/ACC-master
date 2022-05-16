@@ -1,0 +1,5 @@
+# Logfile created on 2016-03-17 14:44:15 +0700 by logger.rb/31641
+I, [2016-03-17T14:44:15.762751 #3420]  INFO -- : received: {"to":"volangquyen@gmail.com","token":"AXZRA6AH","reason":"reset"} on /topic/hpumail
+I, [2016-03-17T14:44:15.762751 #3420]  INFO -- : sending email to volangquyen@gmail.com with token AXZRA6AH with reason reset
+I, [2016-03-17T14:46:45.304614 #3420]  INFO -- : received: {"to":"volangquyen@gmail.com","token":"pumngoan2703","reason":"resetpassword"} on /topic/hpumail
+I, [2016-03-17T14:46:45.304614 #3420]  INFO -- : sending email to volangquyen@gmail.com with token pumngoan2703 with reason resetpassword

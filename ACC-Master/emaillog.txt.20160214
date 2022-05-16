@@ -1,0 +1,5 @@
+# Logfile created on 2016-02-14 17:29:42 +0700 by logger.rb/31641
+I, [2016-02-14T17:29:42.859007 #5688]  INFO -- : received: {"to":"ngapronguyen@gmail.com","token":"ZCTKJDD7","reason":"reset"} on /topic/hpumail
+I, [2016-02-14T17:29:42.874607 #5688]  INFO -- : sending email to ngapronguyen@gmail.com with token ZCTKJDD7 with reason reset
+I, [2016-02-14T17:34:21.678297 #5688]  INFO -- : received: {"to":"ngapronguyen@gmail.com","token":"ngapro","reason":"resetpassword"} on /topic/hpumail
+I, [2016-02-14T17:34:21.678297 #5688]  INFO -- : sending email to ngapronguyen@gmail.com with token ngapro with reason resetpassword

@@ -1,0 +1,5 @@
+# Logfile created on 2016-02-22 09:09:55 +0700 by logger.rb/31641
+I, [2016-02-22T09:09:55.480944 #4728]  INFO -- : received: {"to":"vungaqn92@gmail.com","token":"ba39afd6bebd2c6770ea8eacba02393c","reason":"register"} on /topic/hpumail
+I, [2016-02-22T09:09:55.543344 #4728]  INFO -- : sending email to vungaqn92@gmail.com with token ba39afd6bebd2c6770ea8eacba02393c with reason register
+I, [2016-02-22T14:58:15.030102 #4728]  INFO -- : received: {"to":"vungaqn92@gmail.com","token":"3ZD3WJEA","reason":"reset"} on /topic/hpumail
+I, [2016-02-22T14:58:15.030102 #4728]  INFO -- : sending email to vungaqn92@gmail.com with token 3ZD3WJEA with reason reset

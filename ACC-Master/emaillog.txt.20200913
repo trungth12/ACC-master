@@ -1,0 +1,5 @@
+# Logfile created on 2020-08-16 17:46:52 +0700 by logger.rb/31641
+I, [2020-08-16T17:46:52.503169 #1824]  INFO -- : received: {"to":"thebigqdn@gmail.com","token":"HYAVGM9Z","reason":"reset"} on /topic/hpumail
+I, [2020-08-16T17:46:52.518769 #1824]  INFO -- : sending email to thebigqdn@gmail.com with token HYAVGM9Z with reason reset
+I, [2020-08-16T17:55:18.646058 #1824]  INFO -- : received: {"to":"thebigqdn@gmail.com","token":"quang123","reason":"resetpassword"} on /topic/hpumail
+I, [2020-08-16T17:55:18.646058 #1824]  INFO -- : sending email to thebigqdn@gmail.com with token quang123 with reason resetpassword

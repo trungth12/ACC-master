@@ -1,0 +1,3 @@
+# Logfile created on 2019-12-31 16:47:54 +0700 by logger.rb/31641
+I, [2019-12-31T16:47:54.493841 #1804]  INFO -- : received: {"to":"vandt@hpu.edu.vn","token":"2PHXEQTV","reason":"reset"} on /topic/hpumail
+I, [2019-12-31T16:47:54.509441 #1804]  INFO -- : sending email to vandt@hpu.edu.vn with token 2PHXEQTV with reason reset

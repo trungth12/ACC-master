@@ -1,0 +1,11 @@
+# Logfile created on 2022-03-28 09:50:07 +0700 by logger.rb/31641
+I, [2022-03-28T09:50:07.559728 #5708]  INFO -- : received: {"to":"chauanh2506@gmail.com","token":"271be3d904653a7e74473b81f1e5da58","reason":"register"} on /topic/hpumail
+I, [2022-03-28T09:50:07.590928 #5708]  INFO -- : sending email to chauanh2506@gmail.com with token 271be3d904653a7e74473b81f1e5da58 with reason register
+I, [2022-03-28T10:14:28.564694 #5708]  INFO -- : received: {"to":"tuancanktcatl@gmail.com","token":"8aa7968823dd111df3c9e1e2684eaa13","reason":"register"} on /topic/hpumail
+I, [2022-03-28T10:14:28.564694 #5708]  INFO -- : sending email to tuancanktcatl@gmail.com with token 8aa7968823dd111df3c9e1e2684eaa13 with reason register
+I, [2022-03-28T10:17:06.982972 #5708]  INFO -- : received: {"to":"bichduyenhpplx5@gmail.com","token":"cf583327e12e57e02e0beb333158e07d","reason":"register"} on /topic/hpumail
+I, [2022-03-28T10:17:06.982972 #5708]  INFO -- : sending email to bichduyenhpplx5@gmail.com with token cf583327e12e57e02e0beb333158e07d with reason register
+I, [2022-03-28T10:18:49.771553 #5708]  INFO -- : received: {"to":"sonphodz@gmail.com","token":"ee86b982896a3b2ead79a90ffce26696","reason":"register"} on /topic/hpumail
+I, [2022-03-28T10:18:49.771553 #5708]  INFO -- : sending email to sonphodz@gmail.com with token ee86b982896a3b2ead79a90ffce26696 with reason register
+I, [2022-03-28T10:30:27.217578 #5708]  INFO -- : received: {"to":"a0983431962@gmail.com","token":"29dd559f661a8a3812e1c88d74878603","reason":"register"} on /topic/hpumail
+I, [2022-03-28T10:30:27.217578 #5708]  INFO -- : sending email to a0983431962@gmail.com with token 29dd559f661a8a3812e1c88d74878603 with reason register

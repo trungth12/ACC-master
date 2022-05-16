@@ -1,0 +1,3 @@
+# Logfile created on 2022-03-22 15:13:16 +0700 by logger.rb/31641
+I, [2022-03-22T15:13:16.929589 #3172]  INFO -- : received: {"to":"ngolocthanhhoa09@gmail.com","token":"a3d3d307deea557893626f8972578afe","reason":"register"} on /topic/hpumail
+I, [2022-03-22T15:13:16.960789 #3172]  INFO -- : sending email to ngolocthanhhoa09@gmail.com with token a3d3d307deea557893626f8972578afe with reason register

@@ -1,0 +1,5 @@
+# Logfile created on 2016-07-11 08:59:03 +0700 by logger.rb/31641
+I, [2016-07-11T08:59:03.040285 #2676]  INFO -- : received: {"to":"damvanluy@gmail.com","token":"39PC2TQV","reason":"reset"} on /topic/hpumail
+I, [2016-07-11T08:59:03.085287 #2676]  INFO -- : sending email to damvanluy@gmail.com with token 39PC2TQV with reason reset
+I, [2016-07-11T09:00:02.372678 #2676]  INFO -- : received: {"to":"damvanluy@gmail.com","token":"huyendieu","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-11T09:00:02.373678 #2676]  INFO -- : sending email to damvanluy@gmail.com with token huyendieu with reason resetpassword

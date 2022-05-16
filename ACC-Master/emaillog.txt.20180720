@@ -1,0 +1,7 @@
+# Logfile created on 2018-07-20 19:19:49 +0700 by logger.rb/31641
+I, [2018-07-20T19:19:49.464519 #1816]  INFO -- : received: {"to":"thaotien2502@gmail.com","token":"QGFW796V","reason":"reset"} on /topic/hpumail
+I, [2018-07-20T19:19:49.480119 #1816]  INFO -- : sending email to thaotien2502@gmail.com with token QGFW796V with reason reset
+I, [2018-07-20T19:21:24.094285 #1816]  INFO -- : received: {"to":"thaotien2502@gmail.com","token":"tien25021996","reason":"resetpassword"} on /topic/hpumail
+I, [2018-07-20T19:21:24.094285 #1816]  INFO -- : sending email to thaotien2502@gmail.com with token tien25021996 with reason resetpassword
+I, [2018-07-20T21:09:52.924918 #1816]  INFO -- : received: {"to":"anhttn96@gmail.com","token":"PWKHJJZT","reason":"reset"} on /topic/hpumail
+I, [2018-07-20T21:09:52.924918 #1816]  INFO -- : sending email to anhttn96@gmail.com with token PWKHJJZT with reason reset

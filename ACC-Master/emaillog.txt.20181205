@@ -1,0 +1,21 @@
+# Logfile created on 2018-12-05 00:27:49 +0700 by logger.rb/31641
+I, [2018-12-05T00:27:49.287686 #2020]  INFO -- : received: {"to":"giangdang8101997@gmail.com","token":"TZMA7XZQ","reason":"reset"} on /topic/hpumail
+I, [2018-12-05T00:27:49.303286 #2020]  INFO -- : sending email to giangdang8101997@gmail.com with token TZMA7XZQ with reason reset
+I, [2018-12-05T07:59:04.866842 #2020]  INFO -- : received: {"to":"huycohp@gmail.com","token":"T4Q4N6PK","reason":"reset"} on /topic/hpumail
+I, [2018-12-05T07:59:04.866842 #2020]  INFO -- : sending email to huycohp@gmail.com with token T4Q4N6PK with reason reset
+I, [2018-12-05T08:07:20.292512 #2020]  INFO -- : received: {"to":"huycohp@gmail.com","token":"951124","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-05T08:07:20.292512 #2020]  INFO -- : sending email to huycohp@gmail.com with token 951124 with reason resetpassword
+I, [2018-12-05T09:41:18.953616 #2020]  INFO -- : received: {"to":"vuthutrang997@gmail.com","token":"FK4JKQ4F","reason":"reset"} on /topic/hpumail
+I, [2018-12-05T09:41:18.953616 #2020]  INFO -- : sending email to vuthutrang997@gmail.com with token FK4JKQ4F with reason reset
+I, [2018-12-05T09:42:50.525777 #2020]  INFO -- : received: {"to":"vuthutrang997@gmail.com","token":"0934221410","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-05T09:42:50.525777 #2020]  INFO -- : sending email to vuthutrang997@gmail.com with token 0934221410 with reason resetpassword
+I, [2018-12-05T10:05:52.017403 #2020]  INFO -- : received: {"to":"huongnguyen.140642@gmail.com","token":"H4TGXGR4","reason":"reset"} on /topic/hpumail
+I, [2018-12-05T10:05:52.017403 #2020]  INFO -- : sending email to huongnguyen.140642@gmail.com with token H4TGXGR4 with reason reset
+I, [2018-12-05T16:02:17.065364 #2020]  INFO -- : received: {"to":"yen.ct1802@gmail.com","token":"99GV4PTR","reason":"reset"} on /topic/hpumail
+I, [2018-12-05T16:02:17.065364 #2020]  INFO -- : sending email to yen.ct1802@gmail.com with token 99GV4PTR with reason reset
+I, [2018-12-05T16:03:48.606325 #2020]  INFO -- : received: {"to":"ta.iphone14@gmail.com","token":"7QPPNPVV","reason":"reset"} on /topic/hpumail
+I, [2018-12-05T16:03:48.606325 #2020]  INFO -- : sending email to ta.iphone14@gmail.com with token 7QPPNPVV with reason reset
+I, [2018-12-05T16:04:40.835217 #2020]  INFO -- : received: {"to":"ta.iphone14@gmail.com","token":"endlesslove","reason":"resetpassword"} on /topic/hpumail
+I, [2018-12-05T16:04:40.835217 #2020]  INFO -- : sending email to ta.iphone14@gmail.com with token endlesslove with reason resetpassword
+I, [2018-12-05T20:50:20.054920 #2020]  INFO -- : received: {"to":"phuongtun.k97@gmail.com","token":"JNN4NKRJ","reason":"reset"} on /topic/hpumail
+I, [2018-12-05T20:50:20.054920 #2020]  INFO -- : sending email to phuongtun.k97@gmail.com with token JNN4NKRJ with reason reset

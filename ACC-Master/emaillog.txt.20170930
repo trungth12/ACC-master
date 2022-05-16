@@ -1,0 +1,3 @@
+# Logfile created on 2017-09-29 14:39:56 +0700 by logger.rb/31641
+I, [2017-09-29T14:39:56.605225 #1464]  INFO -- : received: {"to":"toandh.thuylinh@gmail.com","token":"C2CFJW72","reason":"reset"} on /topic/hpumail
+I, [2017-09-29T14:39:56.636425 #1464]  INFO -- : sending email to toandh.thuylinh@gmail.com with token C2CFJW72 with reason reset

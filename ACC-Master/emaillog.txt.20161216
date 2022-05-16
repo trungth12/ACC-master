@@ -1,0 +1,11 @@
+# Logfile created on 2016-12-15 15:13:16 +0700 by logger.rb/31641
+I, [2016-12-15T15:13:16.887552 #2820]  INFO -- : received: {"to":"donamtrungv2@gmail.com","token":"90d15df6c4212d993d3b92cfbfdebc8e","reason":"register"} on /topic/hpumail
+I, [2016-12-15T15:13:16.965553 #2820]  INFO -- : sending email to donamtrungv2@gmail.com with token 90d15df6c4212d993d3b92cfbfdebc8e with reason register
+I, [2016-12-15T15:14:41.002900 #2820]  INFO -- : received: {"to":"donamtrungv2@gmail.com","token":"ZXPQYDGM","reason":"reset"} on /topic/hpumail
+I, [2016-12-15T15:14:41.002900 #2820]  INFO -- : sending email to donamtrungv2@gmail.com with token ZXPQYDGM with reason reset
+I, [2016-12-15T15:14:52.812121 #2820]  INFO -- : received: {"to":"donamtrungv2@gmail.com","token":"WH4R6D4N","reason":"reset"} on /topic/hpumail
+I, [2016-12-15T15:14:52.812121 #2820]  INFO -- : sending email to donamtrungv2@gmail.com with token WH4R6D4N with reason reset
+I, [2016-12-15T15:15:55.867432 #2820]  INFO -- : received: {"to":"donamtrungv2@gmail.com","token":"HDCXKXER","reason":"reset"} on /topic/hpumail
+I, [2016-12-15T15:15:55.867432 #2820]  INFO -- : sending email to donamtrungv2@gmail.com with token HDCXKXER with reason reset
+I, [2016-12-15T19:43:07.719190 #2820]  INFO -- : received: {"to":"thesoulseller221@gmail.com","token":"RXE97FRA","reason":"reset"} on /topic/hpumail
+I, [2016-12-15T19:43:07.719190 #2820]  INFO -- : sending email to thesoulseller221@gmail.com with token RXE97FRA with reason reset

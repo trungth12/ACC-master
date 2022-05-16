@@ -1,0 +1,3 @@
+# Logfile created on 2016-08-08 12:46:14 +0700 by logger.rb/31641
+I, [2016-08-08T12:46:14.364083 #2844]  INFO -- : received: {"to":"tuyetnguyen09021995@gmail.com","token":"3FN7VADF","reason":"reset"} on /topic/hpumail
+I, [2016-08-08T12:46:14.383084 #2844]  INFO -- : sending email to tuyetnguyen09021995@gmail.com with token 3FN7VADF with reason reset

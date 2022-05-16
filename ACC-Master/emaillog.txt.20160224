@@ -1,0 +1,7 @@
+# Logfile created on 2016-02-24 14:50:54 +0700 by logger.rb/31641
+I, [2016-02-24T14:50:54.631991 #2852]  INFO -- : received: {"to":"huyphamvbhp96.hpu@gmail.com","token":"YPMQ2237","reason":"reset"} on /topic/hpumail
+I, [2016-02-24T14:50:54.694391 #2852]  INFO -- : sending email to huyphamvbhp96.hpu@gmail.com with token YPMQ2237 with reason reset
+I, [2016-02-24T18:30:36.717544 #2852]  INFO -- : received: {"to":"huyphamvbhp96.hpu@gmail.com","token":"JWMVEY4Y","reason":"reset"} on /topic/hpumail
+I, [2016-02-24T18:30:36.717544 #2852]  INFO -- : sending email to huyphamvbhp96.hpu@gmail.com with token JWMVEY4Y with reason reset
+I, [2016-02-24T18:35:44.662085 #2852]  INFO -- : received: {"to":"huyphamvbhp96.hpu@gmail.com","token":"pvh221196","reason":"resetpassword"} on /topic/hpumail
+I, [2016-02-24T18:35:44.662085 #2852]  INFO -- : sending email to huyphamvbhp96.hpu@gmail.com with token pvh221196 with reason resetpassword

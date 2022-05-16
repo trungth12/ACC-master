@@ -1,0 +1,5 @@
+# Logfile created on 2020-03-17 21:01:05 +0700 by logger.rb/31641
+I, [2020-03-17T21:01:05.427590 #1816]  INFO -- : received: {"to":"nbtien001@gmail.com","token":"TZ3R62HK","reason":"reset"} on /topic/hpumail
+I, [2020-03-17T21:01:05.427590 #1816]  INFO -- : sending email to nbtien001@gmail.com with token TZ3R62HK with reason reset
+I, [2020-03-17T21:21:31.699944 #1816]  INFO -- : received: {"to":"nbtien001@gmail.com","token":"ZQQ9ATFR","reason":"reset"} on /topic/hpumail
+I, [2020-03-17T21:21:31.699944 #1816]  INFO -- : sending email to nbtien001@gmail.com with token ZQQ9ATFR with reason reset

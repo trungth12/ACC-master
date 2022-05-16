@@ -1,0 +1,3 @@
+# Logfile created on 2019-12-12 22:37:11 +0700 by logger.rb/31641
+I, [2019-12-12T22:37:11.051276 #1832]  INFO -- : received: {"to":"thaontp@hpu.edu.vn","token":"Q36MJCWR","reason":"reset"} on /topic/hpumail
+I, [2019-12-12T22:37:11.066876 #1832]  INFO -- : sending email to thaontp@hpu.edu.vn with token Q36MJCWR with reason reset

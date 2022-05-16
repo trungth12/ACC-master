@@ -1,0 +1,5 @@
+# Logfile created on 2020-05-19 08:36:24 +0700 by logger.rb/31641
+I, [2020-05-19T08:36:24.343978 #1808]  INFO -- : received: {"to":"tothiquynh1292@gmail.com","token":"e59351d7505a899930860b1fbfbe9f41","reason":"register"} on /topic/hpumail
+I, [2020-05-19T08:36:24.359578 #1808]  INFO -- : sending email to tothiquynh1292@gmail.com with token e59351d7505a899930860b1fbfbe9f41 with reason register
+I, [2020-05-19T22:27:23.185950 #1808]  INFO -- : received: {"to":"dungnd@hpu.edu.vn","token":"6NZQWE4F","reason":"reset"} on /topic/hpumail
+I, [2020-05-19T22:27:23.185950 #1808]  INFO -- : sending email to dungnd@hpu.edu.vn with token 6NZQWE4F with reason reset

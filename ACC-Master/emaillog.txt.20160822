@@ -1,0 +1,7 @@
+# Logfile created on 2016-08-20 10:29:23 +0700 by logger.rb/31641
+I, [2016-08-20T10:29:23.476831 #2476]  INFO -- : received: {"to":"thuyxd83@gmail.com","token":"9Q33H9ER","reason":"reset"} on /topic/hpumail
+I, [2016-08-20T10:29:23.508031 #2476]  INFO -- : sending email to thuyxd83@gmail.com with token 9Q33H9ER with reason reset
+I, [2016-08-20T10:31:40.554272 #2476]  INFO -- : received: {"to":"thuyxd83@gmail.com","token":"7HWR6CPG","reason":"reset"} on /topic/hpumail
+I, [2016-08-20T10:31:40.554272 #2476]  INFO -- : sending email to thuyxd83@gmail.com with token 7HWR6CPG with reason reset
+I, [2016-08-20T10:36:43.288404 #2476]  INFO -- : received: {"to":"thuyxd83@gmail.com","token":"chiyeuchi10493@","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-20T10:36:43.288404 #2476]  INFO -- : sending email to thuyxd83@gmail.com with token chiyeuchi10493@ with reason resetpassword

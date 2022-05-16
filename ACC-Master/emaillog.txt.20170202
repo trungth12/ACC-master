@@ -1,0 +1,3 @@
+# Logfile created on 2017-01-30 11:05:33 +0700 by logger.rb/31641
+I, [2017-01-30T11:05:33.784967 #2640]  INFO -- : received: {"to":"letuananh1981@gmail.com","token":"cd8c61514da19da09b3d7908fbbd8221","reason":"register"} on /topic/hpumail
+I, [2017-01-30T11:05:33.860972 #2640]  INFO -- : sending email to letuananh1981@gmail.com with token cd8c61514da19da09b3d7908fbbd8221 with reason register

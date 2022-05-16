@@ -1,0 +1,13 @@
+# Logfile created on 2020-10-15 01:18:00 +0700 by logger.rb/31641
+I, [2020-10-15T01:18:00.962312 #1816]  INFO -- : received: {"to":"devjl003412@gmail.com","token":"0dd00139df1dec587c82f16dc044be86","reason":"register"} on /topic/hpumail
+I, [2020-10-15T01:18:00.977912 #1816]  INFO -- : sending email to devjl003412@gmail.com with token 0dd00139df1dec587c82f16dc044be86 with reason register
+I, [2020-10-15T09:29:21.204714 #1828]  INFO -- : received: {"to":"linhlizzie777@gmail.com","token":"ce0c155c650b9619057e0336a2ad8ca9","reason":"register"} on /topic/hpumail
+I, [2020-10-15T09:29:21.204714 #1828]  INFO -- : sending email to linhlizzie777@gmail.com with token ce0c155c650b9619057e0336a2ad8ca9 with reason register
+I, [2020-10-15T09:59:56.875538 #1828]  INFO -- : received: {"to":"weareboyka@gmail.com","token":"553e66372da85b2ef0f5f4e2648c7939","reason":"register"} on /topic/hpumail
+I, [2020-10-15T09:59:56.875538 #1828]  INFO -- : sending email to weareboyka@gmail.com with token 553e66372da85b2ef0f5f4e2648c7939 with reason register
+I, [2020-10-15T11:27:42.929987 #1828]  INFO -- : received: {"to":"quangskyps@gmail.com","token":"bfe24a395381e2316b1527424b7a76e0","reason":"register"} on /topic/hpumail
+I, [2020-10-15T11:27:42.929987 #1828]  INFO -- : sending email to quangskyps@gmail.com with token bfe24a395381e2316b1527424b7a76e0 with reason register
+I, [2020-10-15T12:24:11.739539 #1828]  INFO -- : received: {"to":"vucham11122002@gmail.com","token":"99634355cc494555f85e4247c2009764","reason":"register"} on /topic/hpumail
+I, [2020-10-15T12:24:11.739539 #1828]  INFO -- : sending email to vucham11122002@gmail.com with token 99634355cc494555f85e4247c2009764 with reason register
+I, [2020-10-15T13:34:11.688116 #1828]  INFO -- : received: {"to":"thaimkqniiii@gmail.com","token":"fdda3262e1712a6c075881af5dbd24e3","reason":"register"} on /topic/hpumail
+I, [2020-10-15T13:34:11.688116 #1828]  INFO -- : sending email to thaimkqniiii@gmail.com with token fdda3262e1712a6c075881af5dbd24e3 with reason register

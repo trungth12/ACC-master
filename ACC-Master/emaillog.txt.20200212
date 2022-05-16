@@ -1,0 +1,5 @@
+# Logfile created on 2020-01-12 16:31:35 +0700 by logger.rb/31641
+I, [2020-01-12T16:31:35.319696 #1800]  INFO -- : received: {"to":"anhnthpu@gmail.com","token":"ZC2F4VC3","reason":"reset"} on /topic/hpumail
+I, [2020-01-12T16:31:35.335296 #1800]  INFO -- : sending email to anhnthpu@gmail.com with token ZC2F4VC3 with reason reset
+I, [2020-01-12T16:36:13.343384 #1800]  INFO -- : received: {"to":"anhnthpu@gmail.com","token":"Admin#211","reason":"resetpassword"} on /topic/hpumail
+I, [2020-01-12T16:36:13.343384 #1800]  INFO -- : sending email to anhnthpu@gmail.com with token Admin#211 with reason resetpassword

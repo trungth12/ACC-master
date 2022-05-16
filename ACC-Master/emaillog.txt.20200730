@@ -1,0 +1,7 @@
+# Logfile created on 2020-07-29 08:14:46 +0700 by logger.rb/31641
+I, [2020-07-29T08:14:46.031697 #1812]  INFO -- : received: {"to":"ductrung97vb@gmail.com","token":"7M97J7AD","reason":"reset"} on /topic/hpumail
+I, [2020-07-29T08:14:46.062897 #1812]  INFO -- : sending email to ductrung97vb@gmail.com with token 7M97J7AD with reason reset
+I, [2020-07-29T08:16:07.931841 #1812]  INFO -- : received: {"to":"ductrung97vb@gmail.com","token":"YZ42JYJA","reason":"reset"} on /topic/hpumail
+I, [2020-07-29T08:16:07.931841 #1812]  INFO -- : sending email to ductrung97vb@gmail.com with token YZ42JYJA with reason reset
+I, [2020-07-29T08:17:56.227231 #1812]  INFO -- : received: {"to":"ductrung97vb@gmail.com","token":"trungduc97","reason":"resetpassword"} on /topic/hpumail
+I, [2020-07-29T08:17:56.227231 #1812]  INFO -- : sending email to ductrung97vb@gmail.com with token trungduc97 with reason resetpassword

@@ -1,0 +1,7 @@
+# Logfile created on 2018-06-24 00:32:51 +0700 by logger.rb/31641
+I, [2018-06-24T00:32:51.319302 #1824]  INFO -- : received: {"to":"honghanhvu875@gmail.com","token":"PYEMPNZE","reason":"reset"} on /topic/hpumail
+I, [2018-06-24T00:32:51.334902 #1824]  INFO -- : sending email to honghanhvu875@gmail.com with token PYEMPNZE with reason reset
+I, [2018-06-24T00:40:28.883705 #1824]  INFO -- : received: {"to":"honghanhvu875@gmail.com","token":"QYFKPNGP","reason":"reset"} on /topic/hpumail
+I, [2018-06-24T00:40:28.883705 #1824]  INFO -- : sending email to honghanhvu875@gmail.com with token QYFKPNGP with reason reset
+I, [2018-06-24T23:01:27.214824 #1824]  INFO -- : received: {"to":"honghanhvu875@gmail.com","token":"Y77Q3RTR","reason":"reset"} on /topic/hpumail
+I, [2018-06-24T23:01:27.230424 #1824]  INFO -- : sending email to honghanhvu875@gmail.com with token Y77Q3RTR with reason reset

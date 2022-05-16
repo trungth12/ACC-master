@@ -1,0 +1,11 @@
+# Logfile created on 2018-05-17 16:34:06 +0700 by logger.rb/31641
+I, [2018-05-17T16:34:06.301561 #1068]  INFO -- : received: {"to":"dunglq2701@gmail.com","token":"WA3GPRPX","reason":"reset"} on /topic/hpumail
+I, [2018-05-17T16:34:06.317161 #1068]  INFO -- : sending email to dunglq2701@gmail.com with token WA3GPRPX with reason reset
+I, [2018-05-17T16:37:05.343075 #1068]  INFO -- : received: {"to":"dunglq2701@gmail.com","token":"942M6D2G","reason":"reset"} on /topic/hpumail
+I, [2018-05-17T16:37:05.343075 #1068]  INFO -- : sending email to dunglq2701@gmail.com with token 942M6D2G with reason reset
+I, [2018-05-17T16:38:07.337584 #1068]  INFO -- : received: {"to":"dunglq2701@gmail.com","token":"YMAQHK2T","reason":"reset"} on /topic/hpumail
+I, [2018-05-17T16:38:07.337584 #1068]  INFO -- : sending email to dunglq2701@gmail.com with token YMAQHK2T with reason reset
+I, [2018-05-17T16:38:35.714034 #1068]  INFO -- : received: {"to":"dunglq2701@gmail.com","token":"6NRCFT7Y","reason":"reset"} on /topic/hpumail
+I, [2018-05-17T16:38:35.714034 #1068]  INFO -- : sending email to dunglq2701@gmail.com with token 6NRCFT7Y with reason reset
+I, [2018-05-17T23:09:12.914399 #1068]  INFO -- : received: {"to":"minhdc@hpu.edu.vn","token":"E6M769MG","reason":"reset"} on /topic/hpumail
+I, [2018-05-17T23:09:12.914399 #1068]  INFO -- : sending email to minhdc@hpu.edu.vn with token E6M769MG with reason reset

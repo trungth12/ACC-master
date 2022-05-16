@@ -1,0 +1,11 @@
+# Logfile created on 2019-07-30 08:44:48 +0700 by logger.rb/31641
+I, [2019-07-30T08:44:48.596857 #2020]  INFO -- : received: {"to":"mai.tran@hpu.edu.vn","token":"9YGQ6CRE","reason":"reset"} on /topic/hpumail
+I, [2019-07-30T08:44:48.612457 #2020]  INFO -- : sending email to mai.tran@hpu.edu.vn with token 9YGQ6CRE with reason reset
+I, [2019-07-30T08:48:22.208032 #2020]  INFO -- : received: {"to":"mai.tran@hpu.edu.vn","token":"7XKPDKYT","reason":"reset"} on /topic/hpumail
+I, [2019-07-30T08:48:22.208032 #2020]  INFO -- : sending email to mai.tran@hpu.edu.vn with token 7XKPDKYT with reason reset
+I, [2019-07-30T10:52:28.241510 #2020]  INFO -- : received: {"to":"tuyendv@hpu.edu.vn","token":"VEQJHP2W","reason":"reset"} on /topic/hpumail
+I, [2019-07-30T10:52:28.241510 #2020]  INFO -- : sending email to tuyendv@hpu.edu.vn with token VEQJHP2W with reason reset
+I, [2019-07-30T15:10:07.709652 #2020]  INFO -- : received: {"to":"tuyendv@hpu.edu.vn","token":"7F2XMQNY","reason":"reset"} on /topic/hpumail
+I, [2019-07-30T15:10:07.709652 #2020]  INFO -- : sending email to tuyendv@hpu.edu.vn with token 7F2XMQNY with reason reset
+I, [2019-07-30T15:11:43.064204 #2020]  INFO -- : received: {"to":"tuyendv@hpu.edu.vn","token":"Tuyen1979","reason":"resetpassword"} on /topic/hpumail
+I, [2019-07-30T15:11:43.064204 #2020]  INFO -- : sending email to tuyendv@hpu.edu.vn with token Tuyen1979 with reason resetpassword

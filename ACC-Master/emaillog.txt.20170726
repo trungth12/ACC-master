@@ -1,0 +1,11 @@
+# Logfile created on 2017-07-26 14:31:38 +0700 by logger.rb/31641
+I, [2017-07-26T14:31:38.535011 #1972]  INFO -- : received: {"to":"trung.qt1805k.1995@gmail.com","token":"ZXG7WP94","reason":"reset"} on /topic/hpumail
+I, [2017-07-26T14:31:38.613011 #1972]  INFO -- : sending email to trung.qt1805k.1995@gmail.com with token ZXG7WP94 with reason reset
+I, [2017-07-26T14:36:35.219733 #1972]  INFO -- : received: {"to":"trung.qt1805k.1995@gmail.com","token":"01263402033","reason":"resetpassword"} on /topic/hpumail
+I, [2017-07-26T14:36:35.219733 #1972]  INFO -- : sending email to trung.qt1805k.1995@gmail.com with token 01263402033 with reason resetpassword
+I, [2017-07-26T20:42:58.371663 #1972]  INFO -- : received: {"to":"tranduccuong121@gmail.com","token":"8df759fd7f3a371df8480e52e834c00e","reason":"register"} on /topic/hpumail
+I, [2017-07-26T20:42:58.371663 #1972]  INFO -- : sending email to tranduccuong121@gmail.com with token 8df759fd7f3a371df8480e52e834c00e with reason register
+I, [2017-07-26T20:57:42.374420 #1972]  INFO -- : received: {"to":"tranduccuong121@gmail.com","token":"yennhi2008","reason":"resetpassword"} on /topic/hpumail
+I, [2017-07-26T20:57:42.374420 #1972]  INFO -- : sending email to tranduccuong121@gmail.com with token yennhi2008 with reason resetpassword
+I, [2017-07-26T20:59:17.292388 #1972]  INFO -- : received: {"to":"asurahahaha2468@gmail.com","token":"HDEDEKZ7","reason":"reset"} on /topic/hpumail
+I, [2017-07-26T20:59:17.292388 #1972]  INFO -- : sending email to asurahahaha2468@gmail.com with token HDEDEKZ7 with reason reset

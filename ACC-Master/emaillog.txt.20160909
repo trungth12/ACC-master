@@ -1,0 +1,9 @@
+# Logfile created on 2016-09-08 15:53:37 +0700 by logger.rb/31641
+I, [2016-09-08T15:53:37.553231 #2432]  INFO -- : received: {"to":"nguyenductoan190390@gmail.com","token":"d4125422c8af7a3b0dc7dff5581d6cac","reason":"register"} on /topic/hpumail
+I, [2016-09-08T15:53:37.584431 #2432]  INFO -- : sending email to nguyenductoan190390@gmail.com with token d4125422c8af7a3b0dc7dff5581d6cac with reason register
+I, [2016-09-08T16:06:25.792180 #2432]  INFO -- : received: {"to":"nguyenductoan190390@gmail.com","token":"0978519390","reason":"resetpassword"} on /topic/hpumail
+I, [2016-09-08T16:06:25.792180 #2432]  INFO -- : sending email to nguyenductoan190390@gmail.com with token 0978519390 with reason resetpassword
+I, [2016-09-08T21:21:48.531816 #2432]  INFO -- : received: {"to":"zztungpr09xx@gmail.com","token":"C7G46V9E","reason":"reset"} on /topic/hpumail
+I, [2016-09-08T21:21:48.531816 #2432]  INFO -- : sending email to zztungpr09xx@gmail.com with token C7G46V9E with reason reset
+I, [2016-09-08T21:27:56.817263 #2432]  INFO -- : received: {"to":"zztungpr09xx@gmail.com","token":"0987685102","reason":"resetpassword"} on /topic/hpumail
+I, [2016-09-08T21:27:56.817263 #2432]  INFO -- : sending email to zztungpr09xx@gmail.com with token 0987685102 with reason resetpassword

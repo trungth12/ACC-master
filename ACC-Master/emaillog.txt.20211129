@@ -1,0 +1,5 @@
+# Logfile created on 2021-11-18 21:49:41 +0700 by logger.rb/31641
+I, [2021-11-18T21:49:41.260392 #19428]  INFO -- : received: {"to":"quocanhvuba3@gmail.com","token":"X9ZPK4CZ","reason":"reset"} on /topic/hpumail
+I, [2021-11-18T21:49:41.275992 #19428]  INFO -- : sending email to quocanhvuba3@gmail.com with token X9ZPK4CZ with reason reset
+I, [2021-11-18T21:54:06.520861 #19428]  INFO -- : received: {"to":"quocanhvuba3@gmail.com","token":"quocanhvu0602","reason":"resetpassword"} on /topic/hpumail
+I, [2021-11-18T21:54:06.520861 #19428]  INFO -- : sending email to quocanhvuba3@gmail.com with token quocanhvu0602 with reason resetpassword

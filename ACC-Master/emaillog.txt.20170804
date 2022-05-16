@@ -1,0 +1,5 @@
+# Logfile created on 2017-08-03 15:14:16 +0700 by logger.rb/31641
+I, [2017-08-03T15:14:16.140823 #2328]  INFO -- : received: {"to":"skyjack95x@gmail.com","token":"123456","reason":"resetpassword"} on /topic/hpumail
+I, [2017-08-03T15:14:16.187623 #2328]  INFO -- : sending email to skyjack95x@gmail.com with token 123456 with reason resetpassword
+I, [2017-08-03T23:16:24.582033 #2328]  INFO -- : received: {"to":"nam3t.sine@gmail.com","token":"140296","reason":"resetpassword"} on /topic/hpumail
+I, [2017-08-03T23:16:24.582033 #2328]  INFO -- : sending email to nam3t.sine@gmail.com with token 140296 with reason resetpassword

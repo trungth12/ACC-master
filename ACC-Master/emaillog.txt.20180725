@@ -1,0 +1,5 @@
+# Logfile created on 2018-07-24 15:06:02 +0700 by logger.rb/31641
+I, [2018-07-24T15:06:01.993683 #1816]  INFO -- : received: {"to":"lephongtd123@gmail.com","token":"HPACZCYA","reason":"reset"} on /topic/hpumail
+I, [2018-07-24T15:06:02.040483 #1816]  INFO -- : sending email to lephongtd123@gmail.com with token HPACZCYA with reason reset
+I, [2018-07-24T15:22:54.279461 #1816]  INFO -- : received: {"to":"lephongtd123@gmail.com","token":"1412104001","reason":"resetpassword"} on /topic/hpumail
+I, [2018-07-24T15:22:54.279461 #1816]  INFO -- : sending email to lephongtd123@gmail.com with token 1412104001 with reason resetpassword

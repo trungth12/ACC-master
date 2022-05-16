@@ -1,0 +1,13 @@
+# Logfile created on 2016-09-28 14:34:22 +0700 by logger.rb/31641
+I, [2016-09-28T14:34:22.408016 #2428]  INFO -- : received: {"to":"mebaoanhyeuem91@gmail.com","token":"A7DMRZVX","reason":"reset"} on /topic/hpumail
+I, [2016-09-28T14:34:22.408016 #2428]  INFO -- : sending email to mebaoanhyeuem91@gmail.com with token A7DMRZVX with reason reset
+I, [2016-09-28T14:37:02.979098 #2428]  INFO -- : received: {"to":"mebaoanhyeuem91@gmail.com","token":"manh2008","reason":"resetpassword"} on /topic/hpumail
+I, [2016-09-28T14:37:02.979098 #2428]  INFO -- : sending email to mebaoanhyeuem91@gmail.com with token manh2008 with reason resetpassword
+I, [2016-09-28T15:23:09.690757 #2428]  INFO -- : received: {"to":"xekonono@gmail.com","token":"ECGVFK4E","reason":"reset"} on /topic/hpumail
+I, [2016-09-28T15:23:09.690757 #2428]  INFO -- : sending email to xekonono@gmail.com with token ECGVFK4E with reason reset
+I, [2016-09-28T15:28:11.457687 #2428]  INFO -- : received: {"to":"bsonnhnn1997@gmail.com","token":"ae3cbbce9b117de5c9a0aeb6c62b28b9","reason":"register"} on /topic/hpumail
+I, [2016-09-28T15:28:11.457687 #2428]  INFO -- : sending email to bsonnhnn1997@gmail.com with token ae3cbbce9b117de5c9a0aeb6c62b28b9 with reason register
+I, [2016-09-28T17:48:16.768050 #2428]  INFO -- : received: {"to":"bsonnhnn1997@gmail.com","token":"PVNACEQD","reason":"reset"} on /topic/hpumail
+I, [2016-09-28T17:48:16.768050 #2428]  INFO -- : sending email to bsonnhnn1997@gmail.com with token PVNACEQD with reason reset
+I, [2016-09-28T17:50:43.751508 #2428]  INFO -- : received: {"to":"bsonnhnn1997@gmail.com","token":"MINHANH123HP","reason":"resetpassword"} on /topic/hpumail
+I, [2016-09-28T17:50:43.751508 #2428]  INFO -- : sending email to bsonnhnn1997@gmail.com with token MINHANH123HP with reason resetpassword

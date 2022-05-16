@@ -1,0 +1,7 @@
+# Logfile created on 2018-03-05 14:08:26 +0700 by logger.rb/31641
+I, [2018-03-05T14:08:26.744860 #1788]  INFO -- : received: {"to":"nguyenanh20121995@gmail.com","token":"Z2XWXQNZ","reason":"reset"} on /topic/hpumail
+I, [2018-03-05T14:08:26.978861 #1788]  INFO -- : sending email to nguyenanh20121995@gmail.com with token Z2XWXQNZ with reason reset
+I, [2018-03-05T14:56:33.779531 #1788]  INFO -- : received: {"to":"nguyenanh20121995@gmail.com","token":"1412407019","reason":"resetpassword"} on /topic/hpumail
+I, [2018-03-05T14:56:33.779531 #1788]  INFO -- : sending email to nguyenanh20121995@gmail.com with token 1412407019 with reason resetpassword
+I, [2018-03-05T19:24:25.411359 #1788]  INFO -- : received: {"to":"toandh.thuylinh@gmail.com","token":"DCH9JQC3","reason":"reset"} on /topic/hpumail
+I, [2018-03-05T19:24:25.411359 #1788]  INFO -- : sending email to toandh.thuylinh@gmail.com with token DCH9JQC3 with reason reset

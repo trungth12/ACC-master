@@ -1,0 +1,7 @@
+# Logfile created on 2020-03-06 10:14:03 +0700 by logger.rb/31641
+I, [2020-03-06T10:14:03.862683 #1808]  INFO -- : received: {"to":"lienttn@hpu.edu.vn","token":"F64MT63M","reason":"reset"} on /topic/hpumail
+I, [2020-03-06T10:14:03.878283 #1808]  INFO -- : sending email to lienttn@hpu.edu.vn with token F64MT63M with reason reset
+I, [2020-03-06T10:14:16.483105 #1808]  INFO -- : received: {"to":"lienttn@hpu.edu.vn","token":"TJAEMAHZ","reason":"reset"} on /topic/hpumail
+I, [2020-03-06T10:14:16.483105 #1808]  INFO -- : sending email to lienttn@hpu.edu.vn with token TJAEMAHZ with reason reset
+I, [2020-03-06T10:14:27.746325 #1808]  INFO -- : received: {"to":"lienttn@hpu.edu.vn","token":"6YPPXEVR","reason":"reset"} on /topic/hpumail
+I, [2020-03-06T10:14:27.746325 #1808]  INFO -- : sending email to lienttn@hpu.edu.vn with token 6YPPXEVR with reason reset

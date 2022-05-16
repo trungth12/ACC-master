@@ -1,0 +1,11 @@
+# Logfile created on 2016-06-15 08:34:03 +0700 by logger.rb/31641
+I, [2016-06-15T08:34:02.990298 #1528]  INFO -- : received: {"to":"nguyenthang240997@gmail.com","token":"3CRFAAGP","reason":"reset"} on /topic/hpumail
+I, [2016-06-15T08:34:03.034300 #1528]  INFO -- : sending email to nguyenthang240997@gmail.com with token 3CRFAAGP with reason reset
+I, [2016-06-15T08:35:19.642682 #1528]  INFO -- : received: {"to":"nguyenthang240997@gmail.com","token":"thangbeo","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-15T08:35:19.643682 #1528]  INFO -- : sending email to nguyenthang240997@gmail.com with token thangbeo with reason resetpassword
+I, [2016-06-15T09:02:09.539763 #1528]  INFO -- : received: {"to":"ngominhtrang250414@gmail.com","token":"f36bd80d8c314e700a4aca29f7d09fae","reason":"register"} on /topic/hpumail
+I, [2016-06-15T09:02:09.540763 #1528]  INFO -- : sending email to ngominhtrang250414@gmail.com with token f36bd80d8c314e700a4aca29f7d09fae with reason register
+I, [2016-06-15T15:51:25.838303 #1528]  INFO -- : received: {"to":"luutanlong8397hp@gmail.com","token":"NQRE6ZWA","reason":"reset"} on /topic/hpumail
+I, [2016-06-15T15:51:25.840303 #1528]  INFO -- : sending email to luutanlong8397hp@gmail.com with token NQRE6ZWA with reason reset
+I, [2016-06-15T16:02:47.923316 #1528]  INFO -- : received: {"to":"hoaminh0312@gmail.com","token":"minhhoa11","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-15T16:02:47.924316 #1528]  INFO -- : sending email to hoaminh0312@gmail.com with token minhhoa11 with reason resetpassword

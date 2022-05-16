@@ -1,0 +1,3 @@
+# Logfile created on 2017-03-31 22:32:28 +0700 by logger.rb/31641
+I, [2017-03-31T22:32:28.757173 #2684]  INFO -- : received: {"to":"badathp95@gmail.com","token":"123456","reason":"resetpassword"} on /topic/hpumail
+I, [2017-03-31T22:32:28.757173 #2684]  INFO -- : sending email to badathp95@gmail.com with token 123456 with reason resetpassword

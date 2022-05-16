@@ -1,0 +1,3 @@
+# Logfile created on 2016-12-20 15:25:07 +0700 by logger.rb/31641
+I, [2016-12-20T15:25:07.576986 #2668]  INFO -- : received: {"to":"onlyyou84999@gmail.com","token":"KP3JP4F3","reason":"reset"} on /topic/hpumail
+I, [2016-12-20T15:25:07.654986 #2668]  INFO -- : sending email to onlyyou84999@gmail.com with token KP3JP4F3 with reason reset

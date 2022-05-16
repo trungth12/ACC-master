@@ -1,0 +1,9 @@
+# Logfile created on 2018-08-01 14:51:39 +0700 by logger.rb/31641
+I, [2018-08-01T14:51:39.339511 #1816]  INFO -- : received: {"to":"hoangtrungkien1963@gmail.com","token":"P7WW6324","reason":"reset"} on /topic/hpumail
+I, [2018-08-01T14:51:39.464312 #1816]  INFO -- : sending email to hoangtrungkien1963@gmail.com with token P7WW6324 with reason reset
+I, [2018-08-01T14:59:07.341098 #1816]  INFO -- : received: {"to":"kienht0110@gmail.com","token":"RXMFAPJZ","reason":"reset"} on /topic/hpumail
+I, [2018-08-01T14:59:07.434698 #1816]  INFO -- : sending email to kienht0110@gmail.com with token RXMFAPJZ with reason reset
+I, [2018-08-01T15:04:01.261215 #1816]  INFO -- : received: {"to":"kienht0110@gmail.com","token":"1412401344","reason":"resetpassword"} on /topic/hpumail
+I, [2018-08-01T15:04:01.276815 #1816]  INFO -- : sending email to kienht0110@gmail.com with token 1412401344 with reason resetpassword
+I, [2018-08-01T17:18:59.438238 #1816]  INFO -- : received: {"to":"phamthihan159@gmail.com","token":"HV73TH4A","reason":"reset"} on /topic/hpumail
+I, [2018-08-01T17:18:59.438238 #1816]  INFO -- : sending email to phamthihan159@gmail.com with token HV73TH4A with reason reset

@@ -1,0 +1,5 @@
+# Logfile created on 2022-03-25 15:40:44 +0700 by logger.rb/31641
+I, [2022-03-25T15:40:44.323682 #3804]  INFO -- : received: {"to":"thghuyen1902@gmail.com","token":"0de474fb78712de97c75376d120061d1","reason":"register"} on /topic/hpumail
+I, [2022-03-25T15:40:44.339282 #3804]  INFO -- : sending email to thghuyen1902@gmail.com with token 0de474fb78712de97c75376d120061d1 with reason register
+I, [2022-03-25T15:43:14.941947 #3804]  INFO -- : received: {"to":"carotxinhgai7@gmail.com","token":"b42992fbda9fc0dae995a1353f8087d5","reason":"register"} on /topic/hpumail
+I, [2022-03-25T15:43:14.941947 #3804]  INFO -- : sending email to carotxinhgai7@gmail.com with token b42992fbda9fc0dae995a1353f8087d5 with reason register

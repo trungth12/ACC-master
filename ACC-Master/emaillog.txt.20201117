@@ -1,0 +1,5 @@
+# Logfile created on 2020-11-07 09:30:11 +0700 by logger.rb/31641
+I, [2020-11-07T09:30:11.553611 #1796]  INFO -- : received: {"to":"vugiang.ksxd@gmail.com","token":"82c5884be0dcb154f2a240449964cc2a","reason":"register"} on /topic/hpumail
+I, [2020-11-07T09:30:11.569211 #1796]  INFO -- : sending email to vugiang.ksxd@gmail.com with token 82c5884be0dcb154f2a240449964cc2a with reason register
+I, [2020-11-07T09:30:29.306442 #1796]  INFO -- : received: {"to":"vugiang.ksxd@gmail.com","token":"QYADZXHM","reason":"reset"} on /topic/hpumail
+I, [2020-11-07T09:30:29.306442 #1796]  INFO -- : sending email to vugiang.ksxd@gmail.com with token QYADZXHM with reason reset

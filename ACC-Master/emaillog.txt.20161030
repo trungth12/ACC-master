@@ -1,0 +1,11 @@
+# Logfile created on 2016-10-24 03:10:42 +0700 by logger.rb/31641
+I, [2016-10-24T03:10:42.142145 #2536]  INFO -- : received: {"to":"triminhvn@yahoo.com","token":"3f39e3a6ef0713074c6dc46148bd6095","reason":"register"} on /topic/hpumail
+I, [2016-10-24T03:10:42.204545 #2536]  INFO -- : sending email to triminhvn@yahoo.com with token 3f39e3a6ef0713074c6dc46148bd6095 with reason register
+I, [2016-10-24T08:36:06.323890 #2528]  INFO -- : received: {"to":"dangnghi66@gmail.com","token":"WPA747WF","reason":"reset"} on /topic/hpumail
+I, [2016-10-24T08:36:06.323890 #2528]  INFO -- : sending email to dangnghi66@gmail.com with token WPA747WF with reason reset
+I, [2016-10-24T10:09:31.710136 #2528]  INFO -- : received: {"to":"le.minh.ngoc.hoang@gmail.com","token":"Y9FMHC4C","reason":"reset"} on /topic/hpumail
+I, [2016-10-24T10:09:31.710136 #2528]  INFO -- : sending email to le.minh.ngoc.hoang@gmail.com with token Y9FMHC4C with reason reset
+I, [2016-10-24T22:18:23.752518 #2528]  INFO -- : received: {"to":"ndphong@hpu.edu.vn","token":"AWHZ6NVV","reason":"reset"} on /topic/hpumail
+I, [2016-10-24T22:18:23.752518 #2528]  INFO -- : sending email to ndphong@hpu.edu.vn with token AWHZ6NVV with reason reset
+I, [2016-10-24T22:20:36.337151 #2528]  INFO -- : received: {"to":"ndphong@hpu.edu.vn","token":"hl201207","reason":"resetpassword"} on /topic/hpumail
+I, [2016-10-24T22:20:36.337151 #2528]  INFO -- : sending email to ndphong@hpu.edu.vn with token hl201207 with reason resetpassword

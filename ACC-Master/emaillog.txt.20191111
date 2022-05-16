@@ -1,0 +1,3 @@
+# Logfile created on 2019-11-09 11:25:59 +0700 by logger.rb/31641
+I, [2019-11-09T11:25:59.276870 #1848]  INFO -- : received: {"to":"anhnv@hpu.edu.vn","token":"KV4C664F","reason":"reset"} on /topic/hpumail
+I, [2019-11-09T11:25:59.292470 #1848]  INFO -- : sending email to anhnv@hpu.edu.vn with token KV4C664F with reason reset

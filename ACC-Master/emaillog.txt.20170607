@@ -1,0 +1,5 @@
+# Logfile created on 2017-06-07 09:32:30 +0700 by logger.rb/31641
+I, [2017-06-07T09:32:30.117551 #2616]  INFO -- : received: {"to":"phamdu12@gmail.com","token":"PHK9X4RN","reason":"reset"} on /topic/hpumail
+I, [2017-06-07T09:32:30.148751 #2616]  INFO -- : sending email to phamdu12@gmail.com with token PHK9X4RN with reason reset
+I, [2017-06-07T22:37:23.727354 #2668]  INFO -- : received: {"to":"rapperato@gmail.com","token":"K3KGF7CD","reason":"reset"} on /topic/hpumail
+I, [2017-06-07T22:37:23.727354 #2668]  INFO -- : sending email to rapperato@gmail.com with token K3KGF7CD with reason reset

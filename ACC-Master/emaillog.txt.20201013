@@ -1,0 +1,5 @@
+# Logfile created on 2020-10-10 20:38:50 +0700 by logger.rb/31641
+I, [2020-10-10T20:38:50.736111 #1816]  INFO -- : received: {"to":"quynhlam171295@gmail.com","token":"DFZ9329W","reason":"reset"} on /topic/hpumail
+I, [2020-10-10T20:38:50.751711 #1816]  INFO -- : sending email to quynhlam171295@gmail.com with token DFZ9329W with reason reset
+I, [2020-10-10T23:57:43.072270 #1816]  INFO -- : received: {"to":"anhnv@hpu.edu.vn","token":"TZ9EFM7G","reason":"reset"} on /topic/hpumail
+I, [2020-10-10T23:57:43.072270 #1816]  INFO -- : sending email to anhnv@hpu.edu.vn with token TZ9EFM7G with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2016-01-12 17:33:35 +0700 by logger.rb/31641
+I, [2016-01-12T17:33:35.005535 #2860]  INFO -- : received: {"to":"thaiphuongdung2805@gmail.com","token":"49993N44","reason":"reset"} on /topic/hpumail
+I, [2016-01-12T17:33:35.036735 #2860]  INFO -- : sending email to thaiphuongdung2805@gmail.com with token 49993N44 with reason reset

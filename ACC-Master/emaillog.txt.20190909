@@ -1,0 +1,13 @@
+# Logfile created on 2019-09-09 09:16:32 +0700 by logger.rb/31641
+I, [2019-09-09T09:16:32.375333 #1372]  INFO -- : received: {"to":"giohoangtu110@gmail.com","token":"2WRZQ3DR","reason":"reset"} on /topic/hpumail
+I, [2019-09-09T09:16:32.390933 #1372]  INFO -- : sending email to giohoangtu110@gmail.com with token 2WRZQ3DR with reason reset
+I, [2019-09-09T09:18:00.435289 #1372]  INFO -- : received: {"to":"giohoangtu110@gmail.com","token":"03012001","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-09T09:18:00.435289 #1372]  INFO -- : sending email to giohoangtu110@gmail.com with token 03012001 with reason resetpassword
+I, [2019-09-09T15:50:40.126101 #1372]  INFO -- : received: {"to":"nga.tran@hpu.edu.vn","token":"DEQ4QPDE","reason":"reset"} on /topic/hpumail
+I, [2019-09-09T15:50:40.126101 #1372]  INFO -- : sending email to nga.tran@hpu.edu.vn with token DEQ4QPDE with reason reset
+I, [2019-09-09T16:54:58.514143 #1372]  INFO -- : received: {"to":"tuyendv@hpu.edu.vn","token":"7G3RVJTR","reason":"reset"} on /topic/hpumail
+I, [2019-09-09T16:54:58.514143 #1372]  INFO -- : sending email to tuyendv@hpu.edu.vn with token 7G3RVJTR with reason reset
+I, [2019-09-09T16:56:01.712255 #1372]  INFO -- : received: {"to":"tuyendv@hpu.edu.vn","token":"12345678","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-09T16:56:01.712255 #1372]  INFO -- : sending email to tuyendv@hpu.edu.vn with token 12345678 with reason resetpassword
+I, [2019-09-09T17:08:56.843429 #1372]  INFO -- : received: {"to":"tuyendv@hpu.edu.vn","token":"Tuyen1979","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-09T17:08:56.843429 #1372]  INFO -- : sending email to tuyendv@hpu.edu.vn with token Tuyen1979 with reason resetpassword

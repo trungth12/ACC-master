@@ -1,0 +1,5 @@
+# Logfile created on 2016-02-25 15:08:28 +0700 by logger.rb/31641
+I, [2016-02-25T15:08:28.888797 #2852]  INFO -- : received: {"to":"giaydepvnxkhaiphong@gmail.com","token":"5b5f4fddd917944c995ea94399abad8d","reason":"register"} on /topic/hpumail
+I, [2016-02-25T15:08:28.904397 #2852]  INFO -- : sending email to giaydepvnxkhaiphong@gmail.com with token 5b5f4fddd917944c995ea94399abad8d with reason register
+I, [2016-02-25T19:59:27.972462 #2852]  INFO -- : received: {"to":"phuongthao9xxx@gmail.com","token":"2QKWJ43J","reason":"reset"} on /topic/hpumail
+I, [2016-02-25T19:59:27.972462 #2852]  INFO -- : sending email to phuongthao9xxx@gmail.com with token 2QKWJ43J with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2017-08-16 08:25:27 +0700 by logger.rb/31641
+I, [2017-08-16T08:25:27.474546 #2232]  INFO -- : received: {"to":"thanhthuy89911@gmail.com","token":"CZQVX6NY","reason":"reset"} on /topic/hpumail
+I, [2017-08-16T08:25:27.490146 #2232]  INFO -- : sending email to thanhthuy89911@gmail.com with token CZQVX6NY with reason reset

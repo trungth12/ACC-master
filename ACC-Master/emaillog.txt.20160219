@@ -1,0 +1,7 @@
+# Logfile created on 2016-02-19 10:35:21 +0700 by logger.rb/31641
+I, [2016-02-19T10:35:21.521115 #3056]  INFO -- : received: {"to":"daipham300897@gmail.com","token":"NJE2E3VR","reason":"reset"} on /topic/hpumail
+I, [2016-02-19T10:35:21.521115 #3056]  INFO -- : sending email to daipham300897@gmail.com with token NJE2E3VR with reason reset
+I, [2016-02-19T10:37:15.884916 #3056]  INFO -- : received: {"to":"daipham300897@gmail.com","token":"DCJ2Y2YY","reason":"reset"} on /topic/hpumail
+I, [2016-02-19T10:37:15.884916 #3056]  INFO -- : sending email to daipham300897@gmail.com with token DCJ2Y2YY with reason reset
+I, [2016-02-19T14:18:55.829676 #3056]  INFO -- : received: {"to":"nguyenphong2581997@gmail.com","token":"f90bcab6f48be02565ae9d0eababcf11","reason":"register"} on /topic/hpumail
+I, [2016-02-19T14:18:55.829676 #3056]  INFO -- : sending email to nguyenphong2581997@gmail.com with token f90bcab6f48be02565ae9d0eababcf11 with reason register

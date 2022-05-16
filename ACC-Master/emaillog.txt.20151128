@@ -1,0 +1,27 @@
+# Logfile created on 2015-11-28 00:20:04 +0700 by logger.rb/31641
+I, [2015-11-28T00:20:04.006339 #2816]  INFO -- : received: {"to":"vietdaicahp96@gmail.com","token":"2QXWQPER","reason":"reset"} on /topic/hpumail
+I, [2015-11-28T00:20:04.021939 #2816]  INFO -- : sending email to vietdaicahp96@gmail.com with token 2QXWQPER with reason reset
+I, [2015-11-28T00:23:42.313122 #2816]  INFO -- : received: {"to":"vietdaicahp96@gmail.com","token":"WZVAGE7K","reason":"reset"} on /topic/hpumail
+I, [2015-11-28T00:23:42.313122 #2816]  INFO -- : sending email to vietdaicahp96@gmail.com with token WZVAGE7K with reason reset
+I, [2015-11-28T00:25:38.174526 #2816]  INFO -- : received: {"to":"vietdaicahp96@gmail.com","token":"vietngoachp1996","reason":"resetpassword"} on /topic/hpumail
+I, [2015-11-28T00:25:38.174526 #2816]  INFO -- : sending email to vietdaicahp96@gmail.com with token vietngoachp1996 with reason resetpassword
+I, [2015-11-28T13:29:30.143180 #2308]  INFO -- : received: {"to":"duyphan25393@gmail.com","token":"175fc3301dd41f56a475d739fdef6c99","reason":"register"} on /topic/hpumail
+I, [2015-11-28T13:29:30.143180 #2308]  INFO -- : sending email to duyphan25393@gmail.com with token 175fc3301dd41f56a475d739fdef6c99 with reason register
+I, [2015-11-28T14:42:29.226872 #2308]  INFO -- : received: {"to":"djthuhoai87@gmail.com","token":"a80573253557808f34157391b8f3661b","reason":"register"} on /topic/hpumail
+I, [2015-11-28T14:42:29.226872 #2308]  INFO -- : sending email to djthuhoai87@gmail.com with token a80573253557808f34157391b8f3661b with reason register
+I, [2015-11-28T14:53:22.010018 #2308]  INFO -- : received: {"to":"hovanluong70@gmail.com","token":"208478d94f726b1740de02eef4adf1e0","reason":"register"} on /topic/hpumail
+I, [2015-11-28T14:53:22.010018 #2308]  INFO -- : sending email to hovanluong70@gmail.com with token 208478d94f726b1740de02eef4adf1e0 with reason register
+I, [2015-11-28T16:03:38.572624 #2308]  INFO -- : received: {"to":"duyvu280694@gmail.com","token":"GTVDN7GM","reason":"reset"} on /topic/hpumail
+I, [2015-11-28T16:03:38.572624 #2308]  INFO -- : sending email to duyvu280694@gmail.com with token GTVDN7GM with reason reset
+I, [2015-11-28T16:41:25.116205 #2308]  INFO -- : received: {"to":"samac08@gmail.com","token":"7a5ee82f59e27851472c2e3afbac13eb","reason":"register"} on /topic/hpumail
+I, [2015-11-28T16:41:25.116205 #2308]  INFO -- : sending email to samac08@gmail.com with token 7a5ee82f59e27851472c2e3afbac13eb with reason register
+I, [2015-11-28T18:05:40.398684 #2308]  INFO -- : received: {"to":"dinhngantxpt@gmail.com","token":"8b36e17fa48afb5c03575fff16f3476c","reason":"register"} on /topic/hpumail
+I, [2015-11-28T18:05:40.398684 #2308]  INFO -- : sending email to dinhngantxpt@gmail.com with token 8b36e17fa48afb5c03575fff16f3476c with reason register
+I, [2015-11-28T18:18:48.090868 #2308]  INFO -- : received: {"to":"vinnykhuu@gmail.com","token":"6de2231091993e84afdded6fc54f2f22","reason":"register"} on /topic/hpumail
+I, [2015-11-28T18:18:48.090868 #2308]  INFO -- : sending email to vinnykhuu@gmail.com with token 6de2231091993e84afdded6fc54f2f22 with reason register
+I, [2015-11-28T20:11:50.592781 #2308]  INFO -- : received: {"to":"bsodvn@gmail.com","token":"98f29a12f455a55da47a4f672beb4e59","reason":"register"} on /topic/hpumail
+I, [2015-11-28T20:11:50.592781 #2308]  INFO -- : sending email to bsodvn@gmail.com with token 98f29a12f455a55da47a4f672beb4e59 with reason register
+I, [2015-11-28T20:25:24.305810 #2308]  INFO -- : received: {"to":"phuonghoangak@gmail.com","token":"9541b22258bc1a09d2ad22d182c6786c","reason":"register"} on /topic/hpumail
+I, [2015-11-28T20:25:24.305810 #2308]  INFO -- : sending email to phuonghoangak@gmail.com with token 9541b22258bc1a09d2ad22d182c6786c with reason register
+I, [2015-11-28T20:34:56.904815 #2308]  INFO -- : received: {"to":"huuhung06@gmail.com","token":"017d62cc966ab4059ed38357cdb2996e","reason":"register"} on /topic/hpumail
+I, [2015-11-28T20:34:56.904815 #2308]  INFO -- : sending email to huuhung06@gmail.com with token 017d62cc966ab4059ed38357cdb2996e with reason register

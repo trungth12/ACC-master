@@ -1,0 +1,11 @@
+# Logfile created on 2019-08-26 08:16:21 +0700 by logger.rb/31641
+I, [2019-08-26T08:16:21.728863 #1756]  INFO -- : received: {"to":"phuongltn@hpu.edu.cn","token":"484ebfa0fc123f1f4142504589a35977","reason":"register"} on /topic/hpumail
+I, [2019-08-26T08:16:21.744463 #1756]  INFO -- : sending email to phuongltn@hpu.edu.cn with token 484ebfa0fc123f1f4142504589a35977 with reason register
+I, [2019-08-26T08:39:14.749675 #1756]  INFO -- : received: {"to":"giangnt@hpu.edu.vn","token":"2WXQ99TG","reason":"reset"} on /topic/hpumail
+I, [2019-08-26T08:39:14.749675 #1756]  INFO -- : sending email to giangnt@hpu.edu.vn with token 2WXQ99TG with reason reset
+I, [2019-08-26T08:50:12.431230 #1756]  INFO -- : received: {"to":"giangnt@hpu.edu.vn","token":"H2MEE2GG","reason":"reset"} on /topic/hpumail
+I, [2019-08-26T08:50:12.431230 #1756]  INFO -- : sending email to giangnt@hpu.edu.vn with token H2MEE2GG with reason reset
+I, [2019-08-26T12:23:24.282097 #1756]  INFO -- : received: {"to":"giangnt@hpu.edu.vn","token":"hagiang","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-26T12:23:24.282097 #1756]  INFO -- : sending email to giangnt@hpu.edu.vn with token hagiang with reason resetpassword
+I, [2019-08-26T21:27:13.720608 #1756]  INFO -- : received: {"to":"hoant@hpu.edu.vn","token":"ECMHE6X6","reason":"reset"} on /topic/hpumail
+I, [2019-08-26T21:27:13.720608 #1756]  INFO -- : sending email to hoant@hpu.edu.vn with token ECMHE6X6 with reason reset

@@ -1,0 +1,5 @@
+# Logfile created on 2016-03-26 09:10:58 +0700 by logger.rb/31641
+I, [2016-03-26T09:10:58.247010 #4408]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"RGK7QHNQ","reason":"reset"} on /topic/hpumail
+I, [2016-03-26T09:10:58.247010 #4408]  INFO -- : sending email to tamht.na1804@gmail.com with token RGK7QHNQ with reason reset
+I, [2016-03-26T09:14:25.337374 #4408]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"thanhtam12","reason":"resetpassword"} on /topic/hpumail
+I, [2016-03-26T09:14:25.337374 #4408]  INFO -- : sending email to tamht.na1804@gmail.com with token thanhtam12 with reason resetpassword

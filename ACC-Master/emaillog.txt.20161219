@@ -1,0 +1,7 @@
+# Logfile created on 2016-12-19 00:36:32 +0700 by logger.rb/31641
+I, [2016-12-19T00:36:32.269042 #2820]  INFO -- : received: {"to":"manhthangit92@gmail.com","token":"VYTER7EW","reason":"reset"} on /topic/hpumail
+I, [2016-12-19T00:36:32.315842 #2820]  INFO -- : sending email to manhthangit92@gmail.com with token VYTER7EW with reason reset
+I, [2016-12-19T00:37:52.468783 #2820]  INFO -- : received: {"to":"manhthangit92@gmail.com","token":"myl661608","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-19T00:37:52.468783 #2820]  INFO -- : sending email to manhthangit92@gmail.com with token myl661608 with reason resetpassword
+I, [2016-12-19T22:35:34.324778 #2668]  INFO -- : received: {"to":"anhpohp@gmail.com","token":"H6C9XFCZ","reason":"reset"} on /topic/hpumail
+I, [2016-12-19T22:35:34.324778 #2668]  INFO -- : sending email to anhpohp@gmail.com with token H6C9XFCZ with reason reset

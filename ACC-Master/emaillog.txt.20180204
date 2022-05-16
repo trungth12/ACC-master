@@ -1,0 +1,3 @@
+# Logfile created on 2018-01-25 14:18:18 +0700 by logger.rb/31641
+I, [2018-01-25T14:18:18.044820 #2044]  INFO -- : received: {"to":"ngocltb@hpu.edu.vn","token":"socyeu1402","reason":"resetpassword"} on /topic/hpumail
+I, [2018-01-25T14:18:18.076020 #2044]  INFO -- : sending email to ngocltb@hpu.edu.vn with token socyeu1402 with reason resetpassword

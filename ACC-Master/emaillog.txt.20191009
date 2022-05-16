@@ -1,0 +1,5 @@
+# Logfile created on 2019-10-08 10:12:01 +0700 by logger.rb/31641
+I, [2019-10-08T10:12:01.583632 #1840]  INFO -- : received: {"to":"truongvanle120196@gmail.com","token":"11a9850f391a412a8f5d8a3bef5e494b","reason":"register"} on /topic/hpumail
+I, [2019-10-08T10:12:01.646032 #1840]  INFO -- : sending email to truongvanle120196@gmail.com with token 11a9850f391a412a8f5d8a3bef5e494b with reason register
+I, [2019-10-08T11:42:34.558374 #1840]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"6V7J79TQ","reason":"reset"} on /topic/hpumail
+I, [2019-10-08T11:42:34.558374 #1840]  INFO -- : sending email to thuypt@hpu.edu.vn with token 6V7J79TQ with reason reset

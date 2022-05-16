@@ -1,0 +1,13 @@
+# Logfile created on 2016-12-28 08:22:16 +0700 by logger.rb/31641
+I, [2016-12-28T08:22:16.293575 #2676]  INFO -- : received: {"to":"vipxanh9xx@gmail.com","token":"XPNV3NCT","reason":"reset"} on /topic/hpumail
+I, [2016-12-28T08:22:16.402776 #2676]  INFO -- : sending email to vipxanh9xx@gmail.com with token XPNV3NCT with reason reset
+I, [2016-12-28T11:29:40.827496 #2676]  INFO -- : received: {"to":"tamha.nguyen91@gmail.com","token":"3WDMNKQY","reason":"reset"} on /topic/hpumail
+I, [2016-12-28T11:29:40.827496 #2676]  INFO -- : sending email to tamha.nguyen91@gmail.com with token 3WDMNKQY with reason reset
+I, [2016-12-28T13:54:31.327016 #2676]  INFO -- : received: {"to":"duongquoc142693187@gmail.com","token":"VFDDCAFD","reason":"reset"} on /topic/hpumail
+I, [2016-12-28T13:54:31.327016 #2676]  INFO -- : sending email to duongquoc142693187@gmail.com with token VFDDCAFD with reason reset
+I, [2016-12-28T13:56:38.662441 #2676]  INFO -- : received: {"to":"duongquoc142693187@gmail.com","token":"Anhvip24081994","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-28T13:56:38.662441 #2676]  INFO -- : sending email to duongquoc142693187@gmail.com with token Anhvip24081994 with reason resetpassword
+I, [2016-12-28T16:02:54.510597 #2676]  INFO -- : received: {"to":"quangminh.mt1801@gmail.com","token":"MWYNQ2ZM","reason":"reset"} on /topic/hpumail
+I, [2016-12-28T16:02:54.510597 #2676]  INFO -- : sending email to quangminh.mt1801@gmail.com with token MWYNQ2ZM with reason reset
+I, [2016-12-28T16:05:32.702276 #2676]  INFO -- : received: {"to":"quangminh.mt1801@gmail.com","token":"0912251337","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-28T16:05:32.702276 #2676]  INFO -- : sending email to quangminh.mt1801@gmail.com with token 0912251337 with reason resetpassword

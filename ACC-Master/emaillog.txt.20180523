@@ -1,0 +1,9 @@
+# Logfile created on 2018-05-22 08:47:34 +0700 by logger.rb/31641
+I, [2018-05-22T08:47:34.299008 #1868]  INFO -- : received: {"to":"chuyennt@hpu.edu.vn","token":"XTQKV2N9","reason":"reset"} on /topic/hpumail
+I, [2018-05-22T08:47:34.361408 #1868]  INFO -- : sending email to chuyennt@hpu.edu.vn with token XTQKV2N9 with reason reset
+I, [2018-05-22T15:20:36.267628 #1868]  INFO -- : received: {"to":"tuantrung@hpu.edu.vn","token":"YXNHNJ3C","reason":"reset"} on /topic/hpumail
+I, [2018-05-22T15:20:36.267628 #1868]  INFO -- : sending email to tuantrung@hpu.edu.vn with token YXNHNJ3C with reason reset
+I, [2018-05-22T15:28:15.813235 #1868]  INFO -- : received: {"to":"tuantrung@hpu.edu.vn","token":"63P9444R","reason":"reset"} on /topic/hpumail
+I, [2018-05-22T15:28:15.813235 #1868]  INFO -- : sending email to tuantrung@hpu.edu.vn with token 63P9444R with reason reset
+I, [2018-05-22T15:45:13.122222 #1868]  INFO -- : received: {"to":"tuantrung@hpu.edu.vn","token":"X6NG7PVR","reason":"reset"} on /topic/hpumail
+I, [2018-05-22T15:45:13.122222 #1868]  INFO -- : sending email to tuantrung@hpu.edu.vn with token X6NG7PVR with reason reset

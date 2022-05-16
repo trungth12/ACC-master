@@ -1,0 +1,3 @@
+# Logfile created on 2017-03-04 19:29:52 +0700 by logger.rb/31641
+I, [2017-03-04T19:29:52.835135 #2164]  INFO -- : received: {"to":"khoiv@acm.org","token":"cb8dbb7b8385fac7ec889dbb75ff2d21","reason":"register"} on /topic/hpumail
+I, [2017-03-04T19:29:52.875137 #2164]  INFO -- : sending email to khoiv@acm.org with token cb8dbb7b8385fac7ec889dbb75ff2d21 with reason register

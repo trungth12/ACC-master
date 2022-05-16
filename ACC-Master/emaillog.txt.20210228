@@ -1,0 +1,3 @@
+# Logfile created on 2021-01-31 02:43:13 +0700 by logger.rb/31641
+I, [2021-01-31T02:43:13.630844 #1860]  INFO -- : received: {"to":"nam5495@gmail.com","token":"GWEVXDN4","reason":"reset"} on /topic/hpumail
+I, [2021-01-31T02:43:13.646445 #1860]  INFO -- : sending email to nam5495@gmail.com with token GWEVXDN4 with reason reset

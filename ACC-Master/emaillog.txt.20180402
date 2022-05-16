@@ -1,0 +1,15 @@
+# Logfile created on 2018-04-02 08:57:03 +0700 by logger.rb/31641
+I, [2018-04-02T08:57:03.797434 #1068]  INFO -- : received: {"to":"tuyendvhpu@gmail.com","token":"GWP49X3Z","reason":"reset"} on /topic/hpumail
+I, [2018-04-02T08:57:03.828634 #1068]  INFO -- : sending email to tuyendvhpu@gmail.com with token GWP49X3Z with reason reset
+I, [2018-04-02T08:59:58.985742 #1068]  INFO -- : received: {"to":"tuyendvhpu@gmail.com","token":"@20082012p@ssw0rd%","reason":"resetpassword"} on /topic/hpumail
+I, [2018-04-02T08:59:58.985742 #1068]  INFO -- : sending email to tuyendvhpu@gmail.com with token @20082012p@ssw0rd% with reason resetpassword
+I, [2018-04-02T11:01:07.210108 #1068]  INFO -- : received: {"to":"tuyendvhpu@gmail.com","token":"123456","reason":"resetpassword"} on /topic/hpumail
+I, [2018-04-02T11:01:07.210108 #1068]  INFO -- : sending email to tuyendvhpu@gmail.com with token 123456 with reason resetpassword
+I, [2018-04-02T16:04:23.752868 #1068]  INFO -- : received: {"to":"oanhbt.hp@gmail.com","token":"ba00eb7afb19689c7539d5284e4866e2","reason":"register"} on /topic/hpumail
+I, [2018-04-02T16:04:24.002469 #1068]  INFO -- : sending email to oanhbt.hp@gmail.com with token ba00eb7afb19689c7539d5284e4866e2 with reason register
+I, [2018-04-02T22:02:18.563387 #1068]  INFO -- : received: {"to":"painterjoyhard@gmail.com","token":"4KYWD2V4","reason":"reset"} on /topic/hpumail
+I, [2018-04-02T22:02:18.578987 #1068]  INFO -- : sending email to painterjoyhard@gmail.com with token 4KYWD2V4 with reason reset
+I, [2018-04-02T22:05:16.544099 #1068]  INFO -- : received: {"to":"painterjoyhard@gmail.com","token":"AIMANHODUOC","reason":"resetpassword"} on /topic/hpumail
+I, [2018-04-02T22:05:16.544099 #1068]  INFO -- : sending email to painterjoyhard@gmail.com with token AIMANHODUOC with reason resetpassword
+I, [2018-04-02T22:10:43.068273 #1068]  INFO -- : received: {"to":"painterjoyhard@gmail.com","token":"aimanhoduoc","reason":"resetpassword"} on /topic/hpumail
+I, [2018-04-02T22:10:43.068273 #1068]  INFO -- : sending email to painterjoyhard@gmail.com with token aimanhoduoc with reason resetpassword

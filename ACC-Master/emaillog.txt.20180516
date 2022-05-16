@@ -1,0 +1,7 @@
+# Logfile created on 2018-05-14 06:44:39 +0700 by logger.rb/31641
+I, [2018-05-14T06:44:39.949182 #1068]  INFO -- : received: {"to":"minhdc@hpu.edu.vn","token":"GPFJ4F2E","reason":"reset"} on /topic/hpumail
+I, [2018-05-14T06:44:39.964782 #1068]  INFO -- : sending email to minhdc@hpu.edu.vn with token GPFJ4F2E with reason reset
+I, [2018-05-14T06:44:52.912805 #1068]  INFO -- : received: {"to":"minhdc@hpu.edu.vn","token":"Q6KZEAXM","reason":"reset"} on /topic/hpumail
+I, [2018-05-14T06:44:52.912805 #1068]  INFO -- : sending email to minhdc@hpu.edu.vn with token Q6KZEAXM with reason reset
+I, [2018-05-14T08:22:55.215137 #1068]  INFO -- : received: {"to":"qtquangtungqt@gmail.com","token":"345c0a37f833218eab22dba7230abbe1","reason":"register"} on /topic/hpumail
+I, [2018-05-14T08:22:55.215137 #1068]  INFO -- : sending email to qtquangtungqt@gmail.com with token 345c0a37f833218eab22dba7230abbe1 with reason register

@@ -1,0 +1,9 @@
+# Logfile created on 2021-04-13 14:51:45 +0700 by logger.rb/31641
+I, [2021-04-13T14:51:45.741920 #1852]  INFO -- : received: {"to":"ir@hpu.edu.vn","token":"624c44e0fd6e78878fad98e0b2ef4245","reason":"register"} on /topic/hpumail
+I, [2021-04-13T14:51:45.804320 #1852]  INFO -- : sending email to ir@hpu.edu.vn with token 624c44e0fd6e78878fad98e0b2ef4245 with reason register
+I, [2021-04-13T14:52:23.759187 #1852]  INFO -- : received: {"to":"pdt@hpu.edu.vn","token":"83f6d8a25be608511536b50887112684","reason":"register"} on /topic/hpumail
+I, [2021-04-13T14:52:23.759187 #1852]  INFO -- : sending email to pdt@hpu.edu.vn with token 83f6d8a25be608511536b50887112684 with reason register
+I, [2021-04-13T14:53:05.988461 #1852]  INFO -- : received: {"to":"pthc@hpu.edu.vn","token":"8e8d5025583f2d8b0b12653d89c7d9c1","reason":"register"} on /topic/hpumail
+I, [2021-04-13T14:53:05.988461 #1852]  INFO -- : sending email to pthc@hpu.edu.vn with token 8e8d5025583f2d8b0b12653d89c7d9c1 with reason register
+I, [2021-04-13T14:55:30.148314 #1852]  INFO -- : received: {"to":"luat@hpu.edu.vn","token":"4db6135f358feecccd8792ecab6cf713","reason":"register"} on /topic/hpumail
+I, [2021-04-13T14:55:30.163914 #1852]  INFO -- : sending email to luat@hpu.edu.vn with token 4db6135f358feecccd8792ecab6cf713 with reason register

@@ -1,0 +1,3 @@
+# Logfile created on 2020-07-23 18:06:50 +0700 by logger.rb/31641
+I, [2020-07-23T18:06:50.927295 #1820]  INFO -- : received: {"to":"legiatienanlao@gmail.com","token":"WXYFX9MC","reason":"reset"} on /topic/hpumail
+I, [2020-07-23T18:06:50.942895 #1820]  INFO -- : sending email to legiatienanlao@gmail.com with token WXYFX9MC with reason reset

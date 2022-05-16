@@ -1,0 +1,5 @@
+# Logfile created on 2018-04-03 22:58:34 +0700 by logger.rb/31641
+I, [2018-04-03T22:58:34.505870 #1068]  INFO -- : received: {"to":"daothanhhaic1108h@gmail.com","token":"HRQCPKYM","reason":"reset"} on /topic/hpumail
+I, [2018-04-03T22:58:34.583870 #1068]  INFO -- : sending email to daothanhhaic1108h@gmail.com with token HRQCPKYM with reason reset
+I, [2018-04-03T23:05:25.613392 #1068]  INFO -- : received: {"to":"daothanhhaic1108h@gmail.com","token":"Ngocngocngoc511","reason":"resetpassword"} on /topic/hpumail
+I, [2018-04-03T23:05:25.628992 #1068]  INFO -- : sending email to daothanhhaic1108h@gmail.com with token Ngocngocngoc511 with reason resetpassword

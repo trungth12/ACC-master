@@ -1,0 +1,5 @@
+# Logfile created on 2016-07-23 14:58:11 +0700 by logger.rb/31641
+I, [2016-07-23T14:58:11.953231 #3040]  INFO -- : received: {"to":"bongblue2210@gmail.com","token":"ming2210","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-23T14:58:11.978233 #3040]  INFO -- : sending email to bongblue2210@gmail.com with token ming2210 with reason resetpassword
+I, [2016-07-23T14:59:05.281281 #3040]  INFO -- : received: {"to":"bongblue2210@gmail.com","token":"ming22210","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-23T14:59:05.282282 #3040]  INFO -- : sending email to bongblue2210@gmail.com with token ming22210 with reason resetpassword

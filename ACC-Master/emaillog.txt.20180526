@@ -1,0 +1,11 @@
+# Logfile created on 2018-05-26 07:03:30 +0700 by logger.rb/31641
+I, [2018-05-26T07:03:30.606682 #1868]  INFO -- : received: {"to":"danghp94@gmail.com","token":"Q23EE9FC","reason":"reset"} on /topic/hpumail
+I, [2018-05-26T07:03:30.637882 #1868]  INFO -- : sending email to danghp94@gmail.com with token Q23EE9FC with reason reset
+I, [2018-05-26T07:50:44.492060 #1868]  INFO -- : received: {"to":"danghp94@gmail.com","token":"X6FGDD4Z","reason":"reset"} on /topic/hpumail
+I, [2018-05-26T07:50:44.492060 #1868]  INFO -- : sending email to danghp94@gmail.com with token X6FGDD4Z with reason reset
+I, [2018-05-26T08:47:03.223994 #1868]  INFO -- : received: {"to":"danghp94@gmail.com","token":"ZRNXPGZ6","reason":"reset"} on /topic/hpumail
+I, [2018-05-26T08:47:03.223994 #1868]  INFO -- : sending email to danghp94@gmail.com with token ZRNXPGZ6 with reason reset
+I, [2018-05-26T09:53:49.888232 #1868]  INFO -- : received: {"to":"danghp94@gmail.com","token":"DAN4ZMCQ","reason":"reset"} on /topic/hpumail
+I, [2018-05-26T09:53:49.888232 #1868]  INFO -- : sending email to danghp94@gmail.com with token DAN4ZMCQ with reason reset
+I, [2018-05-26T11:01:37.860577 #1868]  INFO -- : received: {"to":"danghp94@gmail.com","token":"9W4VVDA3","reason":"reset"} on /topic/hpumail
+I, [2018-05-26T11:01:37.860577 #1868]  INFO -- : sending email to danghp94@gmail.com with token 9W4VVDA3 with reason reset

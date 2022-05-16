@@ -1,0 +1,7 @@
+# Logfile created on 2017-02-09 10:07:41 +0700 by logger.rb/31641
+I, [2017-02-09T10:07:41.776892 #2676]  INFO -- : received: {"to":"hoangminhhahp@hpu.edu.vn","token":"2JMRWJ2D","reason":"reset"} on /topic/hpumail
+I, [2017-02-09T10:07:41.808092 #2676]  INFO -- : sending email to hoangminhhahp@hpu.edu.vn with token 2JMRWJ2D with reason reset
+I, [2017-02-09T10:08:53.615019 #2676]  INFO -- : received: {"to":"hoangminhhahp@hpu.edu.vn","token":"viet1huy2","reason":"resetpassword"} on /topic/hpumail
+I, [2017-02-09T10:08:53.615019 #2676]  INFO -- : sending email to hoangminhhahp@hpu.edu.vn with token viet1huy2 with reason resetpassword
+I, [2017-02-09T16:02:38.934299 #2676]  INFO -- : received: {"to":"huyanhdaydreams@gmail.com","token":"f6620f60db3ad53dd4428ab7fbac2974","reason":"register"} on /topic/hpumail
+I, [2017-02-09T16:02:38.934299 #2676]  INFO -- : sending email to huyanhdaydreams@gmail.com with token f6620f60db3ad53dd4428ab7fbac2974 with reason register

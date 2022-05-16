@@ -1,0 +1,5 @@
+# Logfile created on 2016-07-30 11:43:24 +0700 by logger.rb/31641
+I, [2016-07-30T11:43:24.851765 #4064]  INFO -- : received: {"to":"nguyenducminh124@gmail.com","token":"JMHHVHV9","reason":"reset"} on /topic/hpumail
+I, [2016-07-30T11:43:25.131781 #4064]  INFO -- : sending email to nguyenducminh124@gmail.com with token JMHHVHV9 with reason reset
+I, [2016-07-30T11:54:37.142218 #4064]  INFO -- : received: {"to":"nguyenducminh124@gmail.com","token":"0123456789","reason":"resetpassword"} on /topic/hpumail
+I, [2016-07-30T11:54:37.143218 #4064]  INFO -- : sending email to nguyenducminh124@gmail.com with token 0123456789 with reason resetpassword

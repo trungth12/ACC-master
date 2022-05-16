@@ -1,0 +1,19 @@
+# Logfile created on 2015-12-26 08:42:06 +0700 by logger.rb/31641
+I, [2015-12-26T08:42:06.739203 #2352]  INFO -- : received: {"to":"kellyhpu@gmail.com","token":"HDRNFFQE","reason":"reset"} on /topic/hpumail
+I, [2015-12-26T08:42:06.739203 #2352]  INFO -- : sending email to kellyhpu@gmail.com with token HDRNFFQE with reason reset
+I, [2015-12-26T08:48:59.344327 #2352]  INFO -- : received: {"to":"kellyhpu@gmail.com","token":"30081993","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-26T08:48:59.344327 #2352]  INFO -- : sending email to kellyhpu@gmail.com with token 30081993 with reason resetpassword
+I, [2015-12-26T10:38:32.712273 #2352]  INFO -- : received: {"to":"anhthevodka@gmail.com","token":"JW22Q66P","reason":"reset"} on /topic/hpumail
+I, [2015-12-26T10:38:32.712273 #2352]  INFO -- : sending email to anhthevodka@gmail.com with token JW22Q66P with reason reset
+I, [2015-12-26T10:41:23.423373 #2352]  INFO -- : received: {"to":"anhthevodka@gmail.com","token":"1312401016","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-26T10:41:23.423373 #2352]  INFO -- : sending email to anhthevodka@gmail.com with token 1312401016 with reason resetpassword
+I, [2015-12-26T10:42:06.105048 #2352]  INFO -- : received: {"to":"tranthaotrang.0903@gmail.com","token":"1312401016","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-26T10:42:06.105048 #2352]  INFO -- : sending email to tranthaotrang.0903@gmail.com with token 1312401016 with reason resetpassword
+I, [2015-12-26T11:59:58.453654 #2352]  INFO -- : received: {"to":"thiennguyen1127@gmail.com","token":"c46cb312130cb8b04db73f146cd5d246","reason":"register"} on /topic/hpumail
+I, [2015-12-26T11:59:58.453654 #2352]  INFO -- : sending email to thiennguyen1127@gmail.com with token c46cb312130cb8b04db73f146cd5d246 with reason register
+I, [2015-12-26T13:07:39.905188 #2352]  INFO -- : received: {"to":"linhpham232131@gmail.com","token":"123456","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-26T13:07:39.905188 #2352]  INFO -- : sending email to linhpham232131@gmail.com with token 123456 with reason resetpassword
+I, [2015-12-26T13:11:11.004759 #2352]  INFO -- : received: {"to":"quyenviphp@gmail.com","token":"quyenmai270594","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-26T13:11:11.004759 #2352]  INFO -- : sending email to quyenviphp@gmail.com with token quyenmai270594 with reason resetpassword
+I, [2015-12-26T21:07:32.345359 #2352]  INFO -- : received: {"to":"nguyenkhoa83vd@gmail.com","token":"e81fe3ec3158cf27a394aea8848b9d3f","reason":"register"} on /topic/hpumail
+I, [2015-12-26T21:07:32.345359 #2352]  INFO -- : sending email to nguyenkhoa83vd@gmail.com with token e81fe3ec3158cf27a394aea8848b9d3f with reason register

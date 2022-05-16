@@ -1,0 +1,7 @@
+# Logfile created on 2019-08-25 20:26:31 +0700 by logger.rb/31641
+I, [2019-08-25T20:26:31.534292 #1776]  INFO -- : received: {"to":"anhnth@hpu.edu.vn","token":"VPKWTZ4W","reason":"reset"} on /topic/hpumail
+I, [2019-08-25T20:26:31.534292 #1776]  INFO -- : sending email to anhnth@hpu.edu.vn with token VPKWTZ4W with reason reset
+I, [2019-08-25T20:28:09.970465 #1776]  INFO -- : received: {"to":"anhnth@hpu.edu.vn","token":"JWGYYCDH","reason":"reset"} on /topic/hpumail
+I, [2019-08-25T20:28:09.970465 #1776]  INFO -- : sending email to anhnth@hpu.edu.vn with token JWGYYCDH with reason reset
+I, [2019-08-25T22:46:04.661798 #1776]  INFO -- : received: {"to":"tuoint@hpu.edu.vn","token":"2ZW26AXX","reason":"reset"} on /topic/hpumail
+I, [2019-08-25T22:46:04.661798 #1776]  INFO -- : sending email to tuoint@hpu.edu.vn with token 2ZW26AXX with reason reset

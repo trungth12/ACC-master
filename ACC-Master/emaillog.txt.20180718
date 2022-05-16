@@ -1,0 +1,7 @@
+# Logfile created on 2018-07-13 04:09:49 +0700 by logger.rb/31641
+I, [2018-07-13T04:09:49.119966 #1836]  INFO -- : received: {"to":"duongnamtn93@gmail.com","token":"7a7083cfb4436f00d3e6f4951b1bf47c","reason":"register"} on /topic/hpumail
+I, [2018-07-13T04:09:49.135566 #1836]  INFO -- : sending email to duongnamtn93@gmail.com with token 7a7083cfb4436f00d3e6f4951b1bf47c with reason register
+I, [2018-07-13T23:32:02.849247 #1836]  INFO -- : received: {"to":"ductrungcpu@gmail.com","token":"T4NJYPEH","reason":"reset"} on /topic/hpumail
+I, [2018-07-13T23:32:02.849247 #1836]  INFO -- : sending email to ductrungcpu@gmail.com with token T4NJYPEH with reason reset
+I, [2018-07-13T23:33:01.676950 #1836]  INFO -- : received: {"to":"ductrungcpu@gmail.com","token":"doithian123","reason":"resetpassword"} on /topic/hpumail
+I, [2018-07-13T23:33:01.676950 #1836]  INFO -- : sending email to ductrungcpu@gmail.com with token doithian123 with reason resetpassword

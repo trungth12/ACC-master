@@ -1,0 +1,7 @@
+# Logfile created on 2020-02-25 15:34:10 +0700 by logger.rb/31641
+I, [2020-02-25T15:34:10.519866 #1852]  INFO -- : received: {"to":"boy.mrhobao@gmail.com","token":"PGVYEK6H","reason":"reset"} on /topic/hpumail
+I, [2020-02-25T15:34:10.535466 #1852]  INFO -- : sending email to boy.mrhobao@gmail.com with token PGVYEK6H with reason reset
+I, [2020-02-25T15:37:06.378975 #1852]  INFO -- : received: {"to":"boy.mrhobao@gmail.com","token":"4EWTGE46","reason":"reset"} on /topic/hpumail
+I, [2020-02-25T15:37:06.378975 #1852]  INFO -- : sending email to boy.mrhobao@gmail.com with token 4EWTGE46 with reason reset
+I, [2020-02-25T15:39:34.345235 #1852]  INFO -- : received: {"to":"boy.mrhobao@gmail.com","token":"D2MXP46H","reason":"reset"} on /topic/hpumail
+I, [2020-02-25T15:39:34.345235 #1852]  INFO -- : sending email to boy.mrhobao@gmail.com with token D2MXP46H with reason reset

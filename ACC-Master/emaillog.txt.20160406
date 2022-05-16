@@ -1,0 +1,5 @@
+# Logfile created on 2016-04-05 08:31:00 +0700 by logger.rb/31641
+I, [2016-04-05T08:31:00.578365 #2920]  INFO -- : received: {"to":"tranthiduyenhp94@gmail.com","token":"2JF4E72X","reason":"reset"} on /topic/hpumail
+I, [2016-04-05T08:31:00.625165 #2920]  INFO -- : sending email to tranthiduyenhp94@gmail.com with token 2JF4E72X with reason reset
+I, [2016-04-05T09:26:23.867802 #2920]  INFO -- : received: {"to":"longhama691@gmail.com","token":"ZAYZZED7","reason":"reset"} on /topic/hpumail
+I, [2016-04-05T09:26:23.867802 #2920]  INFO -- : sending email to longhama691@gmail.com with token ZAYZZED7 with reason reset

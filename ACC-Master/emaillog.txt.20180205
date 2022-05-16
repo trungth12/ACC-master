@@ -1,0 +1,3 @@
+# Logfile created on 2018-02-05 08:14:21 +0700 by logger.rb/31641
+I, [2018-02-05T08:14:21.145334 #2044]  INFO -- : received: {"to":"surjsmall@gmail.com","token":"fc3df9f2372e1afb8d4d221ba995b533","reason":"register"} on /topic/hpumail
+I, [2018-02-05T08:14:21.238934 #2044]  INFO -- : sending email to surjsmall@gmail.com with token fc3df9f2372e1afb8d4d221ba995b533 with reason register

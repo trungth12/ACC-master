@@ -1,0 +1,3 @@
+# Logfile created on 2017-06-22 17:01:26 +0700 by logger.rb/31641
+I, [2017-06-22T17:01:26.461438 #2632]  INFO -- : received: {"to":"tieuyentu92@gmail.com","token":"JV76FWF2","reason":"reset"} on /topic/hpumail
+I, [2017-06-22T17:01:26.492638 #2632]  INFO -- : sending email to tieuyentu92@gmail.com with token JV76FWF2 with reason reset

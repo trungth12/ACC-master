@@ -1,0 +1,5 @@
+# Logfile created on 2017-12-21 14:38:04 +0700 by logger.rb/31641
+I, [2017-12-21T14:38:04.259676 #1876]  INFO -- : received: {"to":"nhatquanghp96@gmail.com","token":"N2QK37CG","reason":"reset"} on /topic/hpumail
+I, [2017-12-21T14:38:04.275276 #1876]  INFO -- : sending email to nhatquanghp96@gmail.com with token N2QK37CG with reason reset
+I, [2017-12-21T14:39:30.730628 #1876]  INFO -- : received: {"to":"nhatquanghp96@gmail.com","token":"01287350946","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-21T14:39:30.730628 #1876]  INFO -- : sending email to nhatquanghp96@gmail.com with token 01287350946 with reason resetpassword

@@ -1,0 +1,5 @@
+# Logfile created on 2016-05-12 17:57:11 +0700 by logger.rb/31641
+I, [2016-05-12T17:57:11.006794 #2012]  INFO -- : received: {"to":"tamha.nguyen91@gmail.com","token":"EQV2QWEA","reason":"reset"} on /topic/hpumail
+I, [2016-05-12T17:57:11.074798 #2012]  INFO -- : sending email to tamha.nguyen91@gmail.com with token EQV2QWEA with reason reset
+I, [2016-05-12T21:06:59.017151 #2012]  INFO -- : received: {"to":"thuyduong1804k@gmail.com","token":"A96K3QKK","reason":"reset"} on /topic/hpumail
+I, [2016-05-12T21:06:59.018151 #2012]  INFO -- : sending email to thuyduong1804k@gmail.com with token A96K3QKK with reason reset

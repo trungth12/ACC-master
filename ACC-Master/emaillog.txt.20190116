@@ -1,0 +1,3 @@
+# Logfile created on 2019-01-06 23:37:06 +0700 by logger.rb/31641
+I, [2019-01-06T23:37:06.024159 #1300]  INFO -- : received: {"to":"onlyyou84999@gmail.com","token":"HTE9MTRC","reason":"reset"} on /topic/hpumail
+I, [2019-01-06T23:37:06.039759 #1300]  INFO -- : sending email to onlyyou84999@gmail.com with token HTE9MTRC with reason reset

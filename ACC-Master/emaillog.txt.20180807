@@ -1,0 +1,5 @@
+# Logfile created on 2018-08-07 09:46:25 +0700 by logger.rb/31641
+I, [2018-08-07T09:46:24.938792 #1816]  INFO -- : received: {"to":"myththanthoaiboy8x@gmail.com","token":"VuCanh","reason":"resetpassword"} on /topic/hpumail
+I, [2018-08-07T09:46:25.016792 #1816]  INFO -- : sending email to myththanthoaiboy8x@gmail.com with token VuCanh with reason resetpassword
+I, [2018-08-07T16:56:38.350930 #1816]  INFO -- : received: {"to":"thuyduong6296@gmail.com","token":"4HZ67PZN","reason":"reset"} on /topic/hpumail
+I, [2018-08-07T16:56:38.366530 #1816]  INFO -- : sending email to thuyduong6296@gmail.com with token 4HZ67PZN with reason reset

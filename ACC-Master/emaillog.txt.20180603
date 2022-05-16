@@ -1,0 +1,5 @@
+# Logfile created on 2018-06-02 13:18:42 +0700 by logger.rb/31641
+I, [2018-06-02T13:18:42.322331 #2128]  INFO -- : received: {"to":"goilabomuoi@gmail.com","token":"6C6DHCTJ","reason":"reset"} on /topic/hpumail
+I, [2018-06-02T13:18:42.337931 #2128]  INFO -- : sending email to goilabomuoi@gmail.com with token 6C6DHCTJ with reason reset
+I, [2018-06-02T16:25:22.876803 #2128]  INFO -- : received: {"to":"giaminh1809@gmail.com","token":"E3GKW6XK","reason":"reset"} on /topic/hpumail
+I, [2018-06-02T16:25:22.876803 #2128]  INFO -- : sending email to giaminh1809@gmail.com with token E3GKW6XK with reason reset

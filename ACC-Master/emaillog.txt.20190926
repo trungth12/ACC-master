@@ -1,0 +1,13 @@
+# Logfile created on 2019-09-26 09:45:21 +0700 by logger.rb/31641
+I, [2019-09-26T09:45:21.114768 #2032]  INFO -- : received: {"to":"doanvanngochp@gmail.com","token":"PA72Q2PW","reason":"reset"} on /topic/hpumail
+I, [2019-09-26T09:45:21.114768 #2032]  INFO -- : sending email to doanvanngochp@gmail.com with token PA72Q2PW with reason reset
+I, [2019-09-26T09:45:58.414434 #2032]  INFO -- : received: {"to":"doanvanngochp@gmail.com","token":"CQGP29ZR","reason":"reset"} on /topic/hpumail
+I, [2019-09-26T09:45:58.414434 #2032]  INFO -- : sending email to doanvanngochp@gmail.com with token CQGP29ZR with reason reset
+I, [2019-09-26T10:17:09.637720 #2032]  INFO -- : received: {"to":"doanvanngochp@gmail.com","token":"6MV3JZKJ","reason":"reset"} on /topic/hpumail
+I, [2019-09-26T10:17:09.637720 #2032]  INFO -- : sending email to doanvanngochp@gmail.com with token 6MV3JZKJ with reason reset
+I, [2019-09-26T10:19:06.201125 #2032]  INFO -- : received: {"to":"doanvanngochp@gmail.com","token":"KGRCJP43","reason":"reset"} on /topic/hpumail
+I, [2019-09-26T10:19:06.201125 #2032]  INFO -- : sending email to doanvanngochp@gmail.com with token KGRCJP43 with reason reset
+I, [2019-09-26T10:35:52.028492 #2032]  INFO -- : received: {"to":"vodanhhp95@gmail.com","token":"01226450452","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-26T10:35:52.028492 #2032]  INFO -- : sending email to vodanhhp95@gmail.com with token 01226450452 with reason resetpassword
+I, [2019-09-26T21:58:28.558828 #2032]  INFO -- : received: {"to":"tungphan2591195@gmail.com","token":"JVM4ZAHT","reason":"reset"} on /topic/hpumail
+I, [2019-09-26T21:58:28.558828 #2032]  INFO -- : sending email to tungphan2591195@gmail.com with token JVM4ZAHT with reason reset

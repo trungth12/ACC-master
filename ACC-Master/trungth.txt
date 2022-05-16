@@ -1,0 +1,6 @@
+
+C:\ACC-Master>set RACK_ENV=production 
+
+C:\ACC-Master>bundle exec puma config.ru -b tcp://0.0.0.0:3004 -t 4:32 RACK_ENV=production 
+HTTPI GET request to 10.1.0.236 (net_http)
+HTTPI GET request to 10.1.0.236 (net_http)

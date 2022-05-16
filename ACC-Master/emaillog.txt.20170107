@@ -1,0 +1,3 @@
+# Logfile created on 2017-01-07 12:06:50 +0700 by logger.rb/31641
+I, [2017-01-07T12:06:50.182405 #2700]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"DAE6M7C6","reason":"reset"} on /topic/hpumail
+I, [2017-01-07T12:06:50.260405 #2700]  INFO -- : sending email to tamht.na1804@gmail.com with token DAE6M7C6 with reason reset

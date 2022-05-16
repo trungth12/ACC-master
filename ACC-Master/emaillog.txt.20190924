@@ -1,0 +1,7 @@
+# Logfile created on 2019-09-24 08:39:06 +0700 by logger.rb/31641
+I, [2019-09-24T08:39:06.705480 #2032]  INFO -- : received: {"to":"ledat748@gmail.com","token":"6XYDPRAK","reason":"reset"} on /topic/hpumail
+I, [2019-09-24T08:39:06.721080 #2032]  INFO -- : sending email to ledat748@gmail.com with token 6XYDPRAK with reason reset
+I, [2019-09-24T08:39:41.633942 #2032]  INFO -- : received: {"to":"quanganhhp23@gmail.com","token":"3XK4FGEX","reason":"reset"} on /topic/hpumail
+I, [2019-09-24T08:39:41.633942 #2032]  INFO -- : sending email to quanganhhp23@gmail.com with token 3XK4FGEX with reason reset
+I, [2019-09-24T08:42:48.397470 #2032]  INFO -- : received: {"to":"cn071143@gmail.com","token":"3X9CNKF7","reason":"reset"} on /topic/hpumail
+I, [2019-09-24T08:42:48.397470 #2032]  INFO -- : sending email to cn071143@gmail.com with token 3X9CNKF7 with reason reset

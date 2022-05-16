@@ -1,0 +1,15 @@
+# Logfile created on 2021-09-06 14:58:21 +0700 by logger.rb/31641
+I, [2021-09-06T14:58:21.748750 #5960]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"QNXX6MCY","reason":"reset"} on /topic/hpumail
+I, [2021-09-06T14:58:21.764350 #5960]  INFO -- : sending email to thuypt@hpu.edu.vn with token QNXX6MCY with reason reset
+I, [2021-09-06T14:58:31.465967 #5960]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"6YZYTM4A","reason":"reset"} on /topic/hpumail
+I, [2021-09-06T14:58:31.465967 #5960]  INFO -- : sending email to thuypt@hpu.edu.vn with token 6YZYTM4A with reason reset
+I, [2021-09-06T14:58:45.494919 #5960]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"22YAGT7D","reason":"reset"} on /topic/hpumail
+I, [2021-09-06T14:58:45.494919 #5960]  INFO -- : sending email to thuypt@hpu.edu.vn with token 22YAGT7D with reason reset
+I, [2021-09-06T14:58:52.515332 #5960]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"YHM39E2P","reason":"reset"} on /topic/hpumail
+I, [2021-09-06T14:58:52.515332 #5960]  INFO -- : sending email to thuypt@hpu.edu.vn with token YHM39E2P with reason reset
+I, [2021-09-06T14:58:57.524941 #5960]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"YCA9MY46","reason":"reset"} on /topic/hpumail
+I, [2021-09-06T14:58:57.524941 #5960]  INFO -- : sending email to thuypt@hpu.edu.vn with token YCA9MY46 with reason reset
+I, [2021-09-06T14:59:08.540961 #5960]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"PKWTNDTC","reason":"reset"} on /topic/hpumail
+I, [2021-09-06T14:59:08.556561 #5960]  INFO -- : sending email to thuypt@hpu.edu.vn with token PKWTNDTC with reason reset
+I, [2021-09-06T14:59:17.571778 #5960]  INFO -- : received: {"to":"thuypt@hpu.edu.vn","token":"HT3E3TKH","reason":"reset"} on /topic/hpumail
+I, [2021-09-06T14:59:17.587378 #5960]  INFO -- : sending email to thuypt@hpu.edu.vn with token HT3E3TKH with reason reset

@@ -1,0 +1,7 @@
+# Logfile created on 2019-08-17 08:13:22 +0700 by logger.rb/31641
+I, [2019-08-17T08:13:22.379456 #2012]  INFO -- : received: {"to":"hoangminhhahp@hpu.edu.vn","token":"EYG744Z2","reason":"reset"} on /topic/hpumail
+I, [2019-08-17T08:13:22.395056 #2012]  INFO -- : sending email to hoangminhhahp@hpu.edu.vn with token EYG744Z2 with reason reset
+I, [2019-08-17T08:43:47.925862 #2012]  INFO -- : received: {"to":"hoangminhhahp@hpu.edu.vn","token":"viet1huy2","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-17T08:43:47.925862 #2012]  INFO -- : sending email to hoangminhhahp@hpu.edu.vn with token viet1huy2 with reason resetpassword
+I, [2019-08-17T22:12:55.445131 #2012]  INFO -- : received: {"to":"linhdtm@hpu.edu.vn","token":"54f0a600c710d4bec869f7d4cdcac48c","reason":"register"} on /topic/hpumail
+I, [2019-08-17T22:12:55.445131 #2012]  INFO -- : sending email to linhdtm@hpu.edu.vn with token 54f0a600c710d4bec869f7d4cdcac48c with reason register

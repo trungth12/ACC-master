@@ -1,0 +1,13 @@
+# Logfile created on 2019-08-01 09:46:02 +0700 by logger.rb/31641
+I, [2019-08-01T09:46:02.822302 #2020]  INFO -- : received: {"to":"cuongkhiconhp@gmail.com","token":"QKVZ4H9D","reason":"reset"} on /topic/hpumail
+I, [2019-08-01T09:46:02.822302 #2020]  INFO -- : sending email to cuongkhiconhp@gmail.com with token QKVZ4H9D with reason reset
+I, [2019-08-01T09:46:50.854787 #2020]  INFO -- : received: {"to":"cuongkhiconhp@gmail.com","token":"N4ZCA7PT","reason":"reset"} on /topic/hpumail
+I, [2019-08-01T09:46:50.854787 #2020]  INFO -- : sending email to cuongkhiconhp@gmail.com with token N4ZCA7PT with reason reset
+I, [2019-08-01T14:52:23.944587 #2020]  INFO -- : received: {"to":"giangbimdshp@gmail.com","token":"N9CTKXVM","reason":"reset"} on /topic/hpumail
+I, [2019-08-01T14:52:23.944587 #2020]  INFO -- : sending email to giangbimdshp@gmail.com with token N9CTKXVM with reason reset
+I, [2019-08-01T14:56:10.300985 #2020]  INFO -- : received: {"to":"giangbimdshp@gmail.com","token":"19961202","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-01T14:56:10.300985 #2020]  INFO -- : sending email to giangbimdshp@gmail.com with token 19961202 with reason resetpassword
+I, [2019-08-01T17:02:55.579543 #2020]  INFO -- : received: {"to":"jullydang111@gmail.com","token":"43KKJW4Q","reason":"reset"} on /topic/hpumail
+I, [2019-08-01T17:02:55.579543 #2020]  INFO -- : sending email to jullydang111@gmail.com with token 43KKJW4Q with reason reset
+I, [2019-08-01T17:05:51.454252 #2020]  INFO -- : received: {"to":"jullydang111@gmail.com","token":"nguyenthiloandangthanhhoa","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-01T17:05:51.454252 #2020]  INFO -- : sending email to jullydang111@gmail.com with token nguyenthiloandangthanhhoa with reason resetpassword

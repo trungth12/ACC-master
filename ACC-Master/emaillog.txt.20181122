@@ -1,0 +1,7 @@
+# Logfile created on 2018-10-29 10:51:15 +0700 by logger.rb/31641
+I, [2018-10-29T10:51:15.915076 #2128]  INFO -- : received: {"to":"nguyendangthuy1611@gmail.com","token":"ZGZ9GXPP","reason":"reset"} on /topic/hpumail
+I, [2018-10-29T10:51:16.008676 #2128]  INFO -- : sending email to nguyendangthuy1611@gmail.com with token ZGZ9GXPP with reason reset
+I, [2018-10-29T11:45:07.741552 #2128]  INFO -- : received: {"to":"anhhoang250197@gmail.com","token":"4M23YY6G","reason":"reset"} on /topic/hpumail
+I, [2018-10-29T11:45:07.741552 #2128]  INFO -- : sending email to anhhoang250197@gmail.com with token 4M23YY6G with reason reset
+I, [2018-10-29T20:13:54.826770 #2128]  INFO -- : received: {"to":"nguyenhaohuy20@gmail.com","token":"dab1bd6a80665efd6e323210b15a03e8","reason":"register"} on /topic/hpumail
+I, [2018-10-29T20:13:54.873571 #2128]  INFO -- : sending email to nguyenhaohuy20@gmail.com with token dab1bd6a80665efd6e323210b15a03e8 with reason register

@@ -1,0 +1,5 @@
+# Logfile created on 2017-10-03 13:52:34 +0700 by logger.rb/31641
+I, [2017-10-03T13:52:34.925386 #1464]  INFO -- : received: {"to":"myheartkilling@gmail.com","token":"16071994","reason":"resetpassword"} on /topic/hpumail
+I, [2017-10-03T13:52:34.940986 #1464]  INFO -- : sending email to myheartkilling@gmail.com with token 16071994 with reason resetpassword
+I, [2017-10-03T15:21:11.835925 #1464]  INFO -- : received: {"to":"tocngan165.hq@gmail.com","token":"9D4M7QWY","reason":"reset"} on /topic/hpumail
+I, [2017-10-03T15:21:11.835925 #1464]  INFO -- : sending email to tocngan165.hq@gmail.com with token 9D4M7QWY with reason reset

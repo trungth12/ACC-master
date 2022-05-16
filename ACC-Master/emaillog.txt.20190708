@@ -1,0 +1,3 @@
+# Logfile created on 2019-07-08 07:58:48 +0700 by logger.rb/31641
+I, [2019-07-08T07:58:48.121905 #1948]  INFO -- : received: {"to":"dungtt@hpu.edu.vn","token":"123456","reason":"resetpassword"} on /topic/hpumail
+I, [2019-07-08T07:58:48.371505 #1948]  INFO -- : sending email to dungtt@hpu.edu.vn with token 123456 with reason resetpassword

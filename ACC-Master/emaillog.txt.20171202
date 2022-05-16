@@ -1,0 +1,7 @@
+# Logfile created on 2017-12-02 07:49:25 +0700 by logger.rb/31641
+I, [2017-12-02T07:49:25.176818 #1916]  INFO -- : received: {"to":"djhuypro@gmail.com","token":"VR9RD49E","reason":"reset"} on /topic/hpumail
+I, [2017-12-02T07:49:25.192418 #1916]  INFO -- : sending email to djhuypro@gmail.com with token VR9RD49E with reason reset
+I, [2017-12-02T07:57:11.305637 #1916]  INFO -- : received: {"to":"pham_thuyhang2001@yahoo.com","token":"0a5099d193c76661eadeb274ce66ba80","reason":"register"} on /topic/hpumail
+I, [2017-12-02T07:57:11.305637 #1916]  INFO -- : sending email to pham_thuyhang2001@yahoo.com with token 0a5099d193c76661eadeb274ce66ba80 with reason register
+I, [2017-12-02T09:02:29.564519 #1916]  INFO -- : received: {"to":"djhuypro@gmail.com","token":"huypro","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-02T09:02:29.564519 #1916]  INFO -- : sending email to djhuypro@gmail.com with token huypro with reason resetpassword

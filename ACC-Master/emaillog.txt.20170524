@@ -1,0 +1,17 @@
+# Logfile created on 2017-05-23 02:11:59 +0700 by logger.rb/31641
+I, [2017-05-23T02:11:59.539966 #2592]  INFO -- : received: {"to":"maiduclong1996@gmail.con","token":"dc7bb0c259f8f2c52d4268ea091fc65d","reason":"register"} on /topic/hpumail
+I, [2017-05-23T02:11:59.617966 #2592]  INFO -- : sending email to maiduclong1996@gmail.con with token dc7bb0c259f8f2c52d4268ea091fc65d with reason register
+I, [2017-05-23T07:51:42.840251 #2592]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"PQJMR49W","reason":"reset"} on /topic/hpumail
+I, [2017-05-23T07:51:42.840251 #2592]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token PQJMR49W with reason reset
+I, [2017-05-23T07:55:08.277011 #2592]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"MANHHO10","reason":"resetpassword"} on /topic/hpumail
+I, [2017-05-23T07:55:08.277011 #2592]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token MANHHO10 with reason resetpassword
+I, [2017-05-23T09:20:03.557961 #2592]  INFO -- : received: {"to":"thienct1802.hpu@gmail.com","token":"Q4PNRAR6","reason":"reset"} on /topic/hpumail
+I, [2017-05-23T09:20:03.557961 #2592]  INFO -- : sending email to thienct1802.hpu@gmail.com with token Q4PNRAR6 with reason reset
+I, [2017-05-23T10:35:34.929120 #2592]  INFO -- : received: {"to":"ttnn@hpu.edu.vn","token":"PWDRNQ2C","reason":"reset"} on /topic/hpumail
+I, [2017-05-23T10:35:34.929120 #2592]  INFO -- : sending email to ttnn@hpu.edu.vn with token PWDRNQ2C with reason reset
+I, [2017-05-23T10:38:32.441832 #2592]  INFO -- : received: {"to":"ttnn@hpu.edu.vn","token":"@hpu120%","reason":"resetpassword"} on /topic/hpumail
+I, [2017-05-23T10:38:32.441832 #2592]  INFO -- : sending email to ttnn@hpu.edu.vn with token @hpu120% with reason resetpassword
+I, [2017-05-23T15:20:26.100739 #2592]  INFO -- : received: {"to":"phamyen11197@gmail.com","token":"7WNFN9QA","reason":"reset"} on /topic/hpumail
+I, [2017-05-23T15:20:26.100739 #2592]  INFO -- : sending email to phamyen11197@gmail.com with token 7WNFN9QA with reason reset
+I, [2017-05-23T22:49:27.706859 #2592]  INFO -- : received: {"to":"maiduclong1996@gmail.com","token":"P233Z9J9","reason":"reset"} on /topic/hpumail
+I, [2017-05-23T22:49:27.706859 #2592]  INFO -- : sending email to maiduclong1996@gmail.com with token P233Z9J9 with reason reset

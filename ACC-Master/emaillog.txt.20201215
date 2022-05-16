@@ -1,0 +1,5 @@
+# Logfile created on 2020-11-27 09:19:39 +0700 by logger.rb/31641
+I, [2020-11-27T09:19:39.619710 #1864]  INFO -- : received: {"to":"vdo946867@gmail.com","token":"7631631f72a51ee3ef77c5e093366f9f","reason":"register"} on /topic/hpumail
+I, [2020-11-27T09:19:39.635310 #1864]  INFO -- : sending email to vdo946867@gmail.com with token 7631631f72a51ee3ef77c5e093366f9f with reason register
+I, [2020-11-27T13:43:03.461468 #1864]  INFO -- : received: {"to":"ducnd@hpu.edu.vn","token":"C3QMMYER","reason":"reset"} on /topic/hpumail
+I, [2020-11-27T13:43:03.461468 #1864]  INFO -- : sending email to ducnd@hpu.edu.vn with token C3QMMYER with reason reset

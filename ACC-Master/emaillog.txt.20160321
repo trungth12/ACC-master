@@ -1,0 +1,5 @@
+# Logfile created on 2016-03-20 10:32:17 +0700 by logger.rb/31641
+I, [2016-03-20T10:32:17.817259 #4480]  INFO -- : received: {"to":"phamnhuquynh9x@gmail.com","token":"W22VEQNJ","reason":"reset"} on /topic/hpumail
+I, [2016-03-20T10:32:17.817259 #4480]  INFO -- : sending email to phamnhuquynh9x@gmail.com with token W22VEQNJ with reason reset
+I, [2016-03-20T10:35:17.357974 #4480]  INFO -- : received: {"to":"phamnhuquynh9x@gmail.com","token":"quynhyeuha","reason":"resetpassword"} on /topic/hpumail
+I, [2016-03-20T10:35:17.357974 #4480]  INFO -- : sending email to phamnhuquynh9x@gmail.com with token quynhyeuha with reason resetpassword

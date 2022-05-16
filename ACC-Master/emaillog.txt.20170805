@@ -1,0 +1,5 @@
+# Logfile created on 2017-08-05 14:03:46 +0700 by logger.rb/31641
+I, [2017-08-05T14:03:46.498701 #2328]  INFO -- : received: {"to":"nguyenhien075@gmail.com","token":"QR3X49CR","reason":"reset"} on /topic/hpumail
+I, [2017-08-05T14:03:46.561101 #2328]  INFO -- : sending email to nguyenhien075@gmail.com with token QR3X49CR with reason reset
+I, [2017-08-05T14:04:51.426015 #2328]  INFO -- : received: {"to":"nguyenhien075@gmail.com","token":"29081993","reason":"resetpassword"} on /topic/hpumail
+I, [2017-08-05T14:04:51.426015 #2328]  INFO -- : sending email to nguyenhien075@gmail.com with token 29081993 with reason resetpassword

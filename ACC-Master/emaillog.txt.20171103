@@ -1,0 +1,7 @@
+# Logfile created on 2017-10-31 15:35:07 +0700 by logger.rb/31641
+I, [2017-10-31T15:35:07.093204 #976]  INFO -- : received: {"to":"victitki@gmail.com","token":"14de47cc75700793429a0bd8d00ad0ec","reason":"register"} on /topic/hpumail
+I, [2017-10-31T15:35:07.124404 #976]  INFO -- : sending email to victitki@gmail.com with token 14de47cc75700793429a0bd8d00ad0ec with reason register
+I, [2017-10-31T15:49:15.672294 #976]  INFO -- : received: {"to":"nguyenthanghp3979@gmail.com","token":"25a2bdf7439436286e1f370e9a81bf08","reason":"register"} on /topic/hpumail
+I, [2017-10-31T15:49:15.672294 #976]  INFO -- : sending email to nguyenthanghp3979@gmail.com with token 25a2bdf7439436286e1f370e9a81bf08 with reason register
+I, [2017-10-31T22:55:14.086385 #976]  INFO -- : received: {"to":"bloc908@gmail.com","token":"94ec69ea3b27c06faaaab972faf6b416","reason":"register"} on /topic/hpumail
+I, [2017-10-31T22:55:14.086385 #976]  INFO -- : sending email to bloc908@gmail.com with token 94ec69ea3b27c06faaaab972faf6b416 with reason register

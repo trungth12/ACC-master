@@ -1,0 +1,3 @@
+# Logfile created on 2020-10-05 09:47:58 +0700 by logger.rb/31641
+I, [2020-10-05T09:47:58.239593 #1332]  INFO -- : received: {"to":"traitan98hp@gmail.com","token":"CJDF3GQH","reason":"reset"} on /topic/hpumail
+I, [2020-10-05T09:47:58.239593 #1332]  INFO -- : sending email to traitan98hp@gmail.com with token CJDF3GQH with reason reset

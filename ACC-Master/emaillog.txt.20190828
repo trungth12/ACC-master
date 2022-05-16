@@ -1,0 +1,11 @@
+# Logfile created on 2019-08-28 11:20:54 +0700 by logger.rb/31641
+I, [2019-08-28T11:20:54.010218 #1756]  INFO -- : received: {"to":"ngadt@hpu.edu.vn","token":"RJYMXACT","reason":"reset"} on /topic/hpumail
+I, [2019-08-28T11:20:54.025818 #1756]  INFO -- : sending email to ngadt@hpu.edu.vn with token RJYMXACT with reason reset
+I, [2019-08-28T15:50:53.421870 #1756]  INFO -- : received: {"to":"hoailtt@hpu.edu.vn","token":"KM963YYW","reason":"reset"} on /topic/hpumail
+I, [2019-08-28T15:50:53.421870 #1756]  INFO -- : sending email to hoailtt@hpu.edu.vn with token KM963YYW with reason reset
+I, [2019-08-28T20:10:54.260472 #1756]  INFO -- : received: {"to":"tuca@hpu.edu.vn","token":"QXQ37W6Y","reason":"reset"} on /topic/hpumail
+I, [2019-08-28T20:10:54.260472 #1756]  INFO -- : sending email to tuca@hpu.edu.vn with token QXQ37W6Y with reason reset
+I, [2019-08-28T21:46:55.834191 #1756]  INFO -- : received: {"to":"dongnt@hpu.edu.vn","token":"G2TM6HA9","reason":"reset"} on /topic/hpumail
+I, [2019-08-28T21:46:55.834191 #1756]  INFO -- : sending email to dongnt@hpu.edu.vn with token G2TM6HA9 with reason reset
+I, [2019-08-28T21:49:13.956834 #1756]  INFO -- : received: {"to":"dongnt@hpu.edu.vn","token":"binhminh","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-28T21:49:13.956834 #1756]  INFO -- : sending email to dongnt@hpu.edu.vn with token binhminh with reason resetpassword

@@ -1,0 +1,19 @@
+# Logfile created on 2019-08-23 07:55:00 +0700 by logger.rb/31641
+I, [2019-08-23T07:55:00.787987 #1776]  INFO -- : received: {"to":"vnhung@hpu.edu.vn","token":"2VNYXEPA","reason":"reset"} on /topic/hpumail
+I, [2019-08-23T07:55:00.819187 #1776]  INFO -- : sending email to vnhung@hpu.edu.vn with token 2VNYXEPA with reason reset
+I, [2019-08-23T08:52:38.627660 #1776]  INFO -- : received: {"to":"phongnd@hpu.edu.vn","token":"QJ3FEVDH","reason":"reset"} on /topic/hpumail
+I, [2019-08-23T08:52:38.627660 #1776]  INFO -- : sending email to phongnd@hpu.edu.vn with token QJ3FEVDH with reason reset
+I, [2019-08-23T09:11:28.194444 #1776]  INFO -- : received: {"to":"thuytt@hpu.edu.vn","token":"thuy30_dqn","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-23T09:11:28.194444 #1776]  INFO -- : sending email to thuytt@hpu.edu.vn with token thuy30_dqn with reason resetpassword
+I, [2019-08-23T09:15:34.737277 #1776]  INFO -- : received: {"to":"pqhccvhtqt@hpu.edu.vn","token":"CKQVE4K9","reason":"reset"} on /topic/hpumail
+I, [2019-08-23T09:15:34.737277 #1776]  INFO -- : sending email to pqhccvhtqt@hpu.edu.vn with token CKQVE4K9 with reason reset
+I, [2019-08-23T09:28:26.782633 #1776]  INFO -- : received: {"to":"oanhptk@hpu.edu.vn","token":"EZVVDRZH","reason":"reset"} on /topic/hpumail
+I, [2019-08-23T09:28:26.782633 #1776]  INFO -- : sending email to oanhptk@hpu.edu.vn with token EZVVDRZH with reason reset
+I, [2019-08-23T09:36:25.126273 #1776]  INFO -- : received: {"to":"pqhccvhtqt@hpu.edu.vn","token":"@hpu131%","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-23T09:36:25.126273 #1776]  INFO -- : sending email to pqhccvhtqt@hpu.edu.vn with token @hpu131% with reason resetpassword
+I, [2019-08-23T13:10:54.899278 #1776]  INFO -- : received: {"to":"dieppth@hpu.edu.vn","token":"ZAPXA2YX","reason":"reset"} on /topic/hpumail
+I, [2019-08-23T13:10:54.899278 #1776]  INFO -- : sending email to dieppth@hpu.edu.vn with token ZAPXA2YX with reason reset
+I, [2019-08-23T13:12:01.277395 #1776]  INFO -- : received: {"to":"dieppth@hpu.edu.vn","token":"kodoku80","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-23T13:12:01.277395 #1776]  INFO -- : sending email to dieppth@hpu.edu.vn with token kodoku80 with reason resetpassword
+I, [2019-08-23T14:20:25.441803 #1776]  INFO -- : received: {"to":"vnhung@hpu.edu.vn","token":"emyeu1311","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-23T14:20:25.441803 #1776]  INFO -- : sending email to vnhung@hpu.edu.vn with token emyeu1311 with reason resetpassword

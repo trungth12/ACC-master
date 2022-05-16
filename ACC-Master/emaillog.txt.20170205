@@ -1,0 +1,3 @@
+# Logfile created on 2017-02-03 19:31:08 +0700 by logger.rb/31641
+I, [2017-02-03T19:31:08.557360 #2640]  INFO -- : received: {"to":"tu.anh.alhp.123@gmail.com","token":"1312102009","reason":"resetpassword"} on /topic/hpumail
+I, [2017-02-03T19:31:08.564360 #2640]  INFO -- : sending email to tu.anh.alhp.123@gmail.com with token 1312102009 with reason resetpassword

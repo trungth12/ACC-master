@@ -1,0 +1,7 @@
+# Logfile created on 2017-06-03 11:02:49 +0700 by logger.rb/31641
+I, [2017-06-03T11:02:49.243195 #2616]  INFO -- : received: {"to":"trinhtran807@gmail.com","token":"TD2AGCE7","reason":"reset"} on /topic/hpumail
+I, [2017-06-03T11:02:49.258795 #2616]  INFO -- : sending email to trinhtran807@gmail.com with token TD2AGCE7 with reason reset
+I, [2017-06-03T11:07:53.802530 #2616]  INFO -- : received: {"to":"trinhtran807@gmail.com","token":"19960605","reason":"resetpassword"} on /topic/hpumail
+I, [2017-06-03T11:07:53.802530 #2616]  INFO -- : sending email to trinhtran807@gmail.com with token 19960605 with reason resetpassword
+I, [2017-06-03T17:38:33.442558 #2620]  INFO -- : received: {"to":"hangnguyen.0810@yahoo.com.vn","token":"4KTJ4KDW","reason":"reset"} on /topic/hpumail
+I, [2017-06-03T17:38:33.442558 #2620]  INFO -- : sending email to hangnguyen.0810@yahoo.com.vn with token 4KTJ4KDW with reason reset

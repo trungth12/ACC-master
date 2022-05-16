@@ -1,0 +1,5 @@
+# Logfile created on 2016-10-21 06:29:59 +0700 by logger.rb/31641
+I, [2016-10-21T06:29:59.234462 #2536]  INFO -- : received: {"to":"dinh96.hpu@gmail.com","token":"NF2663WF","reason":"reset"} on /topic/hpumail
+I, [2016-10-21T06:29:59.234462 #2536]  INFO -- : sending email to dinh96.hpu@gmail.com with token NF2663WF with reason reset
+I, [2016-10-21T23:20:21.596139 #2536]  INFO -- : received: {"to":"nguyencong12671@gmail.com","token":"7C6XMHMC","reason":"reset"} on /topic/hpumail
+I, [2016-10-21T23:20:21.596139 #2536]  INFO -- : sending email to nguyencong12671@gmail.com with token 7C6XMHMC with reason reset

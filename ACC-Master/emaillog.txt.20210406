@@ -1,0 +1,5 @@
+# Logfile created on 2021-04-05 08:31:14 +0700 by logger.rb/31641
+I, [2021-04-05T08:31:14.338608 #1860]  INFO -- : received: {"to":"anhtran01071998@gmail.com","token":"2XND9GV2","reason":"reset"} on /topic/hpumail
+I, [2021-04-05T08:31:14.354208 #1860]  INFO -- : sending email to anhtran01071998@gmail.com with token 2XND9GV2 with reason reset
+I, [2021-04-05T16:44:32.754195 #1860]  INFO -- : received: {"to":"giangtruonglam1996@gmail.com","token":"0084e4933739e52efcec7a0ead68fac3","reason":"register"} on /topic/hpumail
+I, [2021-04-05T16:44:32.754195 #1860]  INFO -- : sending email to giangtruonglam1996@gmail.com with token 0084e4933739e52efcec7a0ead68fac3 with reason register

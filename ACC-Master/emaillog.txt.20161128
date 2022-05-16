@@ -1,0 +1,11 @@
+# Logfile created on 2016-11-28 07:44:32 +0700 by logger.rb/31641
+I, [2016-11-28T07:44:32.759580 #2692]  INFO -- : received: {"to":"toan170597@gmail.com","token":"0934336798qsc","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-28T07:44:32.806380 #2692]  INFO -- : sending email to toan170597@gmail.com with token 0934336798qsc with reason resetpassword
+I, [2016-11-28T10:17:51.814937 #2692]  INFO -- : received: {"to":"quy1512401009@gmail.com","token":"CJCAH26N","reason":"reset"} on /topic/hpumail
+I, [2016-11-28T10:17:51.814937 #2692]  INFO -- : sending email to quy1512401009@gmail.com with token CJCAH26N with reason reset
+I, [2016-11-28T10:21:58.872571 #2692]  INFO -- : received: {"to":"quy1512401009@gmail.com","token":"246DMR4P","reason":"reset"} on /topic/hpumail
+I, [2016-11-28T10:21:58.872571 #2692]  INFO -- : sending email to quy1512401009@gmail.com with token 246DMR4P with reason reset
+I, [2016-11-28T10:22:07.265386 #2692]  INFO -- : received: {"to":"quy1512401009@gmail.com","token":"RFJHD274","reason":"reset"} on /topic/hpumail
+I, [2016-11-28T10:22:07.265386 #2692]  INFO -- : sending email to quy1512401009@gmail.com with token RFJHD274 with reason reset
+I, [2016-11-28T23:07:13.887217 #2692]  INFO -- : received: {"to":"truongbabinh1810@gmail.com","token":"DYGYNFRD","reason":"reset"} on /topic/hpumail
+I, [2016-11-28T23:07:13.887217 #2692]  INFO -- : sending email to truongbabinh1810@gmail.com with token DYGYNFRD with reason reset

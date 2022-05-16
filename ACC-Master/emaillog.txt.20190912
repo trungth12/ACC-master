@@ -1,0 +1,7 @@
+# Logfile created on 2019-09-12 07:53:57 +0700 by logger.rb/31641
+I, [2019-09-12T07:53:57.428699 #2012]  INFO -- : received: {"to":"haidc@hpu.edu.vn","token":"TKW76C6K","reason":"reset"} on /topic/hpumail
+I, [2019-09-12T07:53:57.428699 #2012]  INFO -- : sending email to haidc@hpu.edu.vn with token TKW76C6K with reason reset
+I, [2019-09-12T07:54:13.668328 #2012]  INFO -- : received: {"to":"haidc@hpu.edu.vn","token":"3K6Q97RP","reason":"reset"} on /topic/hpumail
+I, [2019-09-12T07:54:13.668328 #2012]  INFO -- : sending email to haidc@hpu.edu.vn with token 3K6Q97RP with reason reset
+I, [2019-09-12T07:58:14.969552 #2012]  INFO -- : received: {"to":"haidc@hpu.edu.vn","token":"hai12345678","reason":"resetpassword"} on /topic/hpumail
+I, [2019-09-12T07:58:14.969552 #2012]  INFO -- : sending email to haidc@hpu.edu.vn with token hai12345678 with reason resetpassword

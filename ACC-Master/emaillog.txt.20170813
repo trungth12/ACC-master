@@ -1,0 +1,3 @@
+# Logfile created on 2017-08-10 08:14:20 +0700 by logger.rb/31641
+I, [2017-08-10T08:14:20.833224 #2236]  INFO -- : received: {"to":"rapperato@gmail.com","token":"QTXHZ2EF","reason":"reset"} on /topic/hpumail
+I, [2017-08-10T08:14:20.848824 #2236]  INFO -- : sending email to rapperato@gmail.com with token QTXHZ2EF with reason reset

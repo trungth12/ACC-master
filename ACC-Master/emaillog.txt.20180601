@@ -1,0 +1,13 @@
+# Logfile created on 2018-06-01 14:23:31 +0700 by logger.rb/31641
+I, [2018-06-01T14:23:31.598395 #2128]  INFO -- : received: {"to":"kieuanh.hanaa@gmail.com","token":"XYYDJDRF","reason":"reset"} on /topic/hpumail
+I, [2018-06-01T14:23:31.613995 #2128]  INFO -- : sending email to kieuanh.hanaa@gmail.com with token XYYDJDRF with reason reset
+I, [2018-06-01T14:35:14.286029 #2128]  INFO -- : received: {"to":"kieuanh.hanaa@gmail.com","token":"1112401311","reason":"resetpassword"} on /topic/hpumail
+I, [2018-06-01T14:35:14.286029 #2128]  INFO -- : sending email to kieuanh.hanaa@gmail.com with token 1112401311 with reason resetpassword
+I, [2018-06-01T21:25:30.832866 #2128]  INFO -- : received: {"to":"giaminh1809@gmail.com","token":"KXP4KWT3","reason":"reset"} on /topic/hpumail
+I, [2018-06-01T21:25:30.832866 #2128]  INFO -- : sending email to giaminh1809@gmail.com with token KXP4KWT3 with reason reset
+I, [2018-06-01T21:38:23.049822 #2128]  INFO -- : received: {"to":"giaminh1809@gmail.com","token":"372AZN6R","reason":"reset"} on /topic/hpumail
+I, [2018-06-01T21:38:23.049822 #2128]  INFO -- : sending email to giaminh1809@gmail.com with token 372AZN6R with reason reset
+I, [2018-06-01T22:05:52.612319 #2128]  INFO -- : received: {"to":"giaminh1809@gmail.com","token":"QXRD94RT","reason":"reset"} on /topic/hpumail
+I, [2018-06-01T22:05:52.612319 #2128]  INFO -- : sending email to giaminh1809@gmail.com with token QXRD94RT with reason reset
+I, [2018-06-01T23:00:13.470447 #2128]  INFO -- : received: {"to":"giaminh1809@gmail.com","token":"WFJ2HRWV","reason":"reset"} on /topic/hpumail
+I, [2018-06-01T23:00:13.470447 #2128]  INFO -- : sending email to giaminh1809@gmail.com with token WFJ2HRWV with reason reset

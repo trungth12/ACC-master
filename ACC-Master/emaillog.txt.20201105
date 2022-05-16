@@ -1,0 +1,3 @@
+# Logfile created on 2020-11-05 20:41:49 +0700 by logger.rb/31641
+I, [2020-11-05T20:41:49.759594 #1760]  INFO -- : received: {"to":"anhnth@hpu.edu.vn","token":"MH3Z6P7A","reason":"reset"} on /topic/hpumail
+I, [2020-11-05T20:41:49.806394 #1760]  INFO -- : sending email to anhnth@hpu.edu.vn with token MH3Z6P7A with reason reset

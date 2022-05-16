@@ -1,0 +1,5 @@
+# Logfile created on 2016-06-26 15:21:40 +0700 by logger.rb/31641
+I, [2016-06-26T15:21:40.054566 #1304]  INFO -- : received: {"to":"nguyenquochung082@gmail.com","token":"4KRGZ4ZC","reason":"reset"} on /topic/hpumail
+I, [2016-06-26T15:21:40.192574 #1304]  INFO -- : sending email to nguyenquochung082@gmail.com with token 4KRGZ4ZC with reason reset
+I, [2016-06-26T15:22:40.852044 #1304]  INFO -- : received: {"to":"nguyenquochung082@gmail.com","token":"17121989","reason":"resetpassword"} on /topic/hpumail
+I, [2016-06-26T15:22:40.853044 #1304]  INFO -- : sending email to nguyenquochung082@gmail.com with token 17121989 with reason resetpassword

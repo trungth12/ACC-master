@@ -1,0 +1,5 @@
+# Logfile created on 2016-01-15 11:50:21 +0700 by logger.rb/31641
+I, [2016-01-15T11:50:21.174309 #2776]  INFO -- : received: {"to":"svhpu120673@gmail.com","token":"SvHpu120673","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-15T11:50:21.174309 #2776]  INFO -- : sending email to svhpu120673@gmail.com with token SvHpu120673 with reason resetpassword
+I, [2016-01-15T13:48:00.624509 #2776]  INFO -- : received: {"to":"svhpu120673@gmail.com","token":"b5d5adaca7d4dc047766a49e70e99290","reason":"register"} on /topic/hpumail
+I, [2016-01-15T13:48:00.624509 #2776]  INFO -- : sending email to svhpu120673@gmail.com with token b5d5adaca7d4dc047766a49e70e99290 with reason register

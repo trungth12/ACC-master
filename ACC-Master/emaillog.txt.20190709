@@ -1,0 +1,9 @@
+# Logfile created on 2019-07-09 09:15:28 +0700 by logger.rb/31641
+I, [2019-07-09T09:15:27.980138 #1948]  INFO -- : received: {"to":"lalalala2896@gmail.com","token":"EJM9HWW7","reason":"reset"} on /topic/hpumail
+I, [2019-07-09T09:15:28.073738 #1948]  INFO -- : sending email to lalalala2896@gmail.com with token EJM9HWW7 with reason reset
+I, [2019-07-09T09:17:21.329937 #1948]  INFO -- : received: {"to":"lalalala2896@gmail.com","token":"ha0936573596","reason":"resetpassword"} on /topic/hpumail
+I, [2019-07-09T09:17:21.329937 #1948]  INFO -- : sending email to lalalala2896@gmail.com with token ha0936573596 with reason resetpassword
+I, [2019-07-09T09:23:59.302236 #1948]  INFO -- : received: {"to":"thaottt@hpu.edu.vn","token":"ZCQ9NNEP","reason":"reset"} on /topic/hpumail
+I, [2019-07-09T09:23:59.302236 #1948]  INFO -- : sending email to thaottt@hpu.edu.vn with token ZCQ9NNEP with reason reset
+I, [2019-07-09T09:25:22.855983 #1948]  INFO -- : received: {"to":"thaottt@hpu.edu.vn","token":"ttt191977","reason":"resetpassword"} on /topic/hpumail
+I, [2019-07-09T09:25:22.855983 #1948]  INFO -- : sending email to thaottt@hpu.edu.vn with token ttt191977 with reason resetpassword

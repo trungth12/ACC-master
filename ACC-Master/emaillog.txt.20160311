@@ -1,0 +1,5 @@
+# Logfile created on 2016-03-01 15:21:53 +0700 by logger.rb/31641
+I, [2016-03-01T15:21:53.592705 #4968]  INFO -- : received: {"to":"phuongthao9xxx@gmail.com","token":"9TXZKP9Y","reason":"reset"} on /topic/hpumail
+I, [2016-03-01T15:21:53.608305 #4968]  INFO -- : sending email to phuongthao9xxx@gmail.com with token 9TXZKP9Y with reason reset
+I, [2016-03-01T16:33:46.251480 #4968]  INFO -- : received: {"to":"phuongthao9xxx@gmail.com","token":"phuongthaohpu","reason":"resetpassword"} on /topic/hpumail
+I, [2016-03-01T16:33:46.251480 #4968]  INFO -- : sending email to phuongthao9xxx@gmail.com with token phuongthaohpu with reason resetpassword

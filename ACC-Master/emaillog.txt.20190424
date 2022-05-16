@@ -1,0 +1,9 @@
+# Logfile created on 2019-03-19 16:12:47 +0700 by logger.rb/31641
+I, [2019-03-19T16:12:47.794859 #2008]  INFO -- : received: {"to":"phtoan291090@gmail.com","token":"T3GET3GF","reason":"reset"} on /topic/hpumail
+I, [2019-03-19T16:12:47.872859 #2008]  INFO -- : sending email to phtoan291090@gmail.com with token T3GET3GF with reason reset
+I, [2019-03-19T16:14:57.073286 #2008]  INFO -- : received: {"to":"phtoan291090@gmail.com","token":"7A7JDJEA","reason":"reset"} on /topic/hpumail
+I, [2019-03-19T16:14:57.073286 #2008]  INFO -- : sending email to phtoan291090@gmail.com with token 7A7JDJEA with reason reset
+I, [2019-03-19T16:24:12.624462 #2008]  INFO -- : received: {"to":"vuthingoc080297@gmail.com","token":"4HPKR6HY","reason":"reset"} on /topic/hpumail
+I, [2019-03-19T16:24:12.624462 #2008]  INFO -- : sending email to vuthingoc080297@gmail.com with token 4HPKR6HY with reason reset
+I, [2019-03-19T16:24:54.401336 #2008]  INFO -- : received: {"to":"phamtoan291090@gmail.com","token":"WRCMF27C","reason":"reset"} on /topic/hpumail
+I, [2019-03-19T16:24:54.401336 #2008]  INFO -- : sending email to phamtoan291090@gmail.com with token WRCMF27C with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2018-05-24 13:08:29 +0700 by logger.rb/31641
+I, [2018-05-24T13:08:29.232838 #1868]  INFO -- : received: {"to":"nguyengiang97neu@gmail.com","token":"82c260b460c0b662bef5f4edfbec31a8","reason":"register"} on /topic/hpumail
+I, [2018-05-24T13:08:29.232838 #1868]  INFO -- : sending email to nguyengiang97neu@gmail.com with token 82c260b460c0b662bef5f4edfbec31a8 with reason register

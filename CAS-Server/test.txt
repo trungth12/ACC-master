@@ -1,0 +1,20 @@
+
+C:\CAS-Server>set RACK_ENV=production 
+
+C:\CAS-Server>bundle exec puma config.ru -b tcp://0.0.0.0:3001 -t 4:32 RACK_ENV=production 
+
+>>> Redirecting RubyCAS-Server log to c:/CAS-Server/Log/CASServer.log
+
+
+>>> Running migrations to make sure your database schema is up to date...
+
+  [1m[36m (0.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateInitialStructure (1)
+Migrating to AddIndexesForPerformance (2)
+
+>>> Your database is now up to date.
+
+Puma 1.6.3 starting...
+* Min threads: 4, max threads: 32
+* Environment: production
+* Listening on tcp://0.0.0.0:3001

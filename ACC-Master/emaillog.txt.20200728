@@ -1,0 +1,5 @@
+# Logfile created on 2020-07-28 09:32:32 +0700 by logger.rb/31641
+I, [2020-07-28T09:32:32.060694 #1824]  INFO -- : received: {"to":"thuhp1210@gmail.com","token":"440b43964aa5a465484684ff4ae5b6a2","reason":"register"} on /topic/hpumail
+I, [2020-07-28T09:32:32.076294 #1824]  INFO -- : sending email to thuhp1210@gmail.com with token 440b43964aa5a465484684ff4ae5b6a2 with reason register
+I, [2020-07-28T17:06:41.283755 #1824]  INFO -- : received: {"to":"pnbao1905@gmail.com","token":"bdbf844e7c87306e52a8d27668c94fa2","reason":"register"} on /topic/hpumail
+I, [2020-07-28T17:06:41.283755 #1824]  INFO -- : sending email to pnbao1905@gmail.com with token bdbf844e7c87306e52a8d27668c94fa2 with reason register

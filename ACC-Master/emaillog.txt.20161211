@@ -1,0 +1,7 @@
+# Logfile created on 2016-12-11 22:48:33 +0700 by logger.rb/31641
+I, [2016-12-11T22:48:33.198263 #2572]  INFO -- : received: {"to":"thienct1802.hpu@gmail.com","token":"9WWNNCP7","reason":"reset"} on /topic/hpumail
+I, [2016-12-11T22:48:33.260663 #2572]  INFO -- : sending email to thienct1802.hpu@gmail.com with token 9WWNNCP7 with reason reset
+I, [2016-12-11T23:06:05.747712 #2572]  INFO -- : received: {"to":"doquangninh9altv@gmail.com","token":"CM9PG77C","reason":"reset"} on /topic/hpumail
+I, [2016-12-11T23:06:05.747712 #2572]  INFO -- : sending email to doquangninh9altv@gmail.com with token CM9PG77C with reason reset
+I, [2016-12-11T23:08:18.145144 #2572]  INFO -- : received: {"to":"doquangninh9altv@gmail.com","token":"Ninhvh09","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-11T23:08:18.145144 #2572]  INFO -- : sending email to doquangninh9altv@gmail.com with token Ninhvh09 with reason resetpassword

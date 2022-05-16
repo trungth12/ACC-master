@@ -1,0 +1,7 @@
+# Logfile created on 2016-01-13 01:26:16 +0700 by logger.rb/31641
+I, [2016-01-13T01:26:16.479350 #2860]  INFO -- : received: {"to":"cuopxichlochoemdidaopho_hp@yahoo.com","token":"matma123","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-13T01:26:16.479350 #2860]  INFO -- : sending email to cuopxichlochoemdidaopho_hp@yahoo.com with token matma123 with reason resetpassword
+I, [2016-01-13T19:36:09.735007 #2860]  INFO -- : received: {"to":"mr.shinji.17@gmail.com","token":"f1eb6c21304f0f374bdb215aae77e5f6","reason":"register"} on /topic/hpumail
+I, [2016-01-13T19:36:09.735007 #2860]  INFO -- : sending email to mr.shinji.17@gmail.com with token f1eb6c21304f0f374bdb215aae77e5f6 with reason register
+I, [2016-01-13T22:59:10.283201 #2860]  INFO -- : received: {"to":"alias_alien@yahoo.com.vn","token":"7KP4TY2P","reason":"reset"} on /topic/hpumail
+I, [2016-01-13T22:59:10.283201 #2860]  INFO -- : sending email to alias_alien@yahoo.com.vn with token 7KP4TY2P with reason reset

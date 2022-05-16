@@ -1,0 +1,5 @@
+# Logfile created on 2017-10-20 08:03:48 +0700 by logger.rb/31641
+I, [2017-10-20T08:03:48.438861 #1856]  INFO -- : received: {"to":"ndphong@hpu.edu.vn","token":"CGHT3NV7","reason":"reset"} on /topic/hpumail
+I, [2017-10-20T08:03:48.532461 #1856]  INFO -- : sending email to ndphong@hpu.edu.vn with token CGHT3NV7 with reason reset
+I, [2017-10-20T08:05:14.005011 #1856]  INFO -- : received: {"to":"ndphong@hpu.edu.vn","token":"hl2012","reason":"resetpassword"} on /topic/hpumail
+I, [2017-10-20T08:05:14.005011 #1856]  INFO -- : sending email to ndphong@hpu.edu.vn with token hl2012 with reason resetpassword

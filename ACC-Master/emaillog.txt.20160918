@@ -1,0 +1,5 @@
+# Logfile created on 2016-09-17 07:01:02 +0700 by logger.rb/31641
+I, [2016-09-17T07:01:02.802246 #2540]  INFO -- : received: {"to":"anpanda306@gmail.com","token":"J4YRGXFY","reason":"reset"} on /topic/hpumail
+I, [2016-09-17T07:01:02.864646 #2540]  INFO -- : sending email to anpanda306@gmail.com with token J4YRGXFY with reason reset
+I, [2016-09-17T07:02:19.669582 #2540]  INFO -- : received: {"to":"anpanda306@gmail.com","token":"2971999Uyen","reason":"resetpassword"} on /topic/hpumail
+I, [2016-09-17T07:02:19.669582 #2540]  INFO -- : sending email to anpanda306@gmail.com with token 2971999Uyen with reason resetpassword

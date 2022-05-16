@@ -1,0 +1,15 @@
+# Logfile created on 2017-02-21 10:03:33 +0700 by logger.rb/31641
+I, [2017-02-21T10:03:33.938908 #2652]  INFO -- : received: {"to":"thanhhuyendb2017@gmail.com","token":"8b2a2f7ca0844a62e1a7d19dbad2e436","reason":"register"} on /topic/hpumail
+I, [2017-02-21T10:03:33.938908 #2652]  INFO -- : sending email to thanhhuyendb2017@gmail.com with token 8b2a2f7ca0844a62e1a7d19dbad2e436 with reason register
+I, [2017-02-21T11:11:52.608349 #2652]  INFO -- : received: {"to":"dbtrangchu@gmail.com","token":"4WJKQAQF","reason":"reset"} on /topic/hpumail
+I, [2017-02-21T11:11:52.608349 #2652]  INFO -- : sending email to dbtrangchu@gmail.com with token 4WJKQAQF with reason reset
+I, [2017-02-21T11:13:00.081467 #2652]  INFO -- : received: {"to":"dbtrangchu@gmail.com","token":"F6YGDQWW","reason":"reset"} on /topic/hpumail
+I, [2017-02-21T11:13:00.081467 #2652]  INFO -- : sending email to dbtrangchu@gmail.com with token F6YGDQWW with reason reset
+I, [2017-02-21T11:14:42.767555 #2652]  INFO -- : received: {"to":"dbtrangchu@gmail.com","token":"mktb1234","reason":"resetpassword"} on /topic/hpumail
+I, [2017-02-21T11:14:42.767555 #2652]  INFO -- : sending email to dbtrangchu@gmail.com with token mktb1234 with reason resetpassword
+I, [2017-02-21T15:27:02.478756 #2652]  INFO -- : received: {"to":"thomnt@hpu.edu.vn","token":"AGG9ZRGZ","reason":"reset"} on /topic/hpumail
+I, [2017-02-21T15:27:02.478756 #2652]  INFO -- : sending email to thomnt@hpu.edu.vn with token AGG9ZRGZ with reason reset
+I, [2017-02-21T15:30:28.601918 #2652]  INFO -- : received: {"to":"thomnt@hpu.edu.vn","token":"mktvdts2017","reason":"resetpassword"} on /topic/hpumail
+I, [2017-02-21T15:30:28.601918 #2652]  INFO -- : sending email to thomnt@hpu.edu.vn with token mktvdts2017 with reason resetpassword
+I, [2017-02-21T21:56:51.833837 #2652]  INFO -- : received: {"to":"chucdh@hpu.edu.vn","token":"chucdh78","reason":"resetpassword"} on /topic/hpumail
+I, [2017-02-21T21:56:51.849437 #2652]  INFO -- : sending email to chucdh@hpu.edu.vn with token chucdh78 with reason resetpassword

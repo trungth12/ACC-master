@@ -1,0 +1,5 @@
+# Logfile created on 2016-04-20 08:44:41 +0700 by logger.rb/31641
+I, [2016-04-20T08:44:41.184503 #3064]  INFO -- : received: {"to":"thanhvan.gooner@gmail.com","token":"73WMD67K","reason":"reset"} on /topic/hpumail
+I, [2016-04-20T08:44:41.231303 #3064]  INFO -- : sending email to thanhvan.gooner@gmail.com with token 73WMD67K with reason reset
+I, [2016-04-20T08:46:26.515888 #3064]  INFO -- : received: {"to":"thanhvan.gooner@gmail.com","token":"nhinhokh018o","reason":"resetpassword"} on /topic/hpumail
+I, [2016-04-20T08:46:26.515888 #3064]  INFO -- : sending email to thanhvan.gooner@gmail.com with token nhinhokh018o with reason resetpassword

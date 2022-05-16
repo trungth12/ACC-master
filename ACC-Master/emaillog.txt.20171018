@@ -1,0 +1,5 @@
+# Logfile created on 2017-10-16 15:50:57 +0700 by logger.rb/31641
+I, [2017-10-16T15:50:57.489127 #1856]  INFO -- : received: {"to":"quynhchi.hpu@gmail.com","token":"9DK9H7GA","reason":"reset"} on /topic/hpumail
+I, [2017-10-16T15:50:57.489127 #1856]  INFO -- : sending email to quynhchi.hpu@gmail.com with token 9DK9H7GA with reason reset
+I, [2017-10-16T15:56:54.058953 #1856]  INFO -- : received: {"to":"quynhchi.hpu@gmail.com","token":"quynhchi18293","reason":"resetpassword"} on /topic/hpumail
+I, [2017-10-16T15:56:54.058953 #1856]  INFO -- : sending email to quynhchi.hpu@gmail.com with token quynhchi18293 with reason resetpassword

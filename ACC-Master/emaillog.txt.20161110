@@ -1,0 +1,3 @@
+# Logfile created on 2016-11-09 15:34:24 +0700 by logger.rb/31641
+I, [2016-11-09T15:34:24.983012 #2556]  INFO -- : received: {"to":"phamhieu31121997@gmail.com","token":"4MHDQQEG","reason":"reset"} on /topic/hpumail
+I, [2016-11-09T15:34:24.983012 #2556]  INFO -- : sending email to phamhieu31121997@gmail.com with token 4MHDQQEG with reason reset

@@ -1,0 +1,11 @@
+# Logfile created on 2016-05-15 09:23:21 +0700 by logger.rb/31641
+I, [2016-05-15T09:23:21.035142 #4716]  INFO -- : received: {"to":"yeutinhmeomun@gmail.com","token":"XFY4ZDZP","reason":"reset"} on /topic/hpumail
+I, [2016-05-15T09:23:21.420164 #4716]  INFO -- : sending email to yeutinhmeomun@gmail.com with token XFY4ZDZP with reason reset
+I, [2016-05-15T18:16:33.403001 #4716]  INFO -- : received: {"to":"huyentran96hp@gmail.com","token":"XX43V4GD","reason":"reset"} on /topic/hpumail
+I, [2016-05-15T18:16:33.546009 #4716]  INFO -- : sending email to huyentran96hp@gmail.com with token XX43V4GD with reason reset
+I, [2016-05-15T18:22:02.388817 #4716]  INFO -- : received: {"to":"antran.15895@gmail.com","token":"44REQHE4","reason":"reset"} on /topic/hpumail
+I, [2016-05-15T18:22:02.389817 #4716]  INFO -- : sending email to antran.15895@gmail.com with token 44REQHE4 with reason reset
+I, [2016-05-15T18:22:13.605459 #4716]  INFO -- : received: {"to":"antran.15895@gmail.com","token":"GD4QZYAA","reason":"reset"} on /topic/hpumail
+I, [2016-05-15T18:22:13.606459 #4716]  INFO -- : sending email to antran.15895@gmail.com with token GD4QZYAA with reason reset
+I, [2016-05-15T18:24:09.589093 #4716]  INFO -- : received: {"to":"antran.15895@gmail.com","token":"NKJZVKY7","reason":"reset"} on /topic/hpumail
+I, [2016-05-15T18:24:09.615094 #4716]  INFO -- : sending email to antran.15895@gmail.com with token NKJZVKY7 with reason reset

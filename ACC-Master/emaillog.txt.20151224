@@ -1,0 +1,19 @@
+# Logfile created on 2015-12-24 11:39:40 +0700 by logger.rb/31641
+I, [2015-12-24T11:39:40.087757 #2844]  INFO -- : received: {"to":"vuhoang1895@gmail.com","token":"123456","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-24T11:39:40.118957 #2844]  INFO -- : sending email to vuhoang1895@gmail.com with token 123456 with reason resetpassword
+I, [2015-12-24T14:39:05.660516 #2352]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"73FCC7QE","reason":"reset"} on /topic/hpumail
+I, [2015-12-24T14:39:05.660516 #2352]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token 73FCC7QE with reason reset
+I, [2015-12-24T15:42:11.958766 #2352]  INFO -- : received: {"to":"linhhoatran2895@gmail.com","token":"7GWMFK7N","reason":"reset"} on /topic/hpumail
+I, [2015-12-24T15:42:11.958766 #2352]  INFO -- : sending email to linhhoatran2895@gmail.com with token 7GWMFK7N with reason reset
+I, [2015-12-24T16:49:37.794672 #2352]  INFO -- : received: {"to":"hoangvietanh109@gmail.com","token":"V62A7P6D","reason":"reset"} on /topic/hpumail
+I, [2015-12-24T16:49:37.794672 #2352]  INFO -- : sending email to hoangvietanh109@gmail.com with token V62A7P6D with reason reset
+I, [2015-12-24T16:55:16.486867 #2352]  INFO -- : received: {"to":"hoangvietanh109@gmail.com","token":"7E2EAHY4","reason":"reset"} on /topic/hpumail
+I, [2015-12-24T16:55:16.486867 #2352]  INFO -- : sending email to hoangvietanh109@gmail.com with token 7E2EAHY4 with reason reset
+I, [2015-12-24T17:03:30.243334 #2352]  INFO -- : received: {"to":"girl_hatelove_2008@yahoo.com","token":"P39GH69J","reason":"reset"} on /topic/hpumail
+I, [2015-12-24T17:03:30.243334 #2352]  INFO -- : sending email to girl_hatelove_2008@yahoo.com with token P39GH69J with reason reset
+I, [2015-12-24T17:03:48.323766 #2352]  INFO -- : received: {"to":"hoangvietanh109@gmail.com","token":"hoangvietanh","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-24T17:03:48.323766 #2352]  INFO -- : sending email to hoangvietanh109@gmail.com with token hoangvietanh with reason resetpassword
+I, [2015-12-24T23:06:57.880437 #2352]  INFO -- : received: {"to":"anhanh.tvd@gmail.com","token":"EZX7GD3C","reason":"reset"} on /topic/hpumail
+I, [2015-12-24T23:06:57.880437 #2352]  INFO -- : sending email to anhanh.tvd@gmail.com with token EZX7GD3C with reason reset
+I, [2015-12-24T23:14:26.365625 #2352]  INFO -- : received: {"to":"anhanh.tvd@gmail.com","token":"031743057","reason":"resetpassword"} on /topic/hpumail
+I, [2015-12-24T23:14:26.365625 #2352]  INFO -- : sending email to anhanh.tvd@gmail.com with token 031743057 with reason resetpassword

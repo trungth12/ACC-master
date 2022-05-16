@@ -1,0 +1,3 @@
+# Logfile created on 2017-06-23 20:24:39 +0700 by logger.rb/31641
+I, [2017-06-23T20:24:39.196207 #2632]  INFO -- : received: {"to":"asurahahaha2468@gmail.com","token":"ET42APK9","reason":"reset"} on /topic/hpumail
+I, [2017-06-23T20:24:39.211807 #2632]  INFO -- : sending email to asurahahaha2468@gmail.com with token ET42APK9 with reason reset

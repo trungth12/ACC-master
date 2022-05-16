@@ -1,0 +1,3 @@
+# Logfile created on 2019-10-07 10:02:10 +0700 by logger.rb/31641
+I, [2019-10-07T10:02:10.823240 #1840]  INFO -- : received: {"to":"chipbibo3010@gmail.com","token":"TK9EFYYD","reason":"reset"} on /topic/hpumail
+I, [2019-10-07T10:02:10.838840 #1840]  INFO -- : sending email to chipbibo3010@gmail.com with token TK9EFYYD with reason reset

@@ -1,0 +1,3 @@
+# Logfile created on 2017-01-18 13:42:10 +0700 by logger.rb/31641
+I, [2017-01-18T13:42:10.735026 #2680]  INFO -- : received: {"to":"balohot.vn@gmail.com","token":"86a6be1d1ff64443ad2312b383922070","reason":"register"} on /topic/hpumail
+I, [2017-01-18T13:42:10.750626 #2680]  INFO -- : sending email to balohot.vn@gmail.com with token 86a6be1d1ff64443ad2312b383922070 with reason register

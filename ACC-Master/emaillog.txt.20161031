@@ -1,0 +1,7 @@
+# Logfile created on 2016-10-31 15:06:56 +0700 by logger.rb/31641
+I, [2016-10-31T15:06:56.073574 #2600]  INFO -- : received: {"to":"ngocyen15493@gmail.com","token":"7d18855f5ac59c1f5c28890c8ef70a21","reason":"register"} on /topic/hpumail
+I, [2016-10-31T15:06:56.089174 #2600]  INFO -- : sending email to ngocyen15493@gmail.com with token 7d18855f5ac59c1f5c28890c8ef70a21 with reason register
+I, [2016-10-31T18:44:10.177267 #2600]  INFO -- : received: {"to":"danghp94@gmail.com","token":"EVE3HMA2","reason":"reset"} on /topic/hpumail
+I, [2016-10-31T18:44:10.177267 #2600]  INFO -- : sending email to danghp94@gmail.com with token EVE3HMA2 with reason reset
+I, [2016-10-31T21:53:28.962818 #2600]  INFO -- : received: {"to":"phuongnguyen20061997@gmail.com","token":"phuonghieu9797","reason":"resetpassword"} on /topic/hpumail
+I, [2016-10-31T21:53:28.962818 #2600]  INFO -- : sending email to phuongnguyen20061997@gmail.com with token phuonghieu9797 with reason resetpassword

@@ -1,0 +1,9 @@
+# Logfile created on 2016-04-25 08:29:06 +0700 by logger.rb/31641
+I, [2016-04-25T08:29:06.922820 #2928]  INFO -- : received: {"to":"hahuyhoanghp@gmail.com","token":"9XA9RXPE","reason":"reset"} on /topic/hpumail
+I, [2016-04-25T08:29:06.954822 #2928]  INFO -- : sending email to hahuyhoanghp@gmail.com with token 9XA9RXPE with reason reset
+I, [2016-04-25T14:22:20.413019 #2928]  INFO -- : received: {"to":"taquangvinhcax@gmail.com","token":"31225481d92779413793f71e98aea09e","reason":"register"} on /topic/hpumail
+I, [2016-04-25T14:22:20.414019 #2928]  INFO -- : sending email to taquangvinhcax@gmail.com with token 31225481d92779413793f71e98aea09e with reason register
+I, [2016-04-25T16:42:31.051080 #2928]  INFO -- : received: {"to":"phamngocson2905@gmail.com","token":"C9XA9434","reason":"reset"} on /topic/hpumail
+I, [2016-04-25T16:42:31.052080 #2928]  INFO -- : sending email to phamngocson2905@gmail.com with token C9XA9434 with reason reset
+I, [2016-04-25T16:51:54.255293 #2928]  INFO -- : received: {"to":"phamngocson2905@gmail.com","token":"lienhengay","reason":"resetpassword"} on /topic/hpumail
+I, [2016-04-25T16:51:54.256293 #2928]  INFO -- : sending email to phamngocson2905@gmail.com with token lienhengay with reason resetpassword

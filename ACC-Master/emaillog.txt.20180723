@@ -1,0 +1,7 @@
+# Logfile created on 2018-07-23 09:44:10 +0700 by logger.rb/31641
+I, [2018-07-23T09:44:10.919611 #1816]  INFO -- : received: {"to":"phuongk18996@gmail.com","token":"4ZNCM6M6","reason":"reset"} on /topic/hpumail
+I, [2018-07-23T09:44:10.950811 #1816]  INFO -- : sending email to phuongk18996@gmail.com with token 4ZNCM6M6 with reason reset
+I, [2018-07-23T09:53:25.968586 #1816]  INFO -- : received: {"to":"nghiaueaw@gmail.com","token":"CG6CDN49","reason":"reset"} on /topic/hpumail
+I, [2018-07-23T09:53:26.046586 #1816]  INFO -- : sending email to nghiaueaw@gmail.com with token CG6CDN49 with reason reset
+I, [2018-07-23T10:21:49.678779 #1816]  INFO -- : received: {"to":"lebahajmjnh@gmail.com","token":"CH6PRKQG","reason":"reset"} on /topic/hpumail
+I, [2018-07-23T10:21:49.678779 #1816]  INFO -- : sending email to lebahajmjnh@gmail.com with token CH6PRKQG with reason reset

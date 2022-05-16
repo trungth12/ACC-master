@@ -1,0 +1,5 @@
+# Logfile created on 2021-08-25 13:04:30 +0700 by logger.rb/31641
+I, [2021-08-25T13:04:30.453014 #1940]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"CW9G4HQ9","reason":"reset"} on /topic/hpumail
+I, [2021-08-25T13:04:30.484214 #1940]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token CW9G4HQ9 with reason reset
+I, [2021-08-25T13:05:39.249135 #1940]  INFO -- : received: {"to":"huong_ntxh@hpu.edu.vn","token":"spring76","reason":"resetpassword"} on /topic/hpumail
+I, [2021-08-25T13:05:39.249135 #1940]  INFO -- : sending email to huong_ntxh@hpu.edu.vn with token spring76 with reason resetpassword

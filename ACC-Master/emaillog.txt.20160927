@@ -1,0 +1,15 @@
+# Logfile created on 2016-09-26 10:10:09 +0700 by logger.rb/31641
+I, [2016-09-26T10:10:09.634934 #2428]  INFO -- : received: {"to":"dinhthuctrinhyb@gmail.com","token":"KFKTWFAD","reason":"reset"} on /topic/hpumail
+I, [2016-09-26T10:10:09.670936 #2428]  INFO -- : sending email to dinhthuctrinhyb@gmail.com with token KFKTWFAD with reason reset
+I, [2016-09-26T12:48:12.920347 #2428]  INFO -- : received: {"to":"yurita.patun@gmail.com","token":"123456789","reason":"resetpassword"} on /topic/hpumail
+I, [2016-09-26T12:48:12.921347 #2428]  INFO -- : sending email to yurita.patun@gmail.com with token 123456789 with reason resetpassword
+I, [2016-09-26T14:12:48.569658 #2428]  INFO -- : received: {"to":"hoanghuydangho@gmail.com","token":"bf1c46136cf4c7364266307ca034257a","reason":"register"} on /topic/hpumail
+I, [2016-09-26T14:12:48.570658 #2428]  INFO -- : sending email to hoanghuydangho@gmail.com with token bf1c46136cf4c7364266307ca034257a with reason register
+I, [2016-09-26T21:15:00.327551 #2428]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"D7994VCE","reason":"reset"} on /topic/hpumail
+I, [2016-09-26T21:15:00.327551 #2428]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token D7994VCE with reason reset
+I, [2016-09-26T21:16:22.670261 #2428]  INFO -- : received: {"to":"ngockhi3009@gmail.com","token":"C4DDQ9KT","reason":"reset"} on /topic/hpumail
+I, [2016-09-26T21:16:22.671261 #2428]  INFO -- : sending email to ngockhi3009@gmail.com with token C4DDQ9KT with reason reset
+I, [2016-09-26T21:19:41.935659 #2428]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"2D93NF7C","reason":"reset"} on /topic/hpumail
+I, [2016-09-26T21:19:41.936659 #2428]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token 2D93NF7C with reason reset
+I, [2016-09-26T21:23:39.687257 #2428]  INFO -- : received: {"to":"ngockhi3009@gmail.com","token":"6GWMXP7Q","reason":"reset"} on /topic/hpumail
+I, [2016-09-26T21:23:39.687257 #2428]  INFO -- : sending email to ngockhi3009@gmail.com with token 6GWMXP7Q with reason reset

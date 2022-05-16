@@ -1,0 +1,5 @@
+# Logfile created on 2016-06-09 09:57:41 +0700 by logger.rb/31641
+I, [2016-06-09T09:57:41.158617 #1740]  INFO -- : received: {"to":"namvietdateh@gmail.com","token":"e7ab78a87d651eb4e957e839603b1abc","reason":"register"} on /topic/hpumail
+I, [2016-06-09T09:57:41.368629 #1740]  INFO -- : sending email to namvietdateh@gmail.com with token e7ab78a87d651eb4e957e839603b1abc with reason register
+I, [2016-06-09T23:50:03.765171 #1740]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"QQGWXQ7Y","reason":"reset"} on /topic/hpumail
+I, [2016-06-09T23:50:04.007185 #1740]  INFO -- : sending email to tamht.na1804@gmail.com with token QQGWXQ7Y with reason reset

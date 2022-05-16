@@ -1,0 +1,7 @@
+# Logfile created on 2016-01-02 20:10:32 +0700 by logger.rb/31641
+I, [2016-01-02T20:10:32.492927 #2784]  INFO -- : received: {"to":"duongmummim888@gmail.com","token":"97PWER9W","reason":"reset"} on /topic/hpumail
+I, [2016-01-02T20:10:32.555327 #2784]  INFO -- : sending email to duongmummim888@gmail.com with token 97PWER9W with reason reset
+I, [2016-01-02T20:17:43.708884 #2784]  INFO -- : received: {"to":"quynhlam171295@gmail.com","token":"19951995","reason":"resetpassword"} on /topic/hpumail
+I, [2016-01-02T20:17:43.708884 #2784]  INFO -- : sending email to quynhlam171295@gmail.com with token 19951995 with reason resetpassword
+I, [2016-01-02T21:09:44.338365 #2784]  INFO -- : received: {"to":"duongmummim888@gmail.com","token":"XEREGWHD","reason":"reset"} on /topic/hpumail
+I, [2016-01-02T21:09:44.338365 #2784]  INFO -- : sending email to duongmummim888@gmail.com with token XEREGWHD with reason reset

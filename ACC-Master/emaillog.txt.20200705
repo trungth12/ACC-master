@@ -1,0 +1,3 @@
+# Logfile created on 2020-07-05 12:36:02 +0700 by logger.rb/31641
+I, [2020-07-05T12:36:02.278615 #1828]  INFO -- : received: {"to":"novadu93@gmail.com","token":"NWQWKFPE","reason":"reset"} on /topic/hpumail
+I, [2020-07-05T12:36:02.278615 #1828]  INFO -- : sending email to novadu93@gmail.com with token NWQWKFPE with reason reset

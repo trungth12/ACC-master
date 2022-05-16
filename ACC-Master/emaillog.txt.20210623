@@ -1,0 +1,3 @@
+# Logfile created on 2021-06-15 10:00:36 +0700 by logger.rb/31641
+I, [2021-06-15T10:00:36.216826 #1852]  INFO -- : received: {"to":"huongvtt@hpu.edu.vn","token":"XPCFGXP4","reason":"reset"} on /topic/hpumail
+I, [2021-06-15T10:00:36.232426 #1852]  INFO -- : sending email to huongvtt@hpu.edu.vn with token XPCFGXP4 with reason reset

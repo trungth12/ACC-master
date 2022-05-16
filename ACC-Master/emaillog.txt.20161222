@@ -1,0 +1,13 @@
+# Logfile created on 2016-12-22 11:32:51 +0700 by logger.rb/31641
+I, [2016-12-22T11:32:51.000724 #2668]  INFO -- : received: {"to":"hoangkhipro@gmail.com","token":"79PVR9QF","reason":"reset"} on /topic/hpumail
+I, [2016-12-22T11:32:51.063124 #2668]  INFO -- : sending email to hoangkhipro@gmail.com with token 79PVR9QF with reason reset
+I, [2016-12-22T17:40:13.523328 #2668]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"3YDHXT2X","reason":"reset"} on /topic/hpumail
+I, [2016-12-22T17:40:13.523328 #2668]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token 3YDHXT2X with reason reset
+I, [2016-12-22T17:45:15.905759 #2668]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"0989975634","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-22T17:45:15.905759 #2668]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token 0989975634 with reason resetpassword
+I, [2016-12-22T18:30:30.365750 #2668]  INFO -- : received: {"to":"lananhcb12@gmail.com","token":"43XA4MG3","reason":"reset"} on /topic/hpumail
+I, [2016-12-22T18:30:30.365750 #2668]  INFO -- : sending email to lananhcb12@gmail.com with token 43XA4MG3 with reason reset
+I, [2016-12-22T22:36:37.472185 #2668]  INFO -- : received: {"to":"tranvjnhtjen@gmail.com","token":"tranvinhtien","reason":"resetpassword"} on /topic/hpumail
+I, [2016-12-22T22:36:37.472185 #2668]  INFO -- : sending email to tranvjnhtjen@gmail.com with token tranvinhtien with reason resetpassword
+I, [2016-12-22T23:24:38.489371 #2668]  INFO -- : received: {"to":"hoangkhipro@gmail.com","token":"J3E7DCDA","reason":"reset"} on /topic/hpumail
+I, [2016-12-22T23:24:38.489371 #2668]  INFO -- : sending email to hoangkhipro@gmail.com with token J3E7DCDA with reason reset

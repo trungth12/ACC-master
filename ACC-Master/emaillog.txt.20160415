@@ -1,0 +1,7 @@
+# Logfile created on 2016-04-15 09:09:37 +0700 by logger.rb/31641
+I, [2016-04-15T09:09:37.513086 #2072]  INFO -- : received: {"to":"phannga18393@gmail.com","token":"14134010241","reason":"resetpassword"} on /topic/hpumail
+I, [2016-04-15T09:09:37.544286 #2072]  INFO -- : sending email to phannga18393@gmail.com with token 14134010241 with reason resetpassword
+I, [2016-04-15T09:11:25.636875 #2072]  INFO -- : received: {"to":"phannga18393@gmail.com","token":"1413401024","reason":"resetpassword"} on /topic/hpumail
+I, [2016-04-15T09:11:25.636875 #2072]  INFO -- : sending email to phannga18393@gmail.com with token 1413401024 with reason resetpassword
+I, [2016-04-15T09:37:02.911376 #2072]  INFO -- : received: {"to":"phannga18393@gmail.com","token":"14134010241","reason":"resetpassword"} on /topic/hpumail
+I, [2016-04-15T09:37:02.911376 #2072]  INFO -- : sending email to phannga18393@gmail.com with token 14134010241 with reason resetpassword

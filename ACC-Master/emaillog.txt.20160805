@@ -1,0 +1,23 @@
+# Logfile created on 2016-08-05 08:08:44 +0700 by logger.rb/31641
+I, [2016-08-05T08:08:44.049378 #5072]  INFO -- : received: {"to":"anhp1994@gmail.com","token":"3TVAHE3Z","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T08:08:44.057378 #5072]  INFO -- : sending email to anhp1994@gmail.com with token 3TVAHE3Z with reason reset
+I, [2016-08-05T12:32:12.008541 #5072]  INFO -- : received: {"to":"tuyetnguyen09021995@gmail.com","token":"WWJKMCZC","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T12:32:12.009541 #5072]  INFO -- : sending email to tuyetnguyen09021995@gmail.com with token WWJKMCZC with reason reset
+I, [2016-08-05T12:34:04.380969 #5072]  INFO -- : received: {"to":"tuyetnguyen09021995@gmail.com","token":"MW7QRV6H","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T12:34:04.381969 #5072]  INFO -- : sending email to tuyetnguyen09021995@gmail.com with token MW7QRV6H with reason reset
+I, [2016-08-05T12:37:04.022244 #5072]  INFO -- : received: {"to":"tuyetnguyen09021995@gmail.com","token":"4GQXEFEE","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T12:37:04.023244 #5072]  INFO -- : sending email to tuyetnguyen09021995@gmail.com with token 4GQXEFEE with reason reset
+I, [2016-08-05T12:39:59.973307 #5072]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"WCHFPCC3","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T12:39:59.973307 #5072]  INFO -- : sending email to tamht.na1804@gmail.com with token WCHFPCC3 with reason reset
+I, [2016-08-05T12:41:32.642608 #5072]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"HKJGXNR3","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T12:41:32.643608 #5072]  INFO -- : sending email to tamht.na1804@gmail.com with token HKJGXNR3 with reason reset
+I, [2016-08-05T12:42:23.563520 #5072]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"AQ4WX7Z6","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T12:42:23.564520 #5072]  INFO -- : sending email to tamht.na1804@gmail.com with token AQ4WX7Z6 with reason reset
+I, [2016-08-05T13:46:26.159304 #5072]  INFO -- : received: {"to":"thienct1802.hpu@gmail.com","token":"JFGVHGM3","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T13:46:26.160304 #5072]  INFO -- : sending email to thienct1802.hpu@gmail.com with token JFGVHGM3 with reason reset
+I, [2016-08-05T13:50:50.127402 #5072]  INFO -- : received: {"to":"thienct1802.hpu@gmail.com","token":"HtcOneM10","reason":"resetpassword"} on /topic/hpumail
+I, [2016-08-05T13:50:50.128402 #5072]  INFO -- : sending email to thienct1802.hpu@gmail.com with token HtcOneM10 with reason resetpassword
+I, [2016-08-05T14:22:32.054186 #5072]  INFO -- : received: {"to":"vamper1993@gmail.com","token":"74AMDN9C","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T14:22:32.055186 #5072]  INFO -- : sending email to vamper1993@gmail.com with token 74AMDN9C with reason reset
+I, [2016-08-05T16:46:49.502364 #5072]  INFO -- : received: {"to":"bistro007007@gmail.com","token":"JYZJCPMH","reason":"reset"} on /topic/hpumail
+I, [2016-08-05T16:46:49.503364 #5072]  INFO -- : sending email to bistro007007@gmail.com with token JYZJCPMH with reason reset

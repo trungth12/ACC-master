@@ -1,0 +1,9 @@
+# Logfile created on 2019-08-08 07:31:07 +0700 by logger.rb/31641
+I, [2019-08-08T07:31:07.338644 #2020]  INFO -- : received: {"to":"hungpm@hpu.edu.vn","token":"7RVJF2MC","reason":"reset"} on /topic/hpumail
+I, [2019-08-08T07:31:07.401044 #2020]  INFO -- : sending email to hungpm@hpu.edu.vn with token 7RVJF2MC with reason reset
+I, [2019-08-08T09:38:45.142494 #2020]  INFO -- : received: {"to":"chiendinhhuy@gmail.com","token":"XNZPFJAK","reason":"reset"} on /topic/hpumail
+I, [2019-08-08T09:38:45.142494 #2020]  INFO -- : sending email to chiendinhhuy@gmail.com with token XNZPFJAK with reason reset
+I, [2019-08-08T09:41:20.596767 #2020]  INFO -- : received: {"to":"chiendinhhuy@gmail.com","token":"Chien3108","reason":"resetpassword"} on /topic/hpumail
+I, [2019-08-08T09:41:20.596767 #2020]  INFO -- : sending email to chiendinhhuy@gmail.com with token Chien3108 with reason resetpassword
+I, [2019-08-08T16:12:00.371137 #2020]  INFO -- : received: {"to":"thangkho96hp@gmail.com","token":"EAY3QCM6","reason":"reset"} on /topic/hpumail
+I, [2019-08-08T16:12:00.371137 #2020]  INFO -- : sending email to thangkho96hp@gmail.com with token EAY3QCM6 with reason reset

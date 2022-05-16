@@ -1,0 +1,17 @@
+# Logfile created on 2016-05-31 09:06:24 +0700 by logger.rb/31641
+I, [2016-05-31T09:06:24.886488 #2580]  INFO -- : received: {"to":"duynaruto619@gmail.com","token":"7090c26e8d8cb188a0f59a18f86d4d62","reason":"register"} on /topic/hpumail
+I, [2016-05-31T09:06:24.895489 #2580]  INFO -- : sending email to duynaruto619@gmail.com with token 7090c26e8d8cb188a0f59a18f86d4d62 with reason register
+I, [2016-05-31T09:28:27.102115 #2580]  INFO -- : received: {"to":"gioan.chien@gmail.com","token":"NJKZG6M6","reason":"reset"} on /topic/hpumail
+I, [2016-05-31T09:28:27.103115 #2580]  INFO -- : sending email to gioan.chien@gmail.com with token NJKZG6M6 with reason reset
+I, [2016-05-31T09:31:43.979375 #2580]  INFO -- : received: {"to":"gioan.chien@gmail.com","token":"1012301001chien","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-31T09:31:43.980376 #2580]  INFO -- : sending email to gioan.chien@gmail.com with token 1012301001chien with reason resetpassword
+I, [2016-05-31T11:45:38.035897 #2580]  INFO -- : received: {"to":"doquangninh9altv@gmail.com","token":"2YRWVNXG","reason":"reset"} on /topic/hpumail
+I, [2016-05-31T11:45:38.036897 #2580]  INFO -- : sending email to doquangninh9altv@gmail.com with token 2YRWVNXG with reason reset
+I, [2016-05-31T11:48:03.679228 #2580]  INFO -- : received: {"to":"doquangninh9altv@gmail.com","token":"ninhvh09","reason":"resetpassword"} on /topic/hpumail
+I, [2016-05-31T11:48:03.680228 #2580]  INFO -- : sending email to doquangninh9altv@gmail.com with token ninhvh09 with reason resetpassword
+I, [2016-05-31T12:55:13.752735 #2580]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"RGNNFFQJ","reason":"reset"} on /topic/hpumail
+I, [2016-05-31T12:55:13.753735 #2580]  INFO -- : sending email to tamht.na1804@gmail.com with token RGNNFFQJ with reason reset
+I, [2016-05-31T15:56:58.465448 #2580]  INFO -- : received: {"to":"honghanhvu949x@gmail.com","token":"WAD36DRR","reason":"reset"} on /topic/hpumail
+I, [2016-05-31T15:56:58.466448 #2580]  INFO -- : sending email to honghanhvu949x@gmail.com with token WAD36DRR with reason reset
+I, [2016-05-31T16:00:44.615383 #2580]  INFO -- : received: {"to":"honghanhvu949x@gmail.com","token":"VANERNWF","reason":"reset"} on /topic/hpumail
+I, [2016-05-31T16:00:44.615383 #2580]  INFO -- : sending email to honghanhvu949x@gmail.com with token VANERNWF with reason reset

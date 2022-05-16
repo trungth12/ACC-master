@@ -1,0 +1,43 @@
+# Logfile created on 2018-10-15 08:56:40 +0700 by logger.rb/31641
+I, [2018-10-15T08:56:40.168036 #1816]  INFO -- : received: {"to":"cuongnlocehptn97@gmail.com","token":"3e2755ac84b5643f80953b8452bbd876","reason":"register"} on /topic/hpumail
+I, [2018-10-15T08:56:40.292836 #1816]  INFO -- : sending email to cuongnlocehptn97@gmail.com with token 3e2755ac84b5643f80953b8452bbd876 with reason register
+I, [2018-10-15T08:59:43.717959 #1816]  INFO -- : received: {"to":"kimdong1911nguyen@gmail.com","token":"GVCD3JHP","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T08:59:43.717959 #1816]  INFO -- : sending email to kimdong1911nguyen@gmail.com with token GVCD3JHP with reason reset
+I, [2018-10-15T08:59:57.570783 #1816]  INFO -- : received: {"to":"duyenvit1995@gmail.com","token":"64XKHVCM","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T08:59:57.570783 #1816]  INFO -- : sending email to duyenvit1995@gmail.com with token 64XKHVCM with reason reset
+I, [2018-10-15T09:00:40.580059 #1816]  INFO -- : received: {"to":"kimdong1911nguyen@gmail.com","token":"1412105008","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-15T09:00:40.580059 #1816]  INFO -- : sending email to kimdong1911nguyen@gmail.com with token 1412105008 with reason resetpassword
+I, [2018-10-15T09:04:16.812038 #1816]  INFO -- : received: {"to":"duyenvit1995@gmail.com","token":"HK76Q923","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T09:04:16.812038 #1816]  INFO -- : sending email to duyenvit1995@gmail.com with token HK76Q923 with reason reset
+I, [2018-10-15T09:05:00.070914 #1816]  INFO -- : received: {"to":"ngoc14091996@gmail.com","token":"3WNF69DZ","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T09:05:00.070914 #1816]  INFO -- : sending email to ngoc14091996@gmail.com with token 3WNF69DZ with reason reset
+I, [2018-10-15T09:05:51.426205 #1816]  INFO -- : received: {"to":"duyenvit1995@gmail.com","token":"3G96DKDT","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T09:05:51.426205 #1816]  INFO -- : sending email to duyenvit1995@gmail.com with token 3G96DKDT with reason reset
+I, [2018-10-15T09:11:14.253172 #1816]  INFO -- : received: {"to":"ngoc14091996@gmail.com","token":"EKENFM3N","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T09:11:14.253172 #1816]  INFO -- : sending email to ngoc14091996@gmail.com with token EKENFM3N with reason reset
+I, [2018-10-15T09:12:57.104152 #1816]  INFO -- : received: {"to":"ngoc14091996@gmail.com","token":"1412101121","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-15T09:12:57.104152 #1816]  INFO -- : sending email to ngoc14091996@gmail.com with token 1412101121 with reason resetpassword
+I, [2018-10-15T09:20:24.871739 #1816]  INFO -- : received: {"to":"kien.1996hpvn@gmail.com","token":"63X42ZQ6","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T09:20:24.871739 #1816]  INFO -- : sending email to kien.1996hpvn@gmail.com with token 63X42ZQ6 with reason reset
+I, [2018-10-15T09:26:47.181610 #1816]  INFO -- : received: {"to":"kien.1996hpvn@gmail.com","token":"NQGTXHK9","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T09:26:47.181610 #1816]  INFO -- : sending email to kien.1996hpvn@gmail.com with token NQGTXHK9 with reason reset
+I, [2018-10-15T09:29:37.190709 #1816]  INFO -- : received: {"to":"kien.1996hpvn@gmail.com","token":"19960530","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-15T09:29:37.190709 #1816]  INFO -- : sending email to kien.1996hpvn@gmail.com with token 19960530 with reason resetpassword
+I, [2018-10-15T15:18:16.421851 #1816]  INFO -- : received: {"to":"hcthuynguyen1@gmail.com","token":"4HHRGVKP","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T15:18:16.421851 #1816]  INFO -- : sending email to hcthuynguyen1@gmail.com with token 4HHRGVKP with reason reset
+I, [2018-10-15T15:19:18.182360 #1816]  INFO -- : received: {"to":"hcthuynguyen1@gmail.com","token":"66ARENG2","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T15:19:18.182360 #1816]  INFO -- : sending email to hcthuynguyen1@gmail.com with token 66ARENG2 with reason reset
+I, [2018-10-15T15:22:47.363127 #1816]  INFO -- : received: {"to":"ngochuyenvb96@gmail.com","token":"W72QGZXP","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T15:22:47.363127 #1816]  INFO -- : sending email to ngochuyenvb96@gmail.com with token W72QGZXP with reason reset
+I, [2018-10-15T15:23:52.196841 #1816]  INFO -- : received: {"to":"ngocthanhvu0601@gmail.com","token":"H6F94A24","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T15:23:52.196841 #1816]  INFO -- : sending email to ngocthanhvu0601@gmail.com with token H6F94A24 with reason reset
+I, [2018-10-15T15:25:06.359371 #1816]  INFO -- : received: {"to":"ngocthanhvu0601@gmail.com","token":"CCRGZ9QE","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T15:25:06.359371 #1816]  INFO -- : sending email to ngocthanhvu0601@gmail.com with token CCRGZ9QE with reason reset
+I, [2018-10-15T15:26:22.003904 #1816]  INFO -- : received: {"to":"ngocthanhvu0601@gmail.com","token":"CGVVZXQF","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T15:26:22.003904 #1816]  INFO -- : sending email to ngocthanhvu0601@gmail.com with token CGVVZXQF with reason reset
+I, [2018-10-15T15:28:05.603686 #1816]  INFO -- : received: {"to":"ngocthanhvu0601@gmail.com","token":"7676DTTG","reason":"reset"} on /topic/hpumail
+I, [2018-10-15T15:28:05.603686 #1816]  INFO -- : sending email to ngocthanhvu0601@gmail.com with token 7676DTTG with reason reset
+I, [2018-10-15T15:29:23.120222 #1816]  INFO -- : received: {"to":"ngocthanhvu0601@gmail.com","token":"ngocthanh890","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-15T15:29:23.120222 #1816]  INFO -- : sending email to ngocthanhvu0601@gmail.com with token ngocthanh890 with reason resetpassword
+I, [2018-10-15T15:30:53.584781 #1816]  INFO -- : received: {"to":"ngochuyenvb96@gmail.com","token":"huyencute","reason":"resetpassword"} on /topic/hpumail
+I, [2018-10-15T15:30:53.584781 #1816]  INFO -- : sending email to ngochuyenvb96@gmail.com with token huyencute with reason resetpassword

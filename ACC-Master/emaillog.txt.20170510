@@ -1,0 +1,7 @@
+# Logfile created on 2017-05-10 08:06:18 +0700 by logger.rb/31641
+I, [2017-05-10T08:06:18.542796 #2708]  INFO -- : received: {"to":"leevodanhnumberone@gmail.com","token":"VEF6P9TA","reason":"reset"} on /topic/hpumail
+I, [2017-05-10T08:06:18.587798 #2708]  INFO -- : sending email to leevodanhnumberone@gmail.com with token VEF6P9TA with reason reset
+I, [2017-05-10T15:47:52.871260 #2760]  INFO -- : received: {"to":"dhquan1303@gmail.com","token":"3G6M4RM7","reason":"reset"} on /topic/hpumail
+I, [2017-05-10T15:47:52.871260 #2760]  INFO -- : sending email to dhquan1303@gmail.com with token 3G6M4RM7 with reason reset
+I, [2017-05-10T19:41:51.917797 #2720]  INFO -- : received: {"to":"duongminhthuy080996@gmail.com","token":"JT63W4A7","reason":"reset"} on /topic/hpumail
+I, [2017-05-10T19:41:51.918797 #2720]  INFO -- : sending email to duongminhthuy080996@gmail.com with token JT63W4A7 with reason reset

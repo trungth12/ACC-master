@@ -1,0 +1,3 @@
+# Logfile created on 2016-04-13 10:03:00 +0700 by logger.rb/31641
+I, [2016-04-13T10:03:00.883654 #3056]  INFO -- : received: {"to":"halinhvietdung@gmail.com","token":"dd0dc886102c800d95c9422d64ffb384","reason":"register"} on /topic/hpumail
+I, [2016-04-13T10:03:00.946055 #3056]  INFO -- : sending email to halinhvietdung@gmail.com with token dd0dc886102c800d95c9422d64ffb384 with reason register

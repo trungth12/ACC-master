@@ -1,0 +1,9 @@
+# Logfile created on 2016-11-30 10:50:57 +0700 by logger.rb/31641
+I, [2016-11-30T10:50:57.704333 #2692]  INFO -- : received: {"to":"crylp.2512.98@gmail.com","token":"2512cr","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-30T10:50:57.704333 #2692]  INFO -- : sending email to crylp.2512.98@gmail.com with token 2512cr with reason resetpassword
+I, [2016-11-30T13:10:39.677055 #2692]  INFO -- : received: {"to":"huutien14101998@gmail.com","token":"27db3ef8d8c7412ad04bbdefd7ef5362","reason":"register"} on /topic/hpumail
+I, [2016-11-30T13:10:39.677055 #2692]  INFO -- : sending email to huutien14101998@gmail.com with token 27db3ef8d8c7412ad04bbdefd7ef5362 with reason register
+I, [2016-11-30T16:33:26.076024 #2692]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"ZZ94MF34","reason":"reset"} on /topic/hpumail
+I, [2016-11-30T16:33:26.076024 #2692]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token ZZ94MF34 with reason reset
+I, [2016-11-30T16:37:27.829648 #2692]  INFO -- : received: {"to":"nguyenvietmanhhp95@gmail.com","token":"manhho10","reason":"resetpassword"} on /topic/hpumail
+I, [2016-11-30T16:37:27.829648 #2692]  INFO -- : sending email to nguyenvietmanhhp95@gmail.com with token manhho10 with reason resetpassword

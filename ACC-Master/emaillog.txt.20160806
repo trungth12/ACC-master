@@ -1,0 +1,7 @@
+# Logfile created on 2016-08-06 11:05:32 +0700 by logger.rb/31641
+I, [2016-08-06T11:05:32.399938 #5072]  INFO -- : received: {"to":"tuyetnguyen09021995@gmail.com","token":"TXPPC9TZ","reason":"reset"} on /topic/hpumail
+I, [2016-08-06T11:05:32.408939 #5072]  INFO -- : sending email to tuyetnguyen09021995@gmail.com with token TXPPC9TZ with reason reset
+I, [2016-08-06T11:20:03.803780 #5072]  INFO -- : received: {"to":"tuyetnguyen09021995@gmail.com","token":"TCHJMK7D","reason":"reset"} on /topic/hpumail
+I, [2016-08-06T11:20:03.804780 #5072]  INFO -- : sending email to tuyetnguyen09021995@gmail.com with token TCHJMK7D with reason reset
+I, [2016-08-06T14:56:57.268107 #5072]  INFO -- : received: {"to":"tamht.na1804@gmail.com","token":"YVYY4MYD","reason":"reset"} on /topic/hpumail
+I, [2016-08-06T14:56:57.269107 #5072]  INFO -- : sending email to tamht.na1804@gmail.com with token YVYY4MYD with reason reset

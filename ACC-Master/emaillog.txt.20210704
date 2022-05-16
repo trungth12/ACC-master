@@ -1,0 +1,5 @@
+# Logfile created on 2021-06-24 23:25:48 +0700 by logger.rb/31641
+I, [2021-06-24T23:25:48.375285 #1480]  INFO -- : received: {"to":"rtyhjk200@gmail.com","token":"D2XHYCCP","reason":"reset"} on /topic/hpumail
+I, [2021-06-24T23:25:48.406485 #1480]  INFO -- : sending email to rtyhjk200@gmail.com with token D2XHYCCP with reason reset
+I, [2021-06-24T23:27:41.288284 #1480]  INFO -- : received: {"to":"rtyhjk200@gmail.com","token":"Thanh197","reason":"resetpassword"} on /topic/hpumail
+I, [2021-06-24T23:27:41.288284 #1480]  INFO -- : sending email to rtyhjk200@gmail.com with token Thanh197 with reason resetpassword

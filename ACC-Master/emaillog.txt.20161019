@@ -1,0 +1,11 @@
+# Logfile created on 2016-10-10 12:48:04 +0700 by logger.rb/31641
+I, [2016-10-10T12:48:04.124445 #2544]  INFO -- : received: {"to":"minnitruong@gmail.com","token":"RQC4T7T2","reason":"reset"} on /topic/hpumail
+I, [2016-10-10T12:48:04.218045 #2544]  INFO -- : sending email to minnitruong@gmail.com with token RQC4T7T2 with reason reset
+I, [2016-10-10T16:06:29.488155 #2544]  INFO -- : received: {"to":"thanhbinhvipprohp@gmail.com","token":"ZRD4674T","reason":"reset"} on /topic/hpumail
+I, [2016-10-10T16:06:29.488155 #2544]  INFO -- : sending email to thanhbinhvipprohp@gmail.com with token ZRD4674T with reason reset
+I, [2016-10-10T17:08:39.236306 #2544]  INFO -- : received: {"to":"hoa.qt1805k@gmail.com","token":"4J39349C","reason":"reset"} on /topic/hpumail
+I, [2016-10-10T17:08:39.236306 #2544]  INFO -- : sending email to hoa.qt1805k@gmail.com with token 4J39349C with reason reset
+I, [2016-10-10T17:13:21.144401 #2544]  INFO -- : received: {"to":"hoa.qt1805k@gmail.com","token":"C7W7RPP4","reason":"reset"} on /topic/hpumail
+I, [2016-10-10T17:13:21.144401 #2544]  INFO -- : sending email to hoa.qt1805k@gmail.com with token C7W7RPP4 with reason reset
+I, [2016-10-10T17:15:05.009384 #2544]  INFO -- : received: {"to":"hoa.qt1805k@gmail.com","token":"UNDERSTAND","reason":"resetpassword"} on /topic/hpumail
+I, [2016-10-10T17:15:05.009384 #2544]  INFO -- : sending email to hoa.qt1805k@gmail.com with token UNDERSTAND with reason resetpassword

@@ -1,0 +1,5 @@
+# Logfile created on 2018-01-16 10:34:36 +0700 by logger.rb/31641
+I, [2018-01-16T10:34:36.463754 #1832]  INFO -- : received: {"to":"nhaipham95@gmail.com","token":"W74EXFQZ","reason":"reset"} on /topic/hpumail
+I, [2018-01-16T10:34:36.479354 #1832]  INFO -- : sending email to nhaipham95@gmail.com with token W74EXFQZ with reason reset
+I, [2018-01-16T10:37:18.080038 #1832]  INFO -- : received: {"to":"nhaipham95@gmail.com","token":"01632167206","reason":"resetpassword"} on /topic/hpumail
+I, [2018-01-16T10:37:18.080038 #1832]  INFO -- : sending email to nhaipham95@gmail.com with token 01632167206 with reason resetpassword

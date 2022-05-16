@@ -1,0 +1,7 @@
+# Logfile created on 2018-05-30 15:01:34 +0700 by logger.rb/31641
+I, [2018-05-30T15:01:34.727608 #2128]  INFO -- : received: {"to":"qtkd@hpu.edu.vn","token":"CMR6MRRW","reason":"reset"} on /topic/hpumail
+I, [2018-05-30T15:01:34.727608 #2128]  INFO -- : sending email to qtkd@hpu.edu.vn with token CMR6MRRW with reason reset
+I, [2018-05-30T22:44:24.117982 #2128]  INFO -- : received: {"to":"ynsr1xx9@gmail.com","token":"J6PM3TN2","reason":"reset"} on /topic/hpumail
+I, [2018-05-30T22:44:24.117982 #2128]  INFO -- : sending email to ynsr1xx9@gmail.com with token J6PM3TN2 with reason reset
+I, [2018-05-30T22:46:34.799412 #2128]  INFO -- : received: {"to":"ynsr1xx9@gmail.com","token":"KEEYCJRA","reason":"reset"} on /topic/hpumail
+I, [2018-05-30T22:46:34.799412 #2128]  INFO -- : sending email to ynsr1xx9@gmail.com with token KEEYCJRA with reason reset

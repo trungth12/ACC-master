@@ -1,0 +1,3 @@
+# Logfile created on 2021-04-07 06:58:22 +0700 by logger.rb/31641
+I, [2021-04-07T06:58:22.726831 #1844]  INFO -- : received: {"to":"elainehoang251@gmail.com","token":"4T9M6Y9H","reason":"reset"} on /topic/hpumail
+I, [2021-04-07T06:58:22.742431 #1844]  INFO -- : sending email to elainehoang251@gmail.com with token 4T9M6Y9H with reason reset

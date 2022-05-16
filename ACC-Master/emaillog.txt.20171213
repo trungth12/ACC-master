@@ -1,0 +1,7 @@
+# Logfile created on 2017-12-13 12:51:45 +0700 by logger.rb/31641
+I, [2017-12-13T12:51:45.140240 #1876]  INFO -- : received: {"to":"721996hang@gmail.com","token":"4EEV9XJN","reason":"reset"} on /topic/hpumail
+I, [2017-12-13T12:51:45.155840 #1876]  INFO -- : sending email to 721996hang@gmail.com with token 4EEV9XJN with reason reset
+I, [2017-12-13T15:59:42.649648 #1876]  INFO -- : received: {"to":"phamthuyhpu95@gmail.com","token":"TDRRVTKD","reason":"reset"} on /topic/hpumail
+I, [2017-12-13T15:59:42.665248 #1876]  INFO -- : sending email to phamthuyhpu95@gmail.com with token TDRRVTKD with reason reset
+I, [2017-12-13T16:02:13.314712 #1876]  INFO -- : received: {"to":"phamthuyhpu95@gmail.com","token":"traitimbang","reason":"resetpassword"} on /topic/hpumail
+I, [2017-12-13T16:02:13.314712 #1876]  INFO -- : sending email to phamthuyhpu95@gmail.com with token traitimbang with reason resetpassword

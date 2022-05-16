@@ -1,0 +1,5 @@
+# Logfile created on 2020-04-23 07:20:27 +0700 by logger.rb/31641
+I, [2020-04-23T07:20:27.496376 #1832]  INFO -- : received: {"to":"thaontp@hpu.edu.vn","token":"RRZJWTMD","reason":"reset"} on /topic/hpumail
+I, [2020-04-23T07:20:27.511976 #1832]  INFO -- : sending email to thaontp@hpu.edu.vn with token RRZJWTMD with reason reset
+I, [2020-04-23T08:52:46.644905 #1832]  INFO -- : received: {"to":"thuct@hpu.edu.vn","token":"RW7RGXGV","reason":"reset"} on /topic/hpumail
+I, [2020-04-23T08:52:46.644905 #1832]  INFO -- : sending email to thuct@hpu.edu.vn with token RW7RGXGV with reason reset

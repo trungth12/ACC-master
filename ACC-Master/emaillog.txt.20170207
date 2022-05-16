@@ -1,0 +1,3 @@
+# Logfile created on 2017-02-06 22:06:34 +0700 by logger.rb/31641
+I, [2017-02-06T22:06:34.952591 #2676]  INFO -- : received: {"to":"hakitayuuki@gmail.com","token":"Iloveyou123","reason":"resetpassword"} on /topic/hpumail
+I, [2017-02-06T22:06:34.999391 #2676]  INFO -- : sending email to hakitayuuki@gmail.com with token Iloveyou123 with reason resetpassword

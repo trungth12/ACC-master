@@ -1,0 +1,5 @@
+# Logfile created on 2016-06-02 09:08:57 +0700 by logger.rb/31641
+I, [2016-06-02T09:08:57.539814 #4956]  INFO -- : received: {"to":"quanhien66@gmail.com","token":"6EDXXZ2C","reason":"reset"} on /topic/hpumail
+I, [2016-06-02T09:08:57.542814 #4956]  INFO -- : sending email to quanhien66@gmail.com with token 6EDXXZ2C with reason reset
+I, [2016-06-02T09:57:03.582886 #4956]  INFO -- : received: {"to":"truongoanhhp93@gmail.com","token":"ZMY74VDM","reason":"reset"} on /topic/hpumail
+I, [2016-06-02T09:57:03.583887 #4956]  INFO -- : sending email to truongoanhhp93@gmail.com with token ZMY74VDM with reason reset

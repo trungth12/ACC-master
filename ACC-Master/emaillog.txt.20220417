@@ -1,0 +1,5 @@
+# Logfile created on 2022-04-12 08:49:32 +0700 by logger.rb/31641
+I, [2022-04-12T08:49:32.507547 #4768]  INFO -- : received: {"to":"vanducct22@gmail.com","token":"37dd889b402bc99a3c4933703f4018b5","reason":"register"} on /topic/hpumail
+I, [2022-04-12T08:49:32.601147 #4768]  INFO -- : sending email to vanducct22@gmail.com with token 37dd889b402bc99a3c4933703f4018b5 with reason register
+I, [2022-04-12T14:48:53.648617 #4768]  INFO -- : received: {"to":"nguyenctnb@gmail.com","token":"0129bf9f3075dfaedfb2e8adde7d97ec","reason":"register"} on /topic/hpumail
+I, [2022-04-12T14:48:53.648617 #4768]  INFO -- : sending email to nguyenctnb@gmail.com with token 0129bf9f3075dfaedfb2e8adde7d97ec with reason register
